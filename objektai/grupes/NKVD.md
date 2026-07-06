@@ -331,6 +331,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16639
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
     1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
@@ -348,6 +350,8 @@ Nenurodyta
     - t-71681
 
 - id: c-42881
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
     1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
@@ -360,6 +364,8 @@ Nenurodyta
     - t-193736
 
 - id: c-70212
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos žydų sunaikinimas – Holokaustas
     Vokietijai greitai užėmus Lietuvą labai mažai gyventojų pa-
@@ -380,6 +386,8 @@ Nenurodyta
     - t-71677
 
 - id: c-70213
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     So-
     vietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai,

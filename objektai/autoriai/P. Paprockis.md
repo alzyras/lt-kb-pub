@@ -79,6 +79,8 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
 ## Citatos
 
 - id: c-169651
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po šimto metų Vil­
     niaus akademijos profesorius P. Paprockis parašė trum­

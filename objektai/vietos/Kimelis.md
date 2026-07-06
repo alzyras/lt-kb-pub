@@ -138,6 +138,8 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
 ## Citatos
 
 - id: c-59206
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der
     Mimel). S. Zajončkovskis, radęs panašų vardą prie Liolių (Kelmės rj.), darė prielaidą,
@@ -159,6 +161,8 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
     - t-58575
 
 - id: c-167548
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
     dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,

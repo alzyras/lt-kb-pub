@@ -97,6 +97,8 @@ Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.
 ## Citatos
 
 - id: c-83735
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žr. Miesto archyve: Žygimanto Seno­
     jo privilegija, datuota Rūdninkuose,

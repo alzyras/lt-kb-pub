@@ -102,6 +102,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-93044
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
         **tykiai su kaimynais**

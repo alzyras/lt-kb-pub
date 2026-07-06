@@ -208,6 +208,9 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 ## Citatos
 
 - id: c-36551
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     (^1) ) L. E. K. U., VII, 222 nr.
     (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
@@ -223,6 +226,9 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - t-64265
 
 - id: c-36552
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žinoma, nereikia tikėti, kad toks didelis lenkų pasiprieši­
     nimas Liubičo klausime ir dėl atidavimo Ordinui Palangos rodė
@@ -246,6 +252,8 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - t-64267
 
 - id: c-65066
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
@@ -263,6 +271,8 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - t-64266
 
 - id: c-65067
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gavęs paramos iš
     totorių chano Šadibeko, jis nužygiavo iki Plavos upės (Okos deši­

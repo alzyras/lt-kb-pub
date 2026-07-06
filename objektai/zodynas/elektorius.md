@@ -125,6 +125,8 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 ## Citatos
 
 - id: c-03226
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Galin-
     gieji Pacai savo pusėje tu-
@@ -150,6 +152,8 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
     - t-02988
 
 - id: c-166344
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pacai su Radvila
     negalėjo remti vieno kandi-

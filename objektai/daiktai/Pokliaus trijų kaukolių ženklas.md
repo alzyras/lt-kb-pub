@@ -82,6 +82,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170990
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taigi
     matyti, kad barbariškai prieštaringas šio dievo prigimties su­

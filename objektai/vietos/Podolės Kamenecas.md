@@ -172,6 +172,8 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
 ## Citatos
 
 - id: c-170333
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
     miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
@@ -188,6 +190,8 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - t-187290
 
 - id: c-170334
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pagal B. N. Florią kronika atsiradusi ne tik Slucko ku­
     nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų

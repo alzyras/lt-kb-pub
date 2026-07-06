@@ -81,6 +81,8 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
 ## Citatos
 
 - id: c-174529
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pasirodo, jog T. Bulgarinas (1789—1859) ją iš tikrųjų buvo pa­
     siuntęs garsiam Vilniaus literatui, redaktoriui, leidėjui (žinoma, ir

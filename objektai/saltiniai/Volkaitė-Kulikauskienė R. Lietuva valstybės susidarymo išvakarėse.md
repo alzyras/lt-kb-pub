@@ -74,6 +74,8 @@ Dusburgietis teigia, kad volkaitė-Kulikauskienė R.
 ## Citatos
 
 - id: c-61987
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Volkaitė-Kulikauskienė  R.  Lietuva  valstybės  susidarymo  išvakarėse.—  Lietuvių
     materialinė kultūra IX—XIII amžiuje, V., 1978, 1, p. 4—13.

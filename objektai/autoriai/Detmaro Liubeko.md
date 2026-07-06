@@ -133,6 +133,8 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
 ## Citatos
 
 - id: c-41669
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
     Visų trijų Vytauto žygių, Vorsklos kauty-
@@ -157,6 +159,8 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
     - t-39865
 
 - id: c-167086
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Talkininkų
     kryžiuočių liko tik keletas, tarp jų žuvo

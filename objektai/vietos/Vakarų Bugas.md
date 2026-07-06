@@ -109,6 +109,8 @@ Horodlė šiame gabale lokalizuojama prie Vakarų Bugo. Vakarų Bugas naudojamas
 ## Citatos
 
 - id: c-170386
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1  Peremišlis — dabar pietų Lenkijos miestas (prie Sano upės,
     arti TSRS sienos, apie 100 km j vakarus nuo Lvovo|,

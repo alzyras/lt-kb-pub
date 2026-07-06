@@ -92,6 +92,8 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
 ## Citatos
 
 - id: c-23616
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė

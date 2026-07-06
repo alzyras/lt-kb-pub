@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23039
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse

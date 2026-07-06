@@ -70,6 +70,8 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
 ## Citatos
 
 - id: c-61023
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
     nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei

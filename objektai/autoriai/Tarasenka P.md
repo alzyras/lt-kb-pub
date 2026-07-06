@@ -108,6 +108,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 ## Citatos
 
 - id: c-65445
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Netoli Kreivių k.— Romės Lauko k., o greta jo Obelyno
     miške, pelkėje,— aukštumėlė, kurios rytiniame šone — didelis akmuo Velnių stals (mano
@@ -121,6 +123,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
     - t-64857
 
 - id: c-65446
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pietiniame girios pakraštyje —
     šiuo atveju mums reikšmingas kaimas Ragainiai (Rogainen — Sch-K XII; dab. Rogajny), o

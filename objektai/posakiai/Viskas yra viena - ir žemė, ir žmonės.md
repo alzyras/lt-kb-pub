@@ -84,6 +84,8 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
 ## Citatos
 
 - id: c-82824
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai reiškia:
     „Žemaitijos žemė yra ir visada bu­

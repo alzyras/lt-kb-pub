@@ -745,6 +745,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 ## Citatos
 
 - id: c-170918
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mat, pasak Naruševičiaus , He-
     nilą garbino serbai ir kitos slavų tautos. 10
@@ -758,6 +760,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-187941
 
 - id: c-170919
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žyniai iš jų burdavo. Žemaičiai
     manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
@@ -776,6 +780,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-194644
 
 - id: c-170920
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     P. 173* -  Tai žymaus lenkų poeto ir istoriko Adomo Stanis­
     lovo Naruševičiaus (1733-1796) veikalas (Nanis-
@@ -791,6 +797,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-187940
 
 - id: c-170927
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pradėjus leisti originalius tekstus buvo galima sistemingiau
     tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją,
@@ -808,6 +816,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-187943
 
 - id: c-171286
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lyg atsakydamas gausiems savo darbo kritikams, T. Nar­
     butas laiške Vilniaus gydytojui ir artimam šeimos draugui Ani­
@@ -825,6 +835,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-188395
 
 - id: c-173554
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šitaip susiklosčiusi politinė pa­
     dėtis, kiek suprantu, tapo priežastimi, kuri ir nulėmė
@@ -845,6 +857,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190672
 
 - id: c-173555
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Gotų žygis su Filimeru. 161 krikščioniško­
     sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
@@ -861,6 +875,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190673
 
 - id: c-173556
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kaip slavai atsirado ‘šiose lygumose arba kaip
     ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
@@ -882,6 +898,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190674
 
 - id: c-173557
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Prajus** vėlgi kalba apie tą patį, žiūrė­
     damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
@@ -899,6 +917,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190675
 
 - id: c-173558
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mūsų mokslininkas, lietuvių istorijos tyri­
     nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
@@ -918,6 +938,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190676
 
 - id: c-173559
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat
     daromos teisingos išvados, jog jie nekariavo su hunų
@@ -943,6 +965,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190677
 
 - id: c-173560
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mechovita taip kalba apie
     čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
@@ -961,6 +985,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190678
 
 - id: c-173564
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
     novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
@@ -981,6 +1007,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190682
 
 - id: c-173565
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dionyzas iš Charakso, imperatoriaus Oktaviano
     Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
@@ -999,6 +1027,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-190683
 
 - id: c-174756
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Septynių miestų žemėje*, pa­
     skutiniame amžiuje prieš krikščioniškosios eros pradžią.
@@ -1016,6 +1046,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-191874
 
 - id: c-175305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tarp
     mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-

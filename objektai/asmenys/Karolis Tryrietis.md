@@ -127,6 +127,8 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 ## Citatos
 
 - id: c-83414
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     78
 
@@ -148,6 +150,8 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
     - t-87435
 
 - id: c-167226
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     79
 

@@ -121,6 +121,8 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
 ## Citatos
 
 - id: c-174022
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai patvir­
     tina Nestoro pateiktos žinios, kad skandinavams priklau­
@@ -141,6 +143,8 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
     - t-191140
 
 - id: c-174023
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235

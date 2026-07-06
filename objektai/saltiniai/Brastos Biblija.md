@@ -134,6 +134,8 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
 ## Citatos
 
 - id: c-75421
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
     dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
@@ -154,6 +156,8 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
     - t-23389
 
 - id: c-75422
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reformacija tapo nauju lenkėjimo postūmiu. Radvila Juodasis
     1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-

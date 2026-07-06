@@ -82,6 +82,8 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
 ## Citatos
 
 - id: c-60757
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
                                       vimą

@@ -109,6 +109,8 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
 ## Citatos
 
 - id: c-46399
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Į pie-
     tus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštai-

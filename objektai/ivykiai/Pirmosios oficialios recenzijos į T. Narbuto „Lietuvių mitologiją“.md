@@ -195,6 +195,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174892
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pirmoji buvo anoni­
     miška, o antroji priklausė Juozapo Ignoto Kraševskio
@@ -216,6 +218,8 @@ Nenurodyta
     - t-192012
 
 - id: c-174893
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     55
 
@@ -237,6 +241,8 @@ Nenurodyta
     - t-192010
 
 - id: c-174894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šių „laiškų“ dauguma buvo skirta 1856 metais
     pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“

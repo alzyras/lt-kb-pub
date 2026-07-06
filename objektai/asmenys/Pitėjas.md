@@ -212,6 +212,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 ## Citatos
 
 - id: c-174102
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -226,6 +228,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - t-191220
 
 - id: c-174103
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dažnai
     jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
@@ -250,6 +254,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - t-191221
 
 - id: c-174104
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     325
 
@@ -268,6 +274,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - t-191222
 
 - id: c-174105
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kopija iš Karaliau­
     čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­

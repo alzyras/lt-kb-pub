@@ -69,6 +69,8 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
 ## Citatos
 
 - id: c-169580
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nau­
     jų karių ieškojo visoje Lietuvoje. Čekui Jonui Černi-

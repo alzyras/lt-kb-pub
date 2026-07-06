@@ -121,6 +121,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84295
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     161
 
@@ -145,6 +147,8 @@ media_all_json: |-
     - t-88317
 
 - id: c-84296
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Arch. Direktorius
     Už nuorašo perrašymo teisingumą [atsako]

@@ -70,6 +70,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
 ## Citatos
 
 - id: c-59528
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
 

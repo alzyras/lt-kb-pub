@@ -162,6 +162,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 ## Citatos
 
 - id: c-24447
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kaip neprivaloma disciplina lietuvių
     kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
@@ -181,6 +183,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - t-47172
 
 - id: c-24448
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
@@ -197,6 +201,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - t-47170
 
 - id: c-49692
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ta-
     čiau pirmasis visuotinis Rusijos

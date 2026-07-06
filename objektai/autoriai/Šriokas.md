@@ -60,6 +60,8 @@ Narbutas nurodė, kad aptariami dalykai pateikti tik Šrioko veikale „Kirchen 
 ## Citatos
 
 - id: c-173244
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šie dalykai yra tik Šrioko veikale (Kirchen Geschichte. -
     B. XXX. -  S. 497).

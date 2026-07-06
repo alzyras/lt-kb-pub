@@ -79,6 +79,8 @@ Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitl
 ## Citatos
 
 - id: c-174707
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat apie skirtingas šalis ra­
     šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.

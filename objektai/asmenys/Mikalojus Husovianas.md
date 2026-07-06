@@ -87,6 +87,8 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
 ## Citatos
 
 - id: c-75372
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     ženklas, o būdvardis „palemoniškas“ proginėje literatūroje funkcionavo
     kaip žodžio „lietuviškas“ atitikmuo, Vilniaus universitetas vadintas „Pa-

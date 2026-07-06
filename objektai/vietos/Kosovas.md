@@ -71,6 +71,8 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 ## Citatos
 
 - id: c-18294
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kadangi Lietuva neturi tinkamų priemonių apsaugoti savo oro erdvę,
     nuo įstojimo į Aljansą pradžios tuo užsiima NATO senbuvės. Narystė

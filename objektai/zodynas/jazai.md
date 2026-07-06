@@ -90,6 +90,8 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
 ## Citatos
 
 - id: c-82569
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O kad toks tilto muitas, mūsų aukščiau nu­
     statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms

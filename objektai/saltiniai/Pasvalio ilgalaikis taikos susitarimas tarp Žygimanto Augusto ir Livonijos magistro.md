@@ -129,6 +129,8 @@ Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas 
 ## Citatos
 
 - id: c-169681
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kas be ko, sunkios sąlygos,
     bet žmogui, žinančiam, kad po pralaimėjimo susilauks
@@ -149,6 +151,8 @@ Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas 
     - t-186320
 
 - id: c-169682
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jeigu Mask­
     vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą

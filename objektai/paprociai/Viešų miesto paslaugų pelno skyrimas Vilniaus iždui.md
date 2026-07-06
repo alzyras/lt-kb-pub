@@ -132,6 +132,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83165
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau miesto tary­
     ba, be tų pačių miestiečių leidimo, negalėjo įvesti jokių

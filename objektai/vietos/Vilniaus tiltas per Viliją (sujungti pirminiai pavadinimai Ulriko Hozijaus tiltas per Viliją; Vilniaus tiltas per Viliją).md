@@ -333,6 +333,8 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
 ## Citatos
 
 - id: c-158438
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O po kele­
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
@@ -351,6 +353,8 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-174246
 
 - id: c-158439
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
@@ -397,6 +401,8 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-174247
 
 - id: c-158440
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
     388
@@ -432,6 +438,8 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-174245
 
 - id: c-158441
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dvasios bažnyčios pastatyti vie­
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
@@ -450,6 +458,8 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-174243
 
 - id: c-158442
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dominyko ordino brolių pa­
     mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
@@ -476,6 +486,8 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-174248
 
 - id: c-158444
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
     dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­

@@ -169,6 +169,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66767
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kristburgo komtūras, brolis Henrikas,
     vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
@@ -186,6 +188,8 @@ Nenurodyta
     - t-66562
 
 - id: c-66768
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai šitai išvydo, brolis Hermanas, minėtojo
     komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad
@@ -205,6 +209,8 @@ Nenurodyta
     - t-66560
 
 - id: c-66769
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die
     Eroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau—

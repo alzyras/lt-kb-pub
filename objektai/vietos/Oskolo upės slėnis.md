@@ -76,6 +76,8 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
 ## Citatos
 
 - id: c-175658
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Išplėtus senų ¡senovės budinu
     gyvenamąsias vietoves nuo Dono į vakarus taip, kad jų

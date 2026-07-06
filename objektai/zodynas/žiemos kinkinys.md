@@ -159,6 +159,8 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
 ## Citatos
 
 - id: c-175054
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau prieš toliau aprašinėdami visos tautos kelionę,
     beveik pranokstančią ¡tikėtinumą, ir mes, pripratę prie
@@ -186,6 +188,8 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
     - t-192183
 
 - id: c-175353
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tokioje žemėje didesnės
     upės buvo tarsi lengviau įveikiami keliai, jų vandenys

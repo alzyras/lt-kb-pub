@@ -99,6 +99,8 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
 ## Citatos
 
 - id: c-170378
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 6  Slučė — BTSR upė, prasidedanti šiauriau Slucko ir tekanti
     pro Slucką pietų kryptimi j Pripetę.
@@ -113,6 +115,8 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
     - t-187365
 
 - id: c-170379
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 4  Nuo Slucko iki Kopyiio y ra apie 38 km.
     17 Umolts — gyvenvietė prie Slucko. Jo s vietų patikslina

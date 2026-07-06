@@ -78,6 +78,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33505
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
     Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,

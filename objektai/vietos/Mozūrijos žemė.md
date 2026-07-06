@@ -82,6 +82,8 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 ## Citatos
 
 - id: c-45226
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
     ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi

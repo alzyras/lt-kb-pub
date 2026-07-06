@@ -219,6 +219,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66693
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Bartenšteino pilies puolimą
 
@@ -243,6 +245,8 @@ Nenurodyta
     - t-66479
 
 - id: c-66694
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
 
@@ -261,6 +265,8 @@ Nenurodyta
     - t-66480
 
 - id: c-66695
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Bartenšteino pilies apleidimą
 
@@ -278,6 +284,8 @@ Nenurodyta
     - t-66478
 
 - id: c-66696
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
     pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų

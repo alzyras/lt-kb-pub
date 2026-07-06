@@ -79,6 +79,8 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
 ## Citatos
 
 - id: c-83650
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
     vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­

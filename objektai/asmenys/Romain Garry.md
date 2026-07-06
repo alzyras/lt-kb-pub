@@ -96,6 +96,8 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 ## Citatos
 
 - id: c-21949
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
     „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-

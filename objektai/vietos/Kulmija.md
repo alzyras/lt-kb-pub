@@ -92,6 +92,8 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 ## Citatos
 
 - id: c-93880
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
     Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo

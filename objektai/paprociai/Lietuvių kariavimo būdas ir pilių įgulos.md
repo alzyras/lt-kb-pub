@@ -240,6 +240,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75910
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuva palei naująją sieną XIII a.
     pabaigoje - xv a. pradžioje sukūrė lietuviškų pilių tinklą. Šios
@@ -261,6 +263,8 @@ Nenurodyta
     - t-193746
 
 - id: c-75911
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prie jau anksčiau lietuvių užvaldytų
     Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
@@ -277,6 +281,8 @@ Nenurodyta
     - t-78717
 
 - id: c-75913
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Nuo tada kryžiuočiai
     ėmė sistemingai pulti Lietuvą. Lietuva palei naująją sieną XIII a.
@@ -291,6 +297,8 @@ Nenurodyta
     - t-78715
 
 - id: c-167083
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-

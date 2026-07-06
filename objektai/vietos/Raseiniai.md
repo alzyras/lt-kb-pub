@@ -484,6 +484,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 ## Citatos
 
 - id: c-32377
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet jau 1352.II. Kniprodė smarkiai
     teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus
@@ -496,6 +498,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-184395
 
 - id: c-32378
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Viso Žemaičių krašto vardu pavardėmis surašyti
     31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­
@@ -513,6 +517,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-184396
 
 - id: c-166232
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
     ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
@@ -530,6 +536,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-182825
 
 - id: c-166475
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
     kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
@@ -548,6 +556,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-183087
 
 - id: c-167189
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos
     kariuomenės
@@ -571,6 +581,9 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-183804
 
 - id: c-167692
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Prie jų prisidėjo taip pat ir uolesni seno
     lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­
@@ -587,6 +600,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-184321
 
 - id: c-168482
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
@@ -611,6 +626,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-185121
 
 - id: c-171707
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip tvirtina ponas Simo­
     nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio

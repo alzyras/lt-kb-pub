@@ -112,6 +112,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44778
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po rinktinės vado suėmimo J. Paliūnui
     pavyko pakrikusius partizanus suorganizuoti į Savano-
@@ -127,6 +129,8 @@ media_all_json: |-
     - t-40972
 
 - id: c-176400
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1947 m.
     tapo Kęstučio apygardos partizanu,

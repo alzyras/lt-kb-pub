@@ -98,6 +98,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83894
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,
     paskirtas karaliaus Zigmanto Vazos raštu,

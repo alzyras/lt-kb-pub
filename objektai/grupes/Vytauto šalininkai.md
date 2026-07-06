@@ -168,6 +168,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Citatos
 
 - id: c-82718
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nuolati­
     nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet
@@ -190,6 +192,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-86740
 
 - id: c-82719
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
     pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
@@ -213,6 +217,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-86739
 
 - id: c-82720
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
     didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­

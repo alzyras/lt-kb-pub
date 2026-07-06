@@ -81,6 +81,8 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
 ## Citatos
 
 - id: c-23984
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
     mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva

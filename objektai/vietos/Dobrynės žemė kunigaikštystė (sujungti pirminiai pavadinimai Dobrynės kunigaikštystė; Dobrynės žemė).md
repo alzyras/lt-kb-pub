@@ -174,6 +174,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 ## Citatos
 
 - id: c-82023
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trečias ir itin svarbus laiškų netikrumo įrodymas yra
     užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
@@ -208,6 +210,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
     - t-86045
 
 - id: c-82024
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     e. Gedimini) fines Christianorum
     69
@@ -227,6 +231,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
     - t-86044
 
 - id: c-82025
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tokios
     didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-

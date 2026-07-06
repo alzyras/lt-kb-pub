@@ -73,6 +73,8 @@ Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu, o lia
 ## Citatos
 
 - id: c-172178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tautų neapykanta
     yra senų pirmykščių laikų palikimas.

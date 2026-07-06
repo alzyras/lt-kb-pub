@@ -70,6 +70,8 @@ Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiš
 ## Citatos
 
 - id: c-173017
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Egiptiečiai ir graikai, romėnai, in­
     dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­

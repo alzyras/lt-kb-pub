@@ -190,6 +190,8 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
 ## Citatos
 
 - id: c-24799
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors Lietuvos komunistų administracija
     nenorėjo, kad ištremtieji grįžtų į tėvynę, nes esą jie stiprina Lietuvos gy-
@@ -212,6 +214,8 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     - t-22115
 
 - id: c-24801
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
@@ -234,6 +238,8 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     - t-22113
 
 - id: c-166804
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kai kuriems jų neleista apsi-
     gyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose moky-
@@ -251,6 +257,8 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     - t-183410
 
 - id: c-176276
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gyventojai turėjo prisitaikyti, kolaboruoti arba priešintis.
     Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.

@@ -72,6 +72,8 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
 ## Citatos
 
 - id: c-170346
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     33. APIE SMOLENSKO KUNIGAIKŠČIO GLEBO SVETOSLAVOVI-
     ClAUS MAISTĄ PRIEŠ VYTAUTĄ IR VYTAUTO MOS! SU

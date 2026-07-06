@@ -152,6 +152,9 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 ## Citatos
 
 - id: c-38447
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Prie jų prisidėjo taip pat ir uolesni seno
     lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­
@@ -169,6 +172,9 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     - t-36141
 
 - id: c-38448
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Trakuose,
     Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
@@ -190,6 +196,9 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     - t-36139
 
 - id: c-38449
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten
     katalikų tikėjimą. Kaip jau matėme, 1416 metais Vytautas

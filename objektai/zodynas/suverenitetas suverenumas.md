@@ -359,6 +359,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
 ## Citatos
 
 - id: c-97157
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
     miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
@@ -377,6 +379,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-104204
 
 - id: c-97158
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagal abiejų tų sutarčių punktus dėl
     Vilniaus turėjo susitarti Lietuva ir Lenkija. Maskva patvirtino, kad sutar-
@@ -394,6 +398,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-104205
 
 - id: c-97159
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     pabrėžė Lietuvos valstybingumo be Lenkijos savitumą, be to, atkurti buvo
     galima ne tik LDK laikų, bet ir Mindaugo Lietuvos karalystės laikų valsty-
@@ -412,6 +418,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-104207
 
 - id: c-97161
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
     ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
@@ -431,6 +439,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-104208
 
 - id: c-97162
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
     kimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms,
@@ -450,6 +460,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-104206
 
 - id: c-166864
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
     Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
@@ -466,6 +478,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-183469
 
 - id: c-166865
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pradiniame etape Sąjūdis iš es-
     mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
@@ -483,6 +497,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-183470
 
 - id: c-166866
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
     miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti

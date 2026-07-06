@@ -65,6 +65,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-45003
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Andžej Geglis.
     P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“

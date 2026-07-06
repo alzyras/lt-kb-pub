@@ -108,6 +108,8 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 ## Citatos
 
 - id: c-24884
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos krikšto politiniam elitui perėjus iš pagonybės į
     katalikybę, kultūros svarstyklės tarp katalikiško valstybės branduolio ir
@@ -127,6 +129,8 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
     - t-22196
 
 - id: c-166832
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Politinės lietuvių įtakos ir stačiatikių kultūrinio
     pranašumo pusiausvyra neteko savo svertų – politinis elitas pradėjo įgyti

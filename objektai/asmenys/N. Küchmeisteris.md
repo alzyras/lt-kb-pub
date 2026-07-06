@@ -65,6 +65,8 @@ Küchmeisteris.
 ## Citatos
 
 - id: c-32795
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Belaisviai
     buvo rakinami tomis pat grandinėmis, kurios buvo rastos ordino

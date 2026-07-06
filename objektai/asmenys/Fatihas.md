@@ -69,6 +69,8 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
 ## Citatos
 
 - id: c-77391
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pats žygis
 

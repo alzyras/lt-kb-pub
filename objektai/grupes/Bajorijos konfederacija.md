@@ -68,6 +68,8 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
 ## Citatos
 
 - id: c-70471
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tas jo apsivylimas daug prisidėjo, kad jis vis nieko
     aiškaus nepasakė dėl Lietuvos ateities. Bet bajorija į laikinę vy-

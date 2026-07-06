@@ -91,6 +91,8 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
 ## Citatos
 
 - id: c-167830
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     BBK-63.3(2L)
     Vi-109

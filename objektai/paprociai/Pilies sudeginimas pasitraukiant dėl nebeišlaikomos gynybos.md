@@ -150,6 +150,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63468
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
     manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
@@ -165,6 +167,8 @@ Nenurodyta
     - t-62711
 
 - id: c-63469
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
     kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
@@ -180,6 +184,8 @@ Nenurodyta
     - t-62711
 
 - id: c-63470
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
 

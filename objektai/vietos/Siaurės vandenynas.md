@@ -70,6 +70,8 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
 ## Citatos
 
 - id: c-177168
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O
     čia surinksime visokias išlikusias žinias apie dangaus kūnų su­

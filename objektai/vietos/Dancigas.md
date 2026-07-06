@@ -256,6 +256,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 ## Citatos
 
 - id: c-13408
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
@@ -269,6 +271,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-193176
 
 - id: c-166136
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tiesa, Versalio
     taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
@@ -288,6 +292,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-182720
 
 - id: c-166398
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Arkivys-
     kupo ir rygiečių dėka dažnai būdavo sudaromos Lietuvos pre-
@@ -303,6 +309,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-183004
 
 - id: c-166399
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tad veikiai, atvykęs į Krokuvą, jis karūnavosi ir vedė
     kunigaikštytę Oną. Kadangi netrukus mirė jo konkurentas im-

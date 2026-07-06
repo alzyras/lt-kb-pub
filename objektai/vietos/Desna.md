@@ -270,6 +270,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02645
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pats Smolenskas išgyveno nepriklauso-
     mas dar iki Vytauto. Bet užtat daug geriau Algirdui sekėsi į
@@ -286,6 +288,8 @@ media_all_json: |-
     - t-02407
 
 - id: c-175406
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad šis kraštas turėtų
     būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
@@ -302,6 +306,8 @@ media_all_json: |-
     - t-192636
 
 - id: c-175407
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     213
     Padarykime prielaidą, kad gelonai-budinai, spiriami
@@ -325,6 +331,8 @@ media_all_json: |-
     - t-192637
 
 - id: c-175408
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     366
 
@@ -344,6 +352,8 @@ media_all_json: |-
     - t-192638
 
 - id: c-175409
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plytėjo ilga įlanka, arba
     kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­

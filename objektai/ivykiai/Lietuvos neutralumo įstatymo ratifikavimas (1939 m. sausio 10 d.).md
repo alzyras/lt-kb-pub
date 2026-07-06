@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-48224
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O tikros politinių
     jėgų vienybės reikėjo, nes artėjo sunkūs laikai.

@@ -71,6 +71,8 @@ Krakowski : Korjatowicze i sprawa Podolska w XIV w.
 ## Citatos
 
 - id: c-33147
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     2, 334-347 p. — Gana tiksliai visą ginčą įvertino St. Krakowski :**
     **_Korjatowicze i sprawa Podolska w XIV w. w oświetleniu najnowszej historjo-

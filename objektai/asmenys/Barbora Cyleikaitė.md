@@ -71,6 +71,9 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
 ## Citatos
 
 - id: c-37986
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­
     plaukė svečių tiek iš Vakarų, tiek ir iš Rytų Europos. Atvyko

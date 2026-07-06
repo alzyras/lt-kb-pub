@@ -777,6 +777,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 ## Citatos
 
 - id: c-85121
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     nė tiksliai aprašyti, nė atpasakoti. Vis dėlto papasakosiu vieną pažymėtiną nuostabų
     įvykį. Vieną gražią dieną Elbingo broliai su saujele ginklanešių traukė įkandin didelės
@@ -797,6 +799,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89163
 
 - id: c-85122
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mat velnias, žmonių giminės
     nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
@@ -813,6 +817,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89168
 
 - id: c-85123
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -834,6 +840,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89162
 
 - id: c-85124
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
 
@@ -855,6 +863,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89158
 
 - id: c-85125
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
     broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
@@ -873,6 +883,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89159
 
 - id: c-85126
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113—
     114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo
@@ -885,6 +897,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89161
 
 - id: c-85127
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     191 (186). Dar apie tą patį
 
@@ -907,6 +921,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89165
 
 - id: c-85128
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
     subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
@@ -927,6 +943,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89156
 
 - id: c-85129
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
@@ -948,6 +966,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89169
 
 - id: c-85130
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
 
@@ -969,6 +989,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89157
 
 - id: c-85131
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
     kurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai.
@@ -981,6 +1003,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89166
 
 - id: c-85132
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
     krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
@@ -997,6 +1021,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89164
 
 - id: c-85133
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
 
@@ -1016,6 +1042,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89159
 
 - id: c-85134
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -1035,6 +1063,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89171
 
 - id: c-85136
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
                apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
@@ -1057,6 +1087,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89160
 
 - id: c-85137
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
 
@@ -1074,6 +1106,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-89170
 
 - id: c-85139
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 

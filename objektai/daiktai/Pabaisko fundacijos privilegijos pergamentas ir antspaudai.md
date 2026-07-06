@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82991
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ta pati fundacijos privilegija, šviesiausiojo
     Karaliaus Jo Didenybės Žygimanto sudaryta ir skirta Pabais­
@@ -156,6 +158,8 @@ Nenurodyta
     - t-87014
 
 - id: c-82993
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prašydamas Mus, Teismą, kad minėtoji fun­
     dacijos privilegija būtų priimta ir įrašyta į Lietuvos Didžio­

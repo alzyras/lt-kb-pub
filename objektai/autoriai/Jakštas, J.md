@@ -203,6 +203,8 @@ Jakštas, J.
 ## Citatos
 
 - id: c-70083
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Jakštas, J. : _Dlugošas apie Žalgirio
     mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
@@ -218,6 +220,8 @@ Jakštas, J.
     - t-71516
 
 - id: c-70084
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tekstai. Kaunas (Lietuvos Istorijos
     Draugijos leidinys) 1941.
@@ -231,6 +235,8 @@ Jakštas, J.
     - t-71518
 
 - id: c-70085
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
     Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis
@@ -249,6 +255,8 @@ Jakštas, J.
     - t-71517
 
 - id: c-70086
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
     jų atsiradimo iki šiol, yra susidariusi gausi literatūra. Daugumoje

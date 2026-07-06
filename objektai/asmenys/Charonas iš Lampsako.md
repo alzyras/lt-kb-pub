@@ -66,6 +66,8 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
 ## Citatos
 
 - id: c-172973
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
     nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek

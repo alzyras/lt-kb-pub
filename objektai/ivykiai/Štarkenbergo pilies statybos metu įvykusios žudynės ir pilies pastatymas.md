@@ -159,6 +159,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-85383
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
 

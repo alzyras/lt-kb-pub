@@ -84,6 +84,8 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
 ## Citatos
 
 - id: c-24991
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Slopinant
     ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m.

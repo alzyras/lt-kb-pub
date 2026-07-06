@@ -62,6 +62,8 @@ Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergeli�
 ## Citatos
 
 - id: c-176706
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
     lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­

@@ -65,6 +65,8 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
 ## Citatos
 
 - id: c-176909
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Negaliu taip
     pat nutylėti, kad gerbiamas grafas Adomas Chreptavičius, pri­

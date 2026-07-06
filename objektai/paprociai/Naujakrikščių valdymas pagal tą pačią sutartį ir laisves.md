@@ -110,6 +110,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63445
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Taip žiauriai jis
     kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
@@ -128,6 +130,8 @@ Nenurodyta
     - t-62694
 
 - id: c-63446
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Taip smarkiai ir taip
     drąsiai šis markgrafas užgriuvo šias netikėlių gentis nelyginant liūtas, kuris nesibijo bet

@@ -101,6 +101,8 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
 ## Citatos
 
 - id: c-175094
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kiekviena provincija
     dalijosi j mažesnes dalis, atskirus valsčius, teritorijas,

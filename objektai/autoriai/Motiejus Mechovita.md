@@ -73,6 +73,8 @@ Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių ka
 ## Citatos
 
 - id: c-174778
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dėl to reikia daryti išva­
     dą, kad senovės jotvingių kalba arba visiškai išnykusi,

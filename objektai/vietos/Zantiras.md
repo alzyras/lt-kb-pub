@@ -72,6 +72,8 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
 ## Citatos
 
 - id: c-171974
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
     prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,

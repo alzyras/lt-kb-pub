@@ -71,6 +71,8 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
 ## Citatos
 
 - id: c-173298
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žinome, kad per panašias apeigas skam­
     bėdavo lietuviška muzika. Venecijos pasiuntinys Kantorinis

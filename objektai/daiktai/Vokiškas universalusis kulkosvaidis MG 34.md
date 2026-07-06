@@ -159,6 +159,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75896
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Buvo vertinamas dėl pati- 5
     kimumo ir paprastos priežiūros
@@ -188,6 +190,8 @@ Nenurodyta
     - t-78682
 
 - id: c-75897
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vokiškas universalusis kulkosvaidis MG 34
     (Maschinengewehr 34) Šovinys - 7,92x57 mm

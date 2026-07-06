@@ -78,6 +78,8 @@ Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valsty
 ## Citatos
 
 - id: c-169706
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Abi politinės tendencijos rado šalininkų ir Akade­
     mijoje. Uoliausias religinės, tautinės ir valstybinės

@@ -78,6 +78,9 @@ Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas, duotas 1393 m. lapkr.
 ## Citatos
 
 - id: c-38410
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl iš Lenkijos pusės, nors ir labai silpna, ėmė reikštis opozi­
     cija: juk lenkai norėjo Krėvės unija tuos žemės plotus laimėti

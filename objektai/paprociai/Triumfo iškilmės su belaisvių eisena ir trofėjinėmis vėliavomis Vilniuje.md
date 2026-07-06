@@ -179,6 +179,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43179
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
     doti Vilniuje. Čia, valdovui grįžus, įvyko
@@ -198,6 +200,8 @@ Nenurodyta
     - t-78729
 
 - id: c-167085
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po mūšio galutinai
     įsigalėjo nuomonė, kad rusai atvirame

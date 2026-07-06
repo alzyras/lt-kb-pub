@@ -96,6 +96,8 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
 ## Citatos
 
 - id: c-167452
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
                    mą ir apie tai, kaip buvo apleista ši žemė

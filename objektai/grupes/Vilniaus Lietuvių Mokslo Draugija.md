@@ -87,6 +87,8 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
 ## Citatos
 
 - id: c-71048
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Yra žmonių
     net iš pačių lenkų, kurie įrodinėja, kad Vytauto kapas dar turįs būti

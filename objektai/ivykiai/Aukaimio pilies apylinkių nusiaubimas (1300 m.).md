@@ -133,6 +133,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62672
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
 

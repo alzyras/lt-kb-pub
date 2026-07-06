@@ -66,6 +66,8 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
 ## Citatos
 
 - id: c-59765
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Štai koks nuostabus,  štai koks nepaprastas įvykis: moteriškos
     vilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu

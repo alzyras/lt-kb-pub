@@ -81,6 +81,8 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
 ## Citatos
 
 - id: c-01540
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tada vysk. Kristijonas kartu su
     kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-

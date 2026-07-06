@@ -164,6 +164,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 ## Citatos
 
 - id: c-60654
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
     dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
@@ -185,6 +187,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     - t-60022
 
 - id: c-60655
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
     užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
@@ -199,6 +203,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     - t-60024
 
 - id: c-60656
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     274 (267). Apie brolį Helvigą, Prūsijos žemės magistrą (1300 metai)
 

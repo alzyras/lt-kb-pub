@@ -128,6 +128,8 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 ## Citatos
 
 - id: c-25067
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti
     įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
@@ -146,6 +148,8 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     - t-46039
 
 - id: c-176290
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus

@@ -72,6 +72,9 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 ## Citatos
 
 - id: c-38060
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai jie vieną kartą puolė Bosniją (prie Adrijati­
     kos jūros), o Konstancijos susirinkimas ragino Vytautą ir Jo­

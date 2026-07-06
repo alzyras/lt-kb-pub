@@ -76,6 +76,8 @@ Radvilos Lietuvos žemėlapis, Aidai 1952, 10 nr., 445-448 p. ; P.
 ## Citatos
 
 - id: c-33686
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^3) **_GeV,_** **781 p.; Z. Ivinskis :** **_Melno taika,_** **LE, t. 18, 174 p.**
     (^4) **Plg. J. Andrius :** **_Kng. Radvilos Lietuvos žemėlapis,_** **Aidai 1952, 10

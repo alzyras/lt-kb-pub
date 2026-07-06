@@ -132,6 +132,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37032
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bendrai, laikotarpis po Racionžo taikos prekybai buvo gana
     palankus. Kaune Vytautas suteikė Magdeburgo teises (1408
@@ -147,6 +150,9 @@ Nenurodyta
     - t-66766
 
 - id: c-37033
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas kėlė Lietuvos prekybą ir kitais būdais, būtent, pa­
     laikydamas miestus bei suteikdamas jiems daugiau laisvės Mag­

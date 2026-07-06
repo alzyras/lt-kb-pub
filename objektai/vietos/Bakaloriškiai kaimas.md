@@ -74,6 +74,8 @@ Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos bū
 ## Citatos
 
 - id: c-40247
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos
     būrį, saugodami gimtąjį Bakaloriškių kaimą nuo dažnų komunistinių partizanų pul-

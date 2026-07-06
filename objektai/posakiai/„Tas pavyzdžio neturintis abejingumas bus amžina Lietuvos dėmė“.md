@@ -72,6 +72,8 @@ Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme�
 ## Citatos
 
 - id: c-175775
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vyrauja tuščias pasididžiavimas senoliais, o protėvių
     istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė

@@ -91,6 +91,8 @@ Seirijuose, Simne, Prienuose ir kt.
 ## Citatos
 
 - id: c-43849
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1945 m. gegužės 14 d. iš Simno rajono
     NKVD skyriaus viršininko gauti duome-

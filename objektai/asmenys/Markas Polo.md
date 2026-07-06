@@ -72,6 +72,8 @@ Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuoki
 ## Citatos
 
 - id: c-174324
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo. Dažnai

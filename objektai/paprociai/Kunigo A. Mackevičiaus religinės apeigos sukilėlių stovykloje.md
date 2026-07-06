@@ -178,6 +178,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43169
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šiems tikslams įgyvendinti už Anykščių
     esančio Andrioniškio miške prie Teresboro
@@ -196,6 +198,8 @@ Nenurodyta
     - t-41431
 
 - id: c-44948
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Joje vykdė naujokų ap-
     mokymus, formavo naujus ir reorganizavo
@@ -213,6 +217,8 @@ Nenurodyta
     - t-41430
 
 - id: c-44949
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo metu visoje Europoje sklido pa-
     vergtų tautų laisvės idėjos. Išsivadavimo

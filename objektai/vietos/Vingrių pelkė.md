@@ -69,6 +69,8 @@ Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli 
 ## Citatos
 
 - id: c-168679
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be to, paskelbtas įstatymas, leidžian­
     tis ilgainiui krikščionims netrukdomiems viešose ir už­

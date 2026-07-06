@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75246
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
     sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad

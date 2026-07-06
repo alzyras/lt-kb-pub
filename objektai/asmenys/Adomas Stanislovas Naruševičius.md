@@ -296,6 +296,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
 ## Citatos
 
 - id: c-173991
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     70
     161 metai. Gotų žygis su Filimeru. 161 krikščioniško­
@@ -311,6 +313,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     - t-191109
 
 - id: c-173992
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Prajus** vėlgi kalba apie tą patį, žiūrė­
     damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
@@ -328,6 +332,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     - t-191110
 
 - id: c-173993
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat
     daromos teisingos išvados, jog jie nekariavo su hunų
@@ -353,6 +359,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     - t-191111
 
 - id: c-173994
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai, be
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
@@ -368,6 +376,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     - t-191112
 
 - id: c-173995
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tarp
     mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
@@ -391,6 +401,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     - t-191113
 
 - id: c-173996
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tiesą sakant, senovės ty­
     rinėtojai teigia, jog minėti agatirai gyveno Marus, arba

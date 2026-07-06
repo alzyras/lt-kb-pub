@@ -106,6 +106,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83240
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     62
     Pagal vietinį Vilniaus paprotį, Beke­

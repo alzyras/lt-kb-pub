@@ -71,6 +71,8 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
 ## Citatos
 
 - id: c-44437
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Netrukus nenumatyti įvykiai pri-
     vertė koreguoti planus. Po nepavykusio

@@ -87,6 +87,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Citatos
 
 - id: c-21728
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
     centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru

@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172726
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toliau net matysi­
     me, kad jie turėjo nuodėmių išpažinimo dieną.
@@ -157,6 +159,8 @@ Nenurodyta
     - t-189843
 
 - id: c-172727
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikos žmonės duodavo dvejopas
     priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam

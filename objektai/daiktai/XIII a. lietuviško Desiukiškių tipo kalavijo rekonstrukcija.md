@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42585
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 30, XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukcija, Lietuvos kariuomenės,
     Garbės sargybos kuopos rekonstrukcija, Giedrės Maksimovicz nuotr.

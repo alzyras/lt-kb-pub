@@ -63,6 +63,8 @@ Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona 
 ## Citatos
 
 - id: c-40535
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rikiuotės priekį dengdavo muškieti- pėstininkų kolona skirtingose šalyse gali būti vadinama batalia, s S
     ninkai. Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona ar ispaniška karė. Lietuvos kariuomenė tercijų 0 =

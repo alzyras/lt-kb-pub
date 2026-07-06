@@ -356,6 +356,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
 ## Citatos
 
 - id: c-16297
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1940 VI 15
     realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
@@ -370,6 +372,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - t-24565
 
 - id: c-26882
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
     ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m.
@@ -396,6 +400,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - t-75507
 
 - id: c-73269
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
     bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
@@ -419,6 +425,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - t-13521
 
 - id: c-73270
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kaip tik tuo metu iš įkalinimo vietų buvo pa-
     leisti jos aktyvieji nariai, organizacija tapo legali. LLL apie save ypač drą-
@@ -437,6 +445,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - t-13524
 
 - id: c-73271
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors nuolat persekiojama, LLL – vienintelė pogrindžio organizacija,
     sulaukusi atgimimo laikų. Kaip tik tuo metu iš įkalinimo vietų buvo pa-
@@ -453,6 +463,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - t-23405
 
 - id: c-73275
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1918 II 16
     Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-

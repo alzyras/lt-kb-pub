@@ -68,6 +68,8 @@ Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri s
 ## Citatos
 
 - id: c-172176
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­

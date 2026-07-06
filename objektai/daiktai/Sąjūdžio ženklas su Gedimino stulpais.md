@@ -147,6 +147,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73151
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
     235
@@ -167,6 +169,8 @@ Nenurodyta
     - t-75347
 
 - id: c-73152
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Čekoslo-
     vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,

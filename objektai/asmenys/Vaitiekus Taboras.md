@@ -305,6 +305,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 ## Citatos
 
 - id: c-83390
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Andrius II, šv. teologijos daktaras, lietuvis, dievotas ir
     taurus ganytojas, vyskupo pareigas ėjo dešimt metų, tai yra,
@@ -325,6 +327,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-87413
 
 - id: c-83391
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
     vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­
@@ -342,6 +346,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-87414
 
 - id: c-83392
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kilo didelis pavojus karaliaus
     saugumui, tad Aleksandras, ponų patarimu, kariuomenei
@@ -359,6 +365,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-87411
 
 - id: c-83393
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Miestiečiai prie jų
     dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
@@ -378,6 +386,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-87412
 
 - id: c-168213
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Keliais mėnesiais
     anksčiau už karalių mirė Vilniaus vyskupas Andrius,
@@ -409,6 +419,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-184852
 
 - id: c-168214
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Stanislovo
     katedrą ir pasodino į tėvo sostą. Vaitiekus Taboras, pa­

@@ -97,6 +97,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44047
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Situacija Kauno regione bei visoje
     Lietuvoje ir toliau buvo labai sudėtinga.

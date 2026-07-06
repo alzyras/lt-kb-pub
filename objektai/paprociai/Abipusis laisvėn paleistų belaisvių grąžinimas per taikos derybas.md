@@ -133,6 +133,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169290
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kęstutis gal dėl to, kad mažai turėjo kovai pa­
     sirengusių karių, o gal dėl kitos priežasties daugiau

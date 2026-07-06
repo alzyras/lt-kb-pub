@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176682
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     BK Perekopo orda vadinami Krymo chanato
     totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių

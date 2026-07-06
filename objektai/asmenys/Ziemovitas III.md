@@ -113,6 +113,8 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 ## Citatos
 
 - id: c-32852
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Normaliai, Karūnai turėjo būti pajungiama didžioji ku­
     nigaikštija, nors savo plotu ir gerokai didesnė.
@@ -129,6 +131,8 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
     - t-30474
 
 - id: c-32853
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo būdu jis siekęs Ziemovitui sutrukdyti tapti Len­
     kijos karaliumi. O Ziemovito viltys laimėti Jadvygos ranką 1383 m.

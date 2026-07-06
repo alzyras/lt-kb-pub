@@ -71,6 +71,8 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
 ## Citatos
 
 - id: c-175367
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     222
     Tai paminėję, pereikime prie rašytinių liudijimų, ku­

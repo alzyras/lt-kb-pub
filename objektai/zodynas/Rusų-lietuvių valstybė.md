@@ -83,6 +83,8 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
 ## Citatos
 
 - id: c-82618
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pavyzdžiui,
     1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilniaus

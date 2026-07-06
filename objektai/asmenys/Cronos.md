@@ -71,6 +71,8 @@ Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vak
 ## Citatos
 
 - id: c-174144
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     164
     Dar negalima nepaminėti pastabų apie pavadinimą

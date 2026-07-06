@@ -66,6 +66,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 ## Citatos
 
 - id: c-34181
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tai
     liudija kalbos skoliniai ir metraščių žinutės. Kai Dniepro baseine

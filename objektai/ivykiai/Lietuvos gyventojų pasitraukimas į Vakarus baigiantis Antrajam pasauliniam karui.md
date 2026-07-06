@@ -177,6 +177,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-48209
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos diplomatinė tarnyba ir išeivija
     Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
@@ -198,6 +200,8 @@ Nenurodyta
     - t-45356
 
 - id: c-166629
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tarp lietuvių di-
     pukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų

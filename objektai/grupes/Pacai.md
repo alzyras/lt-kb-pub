@@ -179,6 +179,8 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 ## Citatos
 
 - id: c-66306
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kai pasirodė,
     jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau
@@ -204,6 +206,8 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     - t-65968
 
 - id: c-166317
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Laikotarpio charakteristika**
 
@@ -220,6 +224,8 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     - t-182914
 
 - id: c-166318
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Išgar-
     sėjęs Lenkijos gynėjas

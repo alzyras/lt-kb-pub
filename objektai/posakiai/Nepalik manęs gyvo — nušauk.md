@@ -56,6 +56,8 @@ Pakilau perbėgti tolyn ir matau - greta manęs buvęs Mingilas krinta apsipylę
 ## Citatos
 
 - id: c-40855
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pakilau perbėgti tolyn ir matau - greta manęs buvęs
     Mingilas krinta apsipylęs krauju. Raitosi iš skausmo ir sako: „Nepalik manęs gyvo — nu-

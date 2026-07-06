@@ -112,6 +112,8 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
 ## Citatos
 
 - id: c-172966
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Akmuo, kurį Jo­
     kūbas patepė ir paskyrė Ikiamžinajam dievui, vėliau buvo stab­
@@ -130,6 +132,8 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
     - t-190083
 
 - id: c-172967
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ta­
     čiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man

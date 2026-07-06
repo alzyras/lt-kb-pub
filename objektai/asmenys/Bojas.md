@@ -83,6 +83,8 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 ## Citatos
 
 - id: c-174138
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi

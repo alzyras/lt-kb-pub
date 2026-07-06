@@ -155,6 +155,8 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 ## Citatos
 
 - id: c-42868
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dar 5 stribai nukauti kitą dieną
     Perlojoje Marcinkonių bataliono vyrų
@@ -178,6 +180,8 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     - t-41086
 
 - id: c-44816
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     pateko į iš anksto parengtą pasalą ir pa-
     tyrę nuostolių buvo priversti grįžti atgal.
@@ -197,6 +201,8 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     - t-41087
 
 - id: c-167054
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Priešo pusėje žuvo 15 NKVD karių
     ir 2 stribai. Dar 5 stribai nukauti kitą dieną

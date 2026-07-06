@@ -129,6 +129,9 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 ## Citatos
 
 - id: c-69316
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
     davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
@@ -151,6 +154,9 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
     - t-70260
 
 - id: c-69317
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Sis pastarasis, kaip karū­
     nos kanceliarijos globėjas, tose knygose mums pasirodo, kaip

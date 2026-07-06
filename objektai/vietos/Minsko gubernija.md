@@ -65,6 +65,8 @@ Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvin
 ## Citatos
 
 - id: c-177162
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     9
 

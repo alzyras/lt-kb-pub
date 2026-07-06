@@ -70,6 +70,8 @@ Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskien
 ## Citatos
 
 - id: c-44421
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     platformos), mitingo metu mėgino
     užimti AT rūmus. Pretekstu tapo Lietuvos

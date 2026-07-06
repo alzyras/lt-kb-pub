@@ -220,6 +220,8 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 ## Citatos
 
 - id: c-170888
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nedailus, vos galima suprasti, jog tai raitelis su sakalu. Rai- 32
     32 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Vil­
@@ -243,6 +245,8 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     - t-194698
 
 - id: c-173731
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

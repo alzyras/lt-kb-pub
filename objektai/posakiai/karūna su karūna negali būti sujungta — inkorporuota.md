@@ -125,6 +125,9 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 ## Citatos
 
 - id: c-38385
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     O jei Vytautas pats vienas,
     be Jogailos, būtų apsikarūnavęs ir paskyręs savo nuožiūra sau
@@ -145,6 +148,9 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     - t-36006
 
 - id: c-38386
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila pastaruoju projektu, jei būtų jis įvy­
     kęs, kaip tik būtų apsaugojęs savo dinastijai Lietuvos sostą. Tas

@@ -1132,6 +1132,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 ## Citatos
 
 - id: c-43930
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Čia prisijungė Livonijos ma-
     gistro kariuomenė ir šios jungtinės pajė-
@@ -1152,6 +1154,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180731
 
 - id: c-43935
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po mūšio
     Kadangi Ukmergės rinktinė buvo per daug
@@ -1173,6 +1177,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180710
 
 - id: c-164295
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
@@ -1192,6 +1198,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180718
 
 - id: c-164296
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Buvo sukurtas
     generalinis Lietuvos teritorijos nuo bolše-
@@ -1217,6 +1225,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180707
 
 - id: c-164297
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Telkdama į bolševikų frontą vis daugiau
     naujai suformuotų dalinių, Lietuvos ka-
@@ -1237,6 +1247,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180720
 
 - id: c-164298
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Švietimui padėjo lenkų kultūros organiza-
     cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
@@ -1253,6 +1265,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180706
 
 - id: c-164299
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
     lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
@@ -1299,6 +1313,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180712
 
 - id: c-164301
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia
     žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
@@ -1318,6 +1334,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180732
 
 - id: c-164302
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1435 m. jis sukvietė visus savo sąjungininkus
     — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
@@ -1334,6 +1352,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180714
 
 - id: c-164305
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas įsimintinas mūšis
     20
@@ -1355,6 +1375,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180705
 
 - id: c-164307
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
     niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
@@ -1372,6 +1394,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180709
 
 - id: c-164309
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
     vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
@@ -1396,6 +1420,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180719
 
 - id: c-164310
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
     kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
@@ -1415,6 +1441,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180729
 
 - id: c-164312
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Prie jų atvykęs Vallenrodas, rado tik pelenų krūvą. Vy­
     tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­
@@ -1433,6 +1462,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180730
 
 - id: c-164313
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš mūšį
 
@@ -1452,6 +1483,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180715
 
 - id: c-164314
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kavars­
     kas nuo Ukmergės nutolęs per 4 my­
@@ -1469,6 +1502,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180708
 
 - id: c-164316
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gegužės 3 d. Panevėžio batalionas, re-
     miamas saksų savanorių, atliko sėkmingą
@@ -1488,6 +1523,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-180711
 
 - id: c-171733
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,

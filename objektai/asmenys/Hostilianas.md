@@ -84,6 +84,8 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
 ## Citatos
 
 - id: c-174298
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Juk buvo kariaujama su skandina­
     vais, gentys įvairiais būdais patirdavo tų užjūrio kai­

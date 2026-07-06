@@ -102,6 +102,8 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 ## Citatos
 
 - id: c-46930
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Caras Aleksandras II
     (1855-1881 m.).

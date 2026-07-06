@@ -84,6 +84,8 @@ Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bing
 ## Citatos
 
 - id: c-175664
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš čia, tęsdami kelionę į
     vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos

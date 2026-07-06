@@ -237,6 +237,8 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 ## Citatos
 
 - id: c-44110
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     GURSČIŲ KAUTYNĖS
     1946 m. sausio 22 d. Ukmergės aps. Želvos vis. Gursčių k. apylinkėse apie 50 Plieno būrio
@@ -250,6 +252,8 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - t-172065
 
 - id: c-156489
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O juk
     reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
@@ -276,6 +280,8 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - t-172066
 
 - id: c-156490
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvių pajėgos negalėjo
     atsilaikyti prieš gausių lenkų pajėgų puo-
@@ -295,6 +301,8 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - t-172063
 
 - id: c-156492
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvių pajėgos ėmė rengtis kontr-
     puolimui. Lapkričio 19 d. į Ukmergę at-

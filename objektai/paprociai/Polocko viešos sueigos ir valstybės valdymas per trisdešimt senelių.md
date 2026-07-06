@@ -151,6 +151,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169244
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Erdvilui mirus, Naugarduko kunigaikštystę valdyti
     žemių. Polocko rusai savo valstybės valdymą buvo
@@ -168,6 +170,8 @@ Nenurodyta
     - t-185883
 
 - id: c-169245
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Taigi verčiau sekite savo mokytojais graikais — ir jų
     čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­

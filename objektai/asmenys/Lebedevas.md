@@ -69,6 +69,8 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
 ## Citatos
 
 - id: c-41578
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     sustojus Pikelionyse paaiškėjo, kad iš
     daugiau nei 600 Jiezne buvusių raudo-

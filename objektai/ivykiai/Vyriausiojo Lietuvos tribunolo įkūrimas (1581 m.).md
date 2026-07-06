@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67059
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet pagaliau,
     kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),

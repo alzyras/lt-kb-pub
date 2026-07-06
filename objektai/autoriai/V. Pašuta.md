@@ -121,6 +121,8 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 ## Citatos
 
 - id: c-61156
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
     Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio
@@ -134,6 +136,8 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
     - t-60523
 
 - id: c-61157
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
 

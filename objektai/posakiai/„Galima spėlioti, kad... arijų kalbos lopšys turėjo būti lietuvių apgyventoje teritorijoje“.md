@@ -95,6 +95,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-25842
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Optimistai dar tikėjo, kad, išvengus kraujo
     praliejimo, sovietai paliks Lietuvai (blogiausiu atveju) bent jau visiškai

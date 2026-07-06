@@ -97,6 +97,8 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 ## Citatos
 
 - id: c-22092
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Joje pirmąkart
     užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
@@ -113,6 +115,8 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
     - t-19353
 
 - id: c-166970
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-
     reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-

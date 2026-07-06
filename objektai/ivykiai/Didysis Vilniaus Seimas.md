@@ -130,6 +130,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75198
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Su-
     manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-
@@ -152,6 +154,8 @@ Nenurodyta
     - t-77881
 
 - id: c-75199
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas. Joje reikalauta

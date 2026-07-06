@@ -67,6 +67,8 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
 ## Citatos
 
 - id: c-75367
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai nėra
     visai teisinga. Vakarų Europa – tai tik Viduramžių Europos dalis, šiandien

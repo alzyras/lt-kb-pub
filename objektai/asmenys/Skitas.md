@@ -77,6 +77,8 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
 ## Citatos
 
 - id: c-174350
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bu­
     dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,

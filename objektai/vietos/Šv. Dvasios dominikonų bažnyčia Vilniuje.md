@@ -122,6 +122,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 ## Citatos
 
 - id: c-82256
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Daugelis jų garsėjo su­
     manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-
@@ -139,6 +141,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-86278
 
 - id: c-82257
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pa-
     49

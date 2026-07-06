@@ -73,6 +73,8 @@ Balys : Lithuania and Lithuanians.
 ## Citatos
 
 - id: c-33650
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^18) BIBLIOGRAFINIAI RINKINIAI
     **grafijos, kuri randama Įvairiose bibliotekose, drauge dažnai nurodant ir

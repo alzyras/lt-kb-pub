@@ -76,6 +76,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33581
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     HPol = Historia Polski, t. 1 (iki 1764), 1-2 dalys, red. H. Low-
     miański, Instytut Historii PAN, 2 1959.

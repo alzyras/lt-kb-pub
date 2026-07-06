@@ -88,6 +88,8 @@ Aukštasis krantas yra kaimas dešiniame Ušos krante. Aukštasis krantas yra ap
 ## Citatos
 
 - id: c-170259
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 5  Iškoldis — kaimas (apie 8 km j rytus nuo Polonkos (Polo-
     nečkos), keli km  į pietus nuo Ušos upės).

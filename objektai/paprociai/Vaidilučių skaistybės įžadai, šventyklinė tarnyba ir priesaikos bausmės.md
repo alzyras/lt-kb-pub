@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172757
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikos laikais panašiai būdavo
     apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
@@ -152,6 +154,8 @@ Nenurodyta
     - t-189874
 
 - id: c-177035
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jas rink­
     davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­

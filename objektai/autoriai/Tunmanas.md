@@ -195,6 +195,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 ## Citatos
 
 - id: c-173343
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.
@@ -209,6 +211,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
     - t-190460
 
 - id: c-173694
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -227,6 +231,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
     - t-190812
 
 - id: c-173695
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ar galima tuo remiantis daryti prie­
     laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
@@ -245,6 +251,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
     - t-190813
 
 - id: c-173696
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus

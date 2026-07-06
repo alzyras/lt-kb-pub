@@ -68,6 +68,8 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
 ## Citatos
 
 - id: c-173404
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-
     sicarum historia. -  Gedani, 1769.

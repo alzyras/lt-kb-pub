@@ -670,6 +670,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 ## Citatos
 
 - id: c-13011
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1399 m. rugpjūčio 12 d., „dvi valan-
     dos iki saulėlydžio“ prasidėjo „didžiausias
@@ -685,6 +687,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172865
 
 - id: c-13013
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia,
 
@@ -701,6 +705,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172876
 
 - id: c-42415
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
     didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“
@@ -725,6 +731,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172878
 
 - id: c-42416
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
     įsibrovė trys Livonijos daliniai, jie niokojo
@@ -747,6 +755,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172873
 
 - id: c-42417
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švitrigailos ir Livonijos ordino pajėgos
     Švitrigailą remiantys lietuviai, rytinių
@@ -769,6 +779,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172869
 
 - id: c-56037
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
     jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
@@ -783,6 +795,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172868
 
 - id: c-157232
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Raitelio
     pėdas saugo metaliniai antbačiai —
@@ -811,6 +825,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172866
 
 - id: c-157233
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau, regis, toks stai­
     gus Vilniaus užėmimas tik dėl Kęs­
@@ -833,6 +849,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172875
 
 - id: c-157234
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     29
     Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'
@@ -851,6 +869,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172870
 
 - id: c-157237
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors Strijkovskis yra pasakęs, kad Gedimino pa­
     laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
@@ -871,6 +891,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-172877
 
 - id: c-167967
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žmonės visuomet linkę ką įtari­
     nėti, todėl ir kariai netrukus ėmė burnoti prieš karalių,
@@ -899,6 +921,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-184606
 
 - id: c-171296
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
     torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
@@ -917,6 +941,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-188406
 
 - id: c-171304
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     201
 
@@ -937,6 +963,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-188414
 
 - id: c-173614
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vis dėlto žmogus, mokantis šias kalbas, ne­
     ras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­

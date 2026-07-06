@@ -70,6 +70,8 @@ Narbutas Girystį (Giristį), Bogušo minimą miško dievaitį, sieja su kaimie�
 ## Citatos
 
 - id: c-172111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Girystis (Giristis)
     Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas

@@ -162,6 +162,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73130
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
     tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
@@ -176,6 +178,8 @@ Nenurodyta
     - t-75311
 
 - id: c-73131
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vakarų radijo stotims „Kronika“ tapo pagrindiniu
     medžiagos apie Lietuvą šaltiniu. Jau pirmame jos numeryje išspausdintas
@@ -192,6 +196,8 @@ Nenurodyta
     - t-75313
 
 - id: c-73132
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Leidinys aprašė sovietų antireliginę
     veiklą ir propagandą. Vakarų radijo stotims „Kronika“ tapo pagrindiniu

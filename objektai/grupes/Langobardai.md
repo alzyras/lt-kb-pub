@@ -155,6 +155,8 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
 ## Citatos
 
 - id: c-168785
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atgavęs Italiją, jis, mi­
     rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
@@ -183,6 +185,8 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
     - t-185424
 
 - id: c-168786
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi per tai Romos bažnyčios valdoms buvo
     smarkiai kenkiama, popiežius Steponas šaukėsi galų

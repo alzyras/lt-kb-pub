@@ -84,6 +84,8 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
 ## Citatos
 
 - id: c-174214
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sudargai, kuriuos istorikai vadina
     Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:

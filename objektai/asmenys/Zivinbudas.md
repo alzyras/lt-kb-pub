@@ -78,6 +78,8 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
 ## Citatos
 
 - id: c-173105
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     154
 

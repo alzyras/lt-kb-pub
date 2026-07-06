@@ -198,6 +198,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 ## Citatos
 
 - id: c-30264
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kita pilis, 1400 pastatyta tiksliai nenustatomoje vie­
     toje (arti prie Dubysos), buvo pavadinta « Friedeburg »^19. Joje
@@ -212,6 +214,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - t-176559
 
 - id: c-160559
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1407
     m. buvo atstatytas ir Friedeburgas^41. Svarbiausia kryžiuočių tvir­
@@ -228,6 +232,9 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - t-176558
 
 - id: c-160560
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas Didysis, sulaukęs Makro Lietuvoje, pirmiausia
     pasistengė patraukti jį į savo pusę: jis gražiai Makrą priėmė,
@@ -248,6 +255,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - t-176560
 
 - id: c-167745
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vieną ordino pilį prie Nevėžio padėjo pastatyti pats
     Vytautas^18. Kita pilis, 1400 pastatyta tiksliai nenustatomoje vie­

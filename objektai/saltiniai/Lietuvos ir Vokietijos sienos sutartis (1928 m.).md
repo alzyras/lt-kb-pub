@@ -77,6 +77,8 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
 ## Citatos
 
 - id: c-23879
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
     tuviais, skaičiavo krašte esant 50,8 proc. lietuvių. Lietuva įgijo neužšalantį

@@ -70,6 +70,8 @@ Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestel
 ## Citatos
 
 - id: c-177173
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     220
 

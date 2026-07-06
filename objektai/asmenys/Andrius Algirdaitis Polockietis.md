@@ -158,6 +158,8 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
 ## Citatos
 
 - id: c-41823
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšyje žuvo keliasdešimt (kartais nu-
     rodoma net 74) žymių Lietuvos kuni-
@@ -184,6 +186,8 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
     - t-004
 
 - id: c-44276
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1372 m. žygis
     1372 m. pavasarį, siekdamas apsiginti nuo

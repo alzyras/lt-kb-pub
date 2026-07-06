@@ -70,6 +70,8 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
 ## Citatos
 
 - id: c-33827
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Begyvendamos kaimynystėje, abi protautės įgijo bendrų
     žodžių ir kalbos ypatybių, kurios jas atskyrė nuo kitų indoeuropie­

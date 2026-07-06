@@ -105,6 +105,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169194
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo tarpu Vytautas, slėpdamas
     savo priešiškumą ir daug galvodamas apie karą, vėl

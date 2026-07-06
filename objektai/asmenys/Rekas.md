@@ -110,6 +110,8 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
 ## Citatos
 
 - id: c-172994
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
     nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
@@ -128,6 +130,8 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
     - t-190111
 
 - id: c-172995
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nimfa, pagauta davusi žodį, nebegalė­
     jo atsisakyti, tad pažadėjo pasimatyti su juo vienu, tik su sąly­

@@ -97,6 +97,8 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
 ## Citatos
 
 - id: c-84079
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmoji iki šiol žinoma Vilniuje
     išleista knyga yra 1525 metais

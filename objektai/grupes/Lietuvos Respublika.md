@@ -165,6 +165,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 ## Citatos
 
 - id: c-22566
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
     tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
@@ -181,6 +183,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - t-74769
 
 - id: c-22567
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Būtent ši samprata iškilo 1920 m.
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
@@ -196,6 +200,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - t-74770
 
 - id: c-176236
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
     suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-

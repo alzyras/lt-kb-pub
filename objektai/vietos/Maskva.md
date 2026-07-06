@@ -5061,6 +5061,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 ## Citatos
 
 - id: c-05665
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
     didesnių nuostolių. Vytautinė imperija nuėjo praeitin lyg šviesus
@@ -5076,6 +5078,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177784
 
 - id: c-24290
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Galėtume ma-
     nyti, kad ir lietuvių epas buvo pradėjęs formuotis. Visų pirma atsirado
@@ -5096,6 +5100,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177739
 
 - id: c-32224
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
     ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
@@ -5110,6 +5116,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177783
 
 - id: c-32225
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tretįjį Maskvos žygį (1372.IV.) pradėjo Kęstutis ir Andrius
     Algirdaitis (iš Polocko), netikėtai su didele kariuomene įsiveržę į
@@ -5122,6 +5130,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177713
 
 - id: c-37537
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šis daly­
     kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­
@@ -5149,6 +5160,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177724
 
 - id: c-37540
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Palaikydamas labai gyvus politinius santykius
     su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
@@ -5168,6 +5182,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177701
 
 - id: c-43625
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
 
@@ -5196,6 +5212,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177714
 
 - id: c-43627
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jau
     krikščioniška valstybe tapusi Lietuva xv a. Žalgirio ir Pabaisko
@@ -5225,6 +5243,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177744
 
 - id: c-43628
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1611m. J. K. Chodkevičiui buvo pavesta vadovauti
     Maskvoje apsuptos lenkų ir lietuvių įgulos debloka-
@@ -5240,6 +5260,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177748
 
 - id: c-43629
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dėl valdžios ėmė kovoti
     Abiejų Tautų valdovo Zigmanto Vazos re-
@@ -5262,6 +5284,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177802
 
 - id: c-46605
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Labai greit vyriausiasis brolis, Andrius, val-
     dęs Polocką, atsisakė klausyti Jogailos ir, pabėgęs į Maskvą,
@@ -5279,6 +5303,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177807
 
 - id: c-46608
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
     Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų
@@ -5297,6 +5323,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177766
 
 - id: c-46614
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po jo, 15 metų buvo caru jokiems dideliems
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
@@ -5312,6 +5340,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177722
 
 - id: c-161548
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Buvo nacionalizuoti
     bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
@@ -5327,6 +5357,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177779
 
 - id: c-161549
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dalis Rusijos bojarinų naujuoju caru iš-
     rinko Zigmanto Vazos sūnų Vladislovą.
@@ -5345,6 +5377,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177773
 
 - id: c-161550
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Antra vertus, birželio 22–28 dienos įvykiai – dar vienas tragiškas
 
@@ -5371,6 +5405,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177776
 
 - id: c-161551
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
     balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
@@ -5397,6 +5433,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177732
 
 - id: c-161552
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -5416,6 +5454,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177709
 
 - id: c-161553
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas
     sugebėjo įvairiais būdais stiprinti sa­
@@ -5443,6 +5483,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177707
 
 - id: c-161554
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi,
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
@@ -5461,6 +5503,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177759
 
 - id: c-161555
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
     Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
@@ -5486,6 +5530,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177774
 
 - id: c-161557
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
     santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
@@ -5502,6 +5548,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177716
 
 - id: c-161560
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
@@ -5526,6 +5574,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177753
 
 - id: c-161562
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1452
     metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­
@@ -5544,6 +5594,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177765
 
 - id: c-161563
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atėjo metas Lietuvos ir Lenkijos santykių
     problemai. XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
@@ -5558,6 +5610,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177719
 
 - id: c-161565
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
     rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
@@ -5576,6 +5630,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177788
 
 - id: c-161567
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
     sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
@@ -5593,6 +5649,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177717
 
 - id: c-161568
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Klaipėdos sukilimas, kuriam vadovavo J. Budrys, tapo paskutine ofenzyvinio pobūdžio Lietuvos karinė operacija, kurios dėka xx a. pirmoje pusėje buvo susigrąžintas
     Klaipėdos kraštas, vokiečių užgrobtas dar XII a. viduryje.
@@ -5618,6 +5676,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177809
 
 - id: c-161569
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Suprantame, kad mūsų ganytojiškoms parei­
     goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
@@ -5645,6 +5705,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177740
 
 - id: c-161570
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilniaus katedroje, dalyvaujant Varšuvos
     kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
@@ -5660,6 +5722,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177749
 
 - id: c-161571
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
     kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
@@ -5677,6 +5741,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177742
 
 - id: c-161572
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reali aukščiausioji valdžia atiteko ne šalyje li-
     kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
@@ -5696,6 +5762,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177798
 
 - id: c-161574
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
     Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
@@ -5711,6 +5779,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177738
 
 - id: c-161575
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
     kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
@@ -5726,6 +5796,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177708
 
 - id: c-161576
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
     kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
@@ -5746,6 +5818,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177800
 
 - id: c-161579
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kenksmingą tos virše­
     nybės įtaką graikų apeigų tikėjimo
@@ -5774,6 +5848,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177810
 
 - id: c-161580
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
     metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta
@@ -5802,6 +5878,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177777
 
 - id: c-161581
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
     mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
@@ -5818,6 +5896,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177712
 
 - id: c-161582
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
@@ -5835,6 +5916,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177764
 
 - id: c-161583
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vytauto nusistaty­
     mas rusų metraščiuose yra atžymėtas įvairiais vaizdingais posa­
@@ -5853,6 +5936,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177711
 
 - id: c-161585
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Daugelis brangeny-
     bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
@@ -5870,6 +5955,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177745
 
 - id: c-161586
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kovo mėnesį, pasitelkus tarptautinį arbitražą, nustatyta siena
     tarp abiejų šalių.
@@ -5887,6 +5974,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177785
 
 - id: c-161588
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagalba atėjo iš Islandijos – 1991 m.
     vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
@@ -5909,6 +5998,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177797
 
 - id: c-161591
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
     pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
@@ -5925,6 +6016,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177726
 
 - id: c-161592
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     142
@@ -5946,6 +6039,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177737
 
 - id: c-161593
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nuo šiol trijulės likimas
     taps nepaprastai panašus. Reali aukščiausioji valdžia atiteko ne šalyje li-
@@ -5963,6 +6058,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177815
 
 - id: c-161594
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kaunas, 1959 m. liepos 16 d.
     Mariaus Baranausko nuotrauka
@@ -5992,6 +6089,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177772
 
 - id: c-161596
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Mat, vyresnieji Jogailos broliai jautėsi turį daugiau
     teisių tėvo palikimui, negu Jogaila, ir todėl nenorėjo pripa-
@@ -6009,6 +6108,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177794
 
 - id: c-161597
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi Lietuvos
     Metrikos dokumentai – tai LDK politikos, visuomenės, ūkio, teisės, kul-
@@ -6025,6 +6126,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177704
 
 - id: c-161600
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pasibaigus karams su vokiečių ordinu, atsi-
     darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
@@ -6042,6 +6145,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177757
 
 - id: c-161602
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O valdžios olimpe įsitvirtinus Leo-
     nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
@@ -6061,6 +6166,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177771
 
 - id: c-161604
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Disidentinis judėjimas sten-
     gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
@@ -6082,6 +6189,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177767
 
 - id: c-161606
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
     tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
@@ -6100,6 +6209,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177747
 
 - id: c-161610
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
     sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
@@ -6117,6 +6228,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177755
 
 - id: c-161612
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
     mėnesiais aplenkusi Prancūzijos konstituciją.
@@ -6139,6 +6252,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177808
 
 - id: c-161615
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
     Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
@@ -6160,6 +6275,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177811
 
 - id: c-161616
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
     ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
@@ -6178,6 +6295,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177760
 
 - id: c-161620
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
     su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
@@ -6199,6 +6318,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177736
 
 - id: c-161622
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
@@ -6218,6 +6339,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177720
 
 - id: c-161623
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
     lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
@@ -6231,6 +6354,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177756
 
 - id: c-161629
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
     ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
@@ -6248,6 +6373,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177790
 
 - id: c-161631
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
     159
@@ -6275,6 +6402,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177762
 
 - id: c-161632
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nors priešas buvo užkluptas netikėtai, tačiau
     žiemos sąlygomis pats Algirdas nebuvo pasiruošęs ilgam apgulimui.
@@ -6289,6 +6418,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177746
 
 - id: c-161633
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Liublino unijos nauda pasireiškė jau ne-
     trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
@@ -6307,6 +6438,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177733
 
 - id: c-161634
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
@@ -6325,6 +6458,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177752
 
 - id: c-161636
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     vo valdomos pačių žmonių, pasikviečiant vadas ar iš lietuvių
     ar iš rusų kunigaikščių tarpo. Tos respublikos, tarpininkaujant
@@ -6344,6 +6480,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177727
 
 - id: c-161640
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     J. K. Chodkevičius kovojo su Maskvos
     kariuomene gindamas Smolenską. 1617-1618 m. daly-
@@ -6362,6 +6500,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177787
 
 - id: c-161642
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vy­
     tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
@@ -6383,6 +6524,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177769
 
 - id: c-161644
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Į Maskvą vykstantį sužadėtinį
     palydėjo Vytauto kariuomenės būrys. Jam grįžus į Maskvą, tarp
@@ -6399,6 +6542,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177768
 
 - id: c-161646
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pramonė labiau
     specializuota, imta kurti chemijos, elektronikos pramonė, vietos valdžia
@@ -6416,6 +6561,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-177791
 
 - id: c-166441
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
@@ -6430,6 +6577,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-183050
 
 - id: c-168400
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Neilgai trukus, įsmei­
     gęs į Dimitrijaus rūmus ietį,
@@ -6460,6 +6609,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-185039
 
 - id: c-168401
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dėl to visi pradėjo
     atvirai niekinti senuosius magistrų, maršalų, komtūrų
@@ -6485,6 +6636,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-185040
 
 - id: c-168403
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Susitikę su maskvėnais, karaliaus le­
     gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
@@ -6503,6 +6656,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-185042
 
 - id: c-170554
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kalbant apie LDK santykius su Rusų valstybe, labai
     iškeliamas Vytauto pranašumas savo žento Vasilijaus,
@@ -6519,6 +6674,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-187607
 
 - id: c-170555
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ## Puslapis 237
 
@@ -6533,6 +6690,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-187608
 
 - id: c-171659
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     24
     Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
@@ -6547,6 +6706,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-188770
 
 - id: c-175957
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tad matydamas, kad geruoju
     neatgaus savo tėviškės — Trakų, Vytautas ėmė ruoštis kovai.
@@ -6562,6 +6723,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-193213
 
 - id: c-175958
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bėgdamas iš totorių nelaisvės, Mask-
     vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
@@ -6576,6 +6739,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-193214
 
 - id: c-175959
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Valstybei pasidalinus pusiau,
     buvo aišku, kad ginčą turės išspręsti ginklas. Švitrigaila ne tik
@@ -6594,6 +6759,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-193215
 
 - id: c-176146
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Maskvos didikai atkirto, kad ne­
     gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
@@ -6617,6 +6784,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-193424
 
 - id: c-177330
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau šio Ross pavadini­
     mo neįmanoma susieti su jokia kita tauta, išskyrus bu­

@@ -79,6 +79,8 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 ## Citatos
 
 - id: c-44771
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     praktiškai žuvo visa apygardos vadovybė.
     1950 m. lapkričio 25 d. srities vado įsakymu

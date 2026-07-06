@@ -82,6 +82,8 @@ Janulaitis, nors dar labiau daugiadarbis. Surinkdamas daug archyvinės medžiago
 ## Citatos
 
 - id: c-30454
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
     «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­

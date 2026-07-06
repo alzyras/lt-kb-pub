@@ -72,6 +72,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-38357
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     V., 518—519 nr.
     (^3) ) Lietuvos bažnytinė provincija įkurta 1926. IV. 4 dabartinio popie­

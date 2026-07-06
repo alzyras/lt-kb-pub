@@ -136,6 +136,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174897
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Staiga jie suvokė esą apsupti
     poloviečių ir alanų, šio krašto tautų: jiems tuomet pri­
@@ -152,6 +154,8 @@ Nenurodyta
     - t-192016
 
 - id: c-175281
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Erbelotas* mini vieną
     alanų karaliuką, viešpatavusį savo genties ordoje, kuri

@@ -109,6 +109,8 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
 ## Citatos
 
 - id: c-174223
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg­
     lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi­
@@ -126,6 +128,8 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
     - t-191341
 
 - id: c-174224
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia randame detalę, kuri pasikartoja kitose provinci­
     jose ir kuri galėtų labiau paaiškinti visos tautos istoriją,

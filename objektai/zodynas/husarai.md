@@ -246,6 +246,8 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 ## Citatos
 
 - id: c-44170
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos pasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas
 
@@ -263,6 +265,8 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - t-49271
 
 - id: c-44173
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvoje ir Lenkijoje nebuvo atsisakyta sunkiųjų raitelių, kurių
     pagrindiniu kovos metodu išliko kontaktinė (šoko) ataka šaltai-
@@ -281,6 +285,8 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - t-49270
 
 - id: c-51275
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Juos prieš-
     puoliu sustabdė lietuvių dešiniojo sparno
@@ -326,6 +332,8 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - t-49272
 
 - id: c-51276
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvoje atsiradusi vengriško tipo lengvoji ka-
     valerija. xvI a. antrojoje pusėje Abiejų Tautų Respublikoje husarai

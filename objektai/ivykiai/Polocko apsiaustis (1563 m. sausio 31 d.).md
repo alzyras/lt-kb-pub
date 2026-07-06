@@ -132,6 +132,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43106
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Polocko netektis buvo netikėta kaip per-
     kūnas iš giedro dangaus. Gavęs šią žinią,
@@ -149,6 +151,8 @@ Nenurodyta
     - t-41344
 
 - id: c-44925
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     nių rezultatų nepasiekė. Tačiau 1563 m. pra-
 

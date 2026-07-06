@@ -84,6 +84,8 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 ## Citatos
 
 - id: c-32711
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Naugardu
     sudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių

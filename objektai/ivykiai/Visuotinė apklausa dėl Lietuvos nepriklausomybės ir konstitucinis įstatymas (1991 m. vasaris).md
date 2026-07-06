@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75227
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau, nors karo veiksmai prieš Lietuvą ir buvo
     pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo

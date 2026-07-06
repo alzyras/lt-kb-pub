@@ -117,6 +117,8 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
 ## Citatos
 
 - id: c-168730
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nerasdamas kitos dings­
     ties laiškų rašyti, nusiskundė dėl pasieniuose daromų
@@ -136,6 +138,8 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
     - t-185369
 
 - id: c-168731
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vildamiesi, jog ta proga galės
     šį bei tą naudinga padaryti Lietuvai, jie noriai sugrįžo

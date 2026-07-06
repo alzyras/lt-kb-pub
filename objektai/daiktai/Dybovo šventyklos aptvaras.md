@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172603
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
     las arba šventykla, savo viduryje turėjusi neapsakomo didumo

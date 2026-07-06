@@ -100,6 +100,9 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
 ## Citatos
 
 - id: c-38095
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nors buvo jau vakaras, Zigmantas
     aplankė Vytautą. Rado čia ir Vytauto sekretorių ar kanclerį
@@ -114,6 +117,9 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     - t-35230
 
 - id: c-38096
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     (^1) ) C. ep. V. 816 p. (^2) ) T. p.
     (^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­

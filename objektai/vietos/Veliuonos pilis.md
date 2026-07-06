@@ -75,6 +75,8 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 ## Citatos
 
 - id: c-171818
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vėliau, pagal 1331 metų rugsėjo 17
     dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys

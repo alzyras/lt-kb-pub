@@ -90,6 +90,8 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
 ## Citatos
 
 - id: c-77315
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Bolševikai tą dieną į lietuvių pusę paleido
     užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus

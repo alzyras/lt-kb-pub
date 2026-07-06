@@ -205,6 +205,8 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 ## Citatos
 
 - id: c-168732
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ramiai
     praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
@@ -222,6 +224,8 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
     - t-185371
 
 - id: c-168733
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     J 63
 

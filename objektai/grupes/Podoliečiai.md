@@ -66,6 +66,9 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
 ## Citatos
 
 - id: c-38289
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Užtai nenuostabu, kad Jadvygos,
     įtaka padarė tai, kad lenkai šiame žygyje beveik nedalyvavo.

@@ -72,6 +72,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ## Citatos
 
 - id: c-60839
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose
     vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš

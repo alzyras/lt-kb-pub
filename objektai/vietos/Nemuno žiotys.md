@@ -68,6 +68,8 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
 ## Citatos
 
 - id: c-02867
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
     pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.

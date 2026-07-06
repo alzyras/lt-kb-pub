@@ -106,6 +106,9 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
 ## Citatos
 
 - id: c-38649
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lietuviai ir lenkai, norėdami
     labiau nukreipti nuo savęs dėmesį, įsakė savo kariuomenių bū­
@@ -123,6 +126,9 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     - t-36594
 
 - id: c-38650
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
     buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­

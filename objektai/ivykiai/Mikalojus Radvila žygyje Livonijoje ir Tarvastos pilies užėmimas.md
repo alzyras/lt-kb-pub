@@ -75,6 +75,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168983
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ko g e ­
     ro, jiem s b ū tų  p av y k ę  atre m ti antpuoli, jeig u  Jo n a s

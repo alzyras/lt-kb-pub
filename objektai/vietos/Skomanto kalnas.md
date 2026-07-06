@@ -67,6 +67,8 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
 ## Citatos
 
 - id: c-59359
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Skokiai žr. Zioka
     Skomackas

@@ -73,6 +73,8 @@ Dusburgietis teigia, kad [Ibrahim ibn Jákūb].
 ## Citatos
 
 - id: c-61901
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [Ibrahim ibn Jákūb]. Relacja Ibrahima ibn Jakuba z podróży do krajów słowiańskich
     w przekazie Al-Bekriego / Wyd. T. Kowalski.— Pomniki dziejowe Polski. Ser. 2, t. 1.—

@@ -206,6 +206,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 ## Citatos
 
 - id: c-172102
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
     žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
@@ -228,6 +230,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     - t-189214
 
 - id: c-172103
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
     miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
@@ -250,6 +254,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     - t-189215
 
 - id: c-172104
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -268,6 +274,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     - t-189216
 
 - id: c-172105
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
     takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­

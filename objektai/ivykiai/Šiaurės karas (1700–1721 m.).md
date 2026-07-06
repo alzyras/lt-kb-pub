@@ -136,6 +136,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-40948
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šiaurės karas
 
@@ -152,6 +154,8 @@ Nenurodyta
     - t-39143
 
 - id: c-176407
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos vytis ant Frydricho
     Augusto I (Augusto II) rūmų

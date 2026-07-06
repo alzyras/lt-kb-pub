@@ -66,6 +66,8 @@ Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (neto
 ## Citatos
 
 - id: c-176328
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Solidarumas“ pradėjo, o Vokietijos susivie-
     nijimas baigė griauti SSRS dominuojamą socialistinių šalių bloką (vadi-

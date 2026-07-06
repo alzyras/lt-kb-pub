@@ -156,6 +156,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66919
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
     dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
@@ -170,6 +172,8 @@ Nenurodyta
     - t-66789
 
 - id: c-166654
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-

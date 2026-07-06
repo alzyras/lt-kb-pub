@@ -78,6 +78,8 @@ Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rez
 ## Citatos
 
 - id: c-174374
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ant Rinavos kalno buvo tokia Gailgar-
     bio, arba Galgarbeno1, pilis, kur, anot padavimų, savo

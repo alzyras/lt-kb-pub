@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10300
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Antrasis stabas antrajame uokse buvęs grakštus jaunikaitis, galva jo varpų vainiku apklėsta,
         veido linksmo, vadinę Trimpa, arba Drimba, kaip patarlėj šiandien dar yra sakoma: „Eik sau po

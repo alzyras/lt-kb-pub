@@ -124,6 +124,8 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
 ## Citatos
 
 - id: c-174160
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     155
 
@@ -153,6 +155,8 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
     - t-191278
 
 - id: c-174161
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būtent ši priežastis daro
     mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­

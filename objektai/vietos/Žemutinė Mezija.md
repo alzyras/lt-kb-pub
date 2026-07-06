@@ -79,6 +79,8 @@ Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau
 ## Citatos
 
 - id: c-175630
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     282
 

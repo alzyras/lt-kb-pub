@@ -131,6 +131,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-175823
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
     sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
@@ -153,6 +155,8 @@ media_all_json: |-
     - t-193058
 
 - id: c-175824
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmasis,
     kurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­

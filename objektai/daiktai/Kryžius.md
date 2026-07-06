@@ -432,6 +432,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170022
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
     VILNIUJE

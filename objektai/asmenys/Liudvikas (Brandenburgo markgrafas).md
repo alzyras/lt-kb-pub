@@ -80,6 +80,8 @@ Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine
 ## Citatos
 
 - id: c-169595
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po
     to keletą metų viešpatavo ramybė: stoti į kovą su len­

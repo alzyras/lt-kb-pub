@@ -184,6 +184,8 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 ## Citatos
 
 - id: c-65623
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Karaliaučiuje žymaus
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
@@ -212,6 +214,8 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     - t-65147
 
 - id: c-166510
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
     praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
@@ -228,6 +232,8 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     - t-183125
 
 - id: c-166511
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jau tuomet pripažinta, kad
     tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.

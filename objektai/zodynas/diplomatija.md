@@ -82,6 +82,9 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 ## Citatos
 
 - id: c-38730
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­
     dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­

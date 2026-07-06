@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-21963
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Naujas galimybes atvėrė dviejų imperijų – Rusijos ir Vokietijos – pra-
     laimėjimai kare, revoliucijos abiejose šalyse. Valstybės Taryba vis atkak­

@@ -66,6 +66,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-41522
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1 būrio kareiviai Cipkevičius ir
     Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais. Nieko jiems neatsakiau. Cipkevičius

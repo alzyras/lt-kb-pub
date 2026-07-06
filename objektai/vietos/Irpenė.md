@@ -87,6 +87,8 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
 ## Citatos
 
 - id: c-45108
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jį pasitiko išėję iš miesto igu-
     menai, šventikai, bajorai ir atvėrę miesto

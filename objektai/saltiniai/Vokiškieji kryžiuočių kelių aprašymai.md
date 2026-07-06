@@ -178,6 +178,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 ## Citatos
 
 - id: c-61562
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     545 D.— contra territorium [...] Wayken, intraverunt territorium Waykinam, Jer.—
     zu Waiken. Vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H.,
@@ -193,6 +195,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - t-60930
 
 - id: c-61564
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą
     aprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad
@@ -206,6 +210,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - t-60931
 
 - id: c-61565
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Norkyčiai minimi 1376—
     1384 m. šaltiniuose: Nervekethe, Nerwykiten, Nerbekiten, Merwekitin, Nerwekitten
@@ -222,6 +228,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - t-60932
 
 - id: c-61566
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vokiškuose kryžiuočių kelių aprašymuose
     — Rangith (Weg. 6), Rangnit (Weg. 7, 8, 15, 18 22, 43), Rangnith (Weg. 8, 90), Rangit

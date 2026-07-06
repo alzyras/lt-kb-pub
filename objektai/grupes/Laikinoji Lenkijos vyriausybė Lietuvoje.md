@@ -76,6 +76,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-25110
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iki gegužės sukilėliai perėmė valdžią bemaž visoje teritorijoje į vakarus ir
     šiaurę nuo Vilniaus.

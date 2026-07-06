@@ -69,6 +69,8 @@ Adalberto (Vaitiekaus) biografas Canaparius, kuris kalbėjo apie « Pruzzorum fi
 ## Citatos
 
 - id: c-32907
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Net žinomoje prancūzų
     epo Rolando giesmėje (Chanson de Roland) tarp saracėnų talki­

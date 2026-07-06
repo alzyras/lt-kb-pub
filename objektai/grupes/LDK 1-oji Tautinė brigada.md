@@ -82,6 +82,8 @@ Pirmoji kovų fazė: Vilniaus išvadavimas 1794 m. balandžio 16 d. Šiauliuose 
 ## Citatos
 
 - id: c-44780
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmoji kovų fazė: Vilniaus
 

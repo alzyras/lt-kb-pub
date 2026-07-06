@@ -196,6 +196,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55175
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mykolas Lietuvis siūlo ir kalbos permainas – at-
     sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-
@@ -212,6 +214,8 @@ Nenurodyta
     - t-54298
 
 - id: c-55176
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvai tai
     pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
@@ -227,6 +231,8 @@ Nenurodyta
     - t-54299
 
 - id: c-166712
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau viską nulė-
     mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji

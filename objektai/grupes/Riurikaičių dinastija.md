@@ -228,6 +228,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 ## Citatos
 
 - id: c-31247
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šituo atžvilgiu XV amž. gale
     Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
@@ -249,6 +251,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-96869
 
 - id: c-31248
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ir Gediminas, ir Jonas Kalita savo valdžioje
     turėjo eilę dalinių kunigaikščių. Tik Lietuvos daliniai kunigaikščiai,
@@ -263,6 +267,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-96867
 
 - id: c-91460
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Abu jiedu įkūrė iki šiol patverusias sostines
     (Vilnių, Kremlių), į jų pamatus įmūrydami amžiną Gedimino sosti­
@@ -279,6 +285,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-96866
 
 - id: c-167704
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tik Lietuvos daliniai kunigaikščiai,
     ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai,
@@ -293,6 +301,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-184334
 
 - id: c-176240
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be to,
     stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-

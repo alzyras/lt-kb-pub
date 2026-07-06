@@ -75,6 +75,8 @@ Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų ku
 ## Citatos
 
 - id: c-45073
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     X. ŽARĖNŲ KAUTYNĖS
 

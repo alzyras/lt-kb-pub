@@ -63,6 +63,8 @@ Reikala.
 ## Citatos
 
 - id: c-41549
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     J. Nastopka. Rezervas parėmė šią koloną,
     o vadovavimą perėmė karin. J. Reikala.

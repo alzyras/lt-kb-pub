@@ -207,6 +207,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
 ## Citatos
 
 - id: c-175125
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet manęs
     toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
@@ -226,6 +228,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
     - t-192323
 
 - id: c-175126
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš čia atsiradęs žodis Za-kon, įstatymas. Bet manęs
     toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
@@ -243,6 +247,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
     - t-192324
 
 - id: c-175344
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Aš pats piliečių sutartyse, parašytose
     Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-

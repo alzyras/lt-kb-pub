@@ -80,6 +80,8 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 ## Citatos
 
 - id: c-23717
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune

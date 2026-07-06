@@ -79,6 +79,8 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
 ## Citatos
 
 - id: c-61920
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West-
     Preussen nebst dem Netzdistrict 1 : 150000. 25 Sectionen (Schroetter-Karte, 1796—

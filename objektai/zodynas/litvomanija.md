@@ -89,6 +89,8 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
 ## Citatos
 
 - id: c-75123
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
     atrado dar vieną – lenkų polonizatorius. Jau ne vienos šeimos kalbėjimas

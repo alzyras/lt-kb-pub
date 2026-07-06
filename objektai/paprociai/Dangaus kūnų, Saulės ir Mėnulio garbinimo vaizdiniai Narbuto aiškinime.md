@@ -209,6 +209,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172699
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Išnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­
     stebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­
@@ -235,6 +237,8 @@ Nenurodyta
     - t-189816
 
 - id: c-172700
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     185
 
@@ -254,6 +258,8 @@ Nenurodyta
     - t-189817
 
 - id: c-172701
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
     jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
@@ -270,6 +276,8 @@ Nenurodyta
     - t-189818
 
 - id: c-172702
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
     perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami

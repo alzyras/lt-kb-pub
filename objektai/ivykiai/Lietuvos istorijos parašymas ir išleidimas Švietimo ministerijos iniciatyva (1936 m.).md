@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23038
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kartais juos
     inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-
@@ -153,6 +155,8 @@ Nenurodyta
     - t-20311
 
 - id: c-166632
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-

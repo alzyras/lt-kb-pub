@@ -80,6 +80,8 @@ Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, i
 ## Citatos
 
 - id: c-169575
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

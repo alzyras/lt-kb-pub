@@ -64,6 +64,8 @@ Tie vadai buvo vadinami rikiais ir kunigais.
 ## Citatos
 
 - id: c-176026
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu turtingesnių šeimų galvos
     tapdavo visos giminės ir apylinkės vadais ir savotiškais valdo-

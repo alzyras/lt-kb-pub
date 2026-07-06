@@ -70,6 +70,8 @@ Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė kon
 ## Citatos
 
 - id: c-75152
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl sukilėlių būriuose, kuriems vadovavo vieti-
     niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net

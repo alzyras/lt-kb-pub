@@ -74,6 +74,8 @@ Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkap
 ## Citatos
 
 - id: c-171926
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš istorijos žinome, kad kartais panašiai
     darydavo romėnai. Kad Pavyslio, Padneprio senieji gyventojai

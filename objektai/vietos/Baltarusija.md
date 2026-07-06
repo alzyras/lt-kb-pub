@@ -525,6 +525,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 ## Citatos
 
 - id: c-24058
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Manoma, kad jei
     ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
@@ -547,6 +549,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-012
 
 - id: c-24060
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
     t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
@@ -566,6 +570,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-76165
 
 - id: c-24061
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     bendradarbiavimo ir dėl valstybės sienos. Gerai klostėsi ekonominiai san-
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
@@ -580,6 +586,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-76168
 
 - id: c-73805
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visa tai buvo ne kas
 
@@ -600,6 +608,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-76169
 
 - id: c-73806
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe –
     Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynys-
@@ -620,6 +630,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-76166
 
 - id: c-168287
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Negi jie mano, jog Že­
     maitija, ginklu ketinanti paremti Mykolą, būsianti klus­
@@ -639,6 +651,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-184926
 
 - id: c-168288
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žiemos viduryje ap­
     lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
@@ -681,6 +695,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-184927
 
 - id: c-175381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Paprastai jos būva netoli gyvenviečių
     arba joms tinkamose vietose.
@@ -701,6 +717,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-192611
 
 - id: c-177319
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš to žinoma, kad pilkapius pildavo tiesiog ant
     žemės paviršiaus, nekasdami po jais jokių duobių.

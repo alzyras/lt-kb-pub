@@ -72,6 +72,8 @@ Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė L
 ## Citatos
 
 - id: c-172137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dugne (Dugną)
     Upinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­

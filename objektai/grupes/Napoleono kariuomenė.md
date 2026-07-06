@@ -153,6 +153,8 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
 ## Citatos
 
 - id: c-47007
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Iš visos Lietuvos rusai pa-
     sitraukė be mūšio. Su jais išsikraustė ir Oginskis ir kiti Rusijos
@@ -169,6 +171,8 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     - t-43517
 
 - id: c-47009
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Rusų valdžios sugrįžimas.** Paskui Napoleoną atslinko į
     Lietuvą ir jo kariuomenės likučiai. Išbadėjusi ir nuskurusi ka-
@@ -182,6 +186,8 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     - t-43516
 
 - id: c-166314
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Su jais išsikraustė ir Oginskis ir kiti Rusijos
     globos šalininkai.

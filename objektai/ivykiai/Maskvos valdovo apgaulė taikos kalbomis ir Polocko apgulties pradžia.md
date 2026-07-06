@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176176
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     P ag arb iai išly d ėjęs k araliau s p asiu n ti­
     nius, dėjo si esąs p aten k in tas, jo g  galop atėjo  taik o s

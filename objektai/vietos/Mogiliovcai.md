@@ -119,6 +119,8 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
 ## Citatos
 
 - id: c-170318
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     I RANKRAŠTIS IR JO  SKELBIMAS
     Bychovco kronika, palyginus su Trumpuoju ir Pla-

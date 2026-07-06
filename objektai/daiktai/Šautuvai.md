@@ -168,6 +168,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170032
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Dėl keblaus upės perėjimo negalėjo ne­
     delsiant su jais susigrumti ir daugiau kaip tris valan­

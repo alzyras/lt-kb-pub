@@ -143,6 +143,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 ## Citatos
 
 - id: c-176889
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     - • —
     181
@@ -167,6 +169,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
     - t-194297
 
 - id: c-176890
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1687. Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­
     nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui
@@ -184,6 +188,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
     - t-194298
 
 - id: c-176891
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­
     žymėtina], kad nemaža medikamentų dalis buvo išleista in

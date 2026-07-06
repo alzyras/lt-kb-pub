@@ -136,6 +136,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 ## Citatos
 
 - id: c-86288
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Girmavos valsčiaus nuniokojimą
 
@@ -156,6 +158,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - t-90453
 
 - id: c-86289
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į
     pietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras.

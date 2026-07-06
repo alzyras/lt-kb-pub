@@ -76,6 +76,8 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
 ## Citatos
 
 - id: c-174538
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     O iš čia didelė tauta ėmė lietis į
     visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei

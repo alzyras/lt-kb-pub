@@ -71,6 +71,8 @@ Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando 
 ## Citatos
 
 - id: c-169469
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
     jųjų metų nepradėta kalbėtis dėl taikos. Maskvėnų

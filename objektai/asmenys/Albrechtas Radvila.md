@@ -85,6 +85,8 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
 ## Citatos
 
 - id: c-83592
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kardinolas Radvila
     dalyje, vadinamoje Goštautų mūru,

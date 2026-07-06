@@ -113,6 +113,8 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
 ## Citatos
 
 - id: c-174119
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jį vadindavo plėšriuoju slibi­
     nu2, be to, jis turėjęs stiprią burtų galią, nes kiekvieną
@@ -128,6 +130,8 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
     - t-191237
 
 - id: c-174120
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­

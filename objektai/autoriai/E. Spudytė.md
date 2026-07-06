@@ -76,6 +76,8 @@ Spudytė.
 ## Citatos
 
 - id: c-75386
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 2000; Žemaičių muziejus Alka. Sud.
     E. Spudytė. Vilnius, 2007.

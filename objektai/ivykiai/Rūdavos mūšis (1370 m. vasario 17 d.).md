@@ -166,6 +166,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-66967
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas, vos dvidešimties metų jaunuolis, žinoma, čia da­
     lyvaudamas, vadovaujamos reikšmės dar neturėjo, bet buvo tik
@@ -180,6 +183,9 @@ Nenurodyta
     - t-66864
 
 - id: c-66968
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasidalinę mažais būre­
     liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­

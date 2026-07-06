@@ -91,6 +91,8 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
 ## Citatos
 
 - id: c-170323
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Apie Peremiš-
     llo kunigaikščio dalyvavimų kalbama tik BK.

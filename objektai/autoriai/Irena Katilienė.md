@@ -104,6 +104,8 @@ Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
 ## Citatos
 
 - id: c-55571
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     UDK 947.45
     Ba237

@@ -122,6 +122,8 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
 ## Citatos
 
 - id: c-174220
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     298
     Netrukus po to, apie 269 metus, gotai, surinkę milži­
@@ -140,6 +142,8 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
     - t-191338
 
 - id: c-177307
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Maždaug tuo metu, kai
     Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir

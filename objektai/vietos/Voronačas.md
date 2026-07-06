@@ -170,6 +170,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-170392
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1426 m. rugpiūčio mėn. Vytautas
     puolė Pskovo miestus Opočkų (V1II.1) Ir Voronačų (VIII.5Į, bet jų
@@ -184,6 +186,8 @@ media_all_json: |-
     - t-187394
 
 - id: c-170393
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d.
     naugardiečiams paprašius taikos.

@@ -74,6 +74,8 @@ Jakštas: Jogailos ir Vytauto kovos su vokiečių ordinu, rink.
 ## Citatos
 
 - id: c-33586
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^7) **SRP, III, 224 p.**
     (^8) **SRP, III, 226, 228 p. —- Apie visus įvykius po 1398 taikos žr. R.

@@ -91,6 +91,8 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
 ## Citatos
 
 - id: c-16503
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į v a d a s
     LIETUVA –

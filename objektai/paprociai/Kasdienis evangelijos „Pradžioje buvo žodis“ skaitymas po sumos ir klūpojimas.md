@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62557
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1. Apie evangeliją: pradžioje buvo žodis
 

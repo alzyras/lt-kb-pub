@@ -72,6 +72,8 @@ Be to, Rusijai reikalaujant, su ja buvo padaryta puolimo bei gynimosi sutartis.
 ## Citatos
 
 - id: c-02510
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dabar buvo atskirta ir anksčiau
     buvusi bendra Edukacinė Komisija. Be to, Rusijai reikalaujant,

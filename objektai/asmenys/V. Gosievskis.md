@@ -82,6 +82,8 @@ Gosievskio pajėgas.
 ## Citatos
 
 - id: c-41623
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     J. Čerkaskis dalyvavo užimant
     Gardiną, Vilnių, kur sumušė J. Radvilos

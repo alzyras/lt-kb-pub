@@ -77,6 +77,8 @@ Pirmieji žmonės mūsų krašte jau neabejotinai gyveno viduriniojo akmens amž
 ## Citatos
 
 - id: c-72120
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pirmieji
     žmonės mūsų krašte jau neabejotinai gyveno viduriniojo ak-

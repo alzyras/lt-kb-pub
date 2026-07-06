@@ -82,6 +82,8 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 ## Citatos
 
 - id: c-44452
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.
 

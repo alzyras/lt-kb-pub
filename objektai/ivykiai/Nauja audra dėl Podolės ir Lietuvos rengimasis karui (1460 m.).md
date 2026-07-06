@@ -155,6 +155,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169117
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     N e s ė k m in g a s  ž y g is  į
     P rūsiją
@@ -185,6 +187,8 @@ Nenurodyta
     - t-185756
 
 - id: c-169118
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
     tenkinta grasinimais bei kariuomenės telkimu, nes kaip

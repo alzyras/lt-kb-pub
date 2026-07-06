@@ -58,6 +58,9 @@ b) Voskresensk.
 ## Citatos
 
 - id: c-38439
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     XVII, 517).
     b) Voskresensk. lietopis (Pol. sobr. VIII, 72 p.), „Pochvalivsia, gla-

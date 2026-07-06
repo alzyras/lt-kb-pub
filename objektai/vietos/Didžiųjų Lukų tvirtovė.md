@@ -124,6 +124,8 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
 ## Citatos
 
 - id: c-45071
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     uražas } LLS uchovas
     BSKAS | „Dorėgobužas “4. Obolen: 2
@@ -141,6 +143,8 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
     - t-41676
 
 - id: c-45072
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Čia jos turėjo
     susijungti ir pulti Minsko, Naugarduko, o

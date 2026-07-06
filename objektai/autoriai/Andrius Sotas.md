@@ -77,6 +77,8 @@ Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia C
 ## Citatos
 
 - id: c-174514
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Turimas omenyje žymaus bibliografo Andriaus
     Soto

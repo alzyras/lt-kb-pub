@@ -149,6 +149,8 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 ## Citatos
 
 - id: c-55577
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mykolas Balinskis
     VILNIAUS MIESTO ISTORIJA
@@ -171,6 +173,8 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
     - t-55021
 
 - id: c-78480
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Autorius surinko ir
     panaudojo daugybę istorijos šaltinių, kurie neišliko iki mūsų dienų.

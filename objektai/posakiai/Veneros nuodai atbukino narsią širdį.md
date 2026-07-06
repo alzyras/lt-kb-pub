@@ -84,6 +84,8 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
 ## Citatos
 
 - id: c-176173
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo tarpu garsusis skitų
     emyras Edigejus, su didžiule kariauna nelauktai įsiver­

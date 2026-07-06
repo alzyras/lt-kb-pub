@@ -73,6 +73,9 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
 ## Citatos
 
 - id: c-38524
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Brangūs kailiniai ir
     rytų audeklai, brangios juostos, aukso indai ir bachmatai

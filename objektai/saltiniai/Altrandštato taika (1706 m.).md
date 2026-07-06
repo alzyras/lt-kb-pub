@@ -76,6 +76,8 @@ Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Res
 ## Citatos
 
 - id: c-02368
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Karolis XII
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos

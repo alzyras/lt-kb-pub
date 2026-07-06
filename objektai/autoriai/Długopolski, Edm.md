@@ -76,6 +76,8 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
 ## Citatos
 
 - id: c-29366
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Polska i Litwa, Warsza­
     wa 1914, 1-36 p. — Długopolski, Edm. : _Władysław Łokietek na tle

@@ -69,6 +69,8 @@ Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo jėzuitui jau 
 ## Citatos
 
 - id: c-33475
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Europoje tapo žinomas ir naudojamas.
     Kai Stryjkovskis pats uoliai rinko metraščius ir daug keliavo,

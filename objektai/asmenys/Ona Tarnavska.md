@@ -73,6 +73,8 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
 ## Citatos
 
 - id: c-83791
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be tö, ir ba­
     jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­

@@ -75,6 +75,8 @@ Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Korner
 ## Citatos
 
 - id: c-84041
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas pareiškimas prieštarauja Koje-
     1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),

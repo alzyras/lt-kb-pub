@@ -95,6 +95,8 @@ Ašarinės minimos kapaviečių aprašymuose ir Saurų dvaro muziejaus kataloge.
 ## Citatos
 
 - id: c-174932
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Saurų dvaro muziejaus kataloge T. Nar­
     butas rašė: „Ašarinės: viena pagaminta iš stiklo, su ašaromis;

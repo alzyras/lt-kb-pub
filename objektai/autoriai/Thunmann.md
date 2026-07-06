@@ -80,6 +80,8 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
 ## Citatos
 
 - id: c-173342
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tad maldavo jo nu­
     bausti ir padėti, o kariauninkų narsumą skatino to­

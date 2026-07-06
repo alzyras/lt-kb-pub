@@ -154,6 +154,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-73214
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Alfonsas Eidintas,
        redaktorius
@@ -181,6 +183,8 @@ media_all_json: |-
     - t-75425
 
 - id: c-73215
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
     istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-

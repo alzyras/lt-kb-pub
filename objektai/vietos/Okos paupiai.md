@@ -64,6 +64,8 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 ## Citatos
 
 - id: c-176005
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau amžinosios taikos
     jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.

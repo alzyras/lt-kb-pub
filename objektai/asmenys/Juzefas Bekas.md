@@ -80,6 +80,8 @@ Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Be
 ## Citatos
 
 - id: c-21796
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nega-
     lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-

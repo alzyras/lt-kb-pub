@@ -213,6 +213,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170094
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ВУСНОѴСО KRONIKA IR JOS KILMĖ
     Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
@@ -237,6 +239,8 @@ Nenurodyta
     - t-186917
 
 - id: c-170095
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Trumpajame sąvade, sudarytame apie 1446 m., nuo­
     sekliau ir išsamiau nušviečiama tiktai 1377—1445 m .
@@ -253,6 +257,8 @@ Nenurodyta
     - t-186919
 
 - id: c-170096
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Jame nebuvo išsamesnių žinių ne tik apie Ge­
     dimino, bet ir apie Algirdo valdymą, ir beveik jokit!

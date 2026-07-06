@@ -78,6 +78,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33567
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _Išskiriamieji ženklai lietuviškoje nu­
     mizmatikoje_ , TaPr, II, 1, 1964, 108-121 p. — Klimas, P. : _Vieno prancūzo

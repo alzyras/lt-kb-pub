@@ -76,6 +76,8 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
 ## Citatos
 
 - id: c-40256
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
     ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie

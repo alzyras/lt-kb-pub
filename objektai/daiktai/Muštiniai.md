@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00224
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pinigų senovės aisčiai neturėjo, o naudojosi svetimaisiais
     pinigais arba paprastais aukso ar sidabro gabalais. Vėlesniaisiais

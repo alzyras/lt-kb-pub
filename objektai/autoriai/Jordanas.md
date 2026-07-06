@@ -544,6 +544,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-63352
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Krikštytojas, šv.
        Ostrorogas
@@ -569,6 +571,8 @@ media_all_json: |-
     - t-62623
 
 - id: c-173618
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kažkokia alanų da­
     lis persikėlė į Europos pietvakarius: vieni iš jų įsikūrė
@@ -591,6 +595,8 @@ media_all_json: |-
     - t-190736
 
 - id: c-173619
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Atvykusių iš Skandinavijos gotų galia toly­
     džio vis didėjo, iš gimtosios žemės kėlėsi vis nauji gy­
@@ -612,6 +618,8 @@ media_all_json: |-
     - t-190737
 
 - id: c-173620
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -631,6 +639,8 @@ media_all_json: |-
     - t-190738
 
 - id: c-173621
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi pakeliui nuo Vyslos iki Dnepro jie turėjo kažkur
     žiemoti; sprendžiant iš lėto ėjimo, jie turėjo keltis per Ne­
@@ -651,6 +661,8 @@ media_all_json: |-
     - t-190739
 
 - id: c-173622
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie estus nėra žinių nuo Tacito
     laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
@@ -671,6 +683,8 @@ media_all_json: |-
     - t-190740
 
 - id: c-173623
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kaip slavai atsirado ‘šiose lygumose arba kaip
     ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
@@ -692,6 +706,8 @@ media_all_json: |-
     - t-190741
 
 - id: c-173624
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kadangi Rusios tema mūsų
     jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­
@@ -716,6 +732,8 @@ media_all_json: |-
     - t-190742
 
 - id: c-173625
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pagaliau ir ¡pats Naruševičius, žinojęs
     tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
@@ -737,6 +755,8 @@ media_all_json: |-
     - t-190743
 
 - id: c-173626
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pirmoji gyvenvietė pagal skirius buvo pavadinta Ski­
     reikomis, o antroji pagal hirius — Hirkomis (Jornand. Goths. C. 3).
@@ -750,6 +770,8 @@ media_all_json: |-
     - t-190744
 
 - id: c-173627
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     281
     Latvijos dalys. Agazirai, Agazziry. Senovės tyrinėto­

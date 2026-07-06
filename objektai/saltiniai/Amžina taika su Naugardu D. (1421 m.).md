@@ -78,6 +78,9 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
 ## Citatos
 
 - id: c-38402
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
     tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­

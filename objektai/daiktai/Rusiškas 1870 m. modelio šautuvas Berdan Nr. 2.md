@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42544
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuo-
     menė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas. Tačiau Pirmojo pasaulinio

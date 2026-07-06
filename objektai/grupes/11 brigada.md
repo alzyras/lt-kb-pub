@@ -157,6 +157,8 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 ## Citatos
 
 - id: c-40642
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg)
 
@@ -174,6 +176,8 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     - t-38838
 
 - id: c-40643
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Karin. S. Nastopkos vadovaujamos 11 bri-
 
@@ -192,6 +196,8 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     - t-38839
 
 - id: c-167043
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šaudymo
     tempas - 300-450 šuvių/min, efektyvaus šaudymo nuotolis —

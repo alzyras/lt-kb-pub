@@ -253,6 +253,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73192
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O kad neliktų beraščiai, patiems kaimuose organizuoti
     slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
@@ -268,6 +270,8 @@ Nenurodyta
     - t-75393
 
 - id: c-73194
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     117
@@ -298,6 +302,8 @@ Nenurodyta
     - t-75394
 
 - id: c-166724
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies
     etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis

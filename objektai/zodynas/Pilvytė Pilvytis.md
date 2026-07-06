@@ -99,6 +99,8 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
 ## Citatos
 
 - id: c-172057
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pilvytį' (Pilwite)
     Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
@@ -117,6 +119,8 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
     - t-189169
 
 - id: c-172058
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,

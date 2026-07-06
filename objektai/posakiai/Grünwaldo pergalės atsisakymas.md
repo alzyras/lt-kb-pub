@@ -68,6 +68,8 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
 ## Citatos
 
 - id: c-28603
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ją Dlugošas
     vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai buvo

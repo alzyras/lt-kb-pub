@@ -153,6 +153,8 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 ## Citatos
 
 - id: c-30097
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių
     chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo
@@ -166,6 +168,8 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
     - t-30193
 
 - id: c-32703
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Volgos totorių
     chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo
@@ -184,6 +188,8 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
     - t-30194
 
 - id: c-167739
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šiaip jau Kalita vengė atviro susitikimo su Gediminu karo
     lauke, pastoviai tačiau stengdamasis prieš Lietuvos sąjungininkus

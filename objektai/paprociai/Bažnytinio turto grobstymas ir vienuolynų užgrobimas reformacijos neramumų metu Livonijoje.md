@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169273
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Į Liuterio sektą perėjo Livo-
     T os p a č io s p a sk a to s

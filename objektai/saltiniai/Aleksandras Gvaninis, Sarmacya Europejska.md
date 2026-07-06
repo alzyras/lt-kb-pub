@@ -73,6 +73,8 @@ Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su 
 ## Citatos
 
 - id: c-174649
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ar mūsų latviai
     kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­

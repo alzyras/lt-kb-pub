@@ -88,6 +88,8 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
 ## Citatos
 
 - id: c-03469
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po to
     (1858 m.) valstiečių at-

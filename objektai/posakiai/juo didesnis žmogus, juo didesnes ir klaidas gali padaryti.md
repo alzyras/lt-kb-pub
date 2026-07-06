@@ -77,6 +77,9 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
 ## Citatos
 
 - id: c-38384
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nes
     iš šalies žiūrint ir tikrai atrodo, kad šis aktas nesuderinamas su

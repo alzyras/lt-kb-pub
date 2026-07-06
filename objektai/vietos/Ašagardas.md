@@ -71,6 +71,8 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
 ## Citatos
 
 - id: c-171868
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
     dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas

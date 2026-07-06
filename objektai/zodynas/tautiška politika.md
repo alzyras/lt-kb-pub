@@ -137,6 +137,8 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 ## Citatos
 
 - id: c-71138
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Daug tokių žygių jis atliko ir vėliau; tačiau,
     kaip Traideniui, taip ir jam sekdavosi tik atviram lauke: nė jis
@@ -153,6 +155,8 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
     - t-72766
 
 - id: c-71139
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis
     Vytenio politikos vaisius. Varydamas tautišką politiką ir kovo-
@@ -169,6 +173,8 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
     - t-72768
 
 - id: c-175912
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Vytenio valstybė.** Vytenis varė visiškai tokią pat tautišką
     politiką, kaip ir Traidenis. Jis visų pirma kariavo su vokiečiais,

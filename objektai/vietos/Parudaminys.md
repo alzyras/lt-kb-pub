@@ -79,6 +79,8 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
 ## Citatos
 
 - id: c-82198
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus
     miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­

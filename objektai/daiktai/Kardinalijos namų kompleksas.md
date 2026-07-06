@@ -186,6 +186,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82979
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 314
 
@@ -205,6 +207,8 @@ Nenurodyta
     - t-87002
 
 - id: c-82980
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kardinolas Radvila
     dalyje, vadinamoje Goštautų mūru,
@@ -227,6 +231,8 @@ Nenurodyta
     - t-87001
 
 - id: c-82981
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     70
     Detali Kardinalijos istorija yra tokia:

@@ -72,6 +72,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-38759
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Naujo žy­
     gio kurstytoju ir sumanytoju buvo Vaidyla, kuris jau iš seno

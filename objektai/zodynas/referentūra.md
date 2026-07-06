@@ -65,6 +65,8 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
 ## Citatos
 
 - id: c-176017
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Emigra-
     cijos bendrovės, nesilaikančios to įstatymo, negali veikti Lietuvoje.

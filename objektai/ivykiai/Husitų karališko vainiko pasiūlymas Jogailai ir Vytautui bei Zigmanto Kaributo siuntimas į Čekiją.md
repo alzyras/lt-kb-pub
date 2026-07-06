@@ -86,6 +86,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-35764
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš
     husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­

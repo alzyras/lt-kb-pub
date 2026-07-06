@@ -79,6 +79,8 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 ## Citatos
 
 - id: c-22791
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,

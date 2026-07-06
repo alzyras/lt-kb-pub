@@ -130,6 +130,8 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 ## Citatos
 
 - id: c-82499
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dėl Vilniaus Batoras pareikalavo
     iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
@@ -151,6 +153,8 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
     - t-86520
 
 - id: c-82500
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     329
 

@@ -24,19 +24,19 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '3'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Witold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AWitold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg'
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
+media_primary_relation_type: 'seal_of'
 media_primary_json: |-
-  {"mediaId":"m-505bf0bf5bd04f596f1b551a","title":"Witold Wojtkiewicz - Portrait of Zygmunt Skirgiełło, musician - MP 780 MNW - National Museum in Warsaw.jpg","caption":"Portrait of Zygmunt Skirgiełło, musician title QS:P1476,en:\"Portrait of Zygmunt Skirgiełło, musician \" label QS:Len,\"Portrait of Zygmunt Skirgiełło, musician \" label QS:Lpl,\"Portret Zygmunta Skirgiełły, muzyka\"","creator":"Witold Wojtkiewicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1906","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Witold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of duke Skirgaila with Vytis ( Waykimas ) , 1382.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-505bf0bf5bd04f596f1b551a","title":"Witold Wojtkiewicz - Portrait of Zygmunt Skirgiełło, musician - MP 780 MNW - National Museum in Warsaw.jpg","caption":"Portrait of Zygmunt Skirgiełło, musician title QS:P1476,en:\"Portrait of Zygmunt Skirgiełło, musician \" label QS:Len,\"Portrait of Zygmunt Skirgiełło, musician \" label QS:Lpl,\"Portret Zygmunta Skirgiełły, muzyka\"","creator":"Witold Wojtkiewicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1906","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Witold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of duke Skirgaila with Vytis ( Waykimas ) , 1382.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c0dee38c9b4f9d7f2d1ee11f","title":"Wojtkiewicz Portret Zygmunta Skirgielly.jpg","caption":"Portrait of Zygmunt Skirgiełło","creator":"Witold Wojtkiewicz (died 1909)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1906","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWojtkiewicz_Portret_Zygmunta_Skirgielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Wojtkiewicz_Portret_Zygmunta_Skirgielly.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of duke Skirgaila with Vytis ( Waykimas ) , 1382.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-505bf0bf5bd04f596f1b551a","title":"Witold Wojtkiewicz - Portrait of Zygmunt Skirgiełło, musician - MP 780 MNW - National Museum in Warsaw.jpg","caption":"Portrait of Zygmunt Skirgiełło, musician title QS:P1476,en:\"Portrait of Zygmunt Skirgiełło, musician \" label QS:Len,\"Portrait of Zygmunt Skirgiełło, musician \" label QS:Lpl,\"Portret Zygmunta Skirgiełły, muzyka\"","creator":"Witold Wojtkiewicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1906","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Witold_Wojtkiewicz_-_Portrait_of_Zygmunt_Skirgie%C5%82%C5%82o%2C_musician_-_MP_780_MNW_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of duke Skirgaila with Vytis ( Waykimas ) , 1382.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c0dee38c9b4f9d7f2d1ee11f","title":"Wojtkiewicz Portret Zygmunta Skirgielly.jpg","caption":"Portrait of Zygmunt Skirgiełło","creator":"Witold Wojtkiewicz (died 1909)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1906","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWojtkiewicz_Portret_Zygmunta_Skirgielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Wojtkiewicz_Portret_Zygmunta_Skirgielly.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of duke Skirgaila with Vytis ( Waykimas ) , 1382.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
 ---
 # Skirgaila
 
@@ -1845,6 +1845,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 ## Citatos
 
 - id: c-30278
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Viena jų Jogaila su
     Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu
@@ -1857,6 +1859,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179652
 
 - id: c-30281
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
@@ -1873,6 +1877,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179663
 
 - id: c-36502
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Skirgailai buvo pavesta valdyti Vilniaus sritis. Jo valdžia
     nesiekė kitų kunigaikščių (Ged. giminės) teritorijų. Ji buvo la­
@@ -1885,6 +1892,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179671
 
 - id: c-36503
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
     taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir
@@ -1900,6 +1910,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179668
 
 - id: c-36504
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Klausimas kaip Lietuva
     bus valdoma, pasiliekama to paties Jogailos nuožiūroje. Jis
@@ -1914,6 +1927,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179674
 
 - id: c-163314
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip
     pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
@@ -1941,6 +1956,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179667
 
 - id: c-163315
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     116
 
@@ -1964,6 +1981,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179675
 
 - id: c-163316
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netrukus,
     tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
@@ -1988,6 +2007,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179656
 
 - id: c-163318
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau, apsuptas išdavikų,
     buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
@@ -2009,6 +2030,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179676
 
 - id: c-163320
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^1) **Plačiau žr. G. Rhode : RhOP, I, 307, 344 p.**
     (^2) **SRP, II, 713 p.**
@@ -2031,6 +2054,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179678
 
 - id: c-163321
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ostrogo kunigaikštis Feodoras turėjo iš
     Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo
@@ -2047,6 +2073,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179672
 
 - id: c-163322
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kad šito­
     kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
@@ -2064,6 +2093,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179660
 
 - id: c-163324
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
     duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
@@ -2089,6 +2120,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179680
 
 - id: c-163325
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
     gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
@@ -2111,6 +2144,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179659
 
 - id: c-163327
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Veidmainingas Ordino elgesys su Vytau­
     tu, norint ne iškelti jį, o tik drumsti vandenį Lietuvoje ir
@@ -2137,6 +2172,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179645
 
 - id: c-163328
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
     čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
@@ -2158,6 +2195,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179666
 
 - id: c-163333
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau viso šio darbo
     vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
@@ -2177,6 +2217,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179662
 
 - id: c-163335
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kaip Vytautas žiūrėjo į tuos pasiūlymus, sunku ką nors
     tikro pasakyti. Viena tik yra žinoma, kad jis iš pradžios kietai
@@ -2192,6 +2235,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179647
 
 - id: c-163336
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
@@ -2208,6 +2253,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179658
 
 - id: c-163337
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik taikos sutartyje tarp Ordi­
     no maršalo Engelhardo Rabės ir
@@ -2231,6 +2278,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179664
 
 - id: c-163338
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karaliui išvykus į Lenkiją, Vytauto padė­
     tis tapo dargi nesaugi: mat akylai stebimas kiekviename
@@ -2257,6 +2306,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179677
 
 - id: c-163339
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po
     to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
@@ -2274,6 +2325,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179670
 
 - id: c-163340
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     To­
     luomo žmonės čia kariuomenei vadovavo, čia buvo pilių virši­
@@ -2297,6 +2351,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179644
 
 - id: c-163341
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dlu­
     gošas jį pavadino «Lietuvos žemės valdytoju », o žymus ordino
@@ -2314,6 +2370,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179643
 
 - id: c-163342
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -2329,6 +2387,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179657
 
 - id: c-163343
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
     ropą savo brolį Skirgailą su slaptais įgaliojimais į kažkokius
@@ -2346,6 +2407,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179655
 
 - id: c-163344
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip galvoti
     vertė jį du dalyku. Pirmiausia, jo planas prijungti Lietuvą prie
@@ -2363,6 +2427,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179661
 
 - id: c-163346
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vėlybesni įvykiai parodė,
     kad Vytautas naudojasi daug didesnėmis laisvėmis ir teisėmis,
@@ -2382,6 +2449,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-179646
 
 - id: c-167746
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Netiksliai jis tačiau pirma buvo laikomas
     1387-92 pilnu karaliaus vietininku, ar didžiuoju kunigaikščiu Lie­
@@ -2396,6 +2465,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-184377
 
 - id: c-168187
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tą pačią naktį Jogaila, pamynęs draugystės bei
     giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
@@ -2424,6 +2495,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-184826
 
 - id: c-171506
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Si epocha baigėsi 1386 metais, tai yra visiškai
     įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
@@ -2441,6 +2514,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-188617
 
 - id: c-173853
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
     turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
@@ -2454,6 +2529,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-190971
 
 - id: c-176603
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir mes su mūsų tėvu stovėjome ant vieno kalno,
     o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
@@ -2470,6 +2547,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-193978
 
 - id: c-176604
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir
     šitaip mus prie to privedė vienas neištikimas mūsų pa­
@@ -2491,6 +2570,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-193979
 
 - id: c-176605
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Skirgailos baudžiamasis žygis prieš Polocką buvo 1381 m. rug-
     piūčlo mėn. Polocko miesto apgultis prasidėjo apie rugpiūčio 16 d.

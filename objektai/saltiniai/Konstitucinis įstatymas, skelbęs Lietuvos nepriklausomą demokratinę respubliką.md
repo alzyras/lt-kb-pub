@@ -67,6 +67,8 @@ Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė,
 ## Citatos
 
 - id: c-20908
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     visuotinėje apklausoje dėl Lietuvos nepriklausomybės dalyvavo 84 proc.
     turinčiųjų teisę balsuoti, iš kurių net 90 proc. balsavo „Taip“. Po šios ap-

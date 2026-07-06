@@ -110,6 +110,8 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
 ## Citatos
 
 - id: c-73264
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atrodė,
     jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75231
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių kalba tapo ne tik vals-
     tybine įstaigose, bet ir karine (įsteigta Kauno karo mokykla), mokslo ir

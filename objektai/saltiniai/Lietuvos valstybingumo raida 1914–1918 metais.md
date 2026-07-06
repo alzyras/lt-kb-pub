@@ -71,6 +71,8 @@ Lietuvos valstybingumo raida 1914–1918 metais.
 ## Citatos
 
 - id: c-75463
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ams-
     terdam–New York, 2010.

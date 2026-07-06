@@ -143,6 +143,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83171
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Petro bažnyčią klystama
     nurodant pastatymo laiką. Algirdas,
@@ -168,6 +170,8 @@ Nenurodyta
     - t-87193
 
 - id: c-83172
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus pranciškonų vienuo-
     28

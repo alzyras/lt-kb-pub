@@ -66,6 +66,8 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
 ## Citatos
 
 - id: c-177181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tad panašus rakto ženklas, iškaltas antkapiniame akme­
     nyje, bus simbolis tikimo gyvenimo amžinojoje palaimoje, su­

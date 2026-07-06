@@ -85,6 +85,8 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
 ## Citatos
 
 - id: c-72970
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vengrijos revoliuci-
     jos ir tais pačiais metais Lenkijoje vykusio Poznanės darbininkų sukilimo

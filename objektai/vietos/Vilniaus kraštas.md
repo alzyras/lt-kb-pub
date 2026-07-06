@@ -350,6 +350,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 ## Citatos
 
 - id: c-155523
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     visų prekybos
     įmonių savininkų, lietuviai – vos 13 proc.
@@ -368,6 +370,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-170920
 
 - id: c-155524
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sukurti Baltijos valstybių sąjungą
     pavėluota. Lietuvai reikėjo rūpintis atgautos sostinės Vilniaus ir Vilniaus
@@ -385,6 +389,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-170918
 
 - id: c-155525
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gimė naujos tradicijos – 1924 m. Kaune sureng-
     ta pirmoji šalies dainų šventė.
@@ -400,6 +406,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-170922
 
 - id: c-155527
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
     našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-
@@ -415,6 +423,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-170923
 
 - id: c-155528
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
     Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbames-
@@ -431,6 +441,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-170919
 
 - id: c-155529
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tiesa,
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
@@ -446,6 +458,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-170924
 
 - id: c-155530
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl tik 1934 m. rugsėjo
     12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
@@ -465,6 +479,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-170925
 
 - id: c-166491
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tada kilo pavojus, kad bent okupuo-
     tosios Lietuvos Bažnyčia vėl gali būti surišta su Lenkijos arki-

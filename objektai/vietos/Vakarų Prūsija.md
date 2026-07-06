@@ -104,6 +104,8 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
 ## Citatos
 
 - id: c-45390
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     mas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti
 

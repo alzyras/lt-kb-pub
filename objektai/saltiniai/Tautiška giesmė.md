@@ -118,6 +118,8 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
 ## Citatos
 
 - id: c-23977
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Aušros“ idėjas toliau plėto-
     jo 1889 m. pradėtas leisti žurnalas
@@ -137,6 +139,8 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
     - t-21279
 
 - id: c-23978
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
     organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.

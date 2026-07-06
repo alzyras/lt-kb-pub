@@ -63,6 +63,9 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
 ## Citatos
 
 - id: c-177349
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jei Vytautas
     delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie­

@@ -68,6 +68,8 @@ Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalb�
 ## Citatos
 
 - id: c-175003
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kocebus teisingai vadina gintarą saulės akmeniu, se­
     novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią

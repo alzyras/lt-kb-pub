@@ -73,6 +73,8 @@ Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir 
 ## Citatos
 
 - id: c-175749
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Žiloje seno­
     vėje šis uostas galėjo būti šalies sostinė, iš kurios ir buvo

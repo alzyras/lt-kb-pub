@@ -80,6 +80,8 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
 ## Citatos
 
 - id: c-40801
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sukilėlių pajėgos
 

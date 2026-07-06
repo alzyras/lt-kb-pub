@@ -176,6 +176,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 ## Citatos
 
 - id: c-174199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
@@ -196,6 +198,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
     - t-191317
 
 - id: c-174200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
@@ -213,6 +217,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
     - t-191318
 
 - id: c-174201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Žinodamas, kad slibinas žvilgsniu
     užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona

@@ -70,6 +70,8 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
 ## Citatos
 
 - id: c-173401
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Stenderis savo lat­
     vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio

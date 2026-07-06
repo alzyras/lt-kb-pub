@@ -123,6 +123,8 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 ## Citatos
 
 - id: c-33082
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     —Matusas, J. : _Odų ir kailių
     gamyba senovės Lietuvoje iki XVI amžiaus pabaigos_ , Aidai, 1959, nr. 3-4,
@@ -148,6 +150,8 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
     - t-30884
 
 - id: c-33083
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _Romove,_ ten pat, X sjazda,
     1899. — (”) _Der Eid des Keistutis im Jahre 1351,_ Sitzungsber. d.

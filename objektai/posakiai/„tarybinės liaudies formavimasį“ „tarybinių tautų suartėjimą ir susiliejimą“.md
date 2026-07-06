@@ -75,6 +75,8 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 ## Citatos
 
 - id: c-166903
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nemažai jaunimo
     mokėsi Maskvos, Leningrado ir kitose SSRS aukštosiose mokyklose.

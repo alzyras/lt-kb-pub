@@ -120,6 +120,8 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 ## Citatos
 
 - id: c-42015
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
@@ -132,6 +134,8 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
     - t-40217
 
 - id: c-44380
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sausio 13 d. AT priėmė nutarimą su-
     daryti Laikinąją gynybos vadovybę:

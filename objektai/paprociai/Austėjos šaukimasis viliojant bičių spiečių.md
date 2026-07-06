@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-171016
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Austėja (Austheja)
     Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi

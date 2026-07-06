@@ -132,6 +132,8 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 ## Citatos
 
 - id: c-168618
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Apie šį karą su lenkais nieko nepasakoja
     Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
@@ -158,6 +160,8 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
     - t-185257
 
 - id: c-170630
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kai visi lietuviai kariai, paėmę po pagalį, me­
     tė į miestą ir primėtė pilną miestą pagalių, uždegė vi­

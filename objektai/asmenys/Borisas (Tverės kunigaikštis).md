@@ -238,6 +238,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83575
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
     ba apie Švitrigailos žmonos sugavi­
@@ -274,6 +276,8 @@ media_all_json: |-
     - t-87596
 
 - id: c-83576
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     I siede po nem Szwitrihajła
     Olhirdowicz. [Tais pačiais metais
@@ -299,6 +303,8 @@ media_all_json: |-
     - t-87597
 
 - id: c-176524
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ginvila vedė Tverės didžiojo kunigaikščio Boriso
     dukterį, vardu M ariją9 , dėl kurios perėjo į rusų tikė­
@@ -320,6 +326,8 @@ media_all_json: |-
     - t-193899
 
 - id: c-176525
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Savo įpėdiniu Polocke paliko savo sūnų Borisą",
     ir šis kunigaikštis Borisas prie Berezinos upės įkūrė

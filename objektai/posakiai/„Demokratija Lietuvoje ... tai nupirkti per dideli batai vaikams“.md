@@ -72,6 +72,8 @@ Demokratija Lietuvoje, pasak A.
 ## Citatos
 
 - id: c-23565
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Bolševizaciją“ papildė kaltinimai polonizaci-
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti

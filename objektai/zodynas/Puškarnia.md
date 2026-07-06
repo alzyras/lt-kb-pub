@@ -90,6 +90,8 @@ Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos b
 ## Citatos
 
 - id: c-82592
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, šiuo san­
     doriu dominikonai pripažįsta, kad

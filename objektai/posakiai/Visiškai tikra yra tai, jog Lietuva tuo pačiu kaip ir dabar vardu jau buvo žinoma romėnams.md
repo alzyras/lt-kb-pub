@@ -84,6 +84,8 @@ Tado Volianskio laiške Narbutas pateikia formulę apie Lietuvos vardo senumą r
 ## Citatos
 
 - id: c-175006
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie 510 metus prieš Kristaus
     gimimą lakedamoniečiai palaikė prekybinius ryšius su Ski-

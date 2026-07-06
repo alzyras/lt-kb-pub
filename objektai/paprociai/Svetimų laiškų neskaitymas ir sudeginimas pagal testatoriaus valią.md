@@ -105,6 +105,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83282
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Onos bažnyčią Vilniuje ir
     kitos aukščiau paminėtos pareigos, be to, ir tai, kas dėl prie­

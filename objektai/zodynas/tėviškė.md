@@ -122,6 +122,9 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 ## Citatos
 
 - id: c-38766
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Smulk­
     menos niekad nenustelbė jame didesniųjų uždavinių, o kartais
@@ -140,6 +143,9 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
     - t-36844
 
 - id: c-167634
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasiryžęs Jogailai nepasiduoti ir
     pabėgęs iš kalėjimo, jis įtempė visas savo jėgas, parodė ne­

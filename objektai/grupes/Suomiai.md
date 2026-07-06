@@ -101,6 +101,8 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 ## Citatos
 
 - id: c-01723
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tik didieji mūsų kalbininkai Jaunius su
     Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad

@@ -78,6 +78,9 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
 ## Citatos
 
 - id: c-35402
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
     Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva

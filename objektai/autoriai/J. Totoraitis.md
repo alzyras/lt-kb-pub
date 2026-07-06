@@ -79,6 +79,8 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
 ## Citatos
 
 - id: c-30595
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pr. Kuraitis, Kaunas 1925-
     1940.

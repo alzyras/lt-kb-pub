@@ -174,6 +174,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 ## Citatos
 
 - id: c-84393
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kraštas, ku­
     rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
@@ -208,6 +210,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
     - t-88414
 
 - id: c-173704
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     281
     Latvijos dalys. Agazirai, Agazziry. Senovės tyrinėto­
@@ -223,6 +227,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
     - t-190822
 
 - id: c-173705
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šių karingų
     plėšikų būriai, savaime suprantama, negalėjo ilgai gy­

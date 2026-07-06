@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42542
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 182, Lietuvos kariuomenės artileristai užtaiso 76, 2 mm kalibro rusišką 1902 m. modelio
     Putiliovo gamyklos lauko patranką, VDKM.

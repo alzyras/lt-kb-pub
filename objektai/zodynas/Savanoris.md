@@ -92,6 +92,8 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 ## Citatos
 
 - id: c-44140
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jesu P k
     vertė trauktis Kolupių kaime, prie vieškelio

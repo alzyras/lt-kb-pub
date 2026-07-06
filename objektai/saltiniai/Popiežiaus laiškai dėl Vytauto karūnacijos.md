@@ -73,6 +73,9 @@ Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir ni
 ## Citatos
 
 - id: c-38428
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tada popiežius pasiskubino ir tam pavojui už­
     kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­

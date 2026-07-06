@@ -135,6 +135,8 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 ## Citatos
 
 - id: c-83504
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Aktuota ir duota Gardine,
     artimiausią šeštadienį po šv. Baltramiejaus šventės, tūkstan­
@@ -157,6 +159,8 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     - t-87526
 
 - id: c-83505
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     To viso aiškiam paliudijimui mūsų antspaudas prie
     šio rašto yra prikabintas. Atlikta ir duota Vilniuje, antradie­

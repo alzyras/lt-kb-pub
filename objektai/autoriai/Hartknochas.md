@@ -224,6 +224,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 ## Citatos
 
 - id: c-84002
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
     gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
@@ -246,6 +248,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     - t-88023
 
 - id: c-171290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
@@ -266,6 +270,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     - t-188400
 
 - id: c-171291
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tad arba Dusburgietis pats nežinojo,
     kaip apibūdinti krivį, ir iš viso buvo vos šį tą girdėjęs apie jį bei
@@ -284,6 +290,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     - t-188401
 
 - id: c-173580
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tokia tvirtovė buvusi ant kalvos netoli
     Ragainės, kur buvo pastatyta šitaip vadinama kryžiuo­

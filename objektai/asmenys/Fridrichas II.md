@@ -332,6 +332,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 ## Citatos
 
 - id: c-60489
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dievas jam buvo suteikęs tokių malonių,
     kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
@@ -351,6 +353,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-59857
 
 - id: c-60490
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,
     panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis
@@ -373,6 +377,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-59858
 
 - id: c-60491
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
                                 nesantuokinio sūnaus, mirtį
@@ -389,6 +395,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-59863
 
 - id: c-60492
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
 
@@ -404,6 +412,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-59859
 
 - id: c-60493
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šie vienu balsu pritarė jo sumanymui, pridurdami, kad ir patys esą sužinoję
     iš patikimų šaltinių, jog minėtieji broliai turi ryžtingų karių vardą, užsigrūdinusių iš
@@ -426,6 +436,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-59862
 
 - id: c-60494
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
     didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
@@ -447,6 +459,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-59860
 
 - id: c-60495
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
                                                 mirtį

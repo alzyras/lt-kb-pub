@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172760
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvių genties tautos labai gerbė religijos pašventintą ma­
     lonų svetingumą; tą mūsų protėviams pripažino net jų nedrau­

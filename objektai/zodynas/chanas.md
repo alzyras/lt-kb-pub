@@ -221,6 +221,8 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 ## Citatos
 
 - id: c-44153
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tada į mūšį įsijungė
     Aukso ordos chanas Timūr-Kutlukas
@@ -238,6 +240,8 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     - t-78881
 
 - id: c-75997
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšis
 
@@ -256,6 +260,8 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     - t-78882
 
 - id: c-75998
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Totorių pajėgos
     Aukso ordos chano Timūr-Kutluko,

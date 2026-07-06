@@ -76,6 +76,8 @@ Jurgėla, C.
 ## Citatos
 
 - id: c-29421
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
     Grunwald) 15 July 1410,_ Chicago 1961. — Koehler, G. : _Die Ent­

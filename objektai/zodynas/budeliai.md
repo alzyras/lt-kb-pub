@@ -137,6 +137,8 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
 ## Citatos
 
 - id: c-168741
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tą pačią naktį Jogaila, pamynęs draugystės bei
     giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
@@ -165,6 +167,8 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
     - t-185380
 
 - id: c-168742
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ši
     aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­

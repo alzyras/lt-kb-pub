@@ -72,6 +72,8 @@ Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius 
 ## Citatos
 
 - id: c-171909
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

@@ -63,6 +63,8 @@ Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o 
 ## Citatos
 
 - id: c-176717
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Karalius Jogaila ir didysis kunigaikštis Vytautas, su
     savo kariuomenėmis perėję per miškus, priėjo tuos

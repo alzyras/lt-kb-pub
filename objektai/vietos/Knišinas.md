@@ -174,6 +174,8 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 ## Citatos
 
 - id: c-81999
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Testamentum Domini Sigismundi Augusti Regis Poloniae.
     Actum Varsaviae. Anno salutis nostrae. 1571. Mensis Maij
@@ -191,6 +193,8 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     - t-86021
 
 - id: c-82000
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mir­
     damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
@@ -207,6 +211,8 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     - t-86020
 
 - id: c-82001
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     V-rae Aegestati aerarii totum id imputent [Tačiau, jeigu
     kas sienų saugumui atsitiktų, visa tai jūsų šviesybės priskirs

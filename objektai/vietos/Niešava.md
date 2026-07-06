@@ -133,6 +133,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-37604
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tiktai po Melno taikos, prasidėjus geriems Vytauto
     santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
@@ -152,6 +155,8 @@ media_all_json: |-
     - t-68824
 
 - id: c-68309
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
     Čia jie gavo iš Konrado

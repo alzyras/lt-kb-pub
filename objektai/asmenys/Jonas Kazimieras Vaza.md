@@ -71,6 +71,8 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 ## Citatos
 
 - id: c-41555
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš švedus ir jų sąjungininkus taip pat
     kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-

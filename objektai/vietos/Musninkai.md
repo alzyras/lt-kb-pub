@@ -71,6 +71,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 ## Citatos
 
 - id: c-45228
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     jau E. Adamkavičiaus vado-
     vaujama 1-oji divizija spalio

@@ -120,6 +120,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43181
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pėstininkai galėdavo būti apsaugoti žieduočio šarvų,
     tačiau dažniau apsaugai naudodavo tiesiog storos
@@ -134,6 +136,8 @@ Nenurodyta
     - t-193747
 
 - id: c-75917
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dažniausiai nenaudodavo skydo,
     neretai jų kojos ir rankos būdavo neapsaugotos. Pa-

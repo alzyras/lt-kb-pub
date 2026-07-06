@@ -73,6 +73,8 @@ Yla, St. : Krikščionybės įvedimas Lietuvoje, Kaunas 1938. — Kolankowski, L
 ## Citatos
 
 - id: c-33152
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
     — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­

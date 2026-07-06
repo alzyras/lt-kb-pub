@@ -179,6 +179,8 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
 ## Citatos
 
 - id: c-170341
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir suspindo žvaigždės kaip naktį, ir
     švietė tris valandas:.
@@ -200,6 +202,8 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
     - t-187301
 
 - id: c-176147
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­

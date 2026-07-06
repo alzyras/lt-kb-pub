@@ -73,6 +73,8 @@ Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juo
 ## Citatos
 
 - id: c-169598
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
     trokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-

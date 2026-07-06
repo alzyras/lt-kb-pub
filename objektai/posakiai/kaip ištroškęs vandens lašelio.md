@@ -78,6 +78,8 @@ Labai stipraus laukimo ar troškimo palyginimas.
 ## Citatos
 
 - id: c-170074
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1846 m. Bychovco kronika, kurios, anot S. Daukanto,
     visi seniai jau laukė, „kaip ištroškęs vandens lašelio" , J ,

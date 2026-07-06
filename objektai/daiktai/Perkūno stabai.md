@@ -134,6 +134,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172578
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
     ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
@@ -152,6 +154,8 @@ Nenurodyta
     - t-189695
 
 - id: c-172579
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris

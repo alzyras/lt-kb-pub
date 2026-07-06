@@ -77,6 +77,8 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
 ## Citatos
 
 - id: c-174246
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     89
 

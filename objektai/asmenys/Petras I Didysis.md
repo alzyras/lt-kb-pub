@@ -274,6 +274,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Citatos
 
 - id: c-167783
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Karo pradžia. Kai Augustas II su Petru I padarė sutartį
     atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
@@ -289,6 +291,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-184422
 
 - id: c-167784
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-
     siveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-
@@ -304,6 +308,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-184424
 
 - id: c-167785
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
     garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
@@ -324,6 +330,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-184428
 
 - id: c-167786
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
     Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
@@ -341,6 +349,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-184426
 
 - id: c-167787
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »
     (« obojga narodów ») politinė istorija vystėsi bendroje respublikoje
@@ -359,6 +369,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-184427
 
 - id: c-167789
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Todėl Augustas 11 nusprendė
     išvyti iš Livonijos švedus ir ją užvaldyti.

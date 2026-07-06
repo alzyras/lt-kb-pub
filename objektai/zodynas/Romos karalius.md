@@ -125,6 +125,9 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 ## Citatos
 
 - id: c-38710
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet Krokuvos profesoriai Romos karalių teisę kitų karū­
     nuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė
@@ -145,6 +148,9 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     - t-36751
 
 - id: c-38711
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
     leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos

@@ -104,6 +104,8 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
 ## Citatos
 
 - id: c-175067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Varmija (Warmia). Pavadinimą galbūt davė gentys,
     kurios buvo vadinamos varinais; lietuvių kalba tai reiš­

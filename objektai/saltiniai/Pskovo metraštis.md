@@ -81,6 +81,8 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 ## Citatos
 
 - id: c-84446
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Palenkdamas rusų bojari-
     10

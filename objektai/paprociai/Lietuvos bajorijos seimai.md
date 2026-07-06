@@ -183,6 +183,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67161
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Seimai.** Įsigalėjus tarybai, atsirado ir seimai. Mat, būdavo
     reikalų, kurių nebūdavo galima spręsti be plačių bajorijos ma-
@@ -198,6 +200,8 @@ Nenurodyta
     - t-67150
 
 - id: c-67162
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Juo toliau, juo seimas darėsi vis įtakingesnis. O nuo XVI
     amž. vidurio be jo jau nebebūdavo sprendžiamas joks svarbesnis
@@ -218,6 +222,8 @@ Nenurodyta
     - t-67148
 
 - id: c-67163
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Į tokiuos seimus atvykdavo visa ponų taryba, visi aukštes-
     nieji valstybės urėdai ir kas tik norįs iš bajorų. Bet kadangi
@@ -236,6 +242,8 @@ Nenurodyta
     - t-67151
 
 - id: c-67164
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bajorijos nuomonė ir jos pritarimas dar būdavo svar-
     būs, sprendžiant klausimą santykių su Lenkija: tuo tarpu, kai

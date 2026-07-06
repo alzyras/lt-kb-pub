@@ -73,6 +73,8 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
 ## Citatos
 
 - id: c-29195
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     A. Maceina, Filosofijos kilmė ir prasmė, XII-328 psl.
     Roma 1978. 16 dol.

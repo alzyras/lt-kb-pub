@@ -68,6 +68,8 @@ Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų, kurių tik
 ## Citatos
 
 - id: c-33851
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pusbroliams ėmus kariauti, ordino būriai silpnai tegalėjo
     priešintis, ir jie užsidarinėjo pilyse.

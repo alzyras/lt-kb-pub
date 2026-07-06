@@ -153,6 +153,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84075
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-
@@ -192,6 +194,8 @@ media_all_json: |-
     - t-88096
 
 - id: c-171340
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
     miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­

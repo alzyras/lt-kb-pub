@@ -100,6 +100,8 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
 ## Citatos
 
 - id: c-83489
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šalia dalyvaujant didžiai gerbia­
     miems, garbiesiems, prakilniesiems ir kilmingiesiems po­

@@ -75,6 +75,8 @@ Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl H
 ## Citatos
 
 - id: c-82774
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­
     tvirtino Vokietijos miestuose, sekant Italijos ir Prancūzijos pa­

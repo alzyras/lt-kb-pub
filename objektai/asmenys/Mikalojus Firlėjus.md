@@ -77,6 +77,8 @@ Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, 
 ## Citatos
 
 - id: c-169510
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ostrogiškio ir Kiškos
     vedami kariai nioko­

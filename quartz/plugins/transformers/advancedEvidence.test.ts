@@ -22,6 +22,7 @@ const markdown = `# Objektas
   ryšio_subjekto_parinkimas: Vytautas: owner_note_path, person
   ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, state
   ryšio_slopinti_kandidatai: Trakai: candidate
+  ryšio_slopinimo_priezastys: ambiguous_bare_person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse".
   pagrindžia:
     - c-001
@@ -29,6 +30,8 @@ const markdown = `# Objektas
 ## Šaltiniai ir įrodymai
 - id: c-001
   santrauka: Paminėjimas
+  autorius: Zenonas Ivinskis
+  redaktorius: Test Redaktorius
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Cituojamas sakinys.
@@ -63,7 +66,12 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /data-supporting-ids="c-001"/)
     assert.match(transformed, /data-claim-detail="t-001"/)
     assert.match(transformed, /data-claim-citation-id="c-001"/)
+    assert.match(transformed, /claim-citation-contributor/)
+    assert.match(transformed, /claim-citation-author/)
+    assert.match(transformed, /<strong>Autorius:<\/strong> Zenonas Ivinskis/)
+    assert.match(transformed, /<strong>Redaktorius:<\/strong> Test Redaktorius/)
     assert.match(transformed, /claim-citation-source/)
+    assert.match(transformed, /<strong>Šaltinis:<\/strong> Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties/)
     assert.match(transformed, /data-claim-evidence-summary="true"/)
     assert.match(transformed, /Patikimumas/)
     assert.match(transformed, /claim-evidence-reliability-high/)
@@ -95,7 +103,13 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /Laiko interpretacija/)
     assert.match(transformed, /Ryšio patikimumas/)
     assert.match(transformed, /Ryšio taisyklė/)
+    assert.match(transformed, /Ryšio subjektas/)
+    assert.match(transformed, /Ryšio objektas/)
+    assert.match(transformed, /Atmesti ryšio kandidatai/)
+    assert.match(transformed, /Ryšio slopinimo priežastys/)
+    assert.match(transformed, /Ryšio paaiškinimas/)
     assert.match(transformed, /rule_marriage_local_spouse/)
+    assert.match(transformed, /ambiguous_bare_person/)
     assert.match(transformed, /aiškiai įvardytų subjektą ir kontekstą/)
     assert.doesNotMatch(transformed, /global_id: t-00042/)
     assert.match(transformed, /href="objektai\/asmenys\/Vytautas"/)
@@ -114,7 +128,31 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /data-citation-id="c-001"/)
     assert.match(transformed, /data-citation-source-title="Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties \(1978 m\.\)"/)
     assert.match(transformed, /data-citation-source-id="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/)
+    assert.match(transformed, /data-citation-author="Zenonas Ivinskis"/)
     assert.doesNotMatch(transformed, /^## Šaltiniai ir įrodymai/m)
+  })
+
+  test("does not infer citation author from source title when explicit author is absent", () => {
+    const plugin = AdvancedEvidence()
+    const sourceOnlyMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Testinis teiginys
+  pagrindžia:
+    - c-001
+
+## Citatos
+- id: c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Testinė citata.
+`
+
+    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, sourceOnlyMarkdown) ?? sourceOnlyMarkdown
+
+    assert.doesNotMatch(transformed, /<strong>Autorius:<\/strong>/)
+    assert.match(transformed, /data-citation-author=""/)
   })
 
   test("renders all citations linked from one claim", () => {

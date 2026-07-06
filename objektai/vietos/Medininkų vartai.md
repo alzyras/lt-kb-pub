@@ -68,6 +68,8 @@ Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievu
 ## Citatos
 
 - id: c-82189
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Beveik tuo
     pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką

@@ -356,6 +356,8 @@ Mackevičius, vėliau K.
 ## Citatos
 
 - id: c-41830
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kauno gubernijoje vienas pirmųjų su-
     kilimo organizatorių buvo kunigas An-
@@ -376,6 +378,8 @@ Mackevičius, vėliau K.
     - t-75694
 
 - id: c-41831
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Joje vykdė naujokų ap-
     mokymus, formavo naujus ir reorganizavo
@@ -393,6 +397,8 @@ Mackevičius, vėliau K.
     - t-75697
 
 - id: c-41832
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
     menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
@@ -408,6 +414,8 @@ Mackevičius, vėliau K.
     - t-75701
 
 - id: c-41833
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Netrukus iš K. Maleckio žvalgy-
     binio padalinio atėjo pranešimas apie
@@ -428,6 +436,8 @@ Mackevičius, vėliau K.
     - t-75700
 
 - id: c-41834
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     I. Ganeckio rinktinė pasuko iš Medeikių
     į Biržų girią vedlio nurodyta kryptimi ir
@@ -448,6 +458,8 @@ Mackevičius, vėliau K.
     - t-75696
 
 - id: c-41835
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
@@ -468,6 +480,8 @@ Mackevičius, vėliau K.
     - t-75699
 
 - id: c-73410
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pavasarį paskirtas vyriausiuoju Lietu-
     vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas

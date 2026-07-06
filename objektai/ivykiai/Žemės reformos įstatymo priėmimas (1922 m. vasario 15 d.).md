@@ -184,6 +184,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16903
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tik išdalijusi dvarų žemę valdžia galėjo
     tikėtis plačių valstietijos sluoksnių paramos.
@@ -204,6 +206,8 @@ Nenurodyta
     - t-23357
 
 - id: c-16904
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į Valstybinį žemės
     fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios

@@ -113,6 +113,8 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 ## Citatos
 
 - id: c-33166
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     _Brūkšniuotosios keramikos išnykimo Lietuvoje klausimu_ , AkMD, t. 23,
     1967, 35-50 p. — Daugudis, V. : _Kai kurie duomenys apie grublėtosios
@@ -128,6 +130,8 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
     - t-31024
 
 - id: c-33167
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bd. I, Riga 1931
     (referatų rinkinys). — Danilaitė, E. : _Archeologiniai tyrinėjimai Kiau­

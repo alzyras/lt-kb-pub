@@ -71,6 +71,8 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
 ## Citatos
 
 - id: c-174473
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet ne visos jos buvo vienu metu, nes
     gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­

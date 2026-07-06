@@ -79,6 +79,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09988
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Tarp paimtųjų neprietelių karėje didžiuosius jų vyresniuosius gyvus dievams savo aukavo tokiu
         būdu: sugautąjį neprietelių atmoną ar kitą karvedį, pririšę žirgo kojas prie keturių stiebų, patį

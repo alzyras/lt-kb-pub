@@ -78,6 +78,8 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
 ## Citatos
 
 - id: c-41965
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     įsijungė į 1683 m. J. Sobieskio pradėtą
     karą su Turkija ir jam net pavyko atsi-

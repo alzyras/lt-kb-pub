@@ -76,6 +76,8 @@ Stanislovo bažny­ čioje, deja, dėl kapitulos priekaištingo aplaidumo vėlia
 ## Citatos
 
 - id: c-82297
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     — • —
     275

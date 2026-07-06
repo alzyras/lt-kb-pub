@@ -72,6 +72,8 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 ## Citatos
 
 - id: c-84392
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš
     tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet

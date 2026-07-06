@@ -86,6 +86,8 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
 ## Citatos
 
 - id: c-173339
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.

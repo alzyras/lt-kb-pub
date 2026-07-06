@@ -656,6 +656,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 ## Citatos
 
 - id: c-32239
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
     link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­
@@ -670,6 +672,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180318
 
 - id: c-163930
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuvos vyriausybė, ir šį kartą
     tikėdamasi geruoju susitarti, sutiko.
@@ -692,6 +696,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180315
 
 - id: c-163931
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Antrasis būrys be įsakymo
 
@@ -725,6 +731,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180307
 
 - id: c-163932
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Nutarėme priešui atkeršyti. Pasiūliau pulti Merkinę.
 
@@ -743,6 +751,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180312
 
 - id: c-163933
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
     rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
@@ -761,6 +772,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180308
 
 - id: c-163935
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Atlikta ir duota Vilniuje, antradie­
     nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
@@ -791,6 +804,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180309
 
 - id: c-163936
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
     maičių krikšto klausimą. Tačiau Vytautas dar dvejus metus už­
@@ -808,6 +824,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180317
 
 - id: c-163937
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ryšininkas Juozas Jakavonis rado Merkiu
     ant ledo lyties plaukiančią žuvusių par-
@@ -838,6 +856,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180313
 
 - id: c-163939
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
     truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
@@ -855,6 +876,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180311
 
 - id: c-163941
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Motiejus,
     vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš
@@ -873,6 +897,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-180306
 
 - id: c-171661
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­
     nu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su

@@ -70,6 +70,8 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 ## Citatos
 
 - id: c-33785
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet Melno sutartimi
     iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu

@@ -56,6 +56,9 @@ Ruzgo GAMTOS METODIKOS PAGRINDAI. Gamtos moky­ tojas d-ras C.
 ## Citatos
 
 - id: c-37198
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     17. V. Ruzgo GAMTOS METODIKOS PAGRINDAI. Gausiai ilius­
     truota, 200 pusl. Kaina Lt. 6, —

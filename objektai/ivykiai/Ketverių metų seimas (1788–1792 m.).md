@@ -168,6 +168,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43055
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ## Puslapis 145
 
@@ -194,6 +196,8 @@ Nenurodyta
     - t-78620
 
 - id: c-75848
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
     praplėsti karaliaus valdžią. Bet kai susirinko seimas, tai pasi-
@@ -212,6 +216,8 @@ Nenurodyta
     - t-78623
 
 - id: c-75849
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai
     užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš

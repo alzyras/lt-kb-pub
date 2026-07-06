@@ -192,6 +192,8 @@ Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė 
 ## Citatos
 
 - id: c-172339
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
@@ -208,6 +210,8 @@ Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė 
     - t-189452
 
 - id: c-172340
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tiesą sako „Antilukrecijaus“ auto­
     rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
@@ -227,6 +231,8 @@ Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė 
     - t-189453
 
 - id: c-172342
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -244,6 +250,8 @@ Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė 
     - t-189455
 
 - id: c-176962
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-

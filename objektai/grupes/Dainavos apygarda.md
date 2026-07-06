@@ -81,6 +81,8 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 ## Citatos
 
 - id: c-77351
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po kelių mėnesių Ramanauskas-Vanagas
     buvo pakeltas į Merkio rinktinės vado pareigas.

@@ -136,6 +136,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173925
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nedaug herulų, gal išlikusių kažkur Rytų valsty­
     bės provincijose po to, kai prieš keturiasdešimt metų bu­
@@ -156,6 +158,8 @@ Nenurodyta
     - t-191043
 
 - id: c-173926
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Slavai visuomet buvo svetingi, daug jų kartų
     buvo taikių, vertėsi žemdirbyste, ypač tos, kurios gyveno

@@ -83,6 +83,8 @@ Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kap
 ## Citatos
 
 - id: c-173326
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Man sakė, kad vieno vienuolyno biblio­
     tekoje buvo XV amžiaus lotyniškas rankraštis -  svarstymas

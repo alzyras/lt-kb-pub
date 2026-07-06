@@ -76,6 +76,8 @@ Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakym
 ## Citatos
 
 - id: c-33700
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Drauge su M. Juču jis sudarė rinkinį
     «Lietuvos inventoriai XVII amž. » (1962). Suredagavo jis taip pat

@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-28781
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių. Abu pusbro­

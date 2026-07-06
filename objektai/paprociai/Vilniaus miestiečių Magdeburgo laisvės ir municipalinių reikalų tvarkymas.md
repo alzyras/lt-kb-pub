@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83267
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dabar tik kai
     kuriuos miestus palyginsime su Vil­

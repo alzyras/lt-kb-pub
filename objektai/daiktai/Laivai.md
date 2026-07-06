@@ -752,6 +752,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05231
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet (1410.VIII.)
     Livonijos kariuomenė laivais atvyko Sembon.
@@ -763,6 +765,8 @@ Nenurodyta
     - t-179486
 
 - id: c-163178
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
     tuoj po Romos valstybės žlugimo,
@@ -794,6 +798,9 @@ Nenurodyta
     - t-179488
 
 - id: c-163179
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     su Vokiečiu Ordinu. Jis darė 1382 m. sausio mėn. žygius į jo
     žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
@@ -811,6 +818,9 @@ Nenurodyta
     - t-12313
 
 - id: c-163180
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
     įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
@@ -830,6 +840,8 @@ Nenurodyta
     - t-179487
 
 - id: c-163181
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuviai ne kartą puldinėjo Sembą. Pats
     Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­
@@ -848,6 +860,8 @@ Nenurodyta
     - t-179484
 
 - id: c-163183
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Yra
     žinių, kad senų senovėje aisčiams daug teko kariauti su skandi-
@@ -866,6 +880,8 @@ Nenurodyta
     - t-179490
 
 - id: c-163185
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     kryžiuočiai, kai, Karaliaučiaus komtūrui vadovaujant, atvyko stipri
     pagalba^34. Su rygiečiais atvykę laivais griauti Neuermühleno pilies,
@@ -881,6 +897,8 @@ Nenurodyta
     - t-179486
 
 - id: c-163186
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -902,6 +920,8 @@ Nenurodyta
     - t-179483
 
 - id: c-163187
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     7
 
@@ -925,6 +945,8 @@ Nenurodyta
     - t-179482
 
 - id: c-175292
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šie, susirinkę labai daug savo valčių, stojo
     į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
@@ -941,6 +963,8 @@ Nenurodyta
     - t-192502
 
 - id: c-176792
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     5
     Žodį Vilija, jeigu jo kilmės imtume

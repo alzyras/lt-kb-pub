@@ -221,6 +221,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 ## Citatos
 
 - id: c-65346
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
 
@@ -238,6 +240,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
     - t-64698
 
 - id: c-65347
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIII a. šaltiniuose Vitlando (Withlandia)
     vardas figūruoja šalia Prūsijos ir Sembos (SRP, 1, p. 241). Manoma, kad Vitlandu vadinta
@@ -251,6 +255,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
     - t-64699
 
 - id: c-65348
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
 
@@ -268,6 +274,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
     - t-64701
 
 - id: c-65349
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     krante žemiau Nogato atsišakojimo. Dirsovė — prūsiškas vardas (GAO, p. 28; Labuda
     G., Zagadnienie.., p. 24; Топоров B. H, Новые работы.., с. 272 (Braueris V.), bet plg.
@@ -280,6 +288,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
     - t-64697
 
 - id: c-65351
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Imperatorius, naudodamasis „teise” lemti pagoniškųjų žemių
     likimą, ne tik patvirtino Konrado dovanojimus, bet iš anksto atidavė Ordinui prūsus, dėl

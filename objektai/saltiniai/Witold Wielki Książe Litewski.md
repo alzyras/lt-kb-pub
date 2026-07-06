@@ -69,6 +69,9 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
 ## Citatos
 
 - id: c-37276
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
     tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš

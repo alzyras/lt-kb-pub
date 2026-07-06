@@ -196,6 +196,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23067
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po šios ap-
     klausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-
@@ -213,6 +215,8 @@ Nenurodyta
     - t-75173
 
 - id: c-73064
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagalba atėjo iš Islandijos – 1991 m.
     vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
@@ -236,6 +240,8 @@ Nenurodyta
     - t-75172
 
 - id: c-166639
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-

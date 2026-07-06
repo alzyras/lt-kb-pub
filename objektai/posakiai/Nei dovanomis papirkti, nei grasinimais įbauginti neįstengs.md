@@ -86,6 +86,8 @@ Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karali
 ## Citatos
 
 - id: c-82844
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas, vėl su įkarščiu išsakęs savo didelį norą
     stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­

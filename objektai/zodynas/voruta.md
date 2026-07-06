@@ -68,6 +68,8 @@ Užsidarė pilyje-vorutoje2 3 , ir (naktį) 2A išsiuntė savo svainį2 5 , ir t
 ## Citatos
 
 - id: c-176663
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
     parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė

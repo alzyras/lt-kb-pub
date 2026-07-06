@@ -64,6 +64,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33746
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     _Jogaila,_
     red. A. Šapoka, Kaunas 1935, 47-79 p. — (”) _Jogaila_ , LE, t. 9, 419-

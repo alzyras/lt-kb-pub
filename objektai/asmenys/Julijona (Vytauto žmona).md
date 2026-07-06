@@ -780,6 +780,9 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 ## Citatos
 
 - id: c-15948
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tris kartus per dieną—rytą, per pietus
     ir vakare, buvo apraudojamas didelis mūsų tėvynės vyras, jos
@@ -797,6 +800,9 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113845
 
 - id: c-16099
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
     paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
@@ -812,6 +818,9 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113835
 
 - id: c-21351
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet
     ir ligi to termino nieko nesulaukta. Vytautas, atsisveikinęs
@@ -826,6 +835,9 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113843
 
 - id: c-105015
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mirė tikrai mūsų tautos
     garbė.
@@ -841,6 +853,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113842
 
 - id: c-105016
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     III KNYGA
     galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
@@ -866,6 +880,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113837
 
 - id: c-105018
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš
     vieno Vytauto dovanojimo akto Tra­
@@ -903,6 +919,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113834
 
 - id: c-105019
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pasta­
     rasis varį (miedź - mied') palaikė me­
@@ -934,6 +952,9 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113840
 
 - id: c-105021
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vis dėlto jis ir dabar dar nenustojo
     vilties karūnuotis. Nenusileisti jį ypač įkalbinėjo jo bajorai
@@ -948,6 +969,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113846
 
 - id: c-105022
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Algirdas
     kartais gyvendavo Paneriuose, šiandien priklausančiuose
@@ -969,6 +992,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113839
 
 - id: c-105023
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     54
     Index Cod. Hist. Dipl. Livoniae, T. I,
@@ -1015,6 +1040,9 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113831
 
 - id: c-105024
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Istorikai nurodo, kad Vy­
     tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
@@ -1032,6 +1060,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113847
 
 - id: c-105025
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     A
     za srebro i za robotu i za mied' i za wsi
@@ -1064,6 +1094,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113833
 
 - id: c-105028
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
     numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
@@ -1081,6 +1113,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-113848
 
 - id: c-168105
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
@@ -1096,6 +1130,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-184744
 
 - id: c-168106
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl Petras, Vilniaus vyskupas,
     labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­

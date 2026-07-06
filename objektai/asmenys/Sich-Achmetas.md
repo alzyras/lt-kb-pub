@@ -70,6 +70,8 @@ Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos chanas.
 ## Citatos
 
 - id: c-176708
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
     chanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo

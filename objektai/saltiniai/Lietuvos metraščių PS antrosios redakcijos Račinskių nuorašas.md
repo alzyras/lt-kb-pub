@@ -59,6 +59,8 @@ Mūsų vertim e spraga užpildoma tekstu, paimtu iš Lietuvos metraščių PS Ra
 ## Citatos
 
 - id: c-176782
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     *  Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­
     žymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu

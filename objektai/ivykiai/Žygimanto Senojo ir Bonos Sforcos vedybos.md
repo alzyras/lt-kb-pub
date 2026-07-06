@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23316
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos bėda, kad
     ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą

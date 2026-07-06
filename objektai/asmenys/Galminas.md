@@ -80,6 +80,8 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 ## Citatos
 
 - id: c-32723
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
     neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­

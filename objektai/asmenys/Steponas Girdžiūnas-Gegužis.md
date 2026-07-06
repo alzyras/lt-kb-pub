@@ -68,6 +68,8 @@ GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios g
 ## Citatos
 
 - id: c-42246
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1945 m. vasario mėn. buvo įkurta 3-ioji
     Šiaurės LLA apygarda. Pirmasis apygardos

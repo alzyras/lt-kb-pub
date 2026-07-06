@@ -79,6 +79,8 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
 ## Citatos
 
 - id: c-83482
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     150
 

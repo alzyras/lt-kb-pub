@@ -90,6 +90,8 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 ## Citatos
 
 - id: c-41367
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšyje žuvo keliasdešimt (kartais nu-
     rodoma net 74) žymių Lietuvos kuni-

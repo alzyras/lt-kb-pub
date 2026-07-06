@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176733
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Štai užmuštųjų lietuvių kunigaikščių vardai 23: Po­
     locko kunigaikštis Andrius Kęstutaitis2 < ; jo brolis

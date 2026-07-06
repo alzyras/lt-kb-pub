@@ -142,6 +142,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67035
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
     į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą. Po to,
@@ -162,6 +164,8 @@ Nenurodyta
     - t-66946
 
 - id: c-67036
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Veklico pilies ir vienos pilaitės sugriovimą
 

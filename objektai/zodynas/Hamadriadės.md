@@ -67,6 +67,8 @@ Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių sa
 ## Citatos
 
 - id: c-177177
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jupiteris atmetė deivės reikalavimą, nors vis dėlto paža­
     dėjo, kad tie laivai, kurie atplauks į Italiją, bus paversti jūros

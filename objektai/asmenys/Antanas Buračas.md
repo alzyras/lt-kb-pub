@@ -108,6 +108,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-21584
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
@@ -125,6 +127,8 @@ media_all_json: |-
     - t-18810
 
 - id: c-166917
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
     ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-

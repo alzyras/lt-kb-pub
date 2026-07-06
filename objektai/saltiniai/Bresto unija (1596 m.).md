@@ -78,6 +78,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36173
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir taip Vytautui nepasisekė sukurti religiniu atžvilgiu vie­
     ningos Lietuvos valstybės ir katalikybės pastūmėti toliau į ry­

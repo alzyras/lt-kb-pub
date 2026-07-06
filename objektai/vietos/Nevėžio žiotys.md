@@ -71,6 +71,8 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 ## Citatos
 
 - id: c-45242
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Situacija Kauno regione bei visoje
     Lietuvoje ir toliau buvo labai sudėtinga.

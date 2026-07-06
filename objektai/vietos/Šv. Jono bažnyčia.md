@@ -109,6 +109,8 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 ## Citatos
 
 - id: c-82259
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
     vo disputais ir raštais spaudęs savo priešininkus, nekan­
@@ -127,6 +129,8 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
     - t-86281
 
 - id: c-82260
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mes cituojame tik tuos, kuriuos
     matėme patys.

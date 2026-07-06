@@ -849,6 +849,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 ## Citatos
 
 - id: c-12742
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Visuotinio šaukimo
     metu didesniąją visos kariuomenės dalį
@@ -869,6 +871,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-182742
 
 - id: c-42823
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kristupas Radvila Perkūnas
 
@@ -891,6 +895,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-182743
 
 - id: c-42824
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     LDK didysis etmo-
     nas Karolis Chodkevičius, matydamas
@@ -916,6 +922,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-182741
 
 - id: c-166157
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gedimino laikais Lie-
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
@@ -937,6 +945,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-182738
 
 - id: c-166542
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kova dėl Livonijos daugiausia buvo suin-
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
@@ -951,6 +961,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-183157
 
 - id: c-166543
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
@@ -964,6 +976,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-183158
 
 - id: c-166545
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
     ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovins-
@@ -978,6 +992,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-183160
 
 - id: c-166546
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nepatarė imti Vilniaus ir sovietai.
 
@@ -995,6 +1011,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-183161
 
 - id: c-166547
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
@@ -1009,6 +1027,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-183162
 
 - id: c-167702
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
@@ -1022,6 +1042,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-184332
 
 - id: c-167703
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Yra duomenų spręsti, kad Jogaila ir Vytautas yra veikę drauge
     ir sutartinai^34. Vytauto kariuomenė buvo stipriai išretinta ne tik
@@ -1036,6 +1058,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-184333
 
 - id: c-170663
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
     dievo gailestingumą, o Korano giminė — neapsakomą
@@ -1056,6 +1080,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-187724
 
 - id: c-170664
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
     Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­
@@ -1077,6 +1103,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-187725
 
 - id: c-176232
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sėkmingai likviduotas ir bermontininkų
     rengtas perversmas Kaune. Kovose gimę Lietuvos kariuomenės savanorių
@@ -1092,6 +1120,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-193552
 
 - id: c-176481
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Dėl keblaus upės perėjimo negalėjo ne­
     delsiant su jais susigrumti ir daugiau kaip tris valan­

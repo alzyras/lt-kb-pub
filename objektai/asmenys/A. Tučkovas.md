@@ -70,6 +70,8 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
 ## Citatos
 
 - id: c-44252
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jį saugoję
     Lietuvos kariuomenės artileris-

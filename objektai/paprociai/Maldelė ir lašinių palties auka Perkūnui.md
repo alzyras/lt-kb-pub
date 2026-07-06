@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172665
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Paltu messu (paltį mėsos. -  R. J.)
     reiškia pusę kiaulės skerdienos kartu su riebalais, įprastinę ro­

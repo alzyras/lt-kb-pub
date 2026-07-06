@@ -313,6 +313,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Citatos
 
 - id: c-82737
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­
     kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie
@@ -331,6 +333,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-86759
 
 - id: c-82738
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Puikų suruošia Vytautas priėmimą,
     bemaž du mėnesius užsitęsusį, mat nuo rugpjūčio pradžios
@@ -351,6 +355,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-86758
 
 - id: c-167898
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautas, pasipiktinęs ne tiek
     dėl pralaimėjimo, kiek dėl
@@ -380,6 +386,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-184537
 
 - id: c-167899
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žygimantas, beveik be kovos laimėjęs karą,
     paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
@@ -402,6 +410,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-184538
 
 - id: c-167900
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,
@@ -428,6 +438,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-184539
 
 - id: c-167901
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tada Žygimantas pagal senus papročius
     buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­

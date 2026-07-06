@@ -80,6 +80,8 @@ Koneczny : Jagiełło i Witołd, Lwów 1893, 147-149 p. rimtai svarstomas, rodė
 ## Citatos
 
 - id: c-94048
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kad šitokis projektas buvo
 

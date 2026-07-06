@@ -379,6 +379,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-14694
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
     spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
@@ -394,6 +397,8 @@ media_all_json: |-
     - t-182848
 
 - id: c-167103
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Strėvos mūšį.
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
@@ -406,6 +411,8 @@ media_all_json: |-
     - t-183715
 
 - id: c-167219
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
     tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos

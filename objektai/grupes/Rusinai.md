@@ -507,6 +507,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 ## Citatos
 
 - id: c-172287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     141
 
@@ -527,6 +529,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189400
 
 - id: c-172288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
     nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
@@ -546,6 +550,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189401
 
 - id: c-172289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     10*.
     183
@@ -565,6 +571,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189402
 
 - id: c-172290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
     pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
@@ -582,6 +590,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189403
 
 - id: c-172291
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
@@ -597,6 +607,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189404
 
 - id: c-172292
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žyniai vilkėdavo įpras­
     tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
@@ -616,6 +628,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189405
 
 - id: c-172293
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lat­
     vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
@@ -631,6 +645,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189406
 
 - id: c-172294
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuo klausimu išsamiai įtikina Cac-
     kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
@@ -646,6 +662,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189407
 
 - id: c-172295
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tad nedera ir
     jų palikti be dėmesio.
@@ -661,6 +679,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-189408
 
 - id: c-176983
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
     miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
@@ -677,6 +697,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     - t-194584
 
 - id: c-176984
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
     tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­

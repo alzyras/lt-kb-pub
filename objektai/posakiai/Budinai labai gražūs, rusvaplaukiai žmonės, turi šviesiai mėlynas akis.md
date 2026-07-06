@@ -70,6 +70,8 @@ Narbutas, cituodamas Herodotą, budinų giminei priskiria trumpą išvaizdos for
 ## Citatos
 
 - id: c-175772
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ten kasmet bū­
     davo minimos Dioniso (Bacho) šventės ir vykdavo bak­

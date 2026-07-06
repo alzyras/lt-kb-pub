@@ -137,6 +137,9 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
 ## Citatos
 
 - id: c-38461
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar laukta
     teisingo ginčo išsprendimo taikos keliu. Taip buvo sulaukta
@@ -152,6 +155,9 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     - t-36165
 
 - id: c-38462
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas dėl jų pagei­
     davo pastovios taikos ir nekantriai laukė Lietuvos ir Ordino

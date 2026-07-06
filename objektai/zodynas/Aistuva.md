@@ -82,6 +82,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-14591
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tik ligšiol dar galutinai nesusitarta ar „aesti”
     yra etnografiškas vardas ar geografiškas, kaip manė daugybė

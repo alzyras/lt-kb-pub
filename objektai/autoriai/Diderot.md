@@ -71,6 +71,8 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 ## Citatos
 
 - id: c-01266
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     menkaverčiai, nepasižymį gilumu, o tik drąsių, viską neigiančių iš-
     vadų dialektika, bet to meto žmogui tai buvo viskas.

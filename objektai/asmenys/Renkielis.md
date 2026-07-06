@@ -113,6 +113,8 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 ## Citatos
 
 - id: c-83547
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kaip kad paaiškėjo iš maloningojo Necelu
     pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas

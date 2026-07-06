@@ -183,6 +183,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 ## Citatos
 
 - id: c-59180
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     383 D.— Vischusen, Jer.— Vischhûsin; vėliau — Fischhausen (dab. Primorskas) —
     gyvenvietė pietvakarių Semboje.
@@ -194,6 +196,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - t-58548
 
 - id: c-167538
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Rinavos valsčiaus sembų naują atskalūnybę
 
@@ -210,6 +214,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - t-58549
 
 - id: c-177127
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Signotai (Sigonottaį
     Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos

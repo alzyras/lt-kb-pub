@@ -82,6 +82,8 @@ Kučinskas, A.
 ## Citatos
 
 - id: c-33508
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jh. in Preusseu,_ Historische Studien, Heft 272,
     Berlin 1935. — Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,

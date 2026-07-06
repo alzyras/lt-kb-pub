@@ -79,6 +79,8 @@ Teodoro Narbuto teigimu, XV a. prūsų kronikininkas Henenbergeris nurodė nebee
 ## Citatos
 
 - id: c-174720
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tolesnės
     vagos ir jas jungiančios perplaukos vadinamos Rusneit,

@@ -64,6 +64,8 @@ Dusburgietis teigia, kad vanagas A.
 ## Citatos
 
 - id: c-61972
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vanagas A. Galindai.— MG, 1965, Nr. 5, p. 28—29.
   statusas: verified

@@ -77,6 +77,8 @@ Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją
 ## Citatos
 
 - id: c-82780
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,

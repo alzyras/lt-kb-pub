@@ -276,6 +276,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 ## Citatos
 
 - id: c-43408
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę. Prieš metus įvykęs jų žygis
@@ -294,6 +296,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-67840
 
 - id: c-43409
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Viena jų, vadovaujama
     kunigaikščio Baziliaus Serebriano, pajudėjo
@@ -319,6 +323,9 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-67842
 
 - id: c-67601
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Su­
     žinojęs apie tai Vytautas, drauge su Skirgaila pasiryžo suval­
@@ -333,6 +340,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-67841
 
 - id: c-168308
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -364,6 +373,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-184947
 
 - id: c-170522
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas pasiėmė su sa­
     vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­

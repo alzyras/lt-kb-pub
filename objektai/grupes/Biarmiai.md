@@ -301,6 +301,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
 ## Citatos
 
 - id: c-172317
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuo tarpu apsiribosime pasa­
     kydami štai ką.
@@ -319,6 +321,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - t-189430
 
 - id: c-172318
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie juos senovės Graikijos
     geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
@@ -342,6 +346,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - t-189431
 
 - id: c-172319
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vėliau iš skandinavų legendų arba iš gana
     fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
@@ -370,6 +376,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - t-189432
 
 - id: c-172320
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     435
 
@@ -393,6 +401,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - t-189433
 
 - id: c-172321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pagaliau atsirado tikrasis Biarmijos apaštalas -
     šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
@@ -412,6 +422,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - t-189434
 
 - id: c-172322
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mat jeigu biarmiečiai nebūtų turėję savo rai­
     dyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir

@@ -93,6 +93,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 ## Citatos
 
 - id: c-84232
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mergelės Ma­
     rijos Apsivalymo dienoje, Viešp. me­

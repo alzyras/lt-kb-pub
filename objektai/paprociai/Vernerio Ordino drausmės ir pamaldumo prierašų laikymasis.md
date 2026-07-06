@@ -143,6 +143,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-159295
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apkaltintas erezija Tamplierių
     ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
@@ -162,6 +164,8 @@ Nenurodyta
     - t-175143
 
 - id: c-159296
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
     atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,

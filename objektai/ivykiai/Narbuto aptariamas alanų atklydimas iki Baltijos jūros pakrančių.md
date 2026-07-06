@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173914
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad mes skyrėme daug dėme­
     sio, kad pažintume alanus; skaitytojas jau susipažino su

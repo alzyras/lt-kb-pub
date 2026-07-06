@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170986
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai jo turėtuose mitologijos žody­
     nuose aprašyti kitų tautų (visų pirma graikų ir romėnų) dievai

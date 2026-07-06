@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176179
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ir viena, ir kita šalis nuolatos puldinėjo priešo kai­
     mus; tuo pat metu, mirus Lenkijos karaliui Kazimierui,

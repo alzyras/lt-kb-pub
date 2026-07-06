@@ -209,6 +209,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ## Citatos
 
 - id: c-32680
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
     kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
@@ -227,6 +229,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-103841
 
 - id: c-32682
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Istorikams tad, vystant savą istoriografiją, pirmiausia
     rūpėjo « surasti lietuvius Lietuvos istorijoje »^86. Ypač jų reikėjo
@@ -241,6 +245,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-103840
 
 - id: c-96904
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
     relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­
@@ -260,6 +266,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-103842
 
 - id: c-96906
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Palyginti, objektyviai išdės­
     tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi

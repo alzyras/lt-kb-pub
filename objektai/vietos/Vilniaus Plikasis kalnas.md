@@ -118,6 +118,8 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
 ## Citatos
 
 - id: c-171829
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
@@ -133,6 +135,8 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
     - t-188940
 
 - id: c-171830
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taigi nėra pėdsakų, kad ten turėjo būti kas nors
     susijusio su senąja lietuvių religija. Pirmieji misionieriai -  pran­

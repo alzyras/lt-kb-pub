@@ -67,6 +67,8 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
 ## Citatos
 
 - id: c-174485
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     196 /P.
     366, 3

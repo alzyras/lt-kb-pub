@@ -106,6 +106,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83286
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
     cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat

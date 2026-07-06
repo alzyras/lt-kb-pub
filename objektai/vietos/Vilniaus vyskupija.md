@@ -230,6 +230,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 ## Citatos
 
 - id: c-102069
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
     rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­
@@ -257,6 +259,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-110178
 
 - id: c-102070
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šven­
     tasis ekumeninis Tridento Sinodas nusprendė, kad norint
@@ -289,6 +293,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-110180
 
 - id: c-102071
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
     Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
@@ -322,6 +328,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-110181
 
 - id: c-102072
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kartu su
     būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-

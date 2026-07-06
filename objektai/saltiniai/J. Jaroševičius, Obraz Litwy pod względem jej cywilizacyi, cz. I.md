@@ -74,6 +74,8 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
 ## Citatos
 
 - id: c-173382
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvių liaudis nesanti išlaikiusi jokių mitų,
     20 Jaroszewi.cz J. Obraz Litwy pod względem jej cywilizacyi, od

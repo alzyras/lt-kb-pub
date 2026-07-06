@@ -75,6 +75,8 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
 ## Citatos
 
 - id: c-61326
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
     II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung

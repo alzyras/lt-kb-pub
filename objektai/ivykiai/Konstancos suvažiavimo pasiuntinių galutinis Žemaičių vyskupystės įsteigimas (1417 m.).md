@@ -165,6 +165,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169079
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vy­
     tautas priėmė Jogailą, kaip
@@ -195,6 +197,8 @@ Nenurodyta
     - t-185718
 
 - id: c-169080
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be
     galo ryžtingas žmogus, jis

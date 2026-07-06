@@ -71,6 +71,8 @@ Vytautas Didysis.
 ## Citatos
 
 - id: c-24019
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
     1009–2009.

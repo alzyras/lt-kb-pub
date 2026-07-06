@@ -82,6 +82,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177198
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau­
     giausia buvo plonų monetų, visos vienodo antspaudo; dviejų

@@ -106,6 +106,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75263
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Renesansas ir reformacija
     Humanistinio išsilavinimo žmonių būta jau XV–XVI a.

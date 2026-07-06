@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83263
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Spaustuvės lėšas sudaro pajamos, gautos už parduotas
     joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­

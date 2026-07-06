@@ -74,6 +74,8 @@ Narbutas rašė, kad Tatiščevas klaidingai prie Osteros upės žiočių lokali
 ## Citatos
 
 - id: c-175659
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė

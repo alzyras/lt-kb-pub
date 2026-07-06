@@ -80,6 +80,8 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
 ## Citatos
 
 - id: c-01307
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kaip tik tuo metu rusų slavofilų tarpe buvo kilęs sumany-
     mas, kad visiems slavams reikėtų vartoti rusiškąsias raides.

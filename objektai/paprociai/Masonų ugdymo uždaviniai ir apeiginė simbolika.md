@@ -145,6 +145,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172728
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visuomenės švietimo ir ugdymo uždaviniai buvo suformu­
     luoti masonų organizacijose. Lietuvos istorijos ir etnografijos
@@ -168,6 +170,8 @@ Nenurodyta
     - t-189845
 
 - id: c-172729
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Masonų organizacijose kampainis simboli­
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­

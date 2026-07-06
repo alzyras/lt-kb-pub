@@ -369,6 +369,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 ## Citatos
 
 - id: c-21824
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
     iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
@@ -387,6 +389,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-93419
 
 - id: c-21825
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet riterių buvo ne-
     daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
@@ -406,6 +410,9 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-93426
 
 - id: c-21828
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
     1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
@@ -423,6 +430,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-93423
 
 - id: c-88786
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ir štai Teutonų
     ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
@@ -440,6 +449,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-93422
 
 - id: c-88788
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Marienverderio miesto pastatymą
 
@@ -483,6 +494,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-93420
 
 - id: c-88789
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,

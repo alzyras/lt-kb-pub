@@ -88,6 +88,8 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
 ## Citatos
 
 - id: c-33991
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
     (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo

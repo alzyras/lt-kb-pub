@@ -67,6 +67,8 @@ Vitkauskas, gen.
 ## Citatos
 
 - id: c-22043
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau ministro pirmininko
     Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-

@@ -118,6 +118,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82951
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai mes ankstesniais metais svarstėme mūsų LDK val­
     dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,

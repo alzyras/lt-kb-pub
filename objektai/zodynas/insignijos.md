@@ -83,6 +83,8 @@ Tegu jis nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą 
 ## Citatos
 
 - id: c-176166
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Laiške štai kas buvo rašoma: ,,Be rei­
     kalo Vytautas abejoja, ar imperatorius turi galią be po-

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01923
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet XIII
     amž. pabaigoje jau buvo aišku, kad didžiausių perspektyvų ordi-

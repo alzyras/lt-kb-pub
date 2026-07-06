@@ -262,6 +262,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 ## Citatos
 
 - id: c-22506
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kadangi iki XX a. nė viena pusė neneigė,
     kad Vilnius yra istorinė LDK sostinė, lietuviai atkakliai kartojo istorinius
@@ -281,6 +283,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-78201
 
 - id: c-22507
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai. Nors 1920 m.
@@ -301,6 +305,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-78205
 
 - id: c-42794
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lenkijos kariuomenė įžengė
     į Valakiją ir mūšyje prie Cecoro ne-
@@ -320,6 +326,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-78202
 
 - id: c-75498
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po šio
     pralaimėjimo kilo grėsmė, kad
@@ -341,6 +349,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-78204
 
 - id: c-176228
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
     lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o

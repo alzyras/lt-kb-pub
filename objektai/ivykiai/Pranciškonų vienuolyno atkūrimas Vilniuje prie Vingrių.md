@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169882
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Už tai pasmerkia
     myriop penkis šimtus vilniečių, kad juos nubaustų pa­

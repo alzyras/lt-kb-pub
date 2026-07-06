@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83273
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O
     jeigu pinigų neturėtų, už šį poelgį pelnytai turi būti nubaus­

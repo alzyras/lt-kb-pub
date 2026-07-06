@@ -117,6 +117,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 ## Citatos
 
 - id: c-59230
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     600  D. — Morungen, Jer.— Môrungen [...] an Maurin (vardas prūsiškas, GAO, p.
     101), vėliau vok. Mohrungen, dab. Morongas (Morąg) tarp Elbliongo ir Olštino (Czubiel
@@ -129,6 +131,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
     - t-58598
 
 - id: c-59231
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     2. Apie Morungeno pilies pastatymą
 

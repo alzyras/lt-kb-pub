@@ -359,6 +359,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23266
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
     name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
@@ -377,6 +379,8 @@ Nenurodyta
     - t-45456
 
 - id: c-23268
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau Steponas
     Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-
@@ -394,6 +398,8 @@ Nenurodyta
     - t-45455
 
 - id: c-23270
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilniaus universite-
     to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
@@ -416,6 +422,8 @@ Nenurodyta
     - t-45450
 
 - id: c-48260
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
     ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
@@ -439,6 +447,8 @@ Nenurodyta
     - t-45452
 
 - id: c-48261
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
     79
@@ -466,6 +476,8 @@ Nenurodyta
     - t-45453
 
 - id: c-166673
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
     tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė

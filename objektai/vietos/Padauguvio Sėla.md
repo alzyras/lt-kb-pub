@@ -68,6 +68,8 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
 ## Citatos
 
 - id: c-33987
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Aukštaičių žemė siekėsi su sėliais ir žiemgaliais, toli įsiterpusiais
     į Lietuvos plotą. Užėmę Padauguvio Sėlą (tarp Dauguvos intakų

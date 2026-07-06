@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-70132
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Visi tų gyventojų įrankiai buvo stipriai gludinti ir žymiai ge­
     resnės išvaizdos, negu šuninės keramikos nešėjų. Paminėtini —- su

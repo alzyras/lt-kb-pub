@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175782
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pa­
     gal ją ¡r buvo duotas Adliai vardas. Volgos žemupyje buvo rasta mar-

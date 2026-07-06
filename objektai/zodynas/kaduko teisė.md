@@ -113,6 +113,8 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
 ## Citatos
 
 - id: c-03259
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Negalėjo jie
     laisvai elgtis tik su ta žeme, kurią jiems duodavo kunigaikštis
@@ -133,6 +135,8 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
     - t-03021
 
 - id: c-166349
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet faktiškai ir ta žemė, pa-
     tekusi į kurios nors šeimos rankas, iš jos jau retai kada be-

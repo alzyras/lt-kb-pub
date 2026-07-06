@@ -75,6 +75,8 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
 ## Citatos
 
 - id: c-171892
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Įėjimas -  tai priekiniai vartai, į dešinę
     nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,

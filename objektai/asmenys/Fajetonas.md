@@ -126,6 +126,8 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
 ## Citatos
 
 - id: c-174148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Geriausiai šį ypatingą fenomeną pa­
     aiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­
@@ -143,6 +145,8 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
     - t-191266
 
 - id: c-174149
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     156
     Iš tikrųjų graikų poetai pateikia mitinę ¡sakmę apie

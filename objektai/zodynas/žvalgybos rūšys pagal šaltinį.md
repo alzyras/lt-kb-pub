@@ -77,6 +77,8 @@ k atvirų šaltinių žvalgybą (osINT), taktinę ri es bet baat " + Įtvirtinim
 ## Citatos
 
 - id: c-45560
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     bent simbolinio pasipriešinimo. Vėl sukviečiama rikiuotė, perskirstomi postai, laukiame. oe
     Trūksta maisto, duoną dalinam būriams. Užsikimšo tualetai, čiužinių nėra, miega kas +

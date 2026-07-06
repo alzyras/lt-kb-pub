@@ -200,6 +200,8 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 ## Citatos
 
 - id: c-175705
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     282
 
@@ -223,6 +225,8 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     - t-192935
 
 - id: c-175706
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini
@@ -244,6 +248,8 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     - t-192936
 
 - id: c-175707
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
     šios temos pagrindą.

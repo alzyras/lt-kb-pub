@@ -354,6 +354,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 ## Citatos
 
 - id: c-46509
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klai-
     pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
@@ -368,6 +370,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-83427
 
 - id: c-46510
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet
     dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
@@ -385,6 +389,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-83425
 
 - id: c-79746
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Seniau jos sudarė ketvirtainį, kampuose su­
     tvirtintą bokštais, vienas jų, aukštesnis už kitus, stovi išlai­
@@ -403,6 +409,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-83426
 
 - id: c-168326
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
     7*
@@ -434,6 +442,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-184965
 
 - id: c-171590
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
     me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
@@ -451,6 +461,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-188701
 
 - id: c-171591
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Skaityk žemiau atitinkamus straipsnius.
     Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina

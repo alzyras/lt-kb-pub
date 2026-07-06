@@ -147,6 +147,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 ## Citatos
 
 - id: c-55562
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     4) Vėlesni kronikininkai: A 1 b.
     K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
@@ -160,6 +162,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     - t-54997
 
 - id: c-55563
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi čia turime aiškų paties Gedimino prisipažinimą, kad
     niekados jokių laiškų nei popiežiui, nei Vokietijos mies­
@@ -176,6 +180,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     - t-54998
 
 - id: c-78421
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas pareiškimas prieštarauja Koje-
     1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),

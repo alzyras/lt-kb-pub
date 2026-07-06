@@ -151,6 +151,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 ## Citatos
 
 - id: c-24741
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
     nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
@@ -167,6 +169,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     - t-22057
 
 - id: c-24742
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs inten-
     syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
@@ -183,6 +187,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     - t-22056
 
 - id: c-166791
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gediminas nebuvo pirmas šios dinastijos atsto-
     vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus. Valdant

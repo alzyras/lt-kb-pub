@@ -93,6 +93,8 @@ Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo pa
 ## Citatos
 
 - id: c-84478
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Veiklus, santūrus, kilnus, my­
     lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,

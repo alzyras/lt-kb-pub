@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174753
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Getai, pelazgų giminės gentis, ne­
     praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp

@@ -185,6 +185,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24788
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
     sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
@@ -204,6 +206,8 @@ media_all_json: |-
     - t-75546
 
 - id: c-73293
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokie-
     tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant
@@ -223,6 +227,8 @@ media_all_json: |-
     - t-75544
 
 - id: c-73294
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
     tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti

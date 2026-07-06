@@ -69,6 +69,8 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
 ## Citatos
 
 - id: c-21587
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.

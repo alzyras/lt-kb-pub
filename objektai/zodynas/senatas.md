@@ -138,6 +138,8 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
 ## Citatos
 
 - id: c-168757
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nesitikėdami lenkų pritarimo, lietuviai slėpė
     savo ketinimus ir, tyčia liovęsi ginčytis, dėjosi pakeitę
@@ -154,6 +156,8 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
     - t-185396
 
 - id: c-168758
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Reikėjo tikėtis, kad nuolatos
     stiprėjantys nesutarimai gali pridaryti žalos. Štai todėl,

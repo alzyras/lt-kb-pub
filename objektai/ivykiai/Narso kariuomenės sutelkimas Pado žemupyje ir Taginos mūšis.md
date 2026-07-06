@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173950
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi 535 metais, kai samdyta
     svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė

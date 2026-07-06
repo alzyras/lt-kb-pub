@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82937
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose. Tačiau pavasarį

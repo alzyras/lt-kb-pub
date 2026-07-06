@@ -86,6 +86,8 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
 ## Citatos
 
 - id: c-174478
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Galbūt jie ir buvo likučiai išvestų jot­
     vingių, kurių palikuonis Strijkovskis pastebėdavo prie

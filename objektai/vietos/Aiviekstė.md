@@ -75,6 +75,8 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
 ## Citatos
 
 - id: c-93869
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Per Prūsus, Lietuvai
     paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės

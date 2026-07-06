@@ -214,6 +214,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 ## Citatos
 
 - id: c-168705
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Va­
     žis
@@ -247,6 +249,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     - t-193457
 
 - id: c-168706
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
     apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
@@ -266,6 +270,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     - t-193458
 
 - id: c-168707
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo
     tarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­

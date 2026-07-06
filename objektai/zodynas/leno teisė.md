@@ -71,6 +71,8 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
 ## Citatos
 
 - id: c-75137
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
     raštijos modelio), XVI a. LDK visuomenė tampa europinė ir įsilieja į Va-

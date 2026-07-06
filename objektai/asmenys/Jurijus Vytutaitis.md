@@ -80,6 +80,8 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
 ## Citatos
 
 - id: c-173051
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iškiliojoje pusėje
     ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A

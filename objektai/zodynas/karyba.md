@@ -122,6 +122,8 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
 ## Citatos
 
 - id: c-45524
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Knygą stengtasi gausiai iliustruoti, kad skaity-
     tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
@@ -142,6 +144,8 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
     - t-42466
 
 - id: c-167101
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Aukštomis trajektorijomis Minosvaidžiai - lengvi
 

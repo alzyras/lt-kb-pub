@@ -75,6 +75,8 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
 ## Citatos
 
 - id: c-169587
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žuvus vadui, visa kariuomenė pasileido į arti­
     miausius miškus. Priešų palikta stovykla atiteko nu­

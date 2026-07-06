@@ -61,6 +61,8 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
 ## Citatos
 
 - id: c-82545
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Savotiškai isto­
     riko biografijos vingių ir ano meto istorinių realijų analizei skir­

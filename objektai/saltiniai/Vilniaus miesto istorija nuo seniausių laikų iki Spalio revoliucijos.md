@@ -114,6 +114,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84327
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     V., 1999, p. 1.
     8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos. V.,
@@ -127,6 +129,8 @@ media_all_json: |-
     - t-88348
 
 - id: c-84328
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prasidėjo Vilniaus miesto istorijos mokslinės istoriog­
     rafijos pradžia.

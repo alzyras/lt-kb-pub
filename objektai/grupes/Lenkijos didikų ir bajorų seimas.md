@@ -81,6 +81,8 @@ Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą
 ## Citatos
 
 - id: c-170721
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies­
     ti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne

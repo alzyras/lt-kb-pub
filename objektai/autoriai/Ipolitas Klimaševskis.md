@@ -67,6 +67,8 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
 ## Citatos
 
 - id: c-176761
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­

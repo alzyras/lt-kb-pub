@@ -112,6 +112,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 ## Citatos
 
 - id: c-86116
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno

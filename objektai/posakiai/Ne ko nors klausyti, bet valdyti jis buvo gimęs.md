@@ -68,6 +68,9 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
 ## Citatos
 
 - id: c-14551
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet tokia būkle
     jis pasitenkinti negalėjo, — jam permaža būtų buvę erdvės.

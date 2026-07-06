@@ -61,6 +61,8 @@ Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo
 ## Citatos
 
 - id: c-177283
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kalbant apie mūsų žemės formavimąsi, ne­
     1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė

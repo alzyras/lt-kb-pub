@@ -110,6 +110,8 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Citatos
 
 - id: c-09705
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     - public_note:
     - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -131,6 +133,8 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
     - t-70028
 
 - id: c-09707
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Gyventojus tarp upių Nemuno, Ventos ir Nevėžio vadino medininkais nuo to, jog didžiose medėse gyveno,
         nuo ko ir vyskupas Žemaičių Medininkų vyskupu lig šio laiko vadinos.

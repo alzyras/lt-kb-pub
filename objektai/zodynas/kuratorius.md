@@ -113,6 +113,8 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 ## Citatos
 
 - id: c-03294
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Rusi-
     joje įsteigė švietimo ministeriją ir visą imperiją padalino į 6 švie-
@@ -134,6 +136,8 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
     - t-03056
 
 - id: c-175903
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vienos tokios apygardos centru buvo Vilnius;
     prie jos priklausė visos buvusios Lietuvos kunigaikštijos žemės

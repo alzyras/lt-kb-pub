@@ -68,6 +68,9 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
 ## Citatos
 
 - id: c-38756
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Radomo, trumpiau vilniškė, unija yra todėl tikra ir visiškai per­
     sonalinė. Tiesa, pastarojoj sutarty nerandame jokio teoretinio

@@ -71,6 +71,8 @@ Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti
 ## Citatos
 
 - id: c-169373
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nauji tikybiniai įsitikinimai laisvai plito po didikų
     bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,

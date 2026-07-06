@@ -139,6 +139,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-14707
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
     puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
@@ -153,6 +156,9 @@ media_all_json: |-
     - t-70316
 
 - id: c-14708
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuolat remdamas juos per 30 me­
     tų jis sulaukė totorių tarpe sau visiškai paklusnių „saarų“. Dėl
@@ -169,6 +175,9 @@ media_all_json: |-
     - t-70315
 
 - id: c-14709
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
     rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar

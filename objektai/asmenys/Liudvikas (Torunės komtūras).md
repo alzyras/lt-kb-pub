@@ -161,6 +161,8 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
 ## Citatos
 
 - id: c-169424
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išpuikęs ir pasipūtęs, jis įstengė su­
     vokti tik betarpišką grėsmę, nei matydamas, nei paisy­
@@ -184,6 +186,8 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
     - t-186063
 
 - id: c-169425
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tada Žygimantas pagal senus papročius
     buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
@@ -209,6 +213,8 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
     - t-186064
 
 - id: c-169426
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto lėmė ne jo, o blaiviau galvojan­
     čių žmonių nuomonė. Valstybės ištarme buvo įsakyta

@@ -73,6 +73,8 @@ Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame ribože
 ## Citatos
 
 - id: c-173442
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
     nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo

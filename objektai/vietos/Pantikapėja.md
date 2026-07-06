@@ -75,6 +75,8 @@ Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti n
 ## Citatos
 
 - id: c-175661
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pantikapas, o
     tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti

@@ -80,6 +80,8 @@ Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, k
 ## Citatos
 
 - id: c-61038
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
 

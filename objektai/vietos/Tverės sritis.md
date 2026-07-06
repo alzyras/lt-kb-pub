@@ -118,6 +118,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-34063
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė
     Tverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­
@@ -133,6 +135,8 @@ media_all_json: |-
     - t-32616
 
 - id: c-167770
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
     riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai

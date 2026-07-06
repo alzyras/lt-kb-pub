@@ -75,6 +75,8 @@ Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas 
 ## Citatos
 
 - id: c-174489
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vėliau, laikui bėgant, sla­
     vams ar kitoms tautoms spaudžiant iš rytų, jie buvo pri­

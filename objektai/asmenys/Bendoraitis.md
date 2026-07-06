@@ -68,6 +68,8 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
 ## Citatos
 
 - id: c-44309
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vienas sviedinys sprogo po
     skyrininku Bendoraičiu ir išmetė jį aukščiau telefono stulpų.

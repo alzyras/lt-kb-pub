@@ -209,6 +209,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11841
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     apsaugota nuo Turkijos kariuomenės įsi-
     veržimo. Po nepasisekusių kovų Turkija
@@ -225,6 +227,8 @@ Nenurodyta
     - t-41268
 
 - id: c-43045
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šis laimėjimas - puikus gy-
     nybinio mūšio pavyzdys. Chotino mūšis
@@ -241,6 +245,8 @@ Nenurodyta
     - t-41270
 
 - id: c-167066
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Darnios pėstininkų muškietų salvės
     sulaikydavo puolančius turkų karius, o ga-

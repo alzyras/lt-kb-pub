@@ -156,6 +156,8 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
 ## Citatos
 
 - id: c-174106
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Senovės Danijos istorijoje randame ži­
     nių, jog karalius Protonas I su stipriu laivynu nuplaukė
@@ -171,6 +173,8 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
     - t-191224
 
 - id: c-174107
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Netrukus antrą kito Rusnės
     pono, vadinamo \Vespats, Viešpačiu1, sostinę užėmė tie
@@ -189,6 +193,8 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
     - t-191225
 
 - id: c-174108
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip ir baigėsi tą sykį dvie­
     jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria

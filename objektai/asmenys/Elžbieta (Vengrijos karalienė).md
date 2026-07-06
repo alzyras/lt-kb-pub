@@ -125,6 +125,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 ## Citatos
 
 - id: c-83474
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     40
 
@@ -149,6 +151,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
     - t-87494
 
 - id: c-176825
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,

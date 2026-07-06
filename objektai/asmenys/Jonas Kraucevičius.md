@@ -56,6 +56,8 @@ Jonas Kraucevičius.
 ## Citatos
 
 - id: c-41179
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šarvuotam traukiniui vadovavo
     plk. Itn. Jonas Kraucevičius.

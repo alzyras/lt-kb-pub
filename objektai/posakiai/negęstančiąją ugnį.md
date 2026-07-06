@@ -76,6 +76,8 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
 ## Citatos
 
 - id: c-59769
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Toks didelis buvo jo autoritetas,
     kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu

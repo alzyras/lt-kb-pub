@@ -164,6 +164,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66837
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
@@ -202,6 +204,8 @@ Nenurodyta
     - t-66640
 
 - id: c-66838
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 

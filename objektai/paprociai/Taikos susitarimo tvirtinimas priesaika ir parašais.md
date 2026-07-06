@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169255
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kas be ko, sunkios sąlygos,
     bet žmogui, žinančiam, kad po pralaimėjimo susilauks
@@ -157,6 +159,8 @@ Nenurodyta
     - t-185894
 
 - id: c-176096
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jeigu Mask­
     vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą

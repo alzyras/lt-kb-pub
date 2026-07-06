@@ -86,6 +86,8 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
 ## Citatos
 
 - id: c-166473
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Livonija buvo valdoma
     abiejų jungtinių valstybių; mo-

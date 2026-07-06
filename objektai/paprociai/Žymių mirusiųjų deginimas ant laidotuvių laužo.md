@@ -133,6 +133,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172791
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai kada tarnai, arkliai, šunys, saka­
     lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant
@@ -154,6 +156,8 @@ Nenurodyta
     - t-189908
 
 - id: c-172792
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis pa­
     protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­

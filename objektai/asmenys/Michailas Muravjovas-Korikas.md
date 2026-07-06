@@ -80,6 +80,8 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
 ## Citatos
 
 - id: c-83758
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
     vykusios represijos sustabdė istoriko planų įgyvendinimą, nors

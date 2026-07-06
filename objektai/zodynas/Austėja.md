@@ -74,6 +74,8 @@ Narbutas Austėją (Austheja) apibūdino kaip bičių ir bitininkystės globėj�
 ## Citatos
 
 - id: c-172166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Austėja (Austheja)
     Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi

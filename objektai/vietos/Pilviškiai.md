@@ -112,6 +112,8 @@ Pilviškių vis. Pilviškių vls.
 ## Citatos
 
 - id: c-43742
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     X GULBINIŠKIŲ KAUTYNĖS
 
@@ -126,6 +128,8 @@ Pilviškių vis. Pilviškių vls.
     - t-42028
 
 - id: c-45275
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     X. ŽIŪRŲ-GUDELIŲ KAUTYNĖS
 

@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-19753
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vitebsko „karo lauko“ seimas
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti

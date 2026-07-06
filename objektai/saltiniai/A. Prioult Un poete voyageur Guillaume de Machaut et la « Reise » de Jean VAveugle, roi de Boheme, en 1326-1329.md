@@ -76,6 +76,8 @@ Prioult, A.
 ## Citatos
 
 - id: c-33511
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     : 225-234 liet.-lenkų su­
     tartis). — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et

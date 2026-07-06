@@ -79,6 +79,8 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
 ## Citatos
 
 - id: c-83590
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar nupirko du sklypus
     priešais savo rūmus ir patvirtino nemažas fundacijas toles­

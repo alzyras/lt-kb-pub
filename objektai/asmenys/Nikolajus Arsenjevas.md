@@ -112,6 +112,8 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 ## Citatos
 
 - id: c-42170
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kpt. A. Nelepcos vadovaujama maždaug
     30 karių grupė puolė Pacų rūmus, kuriuose
@@ -130,6 +132,8 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
     - t-40372
 
 - id: c-44478
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusijos pajėgų vadovybė
     Rusijos pajėgų, nukreiptų prieš

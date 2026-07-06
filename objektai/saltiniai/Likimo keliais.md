@@ -138,6 +138,9 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
 ## Citatos
 
 - id: c-37226
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     8. Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
     lis, su priedu — V. Bičiūno tos misterijos pastabos ir komentarai. Abiejų
@@ -154,6 +157,9 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
     - t-36078
 
 - id: c-38421
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tie visi
     Vinco Višvilio sunkūs ieškojimai, klajonės, nuostabus nuotykiai ir il­
@@ -172,6 +178,9 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
     - t-36080
 
 - id: c-38422
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Abiejų
     knygų kaina Lt. 8, —

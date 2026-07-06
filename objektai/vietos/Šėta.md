@@ -76,6 +76,8 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
 ## Citatos
 
 - id: c-45477
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Miške į šiaurę nuo
     Kolupių kaimo į nelaisvę buvo paimta

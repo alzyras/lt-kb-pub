@@ -142,6 +142,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-40974
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žvalgyba susi-
     tiko su keturiasdešimt lenkų raitelių. Šie, pamatę, kad mūsų vyrų tik
@@ -157,6 +159,8 @@ Nenurodyta
     - t-39171
 
 - id: c-40975
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vėliau praktika parodė,
     kad durtuvų atakos metu persirikiuoti į liniją nebūtina. Batalionai,
@@ -171,6 +175,8 @@ Nenurodyta
     - t-39170
 
 - id: c-40976
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kai jis jau buvo visai
     netoli, mūsų žvalgas pašoko ir atkišo durtuvą lenkui į panosę. Lenkas

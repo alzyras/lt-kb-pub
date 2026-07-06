@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32892
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
     166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;

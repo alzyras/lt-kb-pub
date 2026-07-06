@@ -71,6 +71,8 @@ Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus, kuriuose buv
 ## Citatos
 
 - id: c-41502
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kpt. A. Nelepcos vadovaujama maždaug
     30 karių grupė puolė Pacų rūmus, kuriuose

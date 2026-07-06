@@ -87,6 +87,8 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
 ## Citatos
 
 - id: c-83896
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mikalojus Gožkovskis, lenkas, šv. teologijos daktaras, kry­
     žiaus ženklo antspaudą dėdavęs, buvo vyskupu nuo 1408 m.

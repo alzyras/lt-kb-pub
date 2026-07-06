@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83056
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
     pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­

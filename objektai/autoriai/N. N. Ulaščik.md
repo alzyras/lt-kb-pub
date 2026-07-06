@@ -72,6 +72,8 @@ Ulaščik, Maskva 1966.
 ## Citatos
 
 - id: c-33072
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Wien 1955.
     UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966.

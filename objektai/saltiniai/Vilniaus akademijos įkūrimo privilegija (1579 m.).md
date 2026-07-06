@@ -91,6 +91,8 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
 ## Citatos
 
 - id: c-67424
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Privilegiją** jėzuitams karalius davė būdamas Lenkijoje. Kai
     1579 m., eidamas į karą su Maskva, jis atvyko į Vilnių, tai per jo
@@ -105,6 +107,8 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
     - t-67569
 
 - id: c-67425
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl kai 1578 m. Vilniaus
     jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti

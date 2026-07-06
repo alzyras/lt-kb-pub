@@ -92,6 +92,8 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
 ## Citatos
 
 - id: c-83875
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Quam quidem partem ci­
     vitatis quadam semita quae a Castro

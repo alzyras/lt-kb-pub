@@ -56,6 +56,8 @@ Vėbra^128.
 ## Citatos
 
 - id: c-33119
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
     mažai rašė R. Vėbra^128.

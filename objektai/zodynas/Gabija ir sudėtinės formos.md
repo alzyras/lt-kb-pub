@@ -114,6 +114,8 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
 ## Citatos
 
 - id: c-172036
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pelenų Gabija (Polengabia)
     Anot Lasickio, tai deivė, globojusi besikūrenantį židinį.
@@ -133,6 +135,8 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     - t-189148
 
 - id: c-172037
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     124
 

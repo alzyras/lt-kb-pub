@@ -71,6 +71,8 @@ Teodoras Narbutas Teofrastą mini tarp autorių, kurie žinojo gintarą, jo savy
 ## Citatos
 
 - id: c-174568
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plinijus surinkęs liudijimų,
     kad gintaras vaidinęs svarbų vaidmenį senovės moterų

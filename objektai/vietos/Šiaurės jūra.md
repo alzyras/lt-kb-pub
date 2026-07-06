@@ -135,6 +135,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 ## Citatos
 
 - id: c-166497
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-
     rai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Euro-
@@ -154,6 +156,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - t-183112
 
 - id: c-175560
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei

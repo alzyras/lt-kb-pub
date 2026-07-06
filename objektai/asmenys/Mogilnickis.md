@@ -68,6 +68,8 @@ Mogilnickis išleido 5 flor.
 ## Citatos
 
 - id: c-83772
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jiems Lukove
     L. Mogilnickis išleido 5 flor. 7 gr.

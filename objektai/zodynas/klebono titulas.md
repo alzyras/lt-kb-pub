@@ -70,6 +70,8 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
 ## Citatos
 
 - id: c-82573
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šv. sakramentų dalijimas ir rūpinimasis vargšais ir kitais žmo­
     nėmis, laikinai gyvenančiais minėtoje prieglaudoje, bus pri­

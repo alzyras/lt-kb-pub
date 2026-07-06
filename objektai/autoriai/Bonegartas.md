@@ -68,6 +68,8 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
 ## Citatos
 
 - id: c-173300
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba-
     yle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas

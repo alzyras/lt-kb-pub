@@ -289,6 +289,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 ## Citatos
 
 - id: c-82014
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
     Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
@@ -303,6 +305,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-86040
 
 - id: c-82015
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
     KOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS,
@@ -327,6 +331,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-86038
 
 - id: c-82016
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jų pastangos disputuoti su disidentais išties
     pelnė jiems vyskupo ir kapitulos prielankumą. Protasevi­
@@ -342,6 +348,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-86035
 
 - id: c-82017
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
     vo disputais ir raštais spaudęs savo priešininkus, nekan­
@@ -360,6 +368,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-86037
 
 - id: c-82018
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
     lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
@@ -382,6 +392,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-86039
 
 - id: c-82019
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono brolijai priklausantiems,
     kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­

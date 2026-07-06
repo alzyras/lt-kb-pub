@@ -123,6 +123,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 ## Citatos
 
 - id: c-84000
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Išorinį įrodymą randame pasakytą pirmiausia J e r o -
     š i n o, p. 349: „Tuo metu Rygos gyventojai ir jų arkivysku­
@@ -147,6 +149,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     - t-88022
 
 - id: c-84001
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Porina mums tą pasaką apie Maskvos didįjį kunigaikštį
     Simonas Grunau,  linkęs meluoti rašytojas, o jau L u -

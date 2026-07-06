@@ -57,6 +57,9 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
 ## Citatos
 
 - id: c-37263
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Knygelė skiriama visiems: vaikams ir suaugusiems. Vaikai ras
     gražių gražiausių paveikslėlių ir pasakų, o suaugusieji galės pasimo­

@@ -280,6 +280,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84191
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     vangėti. Didysis kunigaikštis betgi dosnia ranka vis didesnes
@@ -310,6 +312,8 @@ media_all_json: |-
     - t-88215
 
 - id: c-84192
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     3-oji privilegija rašyta
     Trakuose, datuota 1411 m., kuria di­
@@ -357,6 +361,8 @@ media_all_json: |-
     - t-88214
 
 - id: c-84193
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Actum et datum die
     dominico Reminiscere anno 1410 in
@@ -390,6 +396,8 @@ media_all_json: |-
     - t-88212
 
 - id: c-84194
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     2-ąja yra ap­
     rūpinama Vilniaus katedros klebo­

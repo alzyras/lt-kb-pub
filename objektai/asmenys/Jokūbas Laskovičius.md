@@ -76,6 +76,8 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
 ## Citatos
 
 - id: c-172985
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Matėme aukojimų aprašyme, kad
     aukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo

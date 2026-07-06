@@ -134,6 +134,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172772
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
     lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
@@ -151,6 +153,8 @@ Nenurodyta
     - t-189889
 
 - id: c-177022
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Minėtose
     vietovėse jėzuitai išdraskė net šešis altorius, taip pat iškirto ąžuo­

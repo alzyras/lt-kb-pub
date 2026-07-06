@@ -62,6 +62,9 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 ## Citatos
 
 - id: c-38415
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     4. —
     Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-

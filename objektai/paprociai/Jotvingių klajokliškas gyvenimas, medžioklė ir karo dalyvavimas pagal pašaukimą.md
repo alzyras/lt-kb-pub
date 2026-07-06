@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175791
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     114
     Istorinės pastabos. Jotvingių tauta, kiek galima spręs­
@@ -149,6 +151,8 @@ Nenurodyta
     - t-193021
 
 - id: c-177268
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     118
     Vėliau dažniau matome jotvingių ryšius su lietuvių

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-41097
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Likusieji daliniai
     vijosi sukilėlius

@@ -96,6 +96,8 @@ Sudeginę Zavichostą lietuviai nužygiavo prie Opatovo. Opatovas yra Kielcų va
 ## Citatos
 
 - id: c-170325
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     BK pasakojimas apie Vislos per-
     plaukimą, nusitvėrus už arklio uodegos, gali taip pat būti liaudies

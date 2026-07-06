@@ -77,6 +77,8 @@ Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuo
 ## Citatos
 
 - id: c-170702
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     8  Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
     miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne

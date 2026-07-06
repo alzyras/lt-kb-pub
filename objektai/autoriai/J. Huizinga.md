@@ -77,6 +77,8 @@ Huizinga) yra labai platus objektas.
 ## Citatos
 
 - id: c-94025
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     J. A. Sabalį suorganizavo
     man techninę pagalbą, kai 1970 m. rudenį atsiuntė pareigingą

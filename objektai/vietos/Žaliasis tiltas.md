@@ -75,6 +75,8 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
 ## Citatos
 
 - id: c-45478
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Visas miestas buvo intensyviai apšaudo-
     mas stambaus kalibro rusų artilerijos.

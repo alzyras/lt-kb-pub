@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174963
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kilmė, kalba, religija, papročiai ir įpročiai buvo
     tokie pat, išskyrus stipriai išryškėjusius dialektinius kal­

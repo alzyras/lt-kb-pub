@@ -112,6 +112,8 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
 ## Citatos
 
 - id: c-172171
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Budintoja (Budintoja)
     Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
@@ -127,6 +129,8 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
     - t-189283
 
 - id: c-172172
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Esu matęs
     tokių ikiunijinių lietuviškų antspaudų; vieną iš jų perpieštą nu­

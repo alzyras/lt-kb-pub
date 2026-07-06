@@ -70,6 +70,9 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
 ## Citatos
 
 - id: c-90783
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Krašto viduje savo valstybės garsui jis visaip
     globojo atvykstančius apsigyventi ar prakeliaujančius svetimša­

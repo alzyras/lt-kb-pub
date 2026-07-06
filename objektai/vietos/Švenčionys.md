@@ -83,6 +83,8 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
 ## Citatos
 
 - id: c-167036
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
     našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-

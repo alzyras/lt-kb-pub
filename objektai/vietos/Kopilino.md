@@ -82,6 +82,8 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 ## Citatos
 
 - id: c-176449
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kol tarp Maskvos ir Lietuvos
     didžiųjų kunigaikštysčių galiojo

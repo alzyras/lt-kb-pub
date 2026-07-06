@@ -111,6 +111,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Citatos
 
 - id: c-59501
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
     kuris tebūnie garbinamas per amžių amžius, amen. Tuo tarpu stalininkas Druzigeris,

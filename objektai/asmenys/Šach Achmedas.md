@@ -239,6 +239,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 ## Citatos
 
 - id: c-83394
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Krymo totorių
     orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
@@ -262,6 +264,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-87418
 
 - id: c-83395
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po tokių sostinės apsaugos priemonių karalius, į Vilnių
     atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
@@ -279,6 +283,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-87417
 
 - id: c-83396
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Su­
     gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
@@ -295,6 +301,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-87416
 
 - id: c-83397
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šach Ach­
     medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,

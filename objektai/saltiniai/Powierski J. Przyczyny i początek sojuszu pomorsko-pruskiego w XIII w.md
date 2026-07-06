@@ -72,6 +72,8 @@ Dusburgietis teigia, kad powierski J.
 ## Citatos
 
 - id: c-61876
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Powierski  J. Przyczyny   i początek sojuszu pomorsko-pruskiego w XIII w.—ABS,
     Białystok, 1969, 6, s. 197—211.

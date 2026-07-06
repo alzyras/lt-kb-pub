@@ -66,6 +66,8 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
 ## Citatos
 
 - id: c-59318
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Bačkininkėliai
     Bagrationovskas (buv. Pr. Ylava)

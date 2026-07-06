@@ -64,6 +64,8 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
 ## Citatos
 
 - id: c-61374
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ragainė siejama su lie. ragas ‘pusiasalis’, FLEW, 2, p. 684. Ragaina — miškų deivė
     (Lasickis J., Apie žemaičių..., p. 20, 40(47); Dundulienė P., Medžiai.., p. 99), liaudyje

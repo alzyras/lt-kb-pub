@@ -89,6 +89,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-22803
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė

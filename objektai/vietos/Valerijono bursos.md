@@ -94,6 +94,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82226
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
     vičius tris mūrinius namus, vieną Bernardinų gatvėje, o du

@@ -153,6 +153,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-41107
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Partizanams vystant puolimą mieste-
     lyje juos iš cerkvės pasitiko kulkosvaidžio
@@ -180,6 +182,8 @@ Nenurodyta
     - t-39303
 
 - id: c-167080
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Paaiškėjo, kad Druskininkų ba-
     taliono grupei nepavyko įvykdyti jiems

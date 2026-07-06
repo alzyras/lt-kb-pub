@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63530
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     127 (122). Apie Brandenburgo pilies pastatymą
 

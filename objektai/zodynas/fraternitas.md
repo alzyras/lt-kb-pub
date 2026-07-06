@@ -95,6 +95,8 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
 ## Citatos
 
 - id: c-46898
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Akte yra sakoma: Kad būtų viena tauta, viena visuomenė,
     viena brolija **_(fraternitas)_** ir bendri seimai, o tam vienam kūnui —

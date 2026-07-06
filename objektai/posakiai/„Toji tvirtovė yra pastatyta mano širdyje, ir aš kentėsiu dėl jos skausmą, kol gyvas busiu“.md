@@ -100,6 +100,8 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 ## Citatos
 
 - id: c-169759
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Po nepasise­
     kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­

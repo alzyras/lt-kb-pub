@@ -186,6 +186,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Citatos
 
 - id: c-156307
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lenkijai suartėjus su
     čekų husitais, Ordinui kilo didelė grėsmė.
@@ -205,6 +207,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - t-171837
 
 - id: c-170563
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir pagal tą Trakų vaivados patarimą karalius
     davė etmono vietą kunigaikščiui Konstantinui2 5 .

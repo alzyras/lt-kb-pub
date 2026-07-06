@@ -117,6 +117,8 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 ## Citatos
 
 - id: c-45005
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žinoma, šie, bent jau žuvusių skai-
     čiai, yra gerokai pamažinti, tačiau galima

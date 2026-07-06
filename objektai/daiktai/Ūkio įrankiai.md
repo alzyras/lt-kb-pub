@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10313
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
         dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių

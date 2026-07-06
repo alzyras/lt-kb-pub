@@ -74,6 +74,8 @@ Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio švento
 ## Citatos
 
 - id: c-173263
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje

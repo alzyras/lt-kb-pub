@@ -68,6 +68,8 @@ Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfli
 ## Citatos
 
 - id: c-75134
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Konstitu-
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos

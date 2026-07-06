@@ -90,6 +90,8 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
 ## Citatos
 
 - id: c-169553
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sako, tuo žygiu trisdešimt tūks­
     tančių kaimiečių bei miestiečių buvę apšlakstyti šven-

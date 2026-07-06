@@ -120,6 +120,8 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
 ## Citatos
 
 - id: c-59240
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
     susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
@@ -140,6 +142,8 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
     - t-58608
 
 - id: c-59241
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis
     Menthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A.

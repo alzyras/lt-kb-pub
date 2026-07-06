@@ -128,6 +128,8 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 ## Citatos
 
 - id: c-59188
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
     vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
@@ -143,6 +145,8 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
     - t-58556
 
 - id: c-59189
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     275 (268). Apie 72 lietuvius, nukautus Notangoje
 

@@ -69,6 +69,8 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
 ## Citatos
 
 - id: c-177191
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     366
 

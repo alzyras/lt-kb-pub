@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168973
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ki­
     tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­

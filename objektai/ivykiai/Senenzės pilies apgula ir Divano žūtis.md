@@ -133,6 +133,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66991
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
 
@@ -153,6 +155,8 @@ Nenurodyta
     - t-66894
 
 - id: c-66992
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo
     Pomorskie, gyvenvietė Kulmo žemėje  į šiaurės rytus nuo Torunės (SZCh, p. 59). Čia

@@ -130,6 +130,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ## Citatos
 
 - id: c-164818
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kultūrinės pro-
     testantų įstaigos pradėjo nykti, ir švedų antplūdžio metu sunyku-
@@ -144,6 +146,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-181255
 
 - id: c-166396
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pats
     apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,

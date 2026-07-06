@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169019
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
     buvo reikalingos išsaugoti su Zigmantu ir Vaclovu

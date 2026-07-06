@@ -67,6 +67,8 @@ Zajączkowski, St.
 ## Citatos
 
 - id: c-33722
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^2) 1881 ; II (Lubart), 1853. — Zajączkowski, St. : _W sprawie zajęcia
     Podlasia przez Giedymina_ , AW, t. 6, 1929, 1-8 p. — (”) _Wołyń pod pano­

@@ -200,6 +200,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 ## Citatos
 
 - id: c-172929
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tas, mūsų
     akimis, neturintis priežasties šv. Kristupo panaudojimas her­
@@ -214,6 +216,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     - t-190046
 
 - id: c-172931
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rašy­
     tas ant storo, lygaus ir gražaus skudurinio popieriaus; antspau­
@@ -232,6 +236,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     - t-190048
 
 - id: c-172932
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ketvirta­
     me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
@@ -249,6 +255,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     - t-190049
 
 - id: c-177094
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     VI lentelė, 40-asis piešinys. Senasis Vilniaus miesto her­
     bas. Čia yra tiesiog pavaizduotas milžinas Alcis, apie kurį jau

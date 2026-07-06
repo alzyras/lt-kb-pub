@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169880
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
     GALĄ

@@ -171,6 +171,8 @@ Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvan
 ## Citatos
 
 - id: c-170343
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     šais totorius. Dėl keblaus upės perėjimo negalėjo ne­
     delsiant su jais susigrumti ir daugiau kaip tris valan­
@@ -189,6 +191,8 @@ Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvan
     - t-194033
 
 - id: c-170344
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     8 0  M alevas — kaim as pietiniam e (kairiajame) Ušos upės krante,
     apie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko.

@@ -150,6 +150,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-42847
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1561 m. Livonijos konfederacija nustojo egzis-
     cS <cremoss:® 2 tuoti. Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į
@@ -162,6 +164,8 @@ media_all_json: |-
     - t-78384
 
 - id: c-75667
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Karalius Steponas Batoras ir LDK
     didysis etmonas Mikalojus Radvila

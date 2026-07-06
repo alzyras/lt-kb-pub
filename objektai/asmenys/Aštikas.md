@@ -97,6 +97,8 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 ## Citatos
 
 - id: c-83608
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lelus-
     chio Trocensi Palatinis, Kezygal de

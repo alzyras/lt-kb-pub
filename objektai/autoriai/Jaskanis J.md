@@ -65,6 +65,8 @@ Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai gi
 ## Citatos
 
 - id: c-61352
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai kas mano, kad prūsiškieji ir rytiniai galindai giminingi tik vardais, kaip Vartos
     vidupio  ir padneprės polianai (Jaskanis J., Rec. ...—ABS, 2, p. 367).

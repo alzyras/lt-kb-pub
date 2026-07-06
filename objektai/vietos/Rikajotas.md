@@ -70,6 +70,8 @@ Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nu
 ## Citatos
 
 - id: c-171856
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
     to paties istoriko, priklausė šventyklos liekanoms. Garsi šven­

@@ -122,6 +122,8 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 ## Citatos
 
 - id: c-172133
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     153
 
@@ -142,6 +144,8 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
     - t-189245
 
 - id: c-172134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šios deivės yra tikra antikinių hamadriadžių kopija.
     Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,

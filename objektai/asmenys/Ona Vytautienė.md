@@ -191,6 +191,8 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 ## Citatos
 
 - id: c-165129
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     To garbingo karžygio palaikai Skir­
     gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­

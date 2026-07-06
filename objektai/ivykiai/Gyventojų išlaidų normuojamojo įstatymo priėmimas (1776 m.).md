@@ -111,6 +111,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66762
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tad, norėdamas sumažinti im-
     portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
@@ -130,6 +132,8 @@ Nenurodyta
     - t-66555
 
 - id: c-66763
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kadangi visas aukštesnysis sluoksnis buvo užsikrėtęs vakarų
     Europos madomis, tai iš užsienio reikėjo įvežti labai daug prekių,

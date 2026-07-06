@@ -86,6 +86,8 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 ## Citatos
 
 - id: c-24850
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
     demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-

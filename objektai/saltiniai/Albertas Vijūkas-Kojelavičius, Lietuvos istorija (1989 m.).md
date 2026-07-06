@@ -223,6 +223,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-167804
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     A. Kojelavičius savo istoriją rašė pusamžiu vėliau
     negu jo pirmtakai. Chronologiškai ir idėjiškai nebe­
@@ -241,6 +243,8 @@ media_all_json: |-
     - t-184454
 
 - id: c-167805
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­
     mo, kokio susilaukė A. Gvagninis, nors jo istorija para­
@@ -255,6 +259,8 @@ media_all_json: |-
     - t-184452
 
 - id: c-167806
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     BBK-63.3(2L)
     Vi-109
@@ -284,6 +290,8 @@ media_all_json: |-
     - t-184455
 
 - id: c-167807
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     M. Strij­
     kovskio kronika, parašyta lenkiškai, Renesanso epo­

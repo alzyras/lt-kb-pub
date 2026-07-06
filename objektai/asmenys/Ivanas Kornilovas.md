@@ -66,6 +66,8 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
 ## Citatos
 
 - id: c-21692
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rusinimo politika 1864–1904 metais
     Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-

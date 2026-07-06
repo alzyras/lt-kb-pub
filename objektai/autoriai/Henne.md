@@ -104,6 +104,9 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
 ## Citatos
 
 - id: c-177364
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasidavusieji
     mokėjo Vytautui duoklę.
@@ -121,6 +124,9 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
     - t-194978
 
 - id: c-177365
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir tikrai, kada Gilbert de Lannoy, Ang­
     lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),

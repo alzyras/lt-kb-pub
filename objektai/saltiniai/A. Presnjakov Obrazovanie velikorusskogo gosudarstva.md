@@ -78,6 +78,8 @@ Presnjakov, A.
 ## Citatos
 
 - id: c-33510
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ivinskis, Z. : Liubartas Gediminaitis , LE, t. 16, 318-320 p. — Kra­
     sauskas, R. : Manivydas , LE, t. 17, 242 p. — Ljubavskij, M. : Obrazo-

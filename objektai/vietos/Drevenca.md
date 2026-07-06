@@ -219,6 +219,9 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
 ## Citatos
 
 - id: c-37347
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
     niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
@@ -232,6 +235,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     - t-83306
 
 - id: c-79663
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ištisi kaimai visoje kunigaikš­
     tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
@@ -252,6 +257,9 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     - t-83308
 
 - id: c-79664
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
     nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­
@@ -266,6 +274,9 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     - t-83305
 
 - id: c-167676
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
     vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės

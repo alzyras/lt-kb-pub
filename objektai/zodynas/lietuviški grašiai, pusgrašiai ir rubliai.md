@@ -121,6 +121,8 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
 ## Citatos
 
 - id: c-82458
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     —  « —
     213
@@ -144,6 +146,8 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
     - t-86479
 
 - id: c-82459
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     11
     Daugiausia duomenų apie Lietuvos

@@ -197,6 +197,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169033
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat, nors
     pats Vytenis ir nepatraukė su kariuomene į Livoniją,
@@ -235,6 +237,8 @@ Nenurodyta
     - t-185672
 
 - id: c-169034
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pavijęs siaubėjus ne­
     toli Livonijos įlankos, magistras Brunonas nirtulingai
@@ -253,6 +257,8 @@ Nenurodyta
     - t-185673
 
 - id: c-169035
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi iš užpakalio buvo jūra,
     vienoje pusėje trukdė Treiderės upė, o kitoje pusėje

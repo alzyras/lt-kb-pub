@@ -125,6 +125,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11814
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšis vyko 1279 m. kovo 5 d. Padau-
     guvyje prie Aizkrauklės. Abi pusės pa-
@@ -139,6 +141,8 @@ Nenurodyta
     - t-66445
 
 - id: c-43016
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio reikšmė
     Lietuvių pergalė prie Aizkrauklės pagal

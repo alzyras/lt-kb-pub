@@ -65,6 +65,8 @@ Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.
 ## Citatos
 
 - id: c-03463
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kiekvienas toksai šaukimas buvo vadinamas visuotiniu
     bajorijos stojimu. Visi bajorai, kas sveikas galįs, turėjo

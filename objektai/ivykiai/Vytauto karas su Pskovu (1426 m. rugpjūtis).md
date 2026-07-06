@@ -119,6 +119,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169953
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis
     Naugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­

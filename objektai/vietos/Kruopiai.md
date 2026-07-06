@@ -76,6 +76,8 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
 ## Citatos
 
 - id: c-45151
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     pajėgų, o ir ginkluotė jų buvo menkesnė.
     Bolševikams priartėjus prie

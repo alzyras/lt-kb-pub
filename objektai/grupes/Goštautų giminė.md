@@ -161,6 +161,8 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
 ## Citatos
 
 - id: c-170697
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5 Iš Gedimino valdym o m etų jokie Vilniaus viršininkai vardais
     nėra žinomi. Vilniaus vaivadų pareigybė buvo įvesta tik 1413 m.,
@@ -179,6 +181,8 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
     - t-187758
 
 - id: c-170699
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
     puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
@@ -196,6 +200,8 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
     - t-187760
 
 - id: c-176475
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
     kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias

@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83061
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto visi
     pasistengta rasti kelis išdavikus, ku- kryžiuočių raštai ir jų kronikininkų

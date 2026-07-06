@@ -141,6 +141,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42533
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Belgiškas pistoletas
     Browning HP (Hi-Power).
@@ -160,6 +162,8 @@ Nenurodyta
     - t-40749
 
 - id: c-176409
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šis ginklas
     buvo labai sėkmingas ir ilgą laiką naudotas

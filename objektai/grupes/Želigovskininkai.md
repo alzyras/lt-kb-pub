@@ -99,6 +99,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-22849
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors 1920 m.
     spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį

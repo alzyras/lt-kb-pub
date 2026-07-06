@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173908
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     176
     Krikščioniškosios eros 54 ar 55 metais imperatorius
@@ -150,6 +152,8 @@ Nenurodyta
     - t-191026
 
 - id: c-173909
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Daugiau smulkmenų apie
     šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į

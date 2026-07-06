@@ -339,6 +339,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 ## Citatos
 
 - id: c-55314
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
@@ -357,6 +359,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     - t-54943
 
 - id: c-55316
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau miestiečių išvytas, nu­
     vykęs pas magistrą sulaukė para­
@@ -383,6 +387,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     - t-54946
 
 - id: c-78714
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­
@@ -425,6 +431,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     - t-54945
 
 - id: c-78715
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Duota Viešpaties
     metais 1380 artimiausią šiokiadienį,
@@ -450,6 +458,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     - t-82221
 
 - id: c-176519
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     4 4  Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio
     sūnaus, o  Algirdo sūnaus Andriaus, kuris po tėvo mirties 1378 m.

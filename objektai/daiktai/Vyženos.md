@@ -118,6 +118,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10304
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
         marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
@@ -130,6 +132,8 @@ Nenurodyta
     - t-08350
 
 - id: c-56402
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus
         po marškinių tviskinėjantys^389 žiemos laiku, su bočių ar bobute vilnas kedino, gijas vijo,

@@ -110,6 +110,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55729
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šubravcų draugijos kodekse suformuluotos narių elgesio
     ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­

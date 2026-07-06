@@ -198,6 +198,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 ## Citatos
 
 - id: c-85622
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -218,6 +220,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - t-89681
 
 - id: c-85623
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagaliau
     1008 m. gale jis iš-
@@ -236,6 +240,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - t-89683
 
 - id: c-85624
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagaliau
     pas tą patį lenkų
@@ -262,6 +268,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - t-89682
 
 - id: c-168043
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to nugalėtojai, paleisti pasiplėšti grobio,
     nusiaubė visas apylinkes, naikindami ugnimi ir kala­

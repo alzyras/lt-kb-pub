@@ -73,6 +73,8 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
 ## Citatos
 
 - id: c-02452
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visi lietuviški laikraščiai buvo
     uždrausti. Vien tik vokiečių štabas spausdino lietuvišką laikrašt-

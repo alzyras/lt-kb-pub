@@ -80,6 +80,8 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
 ## Citatos
 
 - id: c-174681
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš tikrųjų galima daryti tokią prielaidą, ir ji
     būtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir

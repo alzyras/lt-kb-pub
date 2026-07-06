@@ -272,6 +272,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00230
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Aisčiai manė, kad mirusiam žmogui būsią
     reikalinga turėti tų pačių reikmenių ir įrankių, kuriuos turėjęs
@@ -290,6 +292,8 @@ Nenurodyta
     - t-192096
 
 - id: c-00231
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
     šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
@@ -307,6 +311,8 @@ Nenurodyta
     - t-192097
 
 - id: c-05407
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.
     «Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių
@@ -323,6 +329,9 @@ Nenurodyta
     - t-192100
 
 - id: c-14479
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dėl to buvo paprotys, kad mirus kilmingam žmo­
     gui (edelin) ginklus ir arklį, tarnus (knechte), moteris (meide),
@@ -341,6 +350,9 @@ Nenurodyta
     - t-192099
 
 - id: c-14480
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kur ir kaip vėlės aname pasauly laikėsi ir patiems tikin­
     tiesiems nebuvo aišku. Būta kažkokios dausų sąvokos. Gy­
@@ -356,6 +368,8 @@ Nenurodyta
     - t-12418
 
 - id: c-174967
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Patobulėjo ginklų, įrankių ir papuošalų formos.
     Mirusiųjų kapai ėmė darytis žymiai turtingesni. Išpuošiami net
@@ -369,6 +383,8 @@ Nenurodyta
     - t-05332
 
 - id: c-175298
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
     su krivičiais, o ne krivičių Smolenską, nes iš daugelio

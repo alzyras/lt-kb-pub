@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63184
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Birgelavos pilies sugriovimą
 

@@ -154,6 +154,8 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 ## Citatos
 
 - id: c-169749
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvių ir
     rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
@@ -170,6 +172,8 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     - t-186404
 
 - id: c-169750
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Krikščionių
     pasauliui atrodė nuostabu, kaip pagonis Vytenis tapo ištikimu są­

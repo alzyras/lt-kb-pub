@@ -1181,6 +1181,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 ## Citatos
 
 - id: c-26821
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
     dalis Žemaitija tapo paskutiniu Europoje
@@ -1200,6 +1202,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80771
 
 - id: c-26822
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos Didžioji Kunigaikštija dėl Vo-
     kiečių ordino pavojaus pamažu stiprino
@@ -1218,6 +1222,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80775
 
 - id: c-26823
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Paprastai moksle laikoma, kad ši
     valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
@@ -1248,6 +1254,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80782
 
 - id: c-26824
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     ABIEJŲ TAUTŲ RESPUBLIKA
     Liublino unija
@@ -1267,6 +1275,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80779
 
 - id: c-26825
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai buvo ori-
     ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
@@ -1284,6 +1294,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80780
 
 - id: c-26826
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
     kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
@@ -1304,6 +1316,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80777
 
 - id: c-26827
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
@@ -1325,6 +1339,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80772
 
 - id: c-26828
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
     burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
@@ -1343,6 +1359,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80769
 
 - id: c-42627
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio priešistorė
     Švedijos karalius Jonas 111 buvo vedęs
@@ -1361,6 +1379,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80783
 
 - id: c-77418
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be Lenkijos ir Lietuvos suartėjimo ir kariuomenių
     sąjungos nebūtų buvo Žalgirio pergalės, o sėkmingos Livonijos karo baig-
@@ -1379,6 +1399,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80774
 
 - id: c-77420
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     70
@@ -1404,6 +1426,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80770
 
 - id: c-77421
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos. Oficialus jungtinės valstybės pava-
@@ -1423,6 +1447,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-80776
 
 - id: c-176038
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
     kydamiesi tokios didžiavalstybinės pažiūros, vadino
@@ -1447,6 +1473,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-193310
 
 - id: c-176784
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir beveik jau būtų prasidėję didelės riau­
     šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir

@@ -121,6 +121,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-30985
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal Palestinoje
     su turkais kovojančių templininkų statutą, vyskupo priklausomybėje

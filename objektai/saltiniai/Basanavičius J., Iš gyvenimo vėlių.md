@@ -187,6 +187,8 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
 ## Citatos
 
 - id: c-61567
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1344 m. čia minima  pilis — huse Sareibe
     (Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra
@@ -201,6 +203,8 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - t-60937
 
 - id: c-61568
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Didelė kalvos dalis, Nemuno paplauta,
     nugriuvo 1835 m. ir vėliau. Dar XIX a. pirmoje pusėje kalne išlikusį pylimą žmonės vadino
@@ -216,6 +220,8 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - t-60936
 
 - id: c-61569
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Į rytus nuo Įsruties (dab. Černiachovskas), deš. Vangrapės krante,
     upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,
@@ -228,6 +234,8 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - t-60938
 
 - id: c-61570
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Čia, pasak vietos žmonių, buvę du žuvingi
     ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183). Žinomi pasakojimai apie piliakalnį

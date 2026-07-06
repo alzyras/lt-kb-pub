@@ -73,6 +73,8 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
 ## Citatos
 
 - id: c-83830
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jau apsipratęs su
     16

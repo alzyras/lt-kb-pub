@@ -139,6 +139,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83014
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau Aleksandro ir Elenos santuoka išplė­
     tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
@@ -156,6 +158,8 @@ Nenurodyta
     - t-87036
 
 - id: c-83015
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     44
     Svečių namams skirta privilegija yra:

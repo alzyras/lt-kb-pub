@@ -70,6 +70,8 @@ Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis
 ## Citatos
 
 - id: c-173331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie tai papa­
     sakosime straipsnyje „Šventyklos“.

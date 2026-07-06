@@ -238,6 +238,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23262
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
     pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
@@ -255,6 +257,8 @@ Nenurodyta
     - t-75296
 
 - id: c-23263
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviai at-
     kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
@@ -273,6 +277,8 @@ Nenurodyta
     - t-75297
 
 - id: c-23264
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
     jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
@@ -292,6 +298,8 @@ Nenurodyta
     - t-75299
 
 - id: c-23265
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
     ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje

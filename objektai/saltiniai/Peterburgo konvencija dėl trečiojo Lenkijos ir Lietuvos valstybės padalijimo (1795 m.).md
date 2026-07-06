@@ -128,6 +128,8 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
 ## Citatos
 
 - id: c-23929
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lapkričio 5 dieną pasidavė Varšuva, kurią
     gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
@@ -145,6 +147,8 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
     - t-21225
 
 - id: c-166772
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos

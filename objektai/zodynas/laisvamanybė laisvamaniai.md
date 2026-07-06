@@ -86,6 +86,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-47236
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet šis Susivienijimas buvo toks pat ne-
     vieningas, kaip ir pati dr. J. Šliūpo veikla. Dr. Šliūpas visą
@@ -101,6 +103,8 @@ media_all_json: |-
     - t-44093
 
 - id: c-47237
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dr. Šliūpas visą
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-

@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10051
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     raštininkas, gyvenęs galan septynioliktojo amžiaus, sako, jog, jam gyvojant, lietuviai, trobesiui užsidegus,
         nenorėję gesyti, tardami, jog ugnelė gesoma pykstanti. Šiandien Žalgirėnuose apie Pinską taip

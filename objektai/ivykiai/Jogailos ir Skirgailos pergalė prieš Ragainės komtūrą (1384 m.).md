@@ -104,6 +104,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82927
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau mūšio metu į me­
     dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,

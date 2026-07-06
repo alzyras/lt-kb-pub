@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-33409
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Taip pat du kartu (1292, 1294) ordino kariuomenė
     pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,

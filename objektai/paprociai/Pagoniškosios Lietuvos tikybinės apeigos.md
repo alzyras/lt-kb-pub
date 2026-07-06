@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02236
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ano
     meto Lietuva savo kultūra, žinoma, negalėjo žavėti svetimšalių. Tai

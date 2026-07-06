@@ -84,6 +84,9 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 ## Citatos
 
 - id: c-38771
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­
     tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių

@@ -476,6 +476,9 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 ## Citatos
 
 - id: c-36512
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo pat metu
     Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno
@@ -493,6 +496,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-121172
 
 - id: c-42260
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Haličo-
     Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
@@ -507,6 +512,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-121176
 
 - id: c-111042
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     - • —
     126
@@ -555,6 +562,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-121174
 
 - id: c-111043
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dalis jo šalininkų
     buvo sumesti į kalėjimą. Iš Vytauto brolio Tautvilos buvo atimtas
@@ -570,6 +579,9 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-121171
 
 - id: c-111044
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
     tos ir Naugarduko, t. y. vad. Juodąją Rusiją. Tuo pat metu
@@ -585,6 +597,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-121173
 
 - id: c-168201
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ko galėjo tikėtis iš tų, kuriuos jis savo pavyzdžiu bu­
     vo išmokęs neištikimybės? Todėl, norėdamas sutvir­
@@ -608,6 +622,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-184840
 
 - id: c-176613
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
@@ -623,6 +639,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-193988
 
 - id: c-176614
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
     lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
@@ -649,6 +667,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-193989
 
 - id: c-176615
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir kiek dar vis mano draugų buvo li­
     kę, iš tų visų kunigaikštis Jogaila atėmė jų tėviškes.
@@ -665,6 +685,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-193990
 
 - id: c-176616
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     0 Apie lietuvį Mingailą, buvusį Polocko kunigaikščiu, kituose
     šaltiniuose žinių nėra. Pirmuoju neabejotinu lietuvių kunigaikščiu

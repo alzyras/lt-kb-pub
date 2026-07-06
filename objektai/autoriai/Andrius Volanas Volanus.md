@@ -117,6 +117,8 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Citatos
 
 - id: c-84030
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniuje, Kunigaikščio Mikalojaus 65
     Radvilos spaustuvėje, 1576, in 4to, Ia- J o h. L a s i c i u s Apologet, advers.
@@ -130,6 +132,8 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - t-88051
 
 - id: c-84031
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mykolo bažnyčia buvo
     išmūryti didieji maldos namai. Tai iš ten kilo anas Andrius

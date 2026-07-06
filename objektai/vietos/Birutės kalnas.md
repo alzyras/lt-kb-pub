@@ -102,6 +102,8 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
 ## Citatos
 
 - id: c-73827
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visų pirma atsirado
     herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad

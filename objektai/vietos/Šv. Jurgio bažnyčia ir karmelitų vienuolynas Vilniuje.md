@@ -70,6 +70,8 @@ Jurgio bažny­ čios prie Vilijos.
 ## Citatos
 
 - id: c-82108
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Galbūt prieš sutuoktu­
     ves puotos išlaidoms tą skolą užsi­

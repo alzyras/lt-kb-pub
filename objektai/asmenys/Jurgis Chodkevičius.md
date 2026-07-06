@@ -142,6 +142,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83721
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Parašai: Vice-
     Cancellarius Leo Sapieha, Stanislaus
@@ -173,6 +175,8 @@ media_all_json: |-
     - t-87742
 
 - id: c-168107
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius
     B resto  se im a s

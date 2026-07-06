@@ -118,6 +118,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 ## Citatos
 
 - id: c-103937
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tiesa, kur-ne-kur
     jie įsteigdavo ir pradžios mokyklų (kur turėdavo keletą savo
@@ -137,6 +139,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     - t-112560
 
 - id: c-103938
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be
     to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­

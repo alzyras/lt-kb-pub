@@ -121,6 +121,9 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 ## Citatos
 
 - id: c-38391
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     6 d. Jogaila atsakė į šį Ordino raštą.
     Be kitų reikalų, liečiančių Mozūrijos klausimą, Jogaila tame
@@ -138,6 +141,9 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     - t-36020
 
 - id: c-38392
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Be kitų reikalų, liečiančių Mozūrijos klausimą, Jogaila tame
     rašte pažymėjo, kad pusbrolį priimti atsisakąs, motyvuodamas

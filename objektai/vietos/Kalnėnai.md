@@ -86,6 +86,8 @@ Narbutas rašo, kad 1805 m. vieną sekmadienį Kalnėnuose prie vainikais papuo�
 ## Citatos
 
 - id: c-171895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     240
 

@@ -150,6 +150,8 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 ## Citatos
 
 - id: c-42237
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1704 m.
     — Augustas II, pasiryžęs nepasiduoti, ATR vardu sudarė
@@ -167,6 +169,8 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     - t-79168
 
 - id: c-76242
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Karolis XII
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
@@ -184,6 +188,8 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     - t-79166
 
 - id: c-76244
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusijos agentai grasinimais ir papirkinėjimais kontroliavo
     Lenkijos-Lietuvos seimus, kurie priimdavo jai palankius sprendi-

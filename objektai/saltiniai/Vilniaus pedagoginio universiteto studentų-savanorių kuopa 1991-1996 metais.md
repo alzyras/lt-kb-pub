@@ -74,6 +74,8 @@ Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais, V
 ## Citatos
 
 - id: c-41743
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 257, „PAVOJAUS AKIVAIZDOJE*, Daugirdas A. Vilniaus pedagoginio universiteto
     studentų-savanorių kuopa 1991-1996 metais, Vilnius, 2011, p. 28.

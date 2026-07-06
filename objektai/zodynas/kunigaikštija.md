@@ -214,6 +214,9 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 ## Citatos
 
 - id: c-38744
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Priežastis — nereikia manyt, ją buvus svarbiausią —
     atgavimas Skirgailai Kijevo, kuris jam pagal sutartį buvo paža­
@@ -230,6 +233,9 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     - t-36802
 
 - id: c-38745
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     vietininko, Lenkijos duoto, atskiru monarchu^1 ). Tai būtų buvusi
     didelė pažanga padaryta atsipalaiduojant nuo Lenkijos, ko taip
@@ -246,6 +252,9 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     - t-36802
 
 - id: c-38746
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vyguntas, būdamas
     Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
@@ -264,6 +273,9 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     - t-36803
 
 - id: c-38747
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­
     jevo pašalinti Algirdo sūnų Vladimirą. Tuo pat metu, kaip ži­

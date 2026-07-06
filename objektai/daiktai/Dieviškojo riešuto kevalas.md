@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177195
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Todėl ir šiandien vyrauja neapykanta tarp tautų, kurios ne­
     kenčia ir lietuvių.

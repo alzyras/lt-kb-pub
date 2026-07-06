@@ -398,6 +398,9 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 ## Citatos
 
 - id: c-36807
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
     rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar
@@ -413,6 +416,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-71641
 
 - id: c-42713
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvių tikslas buvo priversti atsi-
     sakyti Burgundijos kiurfiurstą sąjungos
@@ -428,6 +433,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-71642
 
 - id: c-42714
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
     vių pajėgų. Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.
@@ -440,6 +447,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-71640
 
 - id: c-70190
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     apgaulingu atsitraukimo manevru išvi-
     liojo brandenburgiečius persikelti į kita
@@ -456,6 +465,9 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-71643
 
 - id: c-70192
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taigi paskutiniais savo valdymo metais Vytautas
     Aukso Ordą turėjo visiškoje savo įtakoje. Taip pat buvo jam
@@ -472,6 +484,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-71638
 
 - id: c-167846
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tiesa, karalius jį iškvietęs iš vietų, kur gyveno jo pro­
     tėviai, bet juk jam buvę paskirti dideli plotai už Ki­
@@ -490,6 +504,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-184485
 
 - id: c-167847
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     1527 m e ta i
     L ietu vių
@@ -520,6 +536,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-184486
 
 - id: c-167848
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Priešai ir­
     gi pridarė didelių nuostolių. Krymo skitai, netikėtai

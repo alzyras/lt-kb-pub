@@ -118,6 +118,8 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
 ## Citatos
 
 - id: c-173248
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
     iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
@@ -136,6 +138,8 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
     - t-190365
 
 - id: c-173581
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Senovės skandinavų, gal seniausių šios jūros šei­
     mininkų, kalba Balt arba Beet reiškė vandens telkinį; iš jo

@@ -65,6 +65,8 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
 ## Citatos
 
 - id: c-45004
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Informacinių blokų apie karybą sąrašas
 

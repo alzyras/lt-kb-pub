@@ -90,6 +90,8 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
 ## Citatos
 
 - id: c-170374
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius
     tuoj po 1377 m. virto Jogailos priešu ir sąjungon prieš jį traukė

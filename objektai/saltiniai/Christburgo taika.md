@@ -70,6 +70,8 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
 ## Citatos
 
 - id: c-94043
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Žinoma, būdami užsitvėrę pagonybėje, lie­
     (^1) **Žr. Ig. Jonynas:** **_Christburgo taika_** **, Lietuviškoji Enciklopedija, t. 5,

@@ -163,6 +163,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 ## Citatos
 
 - id: c-21633
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
     vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-
@@ -178,6 +180,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
     - t-18863
 
 - id: c-21634
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šis
     faktas rodytų, kad tuo metu nebuvo ypač didelio atotrūkio tarp Lietuvos
@@ -194,6 +198,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
     - t-18862
 
 - id: c-21635
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Didžiausia tiki-
     mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-

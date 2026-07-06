@@ -190,6 +190,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168874
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Valdovas, sugrįžęs iš Prūsijos, gavo ži­
     nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
@@ -220,6 +222,8 @@ Nenurodyta
     - t-185513
 
 - id: c-168875
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Staigiu antpuoliu
     užėmė Kališo ir Stavišino miestus; gyventojai būtų nė
@@ -241,6 +245,8 @@ Nenurodyta
     - t-185514
 
 - id: c-168876
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kol lietuviai šitaip siautėjo Lenkijoje,
     niekas jiems nepastojo kelio ir niekas nedrįso perse­

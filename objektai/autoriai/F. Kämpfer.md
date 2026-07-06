@@ -73,6 +73,8 @@ Kämpfer : Beobachtungen zu den Sendschreiben Filofejs, JbGO, t.
 ## Citatos
 
 - id: c-32922
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (eit. iš V. Malinin:** **_Starec
     Eleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.). Plg. F. Kämpfer :**

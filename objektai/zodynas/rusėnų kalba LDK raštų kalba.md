@@ -171,6 +171,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24980
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
     se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
@@ -187,6 +189,8 @@ media_all_json: |-
     - t-169931
 
 - id: c-24982
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiandien ši Lietuvos Metrikos kalba pavadinama
     net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
@@ -201,6 +205,8 @@ media_all_json: |-
     - t-169928
 
 - id: c-154609
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
     sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
@@ -216,6 +222,8 @@ media_all_json: |-
     - t-169930
 
 - id: c-154610
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jose pa-
     mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš

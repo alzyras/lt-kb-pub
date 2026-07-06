@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55736
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš
     tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet

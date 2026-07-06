@@ -89,6 +89,8 @@ Lietuvos seimas Gardine pradėjo posėdžiauti 1568 m. pavasarį, o balandžio 2
 ## Citatos
 
 - id: c-172384
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čia ap­
     rašomas seimas pradėjo posėdžiauti 1568 metų pa­

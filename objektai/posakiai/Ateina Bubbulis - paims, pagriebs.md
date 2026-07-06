@@ -78,6 +78,8 @@ Vaikų gąsdinimo formulė, kurioje Bubbulis pristatomas kaip ateinanti ir pagri
 ## Citatos
 
 - id: c-170800
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
     veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­

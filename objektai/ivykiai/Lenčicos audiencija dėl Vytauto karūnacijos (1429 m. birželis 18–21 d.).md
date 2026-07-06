@@ -131,6 +131,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37024
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tada lietuvių delegacija Vytauto vardu
     griežtai pareiškė: ar Jogailai patiks ar nepatiks — Vytautas vis
@@ -147,6 +150,9 @@ Nenurodyta
     - t-35850
 
 - id: c-167617
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila dar kartą pasitaręs su savo didikais,
     atsakė, kad apie tokį svarbų reikalą, kuris liečia Lenkiją ir Lie­

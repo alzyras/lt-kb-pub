@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82235
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­
     tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie

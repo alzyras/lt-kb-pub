@@ -104,6 +104,8 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 ## Citatos
 
 - id: c-41414
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Yra duomenų, kad toliau žygiuojant buvo
     pasiektas pietinėje Krymo pakrantėje tarp-

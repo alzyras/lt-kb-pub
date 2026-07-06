@@ -117,6 +117,8 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 ## Citatos
 
 - id: c-40294
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Apie 14 val. Radvila sužinojo, kad prie-
     šas yra už kelių kilometrų ir ketina keltis
@@ -132,6 +134,8 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
     - t-38491
 
 - id: c-176424
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšis
 

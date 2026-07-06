@@ -192,6 +192,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174903
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Foigtas (Gesch. Preuss. B. I. S. 678) teigia,
     jog, anot vietinių padavimų, negalima abejoti, kad ši bažnytėlė ga­
@@ -213,6 +215,8 @@ Nenurodyta
     - t-192023
 
 - id: c-174904
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vai­
     tiekaus bažnytėlės, pastatytos XIII amžiaus pabaigoje,
@@ -233,6 +237,8 @@ Nenurodyta
     - t-192024
 
 - id: c-175282
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šiandien tų griuvėsių liku­
     čius galima pamatyti beveik pačioje jūros pakrantėje, į

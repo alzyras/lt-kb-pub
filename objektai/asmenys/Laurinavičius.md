@@ -76,6 +76,8 @@ Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą m�
 ## Citatos
 
 - id: c-173061
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai ir buvo toji šventykla, vėliau paversta svirnu,
     tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­

@@ -150,6 +150,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02131
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Išplaukęs Vysla į jūrą,
     jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
@@ -165,6 +167,8 @@ Nenurodyta
     - t-01895
 
 - id: c-02132
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagonys tuo būdu atkeršijo už savo šventovės
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
@@ -179,6 +183,8 @@ Nenurodyta
     - t-01894
 
 - id: c-02134
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,

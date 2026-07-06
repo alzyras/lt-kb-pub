@@ -83,6 +83,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44543
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tai buvo Lietuvos, vakarinių lie-
     tuvių-žemaičių, dalyvaujant aukš-

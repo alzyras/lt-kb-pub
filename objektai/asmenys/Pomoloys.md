@@ -79,6 +79,8 @@ Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo,
 ## Citatos
 
 - id: c-173120
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     433
 

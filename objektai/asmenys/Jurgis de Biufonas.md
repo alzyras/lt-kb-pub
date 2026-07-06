@@ -129,6 +129,8 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
 ## Citatos
 
 - id: c-174307
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     36
 
@@ -147,6 +149,8 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
     - t-191425
 
 - id: c-174308
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     -  T. Narbutas turėjo omenyje Jurgį de Biufoną
     (de Buffon; 1707—1788), prancūzų gamtinin­

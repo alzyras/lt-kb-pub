@@ -76,6 +76,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42478
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 92, Arkebuza dagtine spyna. Kalibras - 15,5 mm, xvI a. antroji pusė, VDKM,
 

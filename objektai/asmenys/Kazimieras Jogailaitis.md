@@ -821,6 +821,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ## Citatos
 
 - id: c-78976
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
     ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
@@ -852,6 +854,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82511
 
 - id: c-78977
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau jo pamaldumą pripažino
     Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
@@ -873,6 +877,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82509
 
 - id: c-78978
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jogaila 174
     B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
@@ -889,6 +895,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82514
 
 - id: c-78979
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Krašto valdymo aparatas iki XVI amž. antrosios pusės**
         **Didysis kunigaikštis ir jo valdžia.** Po Vytauto mirties Lie-
@@ -907,6 +915,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82513
 
 - id: c-78982
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar būdamas
     didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
@@ -925,6 +935,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82504
 
 - id: c-78983
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kazimieras mirė 65 m. amžiaus, palikęs gausingą šeimą.
     Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs,
@@ -938,6 +950,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82512
 
 - id: c-78984
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
     klausimas 172
@@ -956,6 +970,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82507
 
 - id: c-78985
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Garbingosios
     Mergelės Marijos gimimo dieną
@@ -990,6 +1006,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82506
 
 - id: c-78986
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Ordino galas.** Po Tanenbergo mūšio ordinas pradėjo nykti.
     Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
@@ -1004,6 +1022,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82508
 
 - id: c-78987
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Žemaičių kunigaikštystės privilegija 179
     3. Kazimiero išrinkimas Lenkų kar. ir 1447 m. privilegija 180
@@ -1019,6 +1039,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-82505
 
 - id: c-168110
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Patekęs į tokią ne­
     aiškią padėtį, jis, be galo išsi­
@@ -1050,6 +1072,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-184749
 
 - id: c-168111
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lenkams prieš­
     taraujant, lietuviai nė nemanė garsinti savo sumanymo,
@@ -1076,6 +1100,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-184750
 
 - id: c-168112
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nepakęsda­
     mas atidėliojimo, pats patraukė į Smolenską, nors kar­
@@ -1094,6 +1120,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-184751
 
 - id: c-168113
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
     gužės pabaigoje, Mykolas su
@@ -1128,6 +1156,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-184752
 
 - id: c-168114
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tverė turėjo labai galingas karo
     jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
@@ -1146,6 +1176,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-184753
 
 - id: c-168115
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų
@@ -1179,6 +1211,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-184754
 
 - id: c-176560
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O lenkų ponai neno­
     rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­
@@ -1198,6 +1232,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-193935
 
 - id: c-176561
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     17 Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro­
     kuvos 1485.V.18. bet ne su visos Lenkijos pajėgomis, o  su Mažo­

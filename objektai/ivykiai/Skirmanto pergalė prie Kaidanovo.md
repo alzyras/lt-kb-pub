@@ -207,6 +207,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170450
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
     laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
@@ -229,6 +231,8 @@ Nenurodyta
     - t-187488
 
 - id: c-170451
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
     vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
@@ -249,6 +253,8 @@ Nenurodyta
     - t-187490
 
 - id: c-176494
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir sekančiais metais tas chanas su daugeriopomis
     sutelktomis jėgomis bei totorių ordomis patraukė į Ru­

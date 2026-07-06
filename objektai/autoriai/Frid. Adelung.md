@@ -80,6 +80,8 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
 ## Citatos
 
 - id: c-174524
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sanskrite yra panašus ir panašią reikšmę
     turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje

@@ -139,6 +139,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83422
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Aplink
     miestą su savo palyda palapinėse klajojo Šach Achmedas, o
@@ -158,6 +160,8 @@ media_all_json: |-
     - t-87443
 
 - id: c-83423
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šach Ach­
     medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,

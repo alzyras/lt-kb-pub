@@ -78,6 +78,8 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
 ## Citatos
 
 - id: c-171826
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vėliau T. Narbutas šią informaciją įdėjo į vadina­
     muosius „Mažesniuosius istorijos raštus“ (Pomniej-

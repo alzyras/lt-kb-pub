@@ -137,6 +137,8 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 ## Citatos
 
 - id: c-48883
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
@@ -160,6 +162,8 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     - t-46283
 
 - id: c-48884
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vokietijai ir Austrijai paskelbus siekį atkurti Lenkijos valstybę, lietuvių
     atstovai ėmė kelti Lietuvos klausimą. Vokiečiams modernizuojant anek-

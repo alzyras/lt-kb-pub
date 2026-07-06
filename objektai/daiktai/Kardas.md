@@ -393,6 +393,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-88396
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Iš priešin­
     gų pusių nuo kalnelių ėmė leistis kariuomenės ir tuoj susitiko.
@@ -408,6 +411,8 @@ Nenurodyta
     - t-92972
 
 - id: c-88397
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
     daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
@@ -426,6 +431,8 @@ Nenurodyta
     - t-92970
 
 - id: c-88398
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl didikai stengėsi patraukti į savo
     pusę daugumą bajorijos. O ją patraukti tebuvo galima tik protek-
@@ -443,6 +450,8 @@ Nenurodyta
     - t-92967
 
 - id: c-88399
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
     kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
@@ -458,6 +467,8 @@ Nenurodyta
     - t-92975
 
 - id: c-88400
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tačiau nebuvo panaudotas nė vienas tų būdų. Lenkas, senas karys,
     irgi ilgai juk neatsiminė, kad turi pistoletą.“
@@ -475,6 +486,8 @@ Nenurodyta
     - t-92969
 
 - id: c-88401
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žvalgas, pa-
     matęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė grio-
@@ -489,6 +502,8 @@ Nenurodyta
     - t-92971
 
 - id: c-88402
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kovos ėjo prie Alytaus, ir kovo mėnesį iš
     rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
@@ -507,6 +522,8 @@ Nenurodyta
     - t-92968
 
 - id: c-88404
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
     Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti

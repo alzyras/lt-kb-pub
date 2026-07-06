@@ -77,6 +77,9 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
 ## Citatos
 
 - id: c-38444
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Berlin, 1906.
     Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,

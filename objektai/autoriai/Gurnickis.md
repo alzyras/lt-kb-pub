@@ -107,6 +107,8 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
 ## Citatos
 
 - id: c-84070
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il
     Prie jo buvo įkurta Puškarnia, tai

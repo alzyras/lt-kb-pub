@@ -77,6 +77,8 @@ Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšiki
 ## Citatos
 
 - id: c-174218
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini

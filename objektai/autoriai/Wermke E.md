@@ -77,6 +77,8 @@ Dusburgietis teigia, kad wermke E.
 ## Citatos
 
 - id: c-63394
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962
     (Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.

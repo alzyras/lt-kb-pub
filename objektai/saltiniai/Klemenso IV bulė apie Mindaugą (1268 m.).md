@@ -80,6 +80,8 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
 ## Citatos
 
 - id: c-23796
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje

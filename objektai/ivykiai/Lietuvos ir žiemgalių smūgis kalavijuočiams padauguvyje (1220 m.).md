@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-85329
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
     koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
@@ -146,6 +148,8 @@ Nenurodyta
     - t-89377
 
 - id: c-85331
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
     kalavijuočiams padauguvyje27. Bendri lietuvių veiksmai su žiemgaliais, sėliais, kuršiais

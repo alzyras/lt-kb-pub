@@ -169,6 +169,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-87549
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
 
@@ -202,6 +204,8 @@ Nenurodyta
     - t-91908
 
 - id: c-87550
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šioje pilyje
     gyveno vienas brolis, kuris, velnio klastingai sugundytas, kuo tvirčiausiai buvo įsitikinęs,

@@ -80,6 +80,8 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 ## Citatos
 
 - id: c-84437
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ant­
     spaude turėjo Stumbro ženklą.

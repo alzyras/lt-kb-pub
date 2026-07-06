@@ -64,6 +64,8 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
 ## Citatos
 
 - id: c-176448
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų

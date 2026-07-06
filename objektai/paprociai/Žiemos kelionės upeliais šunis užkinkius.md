@@ -79,6 +79,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09985
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Žiemos tenai nebuvo, nesgi sniegas negalėjo įsnigti ir, jei kur pūgos ir pusnys kame
          ne kame nuo medžių įkratė, tas pats tenai ilgainiui gaišo. Žmogus su gyvuliu niekaip negalėjo

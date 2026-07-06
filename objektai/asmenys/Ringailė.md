@@ -119,6 +119,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Citatos
 
 - id: c-88851
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     100 psl.). Ordinas, kartą jau apgautas,
     pareikalavo, kad Vytautas laiduotų sutartį, įkeisdamas savo arti-
@@ -133,6 +135,9 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     - t-93492
 
 - id: c-88853
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1392 m. Ringailę vedė Ritesverderyje
     kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte

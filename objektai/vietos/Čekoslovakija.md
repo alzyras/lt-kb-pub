@@ -89,6 +89,8 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
 ## Citatos
 
 - id: c-03146
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     klausimą atidėti, ligi sąlygos leis jį galutinai išspręsti, o tuo
     tarpu Pabaltijo valstybėms parodė savo palankumą, leisdamos

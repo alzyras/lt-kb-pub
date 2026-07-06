@@ -106,6 +106,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16467
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1934 m. lapkričio 23 d.
     Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-

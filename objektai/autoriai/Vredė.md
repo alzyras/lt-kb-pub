@@ -80,6 +80,8 @@ Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas 
 ## Citatos
 
 - id: c-174570
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tiek daug žinių apie Vitlandijos žemės egzistavimą
     galima pasisemti iš šios sutarties. Prie to dar pridurki­

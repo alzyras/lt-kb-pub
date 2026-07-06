@@ -216,6 +216,8 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
 ## Citatos
 
 - id: c-60848
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui
 
@@ -231,6 +233,8 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
     - t-60217
 
 - id: c-60849
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kristaus kūno šventės įsteigimą
 
@@ -251,6 +255,8 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
     - t-194522
 
 - id: c-168211
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šiedu vis dėlto Vytautą taip
     priėmė, jog jis netruko pajusti esąs nemalonus svečias:

@@ -82,6 +82,8 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 ## Citatos
 
 - id: c-60980
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias

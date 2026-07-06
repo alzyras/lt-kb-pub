@@ -144,6 +144,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172562
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     428
 
@@ -170,6 +172,8 @@ Nenurodyta
     - t-189679
 
 - id: c-172563
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     De quarum junc­
     tione duo bursae pendunt.

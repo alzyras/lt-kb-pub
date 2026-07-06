@@ -104,6 +104,8 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 ## Citatos
 
 - id: c-82109
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau Šv. Petro baž­
     nyčia tikriausiai pastatydinta Vladis­
@@ -122,6 +124,8 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
     - t-86131
 
 - id: c-82110
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anot
     kitų padavimų, Goštautas pastaty­

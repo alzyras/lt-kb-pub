@@ -77,6 +77,8 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 ## Citatos
 
 - id: c-176760
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O Bychovco kronikoje iš
     to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­

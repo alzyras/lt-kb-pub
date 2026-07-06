@@ -228,6 +228,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 ## Citatos
 
 - id: c-44536
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Besirengdamas žygiui į Sarajų, Aukso
     ordos chanas Timūr-Kutlukas atsiuntė savo
@@ -250,6 +252,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - t-40467
 
 - id: c-44537
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Totorių pajėgos
     Aukso ordos chano Timūr-Kutluko,
@@ -272,6 +276,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - t-40468
 
 - id: c-167150
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Greičiausiai Vytauto
     iniciatyva per Maskvos didįjį kunigaikštį
@@ -293,6 +299,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - t-183762
 
 - id: c-167151
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos jungtinės pajėgos
 

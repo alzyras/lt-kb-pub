@@ -222,6 +222,8 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 ## Citatos
 
 - id: c-55647
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     I  KNYGA
     čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
@@ -252,6 +254,8 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
     - t-82034
 
 - id: c-55648
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     sudarytos, kuo greičiausiai atsisakytumėte: juk nedera ko­
@@ -284,6 +288,8 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
     - t-55233
 
 - id: c-55649
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Ir
     mažiau tinka kovojantiems už Vieš­

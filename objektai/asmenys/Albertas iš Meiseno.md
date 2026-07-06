@@ -323,6 +323,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 ## Citatos
 
 - id: c-56139
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
     Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
@@ -336,6 +338,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-89612
 
 - id: c-56140
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
     Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
@@ -350,6 +354,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-89611
 
 - id: c-85549
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį
 
@@ -372,6 +378,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-89610
 
 - id: c-85550
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
     einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
@@ -391,6 +399,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-89614
 
 - id: c-85552
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Todėl jis, didžiai susikrimtęs, su ašaromis meldė viešpatį nukrauti jam nuo pečių uždėtą
     pareigybių naštą arba tiesiog pasiimti iš šios žemės. Tą pačią naktį jis buvo viešpaties
@@ -409,6 +419,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-89615
 
 - id: c-85553
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
     pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
@@ -421,6 +433,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-89613
 
 - id: c-168016
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tegu su kariais netikėtai pasirodąs, iš pa­
     čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-

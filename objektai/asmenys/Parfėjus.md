@@ -93,6 +93,8 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 ## Citatos
 
 - id: c-83904
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Pskoviečiai
     pasiuntė pas didįjį kunigaikštį Jurgį

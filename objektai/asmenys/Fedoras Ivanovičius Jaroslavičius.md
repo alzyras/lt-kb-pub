@@ -73,6 +73,8 @@ Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikš
 ## Citatos
 
 - id: c-176745
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
     puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­

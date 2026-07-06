@@ -1331,6 +1331,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 ## Citatos
 
 - id: c-37686
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pav., Ragainės komtūras vienu puolimu išsivedė 100
     žmonių nelaisvėn. Kita kariuomenės dalis paėmė Naujapilį su
@@ -1343,6 +1346,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169145
 
 - id: c-153886
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
     damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
@@ -1357,6 +1362,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169165
 
 - id: c-153887
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ragainės pilies užpuolimą
 
@@ -1375,6 +1382,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169164
 
 - id: c-153888
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
     100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
@@ -1392,6 +1401,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169148
 
 - id: c-153889
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -1412,6 +1423,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169158
 
 - id: c-153890
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
     vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
@@ -1429,6 +1442,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169159
 
 - id: c-153892
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kijeve jau birželio mėn. prie gausių stalų
     buvo susirinkusi didelė kariuomenė^29. Šalia paties Vytauto būrių
@@ -1445,6 +1460,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169163
 
 - id: c-153893
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau
     smulkmenų, nurodomos įvykių dienos (142-ose III dalies skyreliuose, aprašančiuose
@@ -1460,6 +1477,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169162
 
 - id: c-153894
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį
 
@@ -1492,6 +1511,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169149
 
 - id: c-153895
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ryškūs lietuvių
     tautos siekimai atgauti Ordino užgrobtas vakarinių lietuvių bei prūsų žemes ir XV a.
@@ -1508,6 +1529,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169154
 
 - id: c-153896
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1361 m. pradžioje, žiemą Ordino mar-
     šalas su draugeliu kilmingų kryžininkų
@@ -1531,6 +1554,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169157
 
 - id: c-153897
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šitai vyko viešpataujant Lie­
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
@@ -1547,6 +1572,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169155
 
 - id: c-153898
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
@@ -1565,6 +1592,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169161
 
 - id: c-153899
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
                                      sudeginimą
@@ -1587,6 +1616,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-194546
 
 - id: c-153900
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
     mėn. kunigas brolis Petras tikrai gyvenęs Karaliaučiuje63. Tyrinėtojai siejo Dusburgietį
@@ -1603,6 +1634,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169147
 
 - id: c-153901
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius
     nuo dab. miestelio, taip pat nuo XIV—XV a. pradžioje statytos Ordino pilies griuvėsių.
@@ -1621,6 +1654,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169144
 
 - id: c-153904
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
 
@@ -1637,6 +1672,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169152
 
 - id: c-153905
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
                                             jo gyvenimą
@@ -1653,6 +1690,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169156
 
 - id: c-168479
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kur kas didesnės sėkmės kitais metais susilaukė šeši
     178
@@ -1678,6 +1717,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-185118
 
 - id: c-168481
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kita vertus, priešas irgi iš pas­
     kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
@@ -1700,6 +1741,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-185120
 
 - id: c-175506
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šioje provincijoje šen bei ten aptikta gynybinių
     įtvirtinimų vietų. Tokia tvirtovė buvusi ant kalvos netoli
@@ -1714,6 +1757,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-192736
 
 - id: c-175507
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ragainė Hartknocho išleistame Dus-
     burgo veikale klaidingai pavadinta Ramige (p. III. C.
@@ -1728,6 +1773,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-192737
 
 - id: c-176148
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kaip
     192

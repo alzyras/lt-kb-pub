@@ -1196,6 +1196,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 ## Citatos
 
 - id: c-00317
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
     ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
@@ -1210,6 +1212,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-193095
 
 - id: c-00318
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pabūgęs, kad vienas neat-
     silaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu
@@ -1228,6 +1232,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175550
 
 - id: c-05799
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pirmiausia prie Dauguvos krantų ėmė stiprintis kalavijuočių
     ordinas^69. Visby salos ir Liubeko pirkliams ėmus lankyti Dauguvos
@@ -1243,6 +1249,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175543
 
 - id: c-05800
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet jam neužteko kasmet atsikviečiamu kryžininkų būrių
     pastoviai kovoti su priešiškais vietos pagonimis. Pagal Palestinoje
@@ -1260,6 +1268,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175552
 
 - id: c-42692
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šiuo periodu išryškėjo lietuvių siekis didinti įtaką kitų baltų
     gentims (ypač gyvenusioms šiauriau - prie Dauguvos) ir įtraukti
@@ -1280,6 +1290,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175530
 
 - id: c-46302
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
     ir čia sukūrė savo valstybes. Vieni jų atsikraustė į Padauguvį (ka-
@@ -1295,6 +1307,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175538
 
 - id: c-159649
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje,
     šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų
@@ -1310,6 +1324,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175536
 
 - id: c-159650
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
     koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
@@ -1324,6 +1340,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175557
 
 - id: c-159651
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame vi­
     siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
@@ -1346,6 +1364,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175540
 
 - id: c-159652
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karaliui, turinčiam tokias dide­
     les karinės amunicijos atsargas, nesunku buvo apginkluoti
@@ -1368,6 +1388,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175553
 
 - id: c-159654
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
     faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordi-
@@ -1383,6 +1405,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175551
 
 - id: c-159655
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Nauja priešiška jėga regione paspartino Lietuvos valstybės kon-
     solidavimo procesą, tačiau lietuviams teko apsiriboti siauresne
@@ -1404,6 +1428,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175548
 
 - id: c-159656
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kristaus karių ordinas, Dobrynės broliai
       Kristaus karių ordinas Livonijos žemėje
@@ -1421,6 +1447,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175536
 
 - id: c-159658
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
@@ -1441,6 +1469,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175533
 
 - id: c-159660
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Trečios žmonos vardas buvęs Ju­
     lijona.
@@ -1466,6 +1497,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175537
 
 - id: c-159662
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     28. Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
 
@@ -1482,6 +1515,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175539
 
 - id: c-159667
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stip-
     resnis ir geriau organizuotas nei kalavijuočiai. Po pralaimė-
@@ -1498,6 +1533,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175531
 
 - id: c-159670
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
     Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
@@ -1518,6 +1555,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175541
 
 - id: c-167923
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
@@ -1537,6 +1576,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-184562
 
 - id: c-167924
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Padrąsėjo širdys, ir užvi­
     rė atkaklus mūšis, lietuvius apėmė toks kovos įkarštis,
@@ -1560,6 +1601,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-184563
 
 - id: c-167925
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai šitaip klostėsi reikalai
     Prūsijos pasienyje, Livonija,
@@ -1584,6 +1627,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-184564
 
 - id: c-167929
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tos pačios priežastys sukėlė neramumus Livonijoje.
     Į Liuterio sektą perėjo Livo-
@@ -1607,6 +1652,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-184568
 
 - id: c-170669
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
     emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
@@ -1626,6 +1673,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-187730
 
 - id: c-176219
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
     Vokiečių ordino riteris pagrobia vaiką.

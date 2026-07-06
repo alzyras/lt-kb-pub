@@ -72,6 +72,8 @@ Dusburgietis teigia, kad michelbertas M.
 ## Citatos
 
 - id: c-61810
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Michelbertas M. Prekybiniai ryšiai su Romos imperija.— Lietuvos gyventojų prekybiniai
     ryšiai I—XIII a. — V., 1972, p. 5—125.

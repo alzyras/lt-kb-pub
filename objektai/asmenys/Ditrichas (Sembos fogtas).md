@@ -366,6 +366,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 ## Citatos
 
 - id: c-60465
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     6. Apie vieną stebuklą
 
@@ -383,6 +385,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-59839
 
 - id: c-60466
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     227 (222). Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
 
@@ -402,6 +406,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-59833
 
 - id: c-60467
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
 
@@ -418,6 +424,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-59838
 
 - id: c-60469
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     217 Fogtu buvo 1278—1292 m.
       218 D. minima (apie 1231 m.) castrum dictum Rogow (plg. pr. ragis, lie. ragas resp.
@@ -431,6 +439,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-59834
 
 - id: c-60470
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -448,6 +458,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-59837
 
 - id: c-60471
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     190 (185). Apie daugybės pagudėnų išžudymą
 
@@ -463,6 +475,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-59836
 
 - id: c-60472
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
     pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
@@ -483,6 +497,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-59840
 
 - id: c-167437
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ramijos pilies užkariavimą
 

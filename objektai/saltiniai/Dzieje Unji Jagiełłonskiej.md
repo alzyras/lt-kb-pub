@@ -71,6 +71,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36168
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Hal. = Halecki, Oskar, Dzieje Unji Jagiełłonskiej. I tom. Kra­
     ków, 1919.

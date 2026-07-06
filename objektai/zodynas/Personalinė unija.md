@@ -286,6 +286,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-46887
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Abidvi
     pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
@@ -302,6 +304,8 @@ Nenurodyta
     - t-182969
 
 - id: c-166132
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
     veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
@@ -323,6 +327,8 @@ Nenurodyta
     - t-182717
 
 - id: c-166133
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
     ti ne teisiniams, o realiems valstybių santykiams – čia Lietuvai ir glūdėjo
@@ -345,6 +351,8 @@ Nenurodyta
     - t-182718
 
 - id: c-166134
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Epochos pa-
     baigoje Lietuva jau operatyviai reagavo į reformacijos iššūkius (sąjūdžio
@@ -361,6 +369,8 @@ Nenurodyta
     - t-182715
 
 - id: c-166367
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kad būtų galima to išvengti, darant uniją daugiausia dėmesio
 
@@ -378,6 +388,8 @@ Nenurodyta
     - t-182968
 
 - id: c-176283
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
     išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir

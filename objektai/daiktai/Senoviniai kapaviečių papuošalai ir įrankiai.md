@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175776
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Naujausi atradimai aki­
     vaizdžiai patvirtina šią tiesą. Man pačiam, kasinėjant se­
@@ -145,6 +147,8 @@ Nenurodyta
     - t-193006
 
 - id: c-177267
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1826 metais Ukmergės apskrities Antakriautiio dvare, pri­
     klausančiame ponui Romanovskiui, prie ežero, tiesiant nau­

@@ -170,6 +170,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84216
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     354
 
@@ -241,6 +243,8 @@ media_all_json: |-
     - t-88237
 
 - id: c-84217
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [manu proprio -
     savo ranka]

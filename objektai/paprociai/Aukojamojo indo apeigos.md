@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172795
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Prie paprastųjų aukojimo maldų arba prie žemesniosios
     kategorijos aukų, atnašaujamų žemiausiojo rango aukotojo,

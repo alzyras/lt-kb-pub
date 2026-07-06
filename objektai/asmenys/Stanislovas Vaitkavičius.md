@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83842
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip ir Jonas Jurevičius
     iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek

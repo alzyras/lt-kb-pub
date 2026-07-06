@@ -111,6 +111,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-94082
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tvirbutas, bajoras 368
     Ugra, upė 321, 322

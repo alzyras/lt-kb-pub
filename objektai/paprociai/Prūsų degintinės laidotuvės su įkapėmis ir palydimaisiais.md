@@ -122,6 +122,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67205
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Savo svečiams jie rodo nepaprastą lipšnumą, ir vargu ar kada
 
@@ -137,6 +139,8 @@ Nenurodyta
     - t-67195
 
 - id: c-67207
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     jie degino  jo ginklus, žirgus, vergus  ir tarnaites  [servi et  ancillae]209, drabužius,
     medžioklinius šunis bei sakalus ir visa kita, kas reikalinga kariams. Su nekilmingaisiais

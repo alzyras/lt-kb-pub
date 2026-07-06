@@ -75,6 +75,8 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 ## Citatos
 
 - id: c-21989
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Septyni ministrai palaikė karalių,
     penki buvo prieš – siūlė priešintis ir toliau derėtis, siekiant kuo palan-

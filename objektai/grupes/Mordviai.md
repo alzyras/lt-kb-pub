@@ -75,6 +75,8 @@ Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergait
 ## Citatos
 
 - id: c-172385
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šitaip akylai sau­
     gomas, jas pagrobdavo lakedemoniečių pavyzdžiu; tai padaro

@@ -72,6 +72,8 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 ## Citatos
 
 - id: c-33786
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pvz., lietuvių kalboje šienas - estiškai
     sein, avinas - oinas, piemenauti - paimendama, ratas - rata, tvora

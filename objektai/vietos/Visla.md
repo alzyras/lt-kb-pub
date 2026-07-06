@@ -219,6 +219,9 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 ## Citatos
 
 - id: c-38677
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tik
     kada patys Prūsijos krašto gyventojai prieš kryžiuočius sukilo,
@@ -235,6 +238,9 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     - t-36682
 
 - id: c-167694
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau šį kartą Vytautui neteko
     su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai
@@ -249,6 +255,8 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     - t-184323
 
 - id: c-170621
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
     MEDŽIO PAGROBIMĄ
@@ -270,6 +278,8 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     - t-187680
 
 - id: c-170622
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Bet grįžkime atgalios.
     Ir po to pagrobimo Jogaila nukėlė sieną su Lenkija

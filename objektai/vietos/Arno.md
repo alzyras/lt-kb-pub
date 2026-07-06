@@ -77,6 +77,8 @@ Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dne
 ## Citatos
 
 - id: c-175632
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būtent dėl šių priežasčių įvairios
     pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­

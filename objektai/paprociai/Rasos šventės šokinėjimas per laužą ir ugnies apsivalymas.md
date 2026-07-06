@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172749
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis ugnies krikštas, arba apsivalymas
     panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­

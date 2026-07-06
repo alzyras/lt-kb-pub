@@ -71,6 +71,8 @@ Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų
 ## Citatos
 
 - id: c-175594
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai įrodo Ksaveras Bogušas3. To­
     je Meklenburgo dalyje ligi šiol turėtų būti kaimiečių,

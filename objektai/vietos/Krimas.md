@@ -138,6 +138,8 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 ## Citatos
 
 - id: c-67885
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
     rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
@@ -154,6 +156,8 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     - t-68250
 
 - id: c-166425
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nuo jo laikų pra-
     sidėjo Lietuvos nepasisekimai ir traukimasis atgal nuo Maskvos.
@@ -170,6 +174,8 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     - t-183033
 
 - id: c-175937
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kazimieras bandė užtarti pabėgusį Tverės
     kunigaikštį, tačiau Jonas III vienų žodžių neklausė. Sudaręs

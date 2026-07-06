@@ -136,6 +136,8 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
 ## Citatos
 
 - id: c-174656
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     333
 
@@ -165,6 +167,8 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
     - t-191774
 
 - id: c-174657
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     342
 

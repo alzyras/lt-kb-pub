@@ -73,6 +73,8 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
 ## Citatos
 
 - id: c-83689
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas, ne­
     mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,

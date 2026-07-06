@@ -120,6 +120,8 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
 ## Citatos
 
 - id: c-41850
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
@@ -132,6 +134,8 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
     - t-40046
 
 - id: c-44294
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sausio 13 d. AT priėmė nutarimą su-
     daryti Laikinąją gynybos vadovybę:

@@ -114,6 +114,8 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 ## Citatos
 
 - id: c-71000
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tik čia
     tuo atžvilgiu buvo sunkiau, nes kaip tik tuo metu Livonijos
@@ -132,6 +134,8 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
     - t-72598
 
 - id: c-175876
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1559 m. Lietuvos
     seime Vilniuje buvo pasirašyta nauja sutartis, kuria Zigmantas

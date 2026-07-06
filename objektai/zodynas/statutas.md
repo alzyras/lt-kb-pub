@@ -124,6 +124,8 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 ## Citatos
 
 - id: c-94135
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Atmetė jį svarbiausia dėl valstiečiams
     duodamųjų palengvinimų. „Mužikus nori padaryti

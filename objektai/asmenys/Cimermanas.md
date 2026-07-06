@@ -79,6 +79,8 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
 ## Citatos
 
 - id: c-83624
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1555. Radvila tą mūrinį namą ir sklypą dovanojo savo
     gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­

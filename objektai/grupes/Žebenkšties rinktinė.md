@@ -111,6 +111,8 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
 ## Citatos
 
 - id: c-40717
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     2% VIRTUKŲ KAUTYNĖS
 
@@ -128,6 +130,8 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
     - t-38912
 
 - id: c-176404
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1945 m. įstojo į partizanų
     Žebenkšties rinktinę Raseinių rajone. J. Žemaitis

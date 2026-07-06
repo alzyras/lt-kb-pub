@@ -72,6 +72,8 @@ Teodoras Narbutas Makartnį įvardija anglų pasiuntiniu, kurį lydėjo vėlesni
 ## Citatos
 
 - id: c-174322
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo. Dažnai

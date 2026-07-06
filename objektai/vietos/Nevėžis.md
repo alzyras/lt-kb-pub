@@ -444,6 +444,9 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 ## Citatos
 
 - id: c-37602
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­
     tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui
@@ -456,6 +459,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-184314
 
 - id: c-166183
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Naktį lenkai priartėja prie
 
@@ -489,6 +494,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-182771
 
 - id: c-166453
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
@@ -505,6 +512,9 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-183062
 
 - id: c-167685
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jeigu Vytautas mirtą, nepalikęs jokio įpėdinio, tai jie turėtų ati­
     tekti Ordinui. Atiduodamas vokiečiams visą Žemaičių kraštą
@@ -518,6 +528,9 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-184312
 
 - id: c-167686
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinas. Vytautas jam buvo už­
     rašęs Žemaičių kraštą iki Nevėžio upės (1398) ir Vok. Ordinas
@@ -530,6 +543,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-184313
 
 - id: c-170573
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir didysis kunigaikštis Kazimieras labai
     susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
@@ -552,6 +567,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-187626
 
 - id: c-171681
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
     nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-

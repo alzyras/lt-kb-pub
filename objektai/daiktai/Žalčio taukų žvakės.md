@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172644
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
     kuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų

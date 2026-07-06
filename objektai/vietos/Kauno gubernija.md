@@ -279,6 +279,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 ## Citatos
 
 - id: c-24170
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kareiviai, apsigyvenę kaimuose, ištisus mėnesius kankino vals-
     tiečius, naikino jų turtą. Vien Kauno gubernijoje tokių žiaurių
@@ -292,6 +294,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - t-183026
 
 - id: c-155071
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
@@ -313,6 +317,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - t-170425
 
 - id: c-155074
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
     tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
@@ -329,6 +335,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - t-170422
 
 - id: c-155075
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pa-
     gal raštingumą etniniai lietuviai
@@ -345,6 +353,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - t-170421
 
 - id: c-155076
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mat baltarusių šnekta pragma-
     tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
@@ -366,6 +376,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - t-170423
 
 - id: c-171608
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     9
 

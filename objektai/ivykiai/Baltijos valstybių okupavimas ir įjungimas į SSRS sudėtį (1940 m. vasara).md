@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22909
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mintis „Po
     kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstinio pasidavimo

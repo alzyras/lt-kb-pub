@@ -230,6 +230,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 ## Citatos
 
 - id: c-32023
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
     1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
@@ -243,6 +245,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-71849
 
 - id: c-43416
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvių pajėgos negalėjo
     atsilaikyti prieš gausių lenkų pajėgų puo-
@@ -262,6 +266,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-71850
 
 - id: c-43417
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš kautynes
 
@@ -282,6 +288,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-71848
 
 - id: c-175924
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Grįždamas į Vilnių, jis ne-
     pasakė tėvams tiesos, ir tėvas, netrukus miręs, nebesužinojo apie sū-

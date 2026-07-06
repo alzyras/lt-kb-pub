@@ -71,6 +71,8 @@ Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misic
 ## Citatos
 
 - id: c-174682
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     222
     Tai paminėję, pereikime prie rašytinių liudijimų, ku­

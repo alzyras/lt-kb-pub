@@ -112,6 +112,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-167618
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytauto pa­
     siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,

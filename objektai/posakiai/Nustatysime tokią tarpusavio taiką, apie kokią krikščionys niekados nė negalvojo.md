@@ -136,6 +136,8 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
 ## Citatos
 
 - id: c-55760
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     (*) vobis suos nuncios et litteras, aperuerunt vobis terram,
@@ -167,6 +169,8 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
     - t-54761
 
 - id: c-55761
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tenegąsdina jus tai, kas anksčiau buvo rašyta. Jei jie [se­
     noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­

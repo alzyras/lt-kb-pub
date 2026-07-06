@@ -83,6 +83,8 @@ istoriografija, kilmės aiškinimai
 ## Citatos
 
 - id: c-175021
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi antro „Lietuvių tautos istorijos“ (toliau LTI) tomo
     uždavinys buvo nusakytas labai konkrečiai. Savo reikš­

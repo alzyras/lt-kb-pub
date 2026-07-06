@@ -67,6 +67,8 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
 ## Citatos
 
 - id: c-176012
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tiek Lietuvoj, tiek Lenkijoj vykdomoji valdžia priklausė
     karaliui. Jis turėjo būti bendrai renkamas Volos kaimo

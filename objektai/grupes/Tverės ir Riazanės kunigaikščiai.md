@@ -111,6 +111,8 @@ Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiau
 ## Citatos
 
 - id: c-82751
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas, vienintelio
     troškimo apimtas, sukviečia pas save įžymiausius šiaurės

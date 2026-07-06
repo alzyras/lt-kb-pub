@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66697
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
     nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
@@ -160,6 +162,8 @@ Nenurodyta
     - t-66482
 
 - id: c-66698
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
 

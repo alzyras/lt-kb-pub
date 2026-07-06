@@ -138,6 +138,8 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 ## Citatos
 
 - id: c-03534
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Rašytų ir gana išblaškytų žinių apie lietuvius, jų religiją, pa­
     pročius ir gyvenimo būdą ėmė šiek tiek pateikti XII-XIII amž.
@@ -154,6 +156,8 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     - t-67398
 
 - id: c-03535
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     HChL = Heinrici Chronicon Livoniae, išl. L. Arbusow ir Alb. Bauer
     (MGH SS) Hannover 1955.
@@ -165,6 +169,8 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     - t-67399
 
 - id: c-176509
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
     locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko

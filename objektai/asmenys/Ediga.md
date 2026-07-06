@@ -114,6 +114,8 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 ## Citatos
 
 - id: c-32719
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
     patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
@@ -132,6 +134,8 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
     - t-30226
 
 - id: c-32720
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Esą Vytautas reikalavęs chaną
     jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras

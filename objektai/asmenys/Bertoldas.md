@@ -123,6 +123,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 ## Citatos
 
 - id: c-83464
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 103
 
@@ -141,6 +143,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     - t-87485
 
 - id: c-176823
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Antra, ar galima įsivaizduoti, kad tokiame laiške pri­
     simintų savo paties nužudytą didįjį kunigaikštį Vitą, kai šis

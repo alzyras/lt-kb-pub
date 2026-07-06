@@ -122,6 +122,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170442
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O Bychovco kronikoje iš
     to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­

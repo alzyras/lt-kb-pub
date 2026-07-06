@@ -467,6 +467,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Citatos
 
 - id: c-83341
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
     šimtai trisdešimt trečiaisiais Viešpaties metais. Dalyvaujant
@@ -503,6 +505,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-87366
 
 - id: c-83342
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ho-
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
@@ -520,6 +524,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-87362
 
 - id: c-83343
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
     matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­
@@ -539,6 +545,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-87368
 
 - id: c-83344
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dominyko ordino brolių pa­
     mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
@@ -565,6 +573,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-87367
 
 - id: c-83345
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     40), matyti,
     266
@@ -590,6 +600,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-87365
 
 - id: c-83346
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis
     kad po 1533 metų gaisro, nuo ugnies
@@ -655,6 +667,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-194242
 
 - id: c-83347
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar

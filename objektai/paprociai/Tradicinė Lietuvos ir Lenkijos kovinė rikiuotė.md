@@ -123,6 +123,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12308
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Xv a. pabaigoje - xvI a. pradžioje susiformavo kovinė rikiuotė, kuri
     ilgam laikui tapo tradicine Lietuvoje ir Lenkijoje. Mūšiui kariuo-
@@ -140,6 +142,8 @@ Nenurodyta
     - t-09550
 
 - id: c-12309
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-
     buvo labai reikšmingas. K. Ostrogiškio sprendimai, išnaudojant

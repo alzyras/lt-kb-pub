@@ -70,6 +70,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-25408
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių kalba geriausiai iš
     visų gyvųjų indoeuropiečių kalbų išlaikė senąjį garsyną ir daugelį morfolo-

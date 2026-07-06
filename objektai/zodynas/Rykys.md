@@ -69,6 +69,8 @@ Vartojamos formos: `rykius`.
 ## Citatos
 
 - id: c-09732
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Decebalus, getų rykys, niekaip nenorėjo jiems pasiduoti ir lig paskuojo prieš rymionis stengė.
   statusas: verified

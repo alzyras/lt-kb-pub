@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83133
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tarė­
     jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą

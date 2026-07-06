@@ -204,6 +204,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172742
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Aplink visą pilkapį ratu eina didokų
     akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
@@ -222,6 +224,8 @@ Nenurodyta
     - t-189859
 
 - id: c-172743
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be abejo,
     tai vėliau mirusių artimų velionio giminaičių arba drauge su
@@ -238,6 +242,8 @@ Nenurodyta
     - t-189860
 
 - id: c-172744
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Urnas su pelenais labai dažnai pakasdavo žemė­
     je plikame lauke arba miškuose ir virš jų supildavo daugiau ar
@@ -257,6 +263,8 @@ Nenurodyta
     - t-189861
 
 - id: c-177028
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
     asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net

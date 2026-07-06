@@ -81,6 +81,8 @@ Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
 ## Citatos
 
 - id: c-168823
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo tarpu
     Maskvos valdovas stiprino savo pajėgas, darydamas

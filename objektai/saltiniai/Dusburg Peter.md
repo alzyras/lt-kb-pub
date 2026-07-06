@@ -95,6 +95,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-91733
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bauer, H. : _Peter von Dusburg und die Geschichtsschreibung des Deu­
     tschen Ordens im 14. Jh. in Preusseu,_ Historische Studien, Heft 272,

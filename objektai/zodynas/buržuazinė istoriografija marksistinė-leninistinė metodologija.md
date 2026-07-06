@@ -76,6 +76,8 @@ Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografij�
 ## Citatos
 
 - id: c-32639
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tad ir šį kartą, statant Lietuvos istorijos «rūmą», reikėjo
     uoliai naudotis kitų jau pagamintomis «plytomis ». Prie atskirų

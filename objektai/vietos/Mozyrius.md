@@ -288,6 +288,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ## Citatos
 
 - id: c-43658
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jodami stepėmis tarp
     Lietuvos ir Maskvos valdų jie kasdien su-
@@ -306,6 +308,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-68717
 
 - id: c-68225
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, Lietuvos po-
     nai, jo priešai, norėdami jį
@@ -328,6 +332,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-68719
 
 - id: c-168413
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Skirman­
     tas, nepasitenkindamas šia pergale, vedė toliau kariuo­
@@ -355,6 +361,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-185052
 
 - id: c-170564
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     50
 

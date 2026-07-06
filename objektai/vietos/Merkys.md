@@ -262,6 +262,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 ## Citatos
 
 - id: c-43641
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Spalio 8 d. prasidėjo puolimas. Beveik
     visa Lietuvos kariuomenė buvo likusi
@@ -281,6 +283,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-111946
 
 - id: c-103448
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto pasakojama apie giliai gelmėje
     glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
@@ -298,6 +302,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-111945
 
 - id: c-103449
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pastatyti iš medžio ant aukšto mūrinio cokolio,
     stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
@@ -313,6 +319,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-111944
 
 - id: c-103450
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia
     buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems
@@ -328,6 +336,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-111948
 
 - id: c-103452
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lie­
     tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­

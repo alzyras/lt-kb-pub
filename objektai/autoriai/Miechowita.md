@@ -75,6 +75,8 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
 ## Citatos
 
 - id: c-65383
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Laikydama pagrindu Lietuvos valstybės žemes, ji
     apžvelgė per kelioliką šimtmečių didelį rytų Europos plotą. Ji buvo

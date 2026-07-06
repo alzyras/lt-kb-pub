@@ -168,6 +168,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63650
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
     nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,
@@ -186,6 +188,8 @@ Nenurodyta
     - t-62830
 
 - id: c-63652
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kolainių pilies užpuolimą
 

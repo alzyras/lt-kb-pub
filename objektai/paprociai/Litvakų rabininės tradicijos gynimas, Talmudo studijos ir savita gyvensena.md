@@ -164,6 +164,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55182
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors chasidizmas buvo liberalesnė ir de-
     mokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir
@@ -181,6 +183,8 @@ Nenurodyta
     - t-54306
 
 - id: c-166714
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas

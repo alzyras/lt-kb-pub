@@ -214,6 +214,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 ## Citatos
 
 - id: c-59086
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
 
@@ -236,6 +238,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     - t-194534
 
 - id: c-59087
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Skomanto, sūduvių vado, atsivertimą
 
@@ -255,6 +259,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     - t-194535
 
 - id: c-59088
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mindaugo dokumente Cresmen (PUB, 1, 2,
     Nr. 79; LIS 1 p. 47). Skomanto (žr. paaiškinimus D. III, 164, 1) valdomas Kresinenos

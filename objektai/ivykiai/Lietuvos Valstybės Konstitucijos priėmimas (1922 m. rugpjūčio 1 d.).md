@@ -212,6 +212,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23021
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė
     vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
@@ -227,6 +229,8 @@ Nenurodyta
     - t-45392
 
 - id: c-48235
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
     tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos

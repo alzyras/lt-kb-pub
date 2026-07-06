@@ -87,6 +87,8 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
 ## Citatos
 
 - id: c-83819
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
     ritatis [labdaringi pietūs] ir duonos kepalas.

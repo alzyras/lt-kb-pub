@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63527
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
     imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė

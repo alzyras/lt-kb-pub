@@ -105,6 +105,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-76057
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Padėtis buvo įtempta ir
     Lietuvos pietryčiuose. 1258-1259 m. žiemą

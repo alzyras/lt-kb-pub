@@ -101,6 +101,8 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 ## Citatos
 
 - id: c-167488
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 

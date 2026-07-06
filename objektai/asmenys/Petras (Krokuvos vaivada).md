@@ -109,6 +109,8 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
 ## Citatos
 
 - id: c-169516
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vado pavyzdžiu kariuomenė pasklido po visą
     1266 m eta i

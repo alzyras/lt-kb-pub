@@ -194,6 +194,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73126
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau pokyčius vyriausybėje valdžia
     ir opozicija suvokė skirtingai. Autoritarinės valdžios supratimu, bendras
@@ -215,6 +217,8 @@ Nenurodyta
     - t-75307
 
 - id: c-73127
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O visa lietuvių
     nacija buvo sukrėsta, nes vyravo nuotaikos priešintis. Lietuvai suduotas ir
@@ -230,6 +234,8 @@ Nenurodyta
     - t-75309
 
 - id: c-73129
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
     tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabi-

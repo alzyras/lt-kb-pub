@@ -459,6 +459,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-45532
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     S
     sv
@@ -502,6 +504,8 @@ media_all_json: |-
     - t-42479
 
 - id: c-45533
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
     Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
@@ -518,6 +522,8 @@ media_all_json: |-
     - t-183717
 
 - id: c-167988
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
     vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
@@ -540,6 +546,8 @@ media_all_json: |-
     - t-184627
 
 - id: c-167989
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kartą Traidenis sugrįžo iš žygio į Prūsiją ir
     pamatė tarp kitų berniukų Vytenį, kurio gražus vei­
@@ -563,6 +571,8 @@ media_all_json: |-
     - t-184628
 
 - id: c-167990
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
     nuolat kurstė ir Vytautas, ir

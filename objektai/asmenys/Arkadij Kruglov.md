@@ -130,6 +130,8 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 ## Citatos
 
 - id: c-41151
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
     Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta.
@@ -141,6 +143,8 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
     - t-39347
 
 - id: c-41152
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
     tris NKGB dalinio buvusius vadus: kpt. Kruglovą, leit. Marcinkevičių ir dar vieną rusą
@@ -153,6 +157,8 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
     - t-39348
 
 - id: c-167118
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tigras, nieko nelaukdamas, truktelėjo iš savo kulkosvaidžio.
 

@@ -77,6 +77,8 @@ Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką,
 ## Citatos
 
 - id: c-173228
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Versta pagal leidinį: Ovidijus. Metamorfozės. -  V.,
     1979. -  P. 35-36. Vertė Antanas Dambrauskas.

@@ -71,6 +71,8 @@ Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyv
 ## Citatos
 
 - id: c-174183
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pasakoji­
     mui apie šį neabejotinai seną įvykį būdingi istoriškumo

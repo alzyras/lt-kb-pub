@@ -106,6 +106,8 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 ## Citatos
 
 - id: c-32773
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
@@ -123,6 +125,8 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     - t-30333
 
 - id: c-32774
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo būdu penkių savaičių puolimų karinis pasisekimas tebuvo
     šykštus. Kalno (Gedimino) pilį atlaikė Jogailos vietininkas K.

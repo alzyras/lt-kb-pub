@@ -68,6 +68,8 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
 ## Citatos
 
 - id: c-32934
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet
     į arklą buvo kinkomas ir arklys, tuo būdu nuo traukiamo žemės

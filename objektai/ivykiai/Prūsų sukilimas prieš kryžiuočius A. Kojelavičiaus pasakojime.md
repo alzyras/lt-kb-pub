@@ -148,6 +148,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169123
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ka­
     dangi miestą gynė rinktinių karių įgula, apsuptis
@@ -170,6 +172,8 @@ Nenurodyta
     - t-185762
 
 - id: c-169124
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
     čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­

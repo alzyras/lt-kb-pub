@@ -198,6 +198,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-85372
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
     ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
@@ -215,6 +217,8 @@ Nenurodyta
     - t-89413
 
 - id: c-85373
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
 
@@ -231,6 +235,8 @@ Nenurodyta
     - t-89413
 
 - id: c-85375
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo palikta Vaistotpilio pilis
 

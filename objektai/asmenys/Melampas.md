@@ -85,6 +85,8 @@ Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, a
 ## Citatos
 
 - id: c-173065
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Priklausomai nuo gėrimo pagaminimo būdo
     dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima

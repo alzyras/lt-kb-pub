@@ -73,6 +73,8 @@ Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadin
 ## Citatos
 
 - id: c-168761
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautas, ne vieną
     kartą ligi tol patyręs šios tautos tvirtą palankumą ir

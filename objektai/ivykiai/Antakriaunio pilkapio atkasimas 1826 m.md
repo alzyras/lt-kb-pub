@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173911
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1826 metais Ukmergės apskrities Antakriautiio dvare, pri­
     klausančiame ponui Romanovskiui, prie ežero, tiesiant nau­

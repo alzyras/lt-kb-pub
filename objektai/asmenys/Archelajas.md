@@ -85,6 +85,8 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
 ## Citatos
 
 - id: c-174822
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie

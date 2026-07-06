@@ -74,6 +74,8 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
 ## Citatos
 
 - id: c-173039
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     346
 

@@ -115,6 +115,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 ## Citatos
 
 - id: c-43978
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
@@ -129,6 +131,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     - t-193787
 
 - id: c-45402
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lapkričio 19 d. į Ukmergę at-
     vyko armijos vadas gen. S. Žukauskas,

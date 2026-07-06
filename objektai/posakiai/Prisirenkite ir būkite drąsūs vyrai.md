@@ -84,6 +84,8 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
 ## Citatos
 
 - id: c-59702
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
                                       kovų

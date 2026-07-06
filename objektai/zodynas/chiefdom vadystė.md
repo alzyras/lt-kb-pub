@@ -146,6 +146,8 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 ## Citatos
 
 - id: c-16540
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vakarų misionierius, būsima-
     sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
@@ -162,6 +164,8 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - t-13544
 
 - id: c-73292
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Čia
     apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio

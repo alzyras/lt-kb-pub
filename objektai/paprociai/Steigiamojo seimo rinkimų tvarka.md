@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67221
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Įstatymas buvo paskelbtas
     1919 metų lapkričio mėn. 20 d., kai dar nebuvo baigtas

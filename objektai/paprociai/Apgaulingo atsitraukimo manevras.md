@@ -181,6 +181,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12367
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pagaliau Karolis Chodkevičius davė
     komandą visam frontui pradėti imituoti
@@ -201,6 +203,8 @@ Nenurodyta
     - t-71789
 
 - id: c-43151
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Oršos mūšius ir
     daug kitų). Lietuvių karvedžiai nuo seno

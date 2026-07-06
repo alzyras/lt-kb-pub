@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-154564
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jų yra ir krikščioniškų švenčių, pavyzdžiui, Kalė-
     dų, Velykų ir kt., papročiuose. Galėtume sakyti, kad pagoniškos šventės yra

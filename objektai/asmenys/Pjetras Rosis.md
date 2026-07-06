@@ -71,6 +71,8 @@ Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu
 ## Citatos
 
 - id: c-173082
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atsimenu tik tiek, kad šio padavimo pati­
     kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­

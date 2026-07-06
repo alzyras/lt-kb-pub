@@ -65,6 +65,8 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
 ## Citatos
 
 - id: c-61332
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mėginta
     sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen

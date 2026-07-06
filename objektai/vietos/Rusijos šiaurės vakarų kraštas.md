@@ -66,6 +66,8 @@ Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šia
 ## Citatos
 
 - id: c-02968
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
     vadinamos Lietuvos gubernijomis. Tačiau, kai pra-

@@ -180,6 +180,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32404
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo Lenkijos pakraščio, nuo
     Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
@@ -195,6 +197,8 @@ media_all_json: |-
     - t-69216
 
 - id: c-68610
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos valstybės dominavimas šiose te-
     Algirdas dar 1356 m. tvirtinosi Volgos ritorijose ir stiprėjanti įtaka rytuose vedė
@@ -211,6 +215,8 @@ media_all_json: |-
     - t-69217
 
 - id: c-167763
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Per vieną šimtą metų, prieš Algirdui užmerkiant
     akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­

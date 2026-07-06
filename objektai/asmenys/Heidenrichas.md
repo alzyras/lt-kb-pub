@@ -73,6 +73,8 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 ## Citatos
 
 - id: c-60934
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     žinių, kad kartą, jam koplyčioje prieš altorių beklūpint ir beprašant dievą parodyti kokiu
     ženklu, ar esąs pelnęs jo malonę, medinis nukryžiuotasis, prieš kurį jis meldėsi, ištiesė

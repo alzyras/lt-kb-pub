@@ -85,6 +85,8 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 ## Citatos
 
 - id: c-83628
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gediminas, užsitikrinęs sau-
     dybomis, buvo labai tvirti ir svarbūs.

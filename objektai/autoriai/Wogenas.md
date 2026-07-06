@@ -71,6 +71,8 @@ Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixti
 ## Citatos
 
 - id: c-173345
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     -  Noty 336 i 355.
     29 Prilvico statulėlių rinkinyje, remiantis Maso (Masch) ir Vogeno

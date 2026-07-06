@@ -79,6 +79,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-173449
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O supratingiems tėvy­
     nės istorijos mylėtojams -  tai labai vertingas šios įžymios val­

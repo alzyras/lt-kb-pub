@@ -91,6 +91,8 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
 ## Citatos
 
 - id: c-82555
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nuolatinių karų ir grobi­
     mų virtinėje retai kur prasimuša padrikų ir neišsamių

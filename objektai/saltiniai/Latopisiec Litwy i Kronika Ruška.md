@@ -205,6 +205,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 ## Citatos
 
 - id: c-55644
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Wremiennik Sofijski, p. 334. Žr.
     Danilovičių: Latopisiec Litwy i
@@ -220,6 +222,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     - t-55218
 
 - id: c-55646
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau pa­
     stebėsime Vytautą savo fundacijose
@@ -239,6 +243,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     - t-82004
 
 - id: c-78514
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ros. T. V. vert. į lenk. k. p. 137-
     138. Panaši užuomina apie šį Glebą
@@ -254,6 +260,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     - t-82003
 
 - id: c-78515
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Iš
     prancūzų reikia išskirti Jeaną Le

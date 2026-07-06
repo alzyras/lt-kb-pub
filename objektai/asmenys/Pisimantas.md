@@ -145,6 +145,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-169519
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl imanti šviesti
     viltis, jog tie, kurie paveldėjo tėvų valdas bei nesan­
@@ -164,6 +166,8 @@ media_all_json: |-
     - t-186158
 
 - id: c-169520
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mažai vis dėlto ką pe­
     šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios

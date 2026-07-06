@@ -86,6 +86,8 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
 ## Citatos
 
 - id: c-174373
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Anot Korano
     aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie

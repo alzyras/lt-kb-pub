@@ -98,6 +98,8 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 ## Citatos
 
 - id: c-69365
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Juo buvo patvirtintas Vytauto sava-
     rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
@@ -115,6 +117,8 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     - t-70321
 
 - id: c-69366
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po ilgų derybų, 1401 m. buvo pa-
     siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-

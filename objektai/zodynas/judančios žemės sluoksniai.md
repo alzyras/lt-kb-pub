@@ -152,6 +152,8 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
 ## Citatos
 
 - id: c-175108
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     paprastai iš sienito arba granito, didesnio dydžio — šias
     uolienos pačios patvariausios ir labiausiai paplitusios kal­
@@ -179,6 +181,8 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
     - t-192292
 
 - id: c-175109
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Todėl apsiribosi­
     me vien bendro pobūdžio pastabomis, t. y. tik hipotezė­

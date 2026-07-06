@@ -73,6 +73,8 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
 ## Citatos
 
 - id: c-171929
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Betgi apie ją neturime smulkesnių žinių nei
     nežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik

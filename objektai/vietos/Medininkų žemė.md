@@ -105,6 +105,8 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
 ## Citatos
 
 - id: c-45212
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     S
     sv

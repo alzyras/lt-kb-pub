@@ -139,6 +139,8 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 ## Citatos
 
 - id: c-82494
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Et si autem ipsi quoq.
     in ea sententia extitimus, omni ratione, ut nobis providendum
@@ -176,6 +178,8 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
     - t-86514
 
 - id: c-176817
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IL
     4U

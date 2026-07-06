@@ -76,6 +76,8 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
 ## Citatos
 
 - id: c-173394
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     55
 

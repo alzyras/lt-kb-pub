@@ -74,6 +74,8 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
 ## Citatos
 
 - id: c-40732
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšis
 

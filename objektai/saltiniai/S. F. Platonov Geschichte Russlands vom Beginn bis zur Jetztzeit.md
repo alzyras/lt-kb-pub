@@ -76,6 +76,8 @@ Platonov, S.
 ## Citatos
 
 - id: c-33708
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1908. — (”) _Pilkalnis na Litwie,_ Studja Staropolskie, księga ku czci
     Aleksandra Brucknera, Kraków 1928, 154-172 p. — Kučinskas, A. :

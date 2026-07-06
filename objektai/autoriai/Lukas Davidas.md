@@ -142,6 +142,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
 ## Citatos
 
 - id: c-173201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
     išplaukiančius iš paties dalyko. Lukas Davidas, kuris prūsus
@@ -157,6 +159,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
     - t-190318
 
 - id: c-177063
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žinią apie vyriausiuosius žy­
     nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
@@ -182,6 +186,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
     - t-194666
 
 - id: c-177280
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
     I.

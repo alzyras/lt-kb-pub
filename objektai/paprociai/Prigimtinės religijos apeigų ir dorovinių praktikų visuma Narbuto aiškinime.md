@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172817
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės filosofų devizas buvo šie
     žodžiai: aurea prima sata ėst aetas -  pirmasis gimė aukso am­

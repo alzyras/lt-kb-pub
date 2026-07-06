@@ -67,6 +67,8 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
 ## Citatos
 
 - id: c-40322
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gen. mjr. Leontijus Bennigsenas tri-
     mis kavalerijos pulkais, remiamas kazokų

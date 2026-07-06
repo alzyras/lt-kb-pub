@@ -139,6 +139,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168965
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ostrogiškis,
     gavęs žinią, kad skitai bei turkai patraukė į žygį Po-
@@ -164,6 +166,8 @@ Nenurodyta
     - t-185604
 
 - id: c-168966
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pas Ostrogiškį atžygia­
     vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras

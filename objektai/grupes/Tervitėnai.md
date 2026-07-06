@@ -74,6 +74,8 @@ Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo
 ## Citatos
 
 - id: c-175761
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Žiloje seno­
     vėje šis uostas galėjo būti šalies sostinė, iš kurios ir buvo

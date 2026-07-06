@@ -77,6 +77,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 ## Citatos
 
 - id: c-61848
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
     Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,

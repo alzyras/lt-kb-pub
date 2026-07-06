@@ -94,6 +94,8 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 ## Citatos
 
 - id: c-46415
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-
     sidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-

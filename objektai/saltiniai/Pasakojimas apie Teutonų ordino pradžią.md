@@ -190,6 +190,8 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 ## Citatos
 
 - id: c-61575
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Išrinktas
     magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
@@ -210,6 +212,8 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - t-60943
 
 - id: c-61576
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Iš „Pasakojimo...” žinome,
     kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę, o ją iš pradžių valdė kapelionas
@@ -224,6 +228,8 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - t-60945
 
 - id: c-61577
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Čia Dusburgietis pateikia oficialią
     Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
@@ -239,6 +245,8 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - t-60944
 
 - id: c-61578
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
     Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,

@@ -236,6 +236,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 ## Citatos
 
 - id: c-69924
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     elgtasi brutaliau nei su kitomis religijomis. Paradoksalu, tačiau stalinizmo
     metais kunigų Lietuvoje nukentėjo du kartus daugiau nei M. Muravjovo
@@ -250,6 +252,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-71338
 
 - id: c-69925
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Teroro sąlygomis su-
     kilėlių kova vis labiau silpo, kol galiau-
@@ -267,6 +271,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-71337
 
 - id: c-69927
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
     lotyniškąjį raidyną rusišku raidynu, arba kirilika. 1864 m. M. Muravjovo
@@ -281,6 +287,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-71336
 
 - id: c-69928
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Egzekucijos buvo įvykdytos B. Kolyškai,
     Z. Sierakauskui, T. Dalevskiui, K. Kalinaus-
@@ -299,6 +307,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-71340
 
 - id: c-69929
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
     nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė

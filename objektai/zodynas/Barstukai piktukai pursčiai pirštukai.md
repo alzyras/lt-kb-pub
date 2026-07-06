@@ -69,6 +69,8 @@ Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio 
 ## Citatos
 
 - id: c-172003
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     17
     Kiti mano, jog turėtų vadintis pirštukais (Pirsztuki) -  nuo žodžio

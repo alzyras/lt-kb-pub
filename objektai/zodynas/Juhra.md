@@ -86,6 +86,8 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
 ## Citatos
 
 - id: c-175074
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadinasi, galėjo
     būti, jog šis lietuvių kunigaikštis, gyvenęs X amžiuje,

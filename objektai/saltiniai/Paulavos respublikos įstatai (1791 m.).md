@@ -78,6 +78,8 @@ Bžostovskio įkurta Paulavos respublika.
 ## Citatos
 
 - id: c-75441
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo
     iš baudžiavos, suteikiant jiems asmeninę laisvę, atvejus. Ryškiausiu iš jų

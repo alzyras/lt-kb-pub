@@ -74,6 +74,8 @@ Dusburgietis teigia, kad wenta J.
 ## Citatos
 
 - id: c-61483
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
     oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.

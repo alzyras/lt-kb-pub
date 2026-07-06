@@ -283,6 +283,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 ## Citatos
 
 - id: c-22425
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
@@ -300,6 +302,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-65206
 
 - id: c-42681
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po to, kai 1990 m. kovo 11 d. buvo pa-
     skelbtas Aktas apie Lietuvos nepriklauso-
@@ -327,6 +331,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-65205
 
 - id: c-42682
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jį įgyvendinti turėjo prosovietiškos
     Lietuvos komunistų partijos (nuo sovietų ko-
@@ -345,6 +351,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-65204
 
 - id: c-42683
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     į okupantų pusę. Apie 400 „raudonraiš-
     čių“, vadovaujamų „Nacionalinio gelbė-
@@ -363,6 +371,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-65207
 
 - id: c-166520
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Savarankiška LKP, vėliau
     pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
@@ -379,6 +389,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-183135
 
 - id: c-167046
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sausio 13-osios
     dienos brolijos

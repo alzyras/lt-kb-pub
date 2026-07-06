@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169197
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
     D o b iy n ą , ž u d o  k i y -

@@ -65,6 +65,8 @@ Dusburgietis teigia, kad brolis Konradas iš Blindenburgo, išėjęs kautis su j
 ## Citatos
 
 - id: c-60997
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
     Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise

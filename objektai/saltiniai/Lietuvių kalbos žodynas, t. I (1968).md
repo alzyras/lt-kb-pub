@@ -69,6 +69,8 @@ Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsa
 ## Citatos
 
 - id: c-177253
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kadangi vienas Kauno priemiestis vadinosi
     16

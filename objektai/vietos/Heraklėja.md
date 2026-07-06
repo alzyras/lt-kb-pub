@@ -74,6 +74,8 @@ Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankst
 ## Citatos
 
 - id: c-175643
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su

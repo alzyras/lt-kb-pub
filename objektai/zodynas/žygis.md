@@ -282,6 +282,8 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 ## Citatos
 
 - id: c-69442
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nedideli jo kariuomenės būriai
     iš pasieninių pilių staiga įsiverždavo į Lietuvą ir, apiplėšę apylin-
@@ -299,6 +301,8 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
     - t-70429
 
 - id: c-166392
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Grįždami jie atsigabendavo pri-
     plėštus turtus, atsivarydavo bandas gyvulių ir atsivesdavo dau-

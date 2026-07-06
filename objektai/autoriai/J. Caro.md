@@ -72,6 +72,8 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
 ## Citatos
 
 - id: c-94017
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — HrlU,
     **IV, 127 p. — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.

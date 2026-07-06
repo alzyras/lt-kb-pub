@@ -115,6 +115,8 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 ## Citatos
 
 - id: c-24947
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tikėtasi, kad anksčiau ar vėliau gali
     susidaryti sąlygos konkrečiai politinei kovai dėl tos vizijos realizavimo, o
@@ -138,6 +140,8 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
     - t-22258
 
 - id: c-176285
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
     loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),

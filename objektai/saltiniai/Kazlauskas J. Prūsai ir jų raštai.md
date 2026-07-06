@@ -71,6 +71,8 @@ Dusburgietis teigia, kad kazlauskas J.
 ## Citatos
 
 - id: c-61729
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kazlauskas J. Prūsai ir jų raštai.— Pergalė. 1967, Nr. 4, p. 161—162.
   statusas: verified

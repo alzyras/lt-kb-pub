@@ -176,6 +176,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-157477
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau jaunasis karalius nejau­
     tė tokios netekties, kokios buvo vertos iš tiesų retos Elžbie­
@@ -202,6 +204,8 @@ media_all_json: |-
     - t-173148
 
 - id: c-157478
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
     seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
@@ -219,6 +223,8 @@ media_all_json: |-
     - t-173147
 
 - id: c-157480
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     — • —
     275

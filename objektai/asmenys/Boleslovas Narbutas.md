@@ -87,6 +87,8 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
 ## Citatos
 
 - id: c-170754
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai buvo didelis smūgis tėvui. Sėkmingai iš­
     vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.

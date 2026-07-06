@@ -78,6 +78,8 @@ O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamald
 ## Citatos
 
 - id: c-82603
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
     gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,

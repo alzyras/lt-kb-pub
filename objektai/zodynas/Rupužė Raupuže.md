@@ -63,6 +63,8 @@ Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos
 ## Citatos
 
 - id: c-172136
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rupužė (Raupuže)
     Sausumos varlė, rupūžė. Ji taip pat buvo garsus fetišas: jas

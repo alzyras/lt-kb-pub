@@ -73,6 +73,8 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 ## Citatos
 
 - id: c-61910
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Manoma, kad Sakso
     Gramatiko (mir. 1216 m.) Danijos istorijoje minimi Rutheni — tai greičiausiai venedai,

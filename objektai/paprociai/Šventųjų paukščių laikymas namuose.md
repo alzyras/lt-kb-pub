@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10053
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     jei šiandien tą daro kalnėnai ir žemaičiai, tad tą patį darė ir kitą kartą ne dėl kito kokio lyčiaus^836 ,
         kaip tiktai dėl to paties, dėl kurio šiandien tebdaro, gerbdami juos vienus kaipo prajovus^837

@@ -112,6 +112,9 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 ## Citatos
 
 - id: c-14689
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kaip Vytenis buvo nenuilstamas kovotojas ir tolimų
     ekspedicijų organizatorius bei vadas, taip po jo viešpatavęs jo
@@ -130,6 +133,9 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     - t-70131
 
 - id: c-14690
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
     tos ir Naugarduko, t. y. vad. Juodąją Rusiją.

@@ -516,6 +516,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-37485
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­
     jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­
@@ -534,6 +537,8 @@ media_all_json: |-
     - t-90744
 
 - id: c-86515
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1296 lietuviai įsiveržė į
     Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
@@ -548,6 +553,8 @@ media_all_json: |-
     - t-90743
 
 - id: c-86516
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tačiau iš įgimto piktumo nesiliovė klastingai
     ir slaptai persekiojęs brolių bei tikinčiųjų ir nieko neėmė  į galvą, kai broliai jam šitai
@@ -567,6 +574,8 @@ media_all_json: |-
     - t-90745
 
 - id: c-86518
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie laikos nutraukimą ir Kujavijos žemės nuniokojimą
 
@@ -591,6 +600,8 @@ media_all_json: |-
     - t-90741
 
 - id: c-86519
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Esą
     1288 Liubline, kaip pabrėžia Ipatijaus kronika, kilęs didelis susi­
@@ -607,6 +618,8 @@ media_all_json: |-
     - t-90738
 
 - id: c-86520
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
     būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
@@ -621,6 +634,8 @@ media_all_json: |-
     - t-90737
 
 - id: c-86522
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
     jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
@@ -637,6 +652,8 @@ media_all_json: |-
     - t-90740
 
 - id: c-167554
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Antra knygos dalis
 
@@ -662,6 +679,8 @@ media_all_json: |-
     - t-90742
 
 - id: c-175449
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­
     siai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­

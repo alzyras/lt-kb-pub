@@ -80,6 +80,8 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
 ## Citatos
 
 - id: c-44966
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ralyžiavo“ Rusijos kariuomenę. Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo artileriją Vilniuje.
     grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt

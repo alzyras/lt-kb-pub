@@ -270,6 +270,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174934
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šių dalinių kovinė vertė buvo
     menkesnė, bet ir jie sugebėdavo pasireikšti
@@ -288,6 +290,8 @@ Nenurodyta
     - t-192065
 
 - id: c-174935
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pagrindiniai tokios kariuome-
     nės ginklai buvo ietys ir kalavijai. Artilerija
@@ -308,6 +312,8 @@ Nenurodyta
     - t-192064
 
 - id: c-174936
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pastaruosius jotvingiai smarkiai puo­
     lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-
@@ -325,6 +331,8 @@ Nenurodyta
     - t-192067
 
 - id: c-174937
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
@@ -342,6 +350,8 @@ Nenurodyta
     - t-192066
 
 - id: c-175289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

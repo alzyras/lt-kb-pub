@@ -93,6 +93,8 @@ Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus
 ## Citatos
 
 - id: c-169403
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl ir buvo nutar­
     ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,

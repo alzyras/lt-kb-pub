@@ -82,6 +82,8 @@ Gotfrydo Ostermejerio veikalas „Gedanken von den alten Bewohnern des Landes Pr
 ## Citatos
 
 - id: c-174718
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Stettin, 1748.
     Turimas omenyje Karaliaučiaus universiteto

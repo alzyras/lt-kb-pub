@@ -85,6 +85,8 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
 ## Citatos
 
 - id: c-33640
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     4), apie Lietuvą pradedant Jogailai
     valdyti (JoŠ).

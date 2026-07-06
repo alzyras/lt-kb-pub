@@ -99,6 +99,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-45458
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
@@ -112,6 +114,8 @@ media_all_json: |-
     - t-42359
 
 - id: c-45459
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     [pulko] Pilėnų Kunigaikščio
     Margio 11 ir 11 batalionus. Šie batalionai išsikrovė Šeštokų

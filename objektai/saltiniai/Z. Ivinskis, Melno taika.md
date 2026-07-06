@@ -100,6 +100,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-91760
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^362) III skyrius: valstybės suklestėjimas
     BeGeDO, t. 3, dalis 1. —Dundulis, B. : _Lietuvos sąjunga su husi­

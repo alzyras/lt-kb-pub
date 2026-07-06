@@ -69,6 +69,8 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
 ## Citatos
 
 - id: c-174669
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sie
     dalykai yra tik Srioko veikale (Kirchen Geschichte. B. XXX. S.

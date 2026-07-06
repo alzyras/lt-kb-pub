@@ -93,6 +93,8 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 ## Citatos
 
 - id: c-83737
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mergelės Marijos ėmimą į dangų, tai
     yra, 1432 metų rugpjūčio 13 dieną.

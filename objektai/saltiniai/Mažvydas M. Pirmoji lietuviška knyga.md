@@ -71,6 +71,8 @@ Dusburgietis teigia, kad mažvydas M.
 ## Citatos
 
 - id: c-61809
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mažvydas M. Pirmoji lietuviška knyga.— V., 1974.
   statusas: verified

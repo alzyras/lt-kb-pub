@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62563
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo apleista Skalvos žemė
 

@@ -160,6 +160,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-73316
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1—9). Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos
     vieta apskritai nebeatsekama.
@@ -171,6 +173,8 @@ media_all_json: |-
     - t-75583
 
 - id: c-73317
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
@@ -182,6 +186,8 @@ media_all_json: |-
     - t-75584
 
 - id: c-73318
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
     (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
@@ -194,6 +200,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-73319
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai-
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo

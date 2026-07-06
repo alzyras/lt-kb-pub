@@ -119,6 +119,8 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 ## Citatos
 
 - id: c-41883
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
 
@@ -135,6 +137,8 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
     - t-40078
 
 - id: c-44314
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pabūklo vamzdis
 

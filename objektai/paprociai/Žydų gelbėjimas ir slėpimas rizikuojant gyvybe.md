@@ -130,6 +130,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23548
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žydų naikinimas kėlė
     didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje nete-

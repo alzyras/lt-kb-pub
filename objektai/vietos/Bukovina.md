@@ -178,6 +178,8 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
 ## Citatos
 
 - id: c-170279
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mūsų valdo­
     vas vaivada Steponas su savo kariuomene yra lauke:
@@ -208,6 +210,8 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     - t-187207
 
 - id: c-170280
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     savo žmonėmis — raiteliais ir pėstininkais. Ir kai ka­
     ralius Olbrachtas su visa kariuomene jau buvo Buko­

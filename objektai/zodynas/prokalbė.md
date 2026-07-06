@@ -68,6 +68,8 @@ Todėl iš visų indoeuropiečių kalbų slavų kalbos yra artimiausios baltų k
 ## Citatos
 
 - id: c-28508
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Todėl iš visų indoeuropiečių kalbų
     slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų

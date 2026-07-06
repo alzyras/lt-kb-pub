@@ -76,6 +76,8 @@ Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rū
 ## Citatos
 
 - id: c-82228
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Viena iš girių, esanti prie
     pat Rūdninkų, ir dabar tebevadinama Królewski ogród, lietu­

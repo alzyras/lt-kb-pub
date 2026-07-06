@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02022
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Už
     sugrąžinimą jis buvo dėkingas

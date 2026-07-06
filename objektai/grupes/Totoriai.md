@@ -3312,6 +3312,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 ## Citatos
 
 - id: c-14992
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Rytų Europos pietuose Vytauto laikais turėjo didelę galybę
     totoriai, kurie kadaise buvo užkariavę veik visus didžiulius ru­
@@ -3329,6 +3332,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171422
 
 - id: c-21433
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
     jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
@@ -3345,6 +3351,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171437
 
 - id: c-36948
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip Algirdas, pasinaudojęs chanų
     vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
@@ -3360,6 +3369,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171416
 
 - id: c-36949
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
@@ -3374,6 +3386,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171431
 
 - id: c-36950
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
     guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
@@ -3386,6 +3401,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171445
 
 - id: c-36951
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Visi šie rūpesčiai reikalavo
     taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
@@ -3403,6 +3421,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171412
 
 - id: c-36953
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Geri santykiai su Jogaila ir lenkais, kova su Or­
     dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
@@ -3417,6 +3438,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171438
 
 - id: c-42951
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuva tuo metu turėjo keturis pagrin-
     dinius priešus: Prūsijos-Livonijos vokie-
@@ -3438,6 +3461,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171436
 
 - id: c-42952
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taigi, Lietuva siekė atgauti
     Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
@@ -3463,6 +3488,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171426
 
 - id: c-42953
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Totorių kariuomenė
 
@@ -3485,6 +3512,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171420
 
 - id: c-42954
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kiekvienas raitelis su savimi vesdavosi po
     tris atsarginius žirgus, kuriuos keičiant
@@ -3502,6 +3531,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171413
 
 - id: c-42956
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Totorių įsiveržimas
 
@@ -3523,6 +3554,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171440
 
 - id: c-42958
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ties Lojevu jie
     persikėlė į dešinįjį Dniepro krantą ir pa-
@@ -3544,6 +3577,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171401
 
 - id: c-42960
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Artėdama
     Klecko link nuo Pinsko pusės LDK kariuo-
@@ -3567,6 +3602,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171403
 
 - id: c-155948
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­
@@ -3607,6 +3644,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171429
 
 - id: c-155949
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tarė­
     jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
@@ -3641,6 +3680,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171419
 
 - id: c-155951
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
 
@@ -3654,6 +3695,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171441
 
 - id: c-155952
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -3685,6 +3728,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171414
 
 - id: c-155954
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytauto
     didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
@@ -3707,6 +3752,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171430
 
 - id: c-155956
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Vengrijos ir Lenkijos nusiaubimą
 
@@ -3725,6 +3772,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-194371
 
 - id: c-155957
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     2.
     62
@@ -3751,6 +3800,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171446
 
 - id: c-155958
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie totorių viešpatavimo pradžią
 
@@ -3763,6 +3814,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171408
 
 - id: c-155960
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dalyvaujant garbingiems
     ir narsiems vyrams Mingailai, Goš­
@@ -3795,6 +3848,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171395
 
 - id: c-155963
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai paskelbus dvylikos metų paliaubas tarp
     karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
@@ -3820,6 +3875,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171402
 
 - id: c-155964
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Atrodo,
     kad pamažu susikristalizuoja lyg ir pagrindiniai jo veikimo pro­
@@ -3837,6 +3895,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171427
 
 - id: c-155965
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį
@@ -3854,6 +3914,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171439
 
 - id: c-155966
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar iš to paties
     pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­
@@ -3869,6 +3931,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171444
 
 - id: c-155968
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jų dau­
     gybę su visomis šeimomis į šiuos
@@ -3903,6 +3967,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171434
 
 - id: c-155969
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
     feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
@@ -3919,6 +3985,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171424
 
 - id: c-155972
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau XVII–XVIII a. bent jau Vilnius
     prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
@@ -3937,6 +4005,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171428
 
 - id: c-155974
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines
     pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
@@ -3953,6 +4023,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171447
 
 - id: c-155975
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar visa garbė ir
     šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
@@ -3969,6 +4042,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171421
 
 - id: c-155977
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet ir totoriai,
     įsigalėję Rusijoj, taip pat ėmė tarp savęs vaidytis, kuo nekartą
@@ -3984,6 +4060,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171418
 
 - id: c-155978
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
 
@@ -4001,6 +4079,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171443
 
 - id: c-155979
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
     rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
@@ -4015,6 +4095,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171405
 
 - id: c-155980
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
     rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
@@ -4052,6 +4134,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171394
 
 - id: c-155981
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK
     kultūrinę įvairovę didino etninis aspektas: nors kai kurios konfesinės ir
@@ -4072,6 +4156,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171406
 
 - id: c-155984
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Daug jų vyko
     pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
@@ -4093,6 +4179,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171397
 
 - id: c-155985
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
     kariuomenės, bajorų pašauktinės kariuo-
@@ -4114,6 +4202,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171410
 
 - id: c-155987
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš tu­
     rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
@@ -4130,6 +4220,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171442
 
 - id: c-155989
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     72
@@ -4149,6 +4241,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171435
 
 - id: c-155990
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dalis jų išvengė
     žūties ir aplinkiniais keliais pasiekė Klecką.
@@ -4171,6 +4265,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171425
 
 - id: c-166576
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau vėliau
     jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
@@ -4188,6 +4284,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-171432
 
 - id: c-167061
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Visa tai liudytų, kad Kryžiuočių or-
     dino ir Švedijos puolimai vienu metu
@@ -4208,6 +4306,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-183669
 
 - id: c-170685
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Skirmantas nepa­
     noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
@@ -4230,6 +4330,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-187746
 
 - id: c-170686
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ilgai jie kovėsi, vos ne visą dieną 22. O  pas­
     kui dievas padėjo totoriams, ir jie sumušė didįjį kuni­
@@ -4249,6 +4351,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-187747
 
 - id: c-170687
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS
     VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE
@@ -4278,6 +4382,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-187748
 
 - id: c-170689
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir didikai, matydami, kad etmonas labai serga ir kad
     be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­
@@ -4297,6 +4403,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-187750
 
 - id: c-170690
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
     gė per upę. Dešiniojo sparno kariuomenė paskubėjusi
@@ -4319,6 +4427,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-187751
 
 - id: c-175270
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ypatingoji šitą vie­
     nuolių durna visuomet diegė panieką kunigaikščiams ir
@@ -4340,6 +4450,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-192476
 
 - id: c-175889
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Per
     ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
@@ -4355,6 +4467,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-193131
 
 - id: c-175890
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Rusijos žemės tada buvo labai palaidos.
     Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
@@ -4368,6 +4482,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-193132
 
 - id: c-176489
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     154
 

@@ -79,6 +79,8 @@ Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelais
 ## Citatos
 
 - id: c-169489
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie

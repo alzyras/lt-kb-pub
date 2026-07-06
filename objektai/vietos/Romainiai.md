@@ -156,6 +156,8 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
 ## Citatos
 
 - id: c-80846
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietuvos istorijoje yra žinomos šven­
     tos vietovės, senovės lietuvių vadin­
@@ -182,6 +184,8 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     - t-84712
 
 - id: c-80847
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant to, kryžiuo­
     čiai, nuolatos baudęsi sunaikinti tą

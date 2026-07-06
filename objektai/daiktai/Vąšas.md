@@ -121,6 +121,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10306
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Ant pat vidurio tos duobės ar ugnavietės skersai
         tųdviejų karčių buvo perdėtas ąžuolo mietas ir stipriai tenai pririštas vytimis, prie kurio pačiame
@@ -136,6 +138,8 @@ Nenurodyta
     - t-08352
 
 - id: c-10307
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Dar buvo ant to mieto, arba aksties, ant kurio ir vąšas kybojo, pasieti keli
         svarai ledinės druskos ant šniūrelio taip, jog gaspadinė, atrišusi nuo vąšo šniūrelį, galėjo druskos

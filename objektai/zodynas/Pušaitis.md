@@ -81,6 +81,8 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
 ## Citatos
 
 - id: c-172132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pušaitis (Puschajtis)
     Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,

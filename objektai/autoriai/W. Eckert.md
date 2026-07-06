@@ -75,6 +75,8 @@ Eckert, W.
 ## Citatos
 
 - id: c-33192
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _Lietuvių įsikūrimas šių dienų Lietuvoje_ , ten pat, II, 1924,
     1-27 p. — _Šis tas iš lietuvių ir indoeuropiečių senovės_ , ten pat, II, 98-

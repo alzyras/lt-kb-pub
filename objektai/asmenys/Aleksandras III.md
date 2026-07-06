@@ -74,6 +74,8 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 ## Citatos
 
 - id: c-21560
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LIAUDIS VIRSTA TAUTA
     N

@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63797
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dėl to jums patariu niekad jiems nesipriešinti, bet
     nuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui
@@ -155,6 +157,8 @@ Nenurodyta
     - t-62926
 
 - id: c-63799
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau
     nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,

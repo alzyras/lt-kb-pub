@@ -109,6 +109,9 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 ## Citatos
 
 - id: c-38070
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
     Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
@@ -126,6 +129,9 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     - t-35184
 
 - id: c-167660
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl Makras,
     įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas

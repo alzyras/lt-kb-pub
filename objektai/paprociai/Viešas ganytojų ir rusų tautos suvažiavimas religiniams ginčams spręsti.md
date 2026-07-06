@@ -129,6 +129,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169264
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Didžiai dėl to susikrimto Vytautas, žinodamas,
     jog šitoks įžūlumas ardo tą statinį, kurį jis bei karalius
@@ -148,6 +150,8 @@ Nenurodyta
     - t-185903
 
 - id: c-169265
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi
     šias negeras naujoves vykdė ne paprasti žmonės, o žy­

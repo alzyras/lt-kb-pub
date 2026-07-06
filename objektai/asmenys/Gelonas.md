@@ -107,6 +107,8 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
 ## Citatos
 
 - id: c-172948
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pagaliau atsirado lietuvių didvyris,
     Elonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­
@@ -124,6 +126,8 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
     - t-190065
 
 - id: c-172949
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Prie Vilnios ir Neries santakos pradėjo statyti dvi pilis, o
     prie jų -  miestą, apie kurį Lizdeika teisingai išpranašavo: jei­

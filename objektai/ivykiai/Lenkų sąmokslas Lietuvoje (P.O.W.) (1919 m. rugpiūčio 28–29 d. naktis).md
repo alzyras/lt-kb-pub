@@ -138,6 +138,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66855
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-
     zacija ruošėsi sukilimui; tam tikslui ypač stengėsi patraukti savo
@@ -153,6 +155,8 @@ Nenurodyta
     - t-66660
 
 - id: c-66856
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet visas planas aitais
     išėjo. Mūsų saugumo organai susekė sąmokslininkus, tą pačią
@@ -169,6 +173,8 @@ Nenurodyta
     - t-66659
 
 - id: c-66858
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tik vienur
     kitur tebuvo nupiauti telefono ir telegrafo laidai. Kol saugumo

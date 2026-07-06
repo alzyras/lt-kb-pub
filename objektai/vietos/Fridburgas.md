@@ -89,6 +89,8 @@ XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasist
 ## Citatos
 
 - id: c-171836
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami

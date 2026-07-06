@@ -71,6 +71,8 @@ Dusburgietis teigia, kad [Nalepa J.] Polekszanie.—SSS, 1970, t.
 ## Citatos
 
 - id: c-61826
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [Nalepa J.] Polekszanie.—SSS, 1970, t. 4, cz. 1, p. 212— 213.
   statusas: verified

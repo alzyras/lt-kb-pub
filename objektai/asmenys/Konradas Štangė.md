@@ -101,6 +101,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 ## Citatos
 
 - id: c-60791
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitai išgirdę, broliai ir kiti,
     labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems
@@ -118,6 +120,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     - t-60160
 
 - id: c-60792
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,

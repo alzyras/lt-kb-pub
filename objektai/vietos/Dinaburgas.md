@@ -118,6 +118,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 ## Citatos
 
 - id: c-82021
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

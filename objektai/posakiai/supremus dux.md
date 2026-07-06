@@ -76,6 +76,8 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
 ## Citatos
 
 - id: c-33494
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vil­
     niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą

@@ -222,6 +222,9 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 ## Citatos
 
 - id: c-36323
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
     Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
@@ -240,6 +243,9 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - t-001
 
 - id: c-36324
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kad turėtų jis
     tam laisvas rankas ir materialinės paramos, reikėjo apsidrausti
@@ -261,6 +267,8 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - t-176403
 
 - id: c-160420
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lichtenšteino, 17) Nešavos komturi-
     jos, 18) Vestfalijoje samdytų karių, 19) Rogosnos miesto ir vaito, 20) El-
@@ -290,6 +298,9 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - t-176405
 
 - id: c-167646
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl Makras,
     įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas

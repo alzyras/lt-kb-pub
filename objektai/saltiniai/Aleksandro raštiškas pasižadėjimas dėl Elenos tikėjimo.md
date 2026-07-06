@@ -122,6 +122,8 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 ## Citatos
 
 - id: c-169667
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     su
     i s *
@@ -148,6 +150,8 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
     - t-186306
 
 - id: c-169668
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Grįžtančius į Lie­
     tuvą Aleksandro pasiuntinius palydėjo su rinktinių

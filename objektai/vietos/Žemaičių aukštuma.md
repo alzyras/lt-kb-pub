@@ -71,6 +71,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-34123
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Žemaičiai į Lietuvos valstybę labiau buvo įjungti
     Vytauto laikais, nors savo skirtingas privilegijas išlaikė iki pat

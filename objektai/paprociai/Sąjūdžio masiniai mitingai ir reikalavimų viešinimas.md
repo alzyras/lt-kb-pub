@@ -112,6 +112,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16973
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
     iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-

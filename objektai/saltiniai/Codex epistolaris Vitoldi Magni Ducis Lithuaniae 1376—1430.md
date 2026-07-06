@@ -75,6 +75,8 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
 ## Citatos
 
 - id: c-61692
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.
     Prochaska.— Cracoviae, 1882.

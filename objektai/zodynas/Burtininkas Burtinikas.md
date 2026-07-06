@@ -124,6 +124,8 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
 ## Citatos
 
 - id: c-172174
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tad
     sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
@@ -149,6 +151,8 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
     - t-189286
 
 - id: c-172175
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nykstant ir
     išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­

@@ -128,6 +128,8 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
 ## Citatos
 
 - id: c-23832
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Parengė
     Aldona Bieliūnienė ir kiti. Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
@@ -144,6 +146,8 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
     - t-45694
 
 - id: c-48410
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
     Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų

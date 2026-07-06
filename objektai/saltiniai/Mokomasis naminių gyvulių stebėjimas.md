@@ -61,6 +61,9 @@ Raikovo, NAMINIŲ GYVULIŲ MOKOMASAI STEBĖJIMAS Gausiai iliustruota — apie 60
 ## Citatos
 
 - id: c-37234
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     2, —
     Mes labai mažai pažįstame geriausius savo draugus — nami­

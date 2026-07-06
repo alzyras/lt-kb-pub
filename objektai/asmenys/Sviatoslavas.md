@@ -176,6 +176,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 ## Citatos
 
 - id: c-30288
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
@@ -189,6 +191,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-179685
 
 - id: c-163350
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Už pažadą ginti nuo priešų, jis ordinui buvo
     užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
@@ -202,6 +206,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-179683
 
 - id: c-163352
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Būdamas sąjungoje su
     Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
@@ -217,6 +223,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-179683
 
 - id: c-168199
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto nevienoda kovos priežastis
     sukėlė nevienodą karių narsumą ir nulėmė, kaip ir de­

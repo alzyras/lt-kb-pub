@@ -144,6 +144,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23246
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lapkričio 5 dieną pasidavė Varšuva, kurią
     gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
@@ -161,6 +163,8 @@ Nenurodyta
     - t-20522
 
 - id: c-166668
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos

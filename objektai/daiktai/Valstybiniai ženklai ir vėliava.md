@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-26638
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Susikū-
     rusios dvi vokiečių nacių organizacijos varė antivalstybinę propagandą,

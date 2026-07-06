@@ -83,6 +83,8 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
 ## Citatos
 
 - id: c-44310
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Antroji kovų fazė:
 

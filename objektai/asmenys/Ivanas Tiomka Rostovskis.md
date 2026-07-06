@@ -72,6 +72,8 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 ## Citatos
 
 - id: c-44355
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     bojarinų Grigorijaus Fiodorovičiaus
     Davidovo, Ivano Andrejevičiaus Čelia-

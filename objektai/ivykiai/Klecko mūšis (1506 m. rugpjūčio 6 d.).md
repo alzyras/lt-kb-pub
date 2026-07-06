@@ -291,6 +291,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11858
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tą pačią dieną, antradienį, didikai su savo kariuomene (Lietuvos) nakvojo kaime
     prie Lipos, [...] anksti atsikėlę ir, kaip pridera prieš mūšį, sutvarkę būrius, nuėjo tiesiai
@@ -304,6 +306,8 @@ Nenurodyta
     - t-171470
 
 - id: c-11859
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėji-
     mus per upę. [...] Ir Lietuvos kariuomenė pradėjo šaudyti į juos iš patrankų, iš šautuvų,
@@ -318,6 +322,8 @@ Nenurodyta
     - t-171467
 
 - id: c-11860
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos kariuomenė [...] paėmė arba nukovė daugybę totorių, sugrįžo į kariuome-
     nės stovyklą prie Klecko, vesdamiesi su savimi daug belaisvių ir turėdami rankas pilnas
@@ -330,6 +336,8 @@ Nenurodyta
     - t-171466
 
 - id: c-43056
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kita vertus, Klecko mūšis buvo pirmoji
 
@@ -355,6 +363,8 @@ Nenurodyta
     - t-171472
 
 - id: c-43057
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Bychoveco kro-
     nikos minimas „neapsakomas džiaugsmas

@@ -104,6 +104,8 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 ## Citatos
 
 - id: c-44260
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšyje narsiai kovėsi ir junginio vado
     žmona Albina Neifaltienė-Pušelė, kuri taik-
@@ -122,6 +124,8 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
     - t-39994
 
 - id: c-167112
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Panaudojus
     granatas ir sutelktą ugnį partizanams su

@@ -79,6 +79,8 @@ Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą
 ## Citatos
 
 - id: c-172407
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu­
     šo (ten pat):

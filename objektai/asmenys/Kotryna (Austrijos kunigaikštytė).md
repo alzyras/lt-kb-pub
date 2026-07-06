@@ -84,6 +84,8 @@ Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos 
 ## Citatos
 
 - id: c-169493
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius
     691

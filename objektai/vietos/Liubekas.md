@@ -491,6 +491,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-159508
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
     tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
@@ -510,6 +512,8 @@ media_all_json: |-
     - t-175388
 
 - id: c-159509
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     To ant­
     spaudo tokį apibūdinimą turime raštininko aprašyme.
@@ -528,6 +532,8 @@ media_all_json: |-
     - t-175384
 
 - id: c-159510
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
     lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
@@ -566,6 +572,8 @@ media_all_json: |-
     - t-175380
 
 - id: c-159511
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietu­
     vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
@@ -589,6 +597,8 @@ media_all_json: |-
     - t-175379
 
 - id: c-159512
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tikriausiai Kotzebue
     vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs apkal­
@@ -609,6 +619,8 @@ media_all_json: |-
     - t-175378
 
 - id: c-159515
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Turėdami
     Durbės patyrimą, riteriai šį kartą nebesidavė apsupami, ir jų tekrito
@@ -625,6 +637,9 @@ media_all_json: |-
     - t-175389
 
 - id: c-159518
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras
     grąžins lietuvių prekes^4 ). Dėl to rygiečiai kėlė balsą Hanzos
@@ -640,6 +655,8 @@ media_all_json: |-
     - t-175382
 
 - id: c-159519
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
                                                  trą

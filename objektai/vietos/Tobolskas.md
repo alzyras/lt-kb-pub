@@ -74,6 +74,8 @@ Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvi
 ## Citatos
 
 - id: c-175674
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau šio Ross pavadini­
     mo neįmanoma susieti su jokia kita tauta, išskyrus bu­

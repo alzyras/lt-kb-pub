@@ -373,6 +373,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169865
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O tada
     kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
@@ -398,6 +400,8 @@ Nenurodyta
     - t-186540
 
 - id: c-169866
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tai­
     gi, kuriant legendinių Lietuvos kunigaikščių vardus, lo­
@@ -421,6 +425,8 @@ Nenurodyta
     - t-186548
 
 - id: c-169867
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tą pačią dieną, antradienį didikai su savo ka­
     riuomene nakvojo kaime prie Lipos l9 , nepriėję Male-
@@ -445,6 +451,8 @@ Nenurodyta
     - t-186547
 
 - id: c-169868
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O tuos nedaugelį totorių, kurie pabėgo su chanai-
     čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,

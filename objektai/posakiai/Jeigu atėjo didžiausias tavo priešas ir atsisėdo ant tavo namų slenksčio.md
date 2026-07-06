@@ -107,6 +107,8 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
 ## Citatos
 
 - id: c-172441
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
     patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
@@ -125,6 +127,8 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
     - t-189553
 
 - id: c-177092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
     kala išorėje, virš pirkios arba svirno durų. Statydami namą,

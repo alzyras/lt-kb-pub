@@ -114,6 +114,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02773
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Batoro laikais. Tik labai suma-
     žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
@@ -128,6 +130,8 @@ media_all_json: |-
     - t-02535
 
 - id: c-170539
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
     dinama latviais, kurie gyveno jūros pakrantėje ir iš­

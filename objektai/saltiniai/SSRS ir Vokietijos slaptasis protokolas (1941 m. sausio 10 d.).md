@@ -80,6 +80,8 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
 ## Citatos
 
 - id: c-23952
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors paktas minėjo Lietu-
     vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių

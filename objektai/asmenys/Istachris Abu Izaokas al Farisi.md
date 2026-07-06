@@ -79,6 +79,8 @@ Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. 
 ## Citatos
 
 - id: c-174303
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia reikėtų pateikti
     nuomonę Dorpato universiteto profesoriaus pono Kruzės, kuris Gotos

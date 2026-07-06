@@ -218,6 +218,8 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 ## Citatos
 
 - id: c-78779
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kenksmingą tos virše­
     nybės įtaką graikų apeigų tikėjimo
@@ -246,6 +248,8 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - t-82304
 
 - id: c-78780
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Mirus Kijevo
     ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
@@ -263,6 +267,8 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - t-82302
 
 - id: c-78783
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
     159

@@ -149,6 +149,8 @@ Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir a
 ## Citatos
 
 - id: c-168603
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
     muose nei maisto, nei pašaro. Vargais negalais kariai
@@ -169,6 +171,8 @@ Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir a
     - t-185242
 
 - id: c-168605
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuva juto baisią maisto sto­
     ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
@@ -188,6 +192,8 @@ Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir a
     - t-185244
 
 - id: c-176144
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tais pačiais metais
     mirė Vilniaus vyskupas Jokūbas, lietuvis, iš pranciško-

@@ -86,6 +86,8 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
 ## Citatos
 
 - id: c-41372
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Netrukus 1349 m. lietuviai vėl atstatė
     ir įtvirtino Veliuonos pilį, o naugardie-

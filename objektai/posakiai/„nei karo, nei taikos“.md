@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23648
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Maskva, tai
     įvertinusi kaip patį didžiausią savo diplomatijos laimėjimą.

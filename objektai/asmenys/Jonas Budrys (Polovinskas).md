@@ -72,6 +72,8 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
 ## Citatos
 
 - id: c-26672
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvai liko sukilimo inscenizacijos
     scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas

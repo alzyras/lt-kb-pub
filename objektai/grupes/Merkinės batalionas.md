@@ -66,6 +66,8 @@ Vėliau Vanagas subūrė Merkinės ir Alovės partizanus į 140 vyrų kuopą.
 ## Citatos
 
 - id: c-40790
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vėliau Vanagas subūrė Merkinės
     ir Alovės partizanus į 140 vyrų kuopą. Rugpjūtį jo

@@ -69,6 +69,8 @@ Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria 
 ## Citatos
 
 - id: c-172118
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Graikai bei romėnai, kuriuos šiame veikale minėsime va­
     dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas

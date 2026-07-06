@@ -27,19 +27,19 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '5'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/c/cc/Lech_Olgierd_Nowicki.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ALech_Olgierd_Nowicki.jpg'
+media_total_count: '3'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
+media_primary_relation_type: 'seal_of'
 media_primary_json: |-
-  {"mediaId":"m-27d92f0bb48f7ede39bd80c0","title":"Lech Olgierd Nowicki.jpg","caption":"Portret fizyka i popularyzatora nauki Lecha Olgierda Nowickiego (fot. Adam Kozak)","creator":"Adam Kozak/Agencja Gazeta (dla CNK)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2011-11-24 16:21:53","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALech_Olgierd_Nowicki.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Lech_Olgierd_Nowicki.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"The graphics were created on the basis of the Grand Duke Olgierd seal, imprinted by the Grand Duke himself. This seal was based on the historical sources.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-18","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-27d92f0bb48f7ede39bd80c0","title":"Lech Olgierd Nowicki.jpg","caption":"Portret fizyka i popularyzatora nauki Lecha Olgierda Nowickiego (fot. Adam Kozak)","creator":"Adam Kozak/Agencja Gazeta (dla CNK)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2011-11-24 16:21:53","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALech_Olgierd_Nowicki.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Lech_Olgierd_Nowicki.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"The graphics were created on the basis of the Grand Duke Olgierd seal, imprinted by the Grand Duke himself. This seal was based on the historical sources.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-18","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-551b6b19e42910a73728efba","title":"Savickis algirdas pozuotoja uzė 1937 m.png","caption":"Painting by Algirdas Savickis (1917–1943): Poser Uzė, circa 1937","creator":"Algirdas Savickis (1917–1943)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1937 date QS:P,+1937-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASavickis_algirdas_pozuotoja_uz%C4%97_1937_m.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Savickis_algirdas_pozuotoja_uz%C4%97_1937_m.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"An 18th-century drawing of the two pendant seals (sphragides) that authenticated the 1366 peace treaty. The larger, oval seal belonged to the Grand Duke of Lithuania Olgierd. The smaller seal was already damaged at the time the drawing was made, as indicated by the Latin inscription \"vacuum pro vetustate\" (empty due to age). The manuscript is kept in the Czartoryski Library in Kraków.","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Seal of the Lithuanian Grand Duke Algirdas. Legend in Cyrillic \"+ Olger seal of the Great Knyaz\". 1366","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2012-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"The graphics were created on the basis of the Grand Duke Olgierd seal, imprinted by the Grand Duke himself. This seal was based on the historical sources.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-18","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"An 18th-century drawing of the two pendant seals (sphragides) that authenticated the 1366 peace treaty. The larger, oval seal belonged to the Grand Duke of Lithuania Olgierd. The smaller seal was already damaged at the time the drawing was made, as indicated by the Latin inscription \"vacuum pro vetustate\" (empty due to age). The manuscript is kept in the Czartoryski Library in Kraków.","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Seal of the Lithuanian Grand Duke Algirdas. Legend in Cyrillic \"+ Olger seal of the Great Knyaz\". 1366","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2012-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-27d92f0bb48f7ede39bd80c0","title":"Lech Olgierd Nowicki.jpg","caption":"Portret fizyka i popularyzatora nauki Lecha Olgierda Nowickiego (fot. Adam Kozak)","creator":"Adam Kozak/Agencja Gazeta (dla CNK)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2011-11-24 16:21:53","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALech_Olgierd_Nowicki.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Lech_Olgierd_Nowicki.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"The graphics were created on the basis of the Grand Duke Olgierd seal, imprinted by the Grand Duke himself. This seal was based on the historical sources.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-18","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-551b6b19e42910a73728efba","title":"Savickis algirdas pozuotoja uzė 1937 m.png","caption":"Painting by Algirdas Savickis (1917–1943): Poser Uzė, circa 1937","creator":"Algirdas Savickis (1917–1943)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1937 date QS:P,+1937-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASavickis_algirdas_pozuotoja_uz%C4%97_1937_m.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Savickis_algirdas_pozuotoja_uz%C4%97_1937_m.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"An 18th-century drawing of the two pendant seals (sphragides) that authenticated the 1366 peace treaty. The larger, oval seal belonged to the Grand Duke of Lithuania Olgierd. The smaller seal was already damaged at the time the drawing was made, as indicated by the Latin inscription \"vacuum pro vetustate\" (empty due to age). The manuscript is kept in the Czartoryski Library in Kraków.","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Seal of the Lithuanian Grand Duke Algirdas. Legend in Cyrillic \"+ Olger seal of the Great Knyaz\". 1366","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2012-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"The graphics were created on the basis of the Grand Duke Olgierd seal, imprinted by the Grand Duke himself. This seal was based on the historical sources.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-18","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"An 18th-century drawing of the two pendant seals (sphragides) that authenticated the 1366 peace treaty. The larger, oval seal belonged to the Grand Duke of Lithuania Olgierd. The smaller seal was already damaged at the time the drawing was made, as indicated by the Latin inscription \"vacuum pro vetustate\" (empty due to age). The manuscript is kept in the Czartoryski Library in Kraków.","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Seal of the Lithuanian Grand Duke Algirdas. Legend in Cyrillic \"+ Olger seal of the Great Knyaz\". 1366","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2012-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Algirdas (Lietuvos valdovas)
 
@@ -3163,6 +3163,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 ## Citatos
 
 - id: c-00136
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kęstučiui iš Trakų buvo visai netoli Vilnius, tad jisai ir
     pradėjo veikti. Netikėtai užėmęs Vilnių, jis pasikvietė Algir-
@@ -3177,6 +3179,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-10667
 
 - id: c-04145
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Atskirą didelę epochą sudarė Lietuvos istorijoje, kai lietuviai
     įsiviešpatavo anoje rytų erdvėje iki Okos aukštupių (anapus Dniep­
@@ -3191,6 +3195,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-05158
 
 - id: c-36243
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
     ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
@@ -3204,6 +3211,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176312
 
 - id: c-36244
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Abi Algirdo žmonos ir pirmosios pačios vaikai, buvo stačiati­
     kių tikėjimo. Tad ir esančiam dabar didž. Lietuvos kunigaikš­
@@ -3220,6 +3230,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176309
 
 - id: c-41820
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos galybės maksimumas
 
@@ -3239,6 +3251,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-10072
 
 - id: c-160283
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tie politiniai pokyčiai Vilniu­
     je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
@@ -3257,6 +3271,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-013
 
 - id: c-160284
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tikra bent jau tai, kad iki jo nei istorijoje, nei
     rašto paminkluose nėra jokio pėdsako, kad kuris nors Kazi­
@@ -3275,6 +3291,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176304
 
 - id: c-160286
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kijevas priklausė
     Lietuvai jau Gedimino laikais, tačiau į jį vis dar kišos totoriai.
@@ -3290,6 +3308,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-10670
 
 - id: c-160287
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nė vienas Lietuvos valdovas XIV
     amž. neatsisakė nuo užvaldymo naujų slaviškųjų žemių, kur gau­
@@ -3305,6 +3325,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176283
 
 - id: c-160288
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Veržimąsi dik­
     tavo pati geopolitinė padėtis. Nė vienas Lietuvos valdovas XIV
@@ -3320,6 +3342,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-05159
 
 - id: c-160290
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ## Puslapis 21
 
@@ -3341,6 +3365,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-10070
 
 - id: c-160291
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Betgi yra ir
     Rudamina, miestelis, arba bažnyt­
@@ -3384,6 +3410,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176284
 
 - id: c-160292
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Mirdamas jis paliko 7 sūnus.
     Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Man-
@@ -3399,6 +3427,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-10666
 
 - id: c-160293
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo pačiu bus aptarta ir tų santykių forma,
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
@@ -3416,6 +3447,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176303
 
 - id: c-160294
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogailos ir Vytauto rūmuose bu­
     vo kartais mokama rubliais, patekusiais iš slavų kraštų; bet tai
@@ -3432,6 +3466,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176307
 
 - id: c-160296
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik neilgai Lietuvos
     sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
@@ -3454,6 +3490,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176293
 
 - id: c-160297
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
@@ -3472,6 +3510,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-018
 
 - id: c-160298
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visų pirma atsirado
     herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
@@ -3491,6 +3531,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176279
 
 - id: c-160299
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rem-
     damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
@@ -3511,6 +3553,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176311
 
 - id: c-160300
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
@@ -3539,6 +3583,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176282
 
 - id: c-160301
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
     nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
@@ -3561,6 +3607,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176299
 
 - id: c-160302
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
     ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
@@ -3579,6 +3627,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-05157
 
 - id: c-160303
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mindaugo laikais
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
@@ -3597,6 +3647,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176310
 
 - id: c-160306
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
     tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
@@ -3614,6 +3666,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-017
 
 - id: c-160308
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žr. V\lre- tis buvęs Kęstudo karių suduptas.
     26
@@ -3636,6 +3690,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176305
 
 - id: c-160309
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     - medinės bažnyčios ir bazilijo­
     nų vienuolyno įkūrimą Vilniuje pri­
@@ -3673,6 +3729,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-015
 
 - id: c-160310
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuviai, akivaiz­
     džiai įsitikinę, kaip ordino žemėse su krikštijimu buvo susijęs
@@ -3692,6 +3750,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-05159
 
 - id: c-160311
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kryžiaus karai prieš Lietuvą iš dalies paaiški-
     na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų
@@ -3708,6 +3768,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176292
 
 - id: c-160312
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visi jo vaikai, gimę Vitebske, buvo krikštyti rytų Bažny-
     čios apeigomis; bet tie, kurie gimė Vilniuje, buvo pagonys. Ir pat-
@@ -3721,6 +3783,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-10672
 
 - id: c-160313
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors nebus nė vieno kunigaikščio,
     kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
@@ -3737,6 +3801,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176298
 
 - id: c-160315
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     mirusiųjų kūnų deginimo mitologija. Valdovai buvo deginami iki pat
     krikšto: šaltiniuose išliko Lietuvos didžiųjų kunigaikščių Algirdo ir Kęs-
@@ -3751,6 +3817,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176288
 
 - id: c-160316
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1365 m. Kęstutis,
     Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
@@ -3767,6 +3835,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176281
 
 - id: c-160317
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo reikalu pas popiežių buvo
     siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
@@ -3786,6 +3857,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176308
 
 - id: c-160319
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto Jaunutis išsigelbėjo pabėgda­
     mas kartu su jam palankiu broliu Narimantu, Pinsko
@@ -3805,6 +3878,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176289
 
 - id: c-160322
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     piešti
     įsivaizduojami Lietuvos valdovų portretai
@@ -3826,6 +3901,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176274
 
 - id: c-160323
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Rinkdamas į savo valdžią
     centrinės Rusijos kunigaikštystes, jis irgi susidūrė su sustiprė-
@@ -3841,6 +3918,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-10671
 
 - id: c-160325
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo vyriausias brolių — Al­
     girdas.
@@ -3855,6 +3935,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176277
 
 - id: c-160326
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Teko dabar jam ir naujų Rusijos
     žemių.
@@ -3873,6 +3956,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-176290
 
 - id: c-167113
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gedimino laikais Lie-
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
@@ -3894,6 +3979,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-183725
 
 - id: c-167223
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus pranciškonų vienuo-
     28
@@ -3917,6 +4004,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-016
 
 - id: c-167224
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ten puikiai pavaišinti, dosniai apdovanoti,
     pagaliau paliko miestą ir šalį.
@@ -3933,6 +4022,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-183839
 
 - id: c-168024
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visa tai jis aukojęs tėvynės labui. Užleidęs
     valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
@@ -3955,6 +4046,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184663
 
 - id: c-168025
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kęstutis
     siūlė valdžią Algirdui, kaip vyresniajam, Algirdas —
@@ -3973,6 +4066,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184664
 
 - id: c-168026
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Didžiulę į tris dalis padalytą kariuomenę vedė
     trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus
@@ -3988,6 +4083,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184665
 
 - id: c-168027
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
@@ -4006,6 +4103,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184666
 
 - id: c-168028
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai mirė
     brolis, jo įpėdiniu, Algirdo remiamas, tapo Naugardu-
@@ -4048,6 +4147,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184667
 
 - id: c-168029
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kryžiuočiai, vedami Sembos fogto, savo ruož­
     tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
@@ -4067,6 +4168,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184668
 
 - id: c-168030
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Algirdas, Lietuvos didysis kuni­
     gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių
@@ -4088,6 +4191,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184669
 
 - id: c-168031
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
     karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
@@ -4115,6 +4220,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-184670
 
 - id: c-171401
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš jos sūnūs: Manvydas
     (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
@@ -4131,6 +4238,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-188511
 
 - id: c-171402
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Viena tokia buvo Didžiojoje
     gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
@@ -4149,6 +4258,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-188512
 
 - id: c-173728
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
@@ -4168,6 +4279,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-190846
 
 - id: c-176288
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gyvendami Lietuvos valstybėje iš
     senrusių jie pradėjo virsti nauja tauta – rusėnais, gerokai besiskiriančiais
@@ -4185,6 +4298,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-193617
 
 - id: c-176289
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     To, galų gale, jie ir buvo mokomi. O sava valstybė,
     atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
@@ -4198,6 +4313,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-193618
 
 - id: c-176515
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Žygūnas susitiko
     su Algirdu Krėvoje, ir didysis kunigaikštis Algirdas pa­
@@ -4216,6 +4333,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-193890
 
 - id: c-176516
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     21. APIE DIDŽIOJO KUNIGAIKŠČIO ALGIRDO 2YG| 1  PODOLĘ,
     TOTORIŲ SUMUŠIMA IR KARIJOTO GEDIMINAICIO ŠONŲ
@@ -4235,6 +4354,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-193891
 
 - id: c-176517
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir didysis
     kunigaikštis Algirdas su visomis Lietuvos pajėgomis
@@ -4256,6 +4377,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-193892
 
 - id: c-176518
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     . 2 0
 
@@ -4283,6 +4406,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-193893
 
 - id: c-176822
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1836
 

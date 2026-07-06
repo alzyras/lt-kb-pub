@@ -120,6 +120,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83080
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il
     Prie jo buvo įkurta Puškarnia, tai

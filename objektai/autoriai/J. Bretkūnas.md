@@ -102,6 +102,8 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
 ## Citatos
 
 - id: c-06616
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo pat metu protestantizmas labai uoliai buvo platinamas
     ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
@@ -118,6 +120,8 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
     - t-05719
 
 - id: c-06617
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1591 m. J. Bretkūno postilė.
   citata_rodoma: "1591 m. J. Bretkūno postilė."

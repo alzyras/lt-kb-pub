@@ -73,6 +73,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32932
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
     1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­

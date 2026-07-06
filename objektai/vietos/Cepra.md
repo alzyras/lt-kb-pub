@@ -109,6 +109,8 @@ Cepra teka maždaug už 8 km į rytus nuo Klecko. Cepra įteka į Lanę apie 10 
 ## Citatos
 
 - id: c-170282
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ”  Lanė (XVI a. pradžios dokum entuose vadinama ir Hlane) —
     BTSR upė, prasidedanti apie 1S km | šiaurės rytus nuo Klecko ir

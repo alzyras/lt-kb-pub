@@ -147,6 +147,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22275
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
     saulį pasklidusių išeivių veikloje.
@@ -167,6 +169,8 @@ Nenurodyta
     - t-75341
 
 - id: c-73143
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių
     tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.

@@ -69,6 +69,8 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
 ## Citatos
 
 - id: c-32889
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     —Salys, A. : _Baltic Languages,_
     Encyclopedia Britannica, t. 3, 1955. — Senn, A. : _On the Kinship between

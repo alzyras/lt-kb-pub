@@ -246,10 +246,16 @@ article table.advanced-claims-table {
   }
 }
 
+.claim-citation-author,
+.claim-citation-contributor,
 .claim-citation-source {
   margin-top: 0.45rem;
   color: var(--darkgray);
   font-size: 0.92rem;
+}
+
+.claim-citation-source {
+  margin-top: 0.2rem;
 }
 
 .claim-evidence-summary {

@@ -159,6 +159,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 ## Citatos
 
 - id: c-26778
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
@@ -173,6 +175,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     - t-26551
 
 - id: c-26792
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
     nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
@@ -187,6 +191,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     - t-26549
 
 - id: c-166841
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visa tai buvo ne kas
 

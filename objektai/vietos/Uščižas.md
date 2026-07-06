@@ -137,6 +137,8 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. U�
 ## Citatos
 
 - id: c-170384
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     saikomis, kad jie, Maskvos kunigaikščio talkinami, be
     paliovos puldinės Lietuvos Didžiąją Kunigaikštystę, o

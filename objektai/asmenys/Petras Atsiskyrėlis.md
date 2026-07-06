@@ -225,6 +225,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 ## Citatos
 
 - id: c-85909
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos
@@ -244,6 +246,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - t-90008
 
 - id: c-85910
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prancūzijos
     karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų
@@ -267,6 +271,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - t-90005
 
 - id: c-85911
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai vieną naktį
     jis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę  ir, nuo ilgo budėjimo
@@ -290,6 +296,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - t-90006
 
 - id: c-167503
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie šventosios žemės reikalus
 

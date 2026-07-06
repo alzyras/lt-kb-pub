@@ -113,6 +113,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63404
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
     kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
@@ -132,6 +134,8 @@ Nenurodyta
     - t-62671
 
 - id: c-63405
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šiam patarimui nepritarė Danijos
     karaliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią

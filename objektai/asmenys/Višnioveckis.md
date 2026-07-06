@@ -87,6 +87,8 @@ Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir iš
 ## Citatos
 
 - id: c-169531
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo metu į Lietuvą įsibro-
     t549 m e ta i

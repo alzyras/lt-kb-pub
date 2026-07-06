@@ -138,6 +138,8 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
 ## Citatos
 
 - id: c-59232
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
 
@@ -161,6 +163,8 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
     - t-194544
 
 - id: c-59233
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     492 D.— territorium dictum Meruniskam, Jer.— gebît[...] Meruniskin; Mėrūniškis (dab.
     Mieruniszki), per 29 km į šiaurės vakarus nuo Suvalkų, to pat vardo valsčiaus įtvirtintas

@@ -236,6 +236,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 ## Citatos
 
 - id: c-57669
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Albertą Didįjį ir Tomą Akvinietį
 
@@ -256,6 +258,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - t-194472
 
 - id: c-177304
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Hartknochas2 pa­
     teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
@@ -275,6 +279,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - t-194908
 
 - id: c-177305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     207
     Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar

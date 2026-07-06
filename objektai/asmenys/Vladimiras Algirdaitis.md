@@ -164,6 +164,8 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 ## Citatos
 
 - id: c-166269
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaip bėglys, prie jo pri­
     sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
@@ -181,6 +183,9 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - t-182865
 
 - id: c-167667
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Priežastis — nereikia manyt, ją buvus svarbiausią —
     atgavimas Skirgailai Kijevo, kuris jam pagal sutartį buvo paža­
@@ -196,6 +201,9 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - t-184291
 
 - id: c-167668
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­
     remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą

@@ -125,6 +125,8 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 ## Citatos
 
 - id: c-44393
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusų nuostoliai nežinomi. Apygradoje
     prasidėjo reorganizacija: Prisikėlimo
@@ -142,6 +144,8 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
     - t-40238
 
 - id: c-167134
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žuvo LLKS tarybos pre-
     zidiumo nariai Petras Bartkus-Žadgaila

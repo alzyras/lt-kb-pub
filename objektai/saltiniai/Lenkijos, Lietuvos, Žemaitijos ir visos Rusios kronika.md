@@ -91,6 +91,8 @@ Kojelavičius Motiejų Strijkovskį vadino pirmuoju kruopščiai iš rusų ir kr
 ## Citatos
 
 - id: c-169654
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vilniuje,
     1649 viešpaties metais, rugpjūčio 25 dieną.

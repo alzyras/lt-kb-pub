@@ -71,6 +71,8 @@ Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įr
 ## Citatos
 
 - id: c-174387
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     O tai, kad jose būta ne vien pasakų, kas dieną įti­
     kina vis nauji atradimai; pats puikus lietuvių kalbos ži­

@@ -78,6 +78,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23744
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gerai klostėsi ekonominiai san-
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-

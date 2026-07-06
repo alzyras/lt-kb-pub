@@ -69,6 +69,8 @@ Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 ka
 ## Citatos
 
 - id: c-176444
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Carinė žvalgyba turėjo žinių apie ruo-
     šiamą sukilimą ir stiprino vakarinėse im-

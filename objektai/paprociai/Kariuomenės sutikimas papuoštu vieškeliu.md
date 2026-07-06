@@ -202,6 +202,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12391
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Į miestelį įžygiavome
     su daina. Žmonės bėgo iš visų pusių pasitikti lietuviško „vaisko“.
@@ -213,6 +215,8 @@ Nenurodyta
     - t-71809
 
 - id: c-12392
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kai tik išėjome iš Pagirių bažnytkaimio, mus
     nustebino papuoštas vieškelis. [...]. Jis abiejose pusėse lygiais protarpiais buvo nusmaigs-
@@ -227,6 +231,8 @@ Nenurodyta
     - t-71808
 
 - id: c-43162
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Daug kur skersai kelio
     pastatyti vartai, prie kurių stovėjo būriai žmonių. Žmonės pražygiuojančiam batalionui
@@ -240,6 +246,8 @@ Nenurodyta
     - t-71807
 
 - id: c-43163
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žmonės pražygiuojančiam batalionui
     plojo, linkėjo ryžto ir sėkmės kovoje su Lietuvos priešais - komunistais. Taip organizuotai

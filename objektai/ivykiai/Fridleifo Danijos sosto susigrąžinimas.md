@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235

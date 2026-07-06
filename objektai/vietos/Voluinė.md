@@ -1205,6 +1205,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 ## Citatos
 
 - id: c-21497
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1447 m. privilegija. Kadangi tuo metu tarp Lietuvos ir Len-
     kijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai
@@ -1220,6 +1222,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112363
 
 - id: c-21498
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tame pat seime dalis Lietuvos ponų, pasipiktinusių lenkais, grą-
     žino jiems herbus, 1413 m. gautus iš lenkų.
@@ -1238,6 +1242,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112352
 
 - id: c-46843
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kaip Vy-
     tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
@@ -1255,6 +1261,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112346
 
 - id: c-46844
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
     ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Vėlesniųjų
@@ -1268,6 +1276,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112353
 
 - id: c-103757
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
     lų, gaminta bombos ir kiti karo reikmenys. Apsirūpinus ar­
@@ -1288,6 +1298,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112362
 
 - id: c-103758
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netrukus Voluinėje bei Podolėje įsiplieskė karas su
     Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
@@ -1305,6 +1317,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112349
 
 - id: c-103759
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
@@ -1322,6 +1336,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112344
 
 - id: c-103760
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-
@@ -1345,6 +1361,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112357
 
 - id: c-103762
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
     Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -1361,6 +1379,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112337
 
 - id: c-103764
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
     nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
@@ -1380,6 +1400,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112351
 
 - id: c-103765
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
     naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
@@ -1399,6 +1421,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112360
 
 - id: c-103766
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -1433,6 +1457,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112343
 
 - id: c-103767
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Čia gotika tapo
     net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.
@@ -1451,6 +1477,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112356
 
 - id: c-103768
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
     t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
@@ -1470,6 +1498,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112365
 
 - id: c-103771
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Mindaugo valstybės reikalai po krikšto ir karūnavimosi**
 
@@ -1485,6 +1515,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112342
 
 - id: c-103772
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -1501,6 +1533,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112338
 
 - id: c-103773
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
     tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
@@ -1528,6 +1562,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112364
 
 - id: c-103775
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
     pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
@@ -1541,6 +1577,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112345
 
 - id: c-103777
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     LDK rytinių vaivadijų - Baltosios Rusios
     bajoriją telkė M. K. Katilas, mobilizacijos
@@ -1562,6 +1600,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112359
 
 - id: c-103778
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pats
     apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
@@ -1579,6 +1619,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-112347
 
 - id: c-171760
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
     metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
@@ -1597,6 +1639,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-188871
 
 - id: c-175986
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Karai valstybės jungimo laikotarpy.** Kuriantis valstybei, iš
     kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė
@@ -1610,6 +1654,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-193253
 
 - id: c-175987
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jų kiekvienas
     pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir

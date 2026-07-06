@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-03272
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to,
     dar buvo taip pat atėjūnų vokiečių miestiečių ir vals-

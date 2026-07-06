@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172834
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai visiškai primena Antikos žmonių
     Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
@@ -148,6 +150,8 @@ Nenurodyta
     - t-189951
 
 - id: c-172835
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mirusiųjų vėles pir­
     miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa­

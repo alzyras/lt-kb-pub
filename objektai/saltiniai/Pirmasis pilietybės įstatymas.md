@@ -78,6 +78,8 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
 ## Citatos
 
 - id: c-02503
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Toliau vyriausybė paskelbė, kad majoratų žemės (t.y.
     žemės, kurios rusų valdžios buvo nusavintos 1835 ir 1842

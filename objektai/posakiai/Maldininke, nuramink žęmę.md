@@ -107,6 +107,8 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
 ## Citatos
 
 - id: c-59756
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Taigi
     ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
@@ -122,6 +124,8 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
     - t-59124
 
 - id: c-167421
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie karo laivus ir markgrafo pasitraukimą
 

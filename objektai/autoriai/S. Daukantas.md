@@ -388,6 +388,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 ## Citatos
 
 - id: c-48384
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
     buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
@@ -405,6 +407,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - t-45651
 
 - id: c-171363
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pradžia jau buvo padaryta:
     išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
@@ -420,6 +424,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - t-188473
 
 - id: c-171364
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Galbūt geriausiai šį faktą paaiškintų paties
     S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
@@ -434,6 +440,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - t-188474
 
 - id: c-176099
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žymiausi Lietu­
     vos istorikai romantikai — Teodoras Narbutas (1784—
@@ -449,6 +457,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - t-193374
 
 - id: c-176262
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jau tuomet pripažinta, kad
     tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
@@ -475,6 +485,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - t-193587
 
 - id: c-176263
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
     parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
@@ -493,6 +505,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - t-193588
 
 - id: c-176809
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš
     tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet

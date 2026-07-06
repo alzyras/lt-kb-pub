@@ -210,6 +210,8 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 ## Citatos
 
 - id: c-11105
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ši knyga skirta supažindinti skaitytoją su visų
     laikų Lietuvos karų istorija. Lietuvos ginkluota
@@ -227,6 +229,8 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     - t-08810
 
 - id: c-11107
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Zis1 Žymiausi Lietuvos mūšiai ir karinės operacijos:
     (straipsnių rinkinys / atsakingasis redaktorius
@@ -243,6 +247,8 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     - t-08806
 
 - id: c-11108
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Išleido
 
@@ -270,6 +276,8 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     - t-08804
 
 - id: c-11111
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šio leidinio tikslas - per karų kulminacinius momen-
     tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę

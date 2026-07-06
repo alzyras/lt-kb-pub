@@ -88,6 +88,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-01710
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Mažosios Lietuvos lietuvaitės liaudies meno parodoje, Tilžėje, 1934 m.
     vuoja ir dabar. 1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje

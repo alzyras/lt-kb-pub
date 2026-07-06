@@ -111,6 +111,8 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
 ## Citatos
 
 - id: c-42660
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1946 m. Žalias Velnias pateko į viso Lietuvos išsivadavimo judėjimo vadu pasiskelbusio
     MGB agento-provokatoriaus Juozo Markulio-Erelio pinkles. Dėl to beveik visa DKA buvo sunai-
@@ -125,6 +127,8 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
     - t-40875
 
 - id: c-44732
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Su savo maždaug 200 partizanų daliniu J. Misiūnas nuolat keliavo po Ukmergės
     ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais. Rugsėjį savo junginį jis pa-

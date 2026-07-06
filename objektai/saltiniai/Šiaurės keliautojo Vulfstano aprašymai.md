@@ -72,6 +72,8 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
 ## Citatos
 
 - id: c-174702
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Daugiausiai dėmesio vertas šios
     provincijos prekybinis miestas Trusas prie Drūsinės eže­

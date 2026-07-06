@@ -400,6 +400,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 ## Citatos
 
 - id: c-65625
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Galindos žemės nuniokojimą
 
@@ -420,6 +422,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-194325
 
 - id: c-65626
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     200 D.— Galindia, in qua Galindite, Jer.— Galindin. T.,   ja  į pietus nuo Bartos, nuo
     Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
@@ -436,6 +440,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-65157
 
 - id: c-171078
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietu­
     vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
@@ -455,6 +461,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-188184
 
 - id: c-171079
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
     gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
@@ -471,6 +479,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-188185
 
 - id: c-171080
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šie, patikėję žynės žodžiu, tuojau sutelkė
     vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
@@ -487,6 +497,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-188186
 
 - id: c-175176
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Rytuose ji
     ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
@@ -510,6 +522,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-192382
 
 - id: c-175177
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būtina atsižvelgti į tai, jog galindai prūsų karuose
     su kryžiuočiais iš pradžių nedalyvavo. Tik žlugus vidi­

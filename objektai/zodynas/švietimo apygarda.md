@@ -78,6 +78,8 @@ Naujasis caras Aleksandras I (1801—1825 m) 1802 m. Rusijoje įsteigė švietim
 ## Citatos
 
 - id: c-03472
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Naujasis caras Aleksandras I (1801—1825 m) 1802 m. Rusi-
     joje įsteigė švietimo ministeriją ir visą imperiją padalino į 6 švie-

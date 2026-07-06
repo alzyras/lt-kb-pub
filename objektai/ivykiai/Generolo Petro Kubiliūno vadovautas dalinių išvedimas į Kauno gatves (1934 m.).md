@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75211
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagerėjo sveikatos apsauga, įsteigtos ir pastatytos ligoninės,
     parengta 1 500 medikų, sumažėjo mirtingumas, priartėjęs prie išvystytų

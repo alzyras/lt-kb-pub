@@ -198,6 +198,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Citatos
 
 - id: c-60666
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     (Ts 5, 8) Šitai ir buvo tie nauji karai, kuriuos „viešpats
     išrinko“ nedraugų vartams išgriauti, nes, jiems nužudžius ar sunaikinus vieną kurį vadą
@@ -215,6 +217,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-60034
 
 - id: c-60667
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgietis bando pateikti savotišką
     karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
@@ -228,6 +232,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-60036
 
 - id: c-60668
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie naują Teutonų namų ordino brolių karą su prūsų gentimis
 
@@ -248,6 +254,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-60035
 
 - id: c-173779
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Julijaus Cezario laikais lietuvių var­
     das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza

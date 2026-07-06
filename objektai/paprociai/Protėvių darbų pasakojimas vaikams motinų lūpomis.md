@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172818
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Galbūt geriausiai šį faktą paaiškintų paties
     S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­

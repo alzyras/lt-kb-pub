@@ -72,6 +72,8 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 ## Citatos
 
 - id: c-03011
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo tarpu lenkai, prancūzų padedami, sutvar-
     kė savo kariuomenę, atsigavo ir pradėjo stumti atgal bolševikus,

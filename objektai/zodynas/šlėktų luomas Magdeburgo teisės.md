@@ -79,6 +79,8 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
 ## Citatos
 
 - id: c-82610
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1528 metų sausio 20 dieną karalius pasirašė Žemaičių
     žemei atskirą įstatymą, garantuojantį jos teises ir privilegi­

@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169260
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Su­
     vokęs, jog visos ydos, kurių nestigo Augustui jaunys­

@@ -158,6 +158,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-85311
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     107 (102). Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
 
@@ -177,6 +179,8 @@ Nenurodyta
     - t-89359
 
 - id: c-85312
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
     broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,

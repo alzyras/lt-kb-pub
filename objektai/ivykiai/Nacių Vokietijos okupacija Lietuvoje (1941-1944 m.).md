@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23157
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sudarius marionetinę vyriausybę
     netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-

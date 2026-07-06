@@ -130,6 +130,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83911
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
@@ -153,6 +155,8 @@ media_all_json: |-
     - t-87932
 
 - id: c-168215
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­
     riausiasis dvasininkas. Esą visų didžiausi pasaulyje

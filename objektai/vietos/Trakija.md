@@ -73,6 +73,8 @@ Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas
 ## Citatos
 
 - id: c-171958
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Egiptiečiai visiškai nesivadina
     jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­

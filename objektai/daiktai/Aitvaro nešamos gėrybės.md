@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172598
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
     matomas užpuola miegančias moteris, kitą kartą prijaukintas

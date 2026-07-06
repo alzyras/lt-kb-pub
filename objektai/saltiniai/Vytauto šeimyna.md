@@ -110,6 +110,8 @@ Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp. iš Praeiti
 ## Citatos
 
 - id: c-33750
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     «Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo
     tyrinėjimų vaisių »^82.
@@ -127,6 +129,8 @@ Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp. iš Praeiti
     - t-31978
 
 - id: c-176510
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     "  Pirmoji V ytauto žmona Ona, mirusi Trakuose U I8.V n.3t,
     tikriausiai, nebuvo 1386 m. žuvusio Smolensko kunigaikščio Svc-

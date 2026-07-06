@@ -178,6 +178,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175788
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai davė pradžią graikų emporiumams, arba
     prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
@@ -198,6 +200,8 @@ Nenurodyta
     - t-193018
 
 - id: c-175789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Klajojantys skitai, iš karto vengę bend­
     rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
@@ -217,6 +221,8 @@ Nenurodyta
     - t-193019
 
 - id: c-177270
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     54
 

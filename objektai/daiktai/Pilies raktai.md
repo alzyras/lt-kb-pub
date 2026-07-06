@@ -100,6 +100,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-38225
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nepatenkinti
     lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos

@@ -76,6 +76,8 @@ Dusburgietis teigia, kad matulevičius A.
 ## Citatos
 
 - id: c-63372
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje.—LMAD, 1972,
     t. 1 (38), p. 103—119.

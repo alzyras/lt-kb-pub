@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23255
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Specialiosios SD grupės (Tilžės gestapo būrys)
     1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir

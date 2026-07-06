@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62924
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie daugybės Kulmenzės miestiečių žūtį
 

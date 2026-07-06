@@ -223,6 +223,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-163423
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš viso Mindaugo laikotarpyje po Saulės kautynių
     (1237-1263 m.) iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę
@@ -238,6 +240,8 @@ media_all_json: |-
     - t-179764
 
 - id: c-163424
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Su Jogailos žinia,
     Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios
@@ -253,6 +257,8 @@ media_all_json: |-
     - t-179765
 
 - id: c-168298
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­

@@ -143,6 +143,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63679
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
     tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
@@ -159,6 +161,8 @@ Nenurodyta
     - t-62848
 
 - id: c-63680
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nutiko
     taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
@@ -175,6 +179,8 @@ Nenurodyta
     - t-62849
 
 - id: c-63681
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     42. Apie dviejų našlių ginčą dėl vieno vyro
 

@@ -65,6 +65,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-177171
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     51 Greimas A. J. Tautos atminties beieškant: apie dievus ir žmo­
     nes. -  Vilnius-Chicago, 1990. -  P. 226.

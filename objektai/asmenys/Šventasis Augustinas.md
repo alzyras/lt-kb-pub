@@ -75,6 +75,8 @@ Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptieč
 ## Citatos
 
 - id: c-173004
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ypač pastarasis, pasakodamas, kaip Teodo­
     sijus sugriovė Serapio šventyklą Aleksandrijoje, sako: „Tie, ku­

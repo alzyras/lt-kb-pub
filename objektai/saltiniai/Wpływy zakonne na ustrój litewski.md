@@ -76,6 +76,8 @@ Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski, PH, t.
 ## Citatos
 
 - id: c-33759
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvoje , LE, t. 24, 526-528 p. — (”)
     Chancellery , EnL, I, 493-495 p. — Gorškov, A. I. : Staroslavjanskij ja-

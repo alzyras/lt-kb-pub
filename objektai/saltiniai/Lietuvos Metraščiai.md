@@ -160,6 +160,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-73247
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
     ir didvyrius. Pasakojimai užrašyti vėliau, atsiradus raštui. Galėtume ma-
@@ -182,6 +184,8 @@ media_all_json: |-
     - t-75480
 
 - id: c-73248
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi politinės tautos genezės jau galima ieško-
     ti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti
@@ -199,6 +203,8 @@ media_all_json: |-
     - t-75478
 
 - id: c-73250
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
     se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų

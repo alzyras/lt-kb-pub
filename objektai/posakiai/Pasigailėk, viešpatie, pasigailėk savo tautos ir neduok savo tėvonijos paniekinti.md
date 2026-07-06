@@ -71,6 +71,8 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 ## Citatos
 
 - id: c-59779
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
     drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,

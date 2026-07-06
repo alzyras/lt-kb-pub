@@ -124,6 +124,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05436
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Neramiame
     pomindauginiame laikotarpyje smulkios Žemaičių sritinės kuni­
@@ -142,6 +144,8 @@ Nenurodyta
     - t-05373
 
 - id: c-67236
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **2. Žemaičių kunigaikštystės privilegija**
     Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų

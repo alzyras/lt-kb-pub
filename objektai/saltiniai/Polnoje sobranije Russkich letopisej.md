@@ -75,6 +75,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36150
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pol. sobr. = Polnoje sobranije Russkich letopisej. Izdanije
     Imperatorskoj Archeologičeskoj Komis. Tom XVII.

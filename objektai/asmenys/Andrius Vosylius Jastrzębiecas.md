@@ -118,6 +118,9 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
 ## Citatos
 
 - id: c-37984
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmosios katedros tėra iš­
     likęs didžiojo altoriaus kryžius^2 ).
@@ -137,6 +140,9 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
     - t-35029
 
 - id: c-37985
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1387 m. pradžioje Jogaila ir Vytautas D. atvyko į Vilnių
     pradėti lietuvių tautos krikštijimo darbo. Kartu su jais atvyko

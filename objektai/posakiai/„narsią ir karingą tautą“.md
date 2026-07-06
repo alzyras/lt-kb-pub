@@ -68,6 +68,8 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
 ## Citatos
 
 - id: c-23647
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Senosios Rusios žemės savaime prie LDK kaip švelnesnio okupanto
     nelinko, lietuvių ekspansijoje būta visko: ir tiesioginio nukariavimo, ir

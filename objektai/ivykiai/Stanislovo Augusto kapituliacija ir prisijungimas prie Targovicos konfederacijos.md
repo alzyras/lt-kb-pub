@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23229
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kiekybiškai tai – nepaprastai maža persvara, ir
     tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš

@@ -172,6 +172,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-154427
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LLKS Tarybos prezidiumo pirmininku iš-
     rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno

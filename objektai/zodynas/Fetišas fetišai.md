@@ -78,6 +78,8 @@ Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsia
 ## Citatos
 
 - id: c-172150
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nekritiškai naudodamasis senaisiais rašytiniais šaltiniais,
     juos papildydamas savo rekonstruotais (sukurtais) faktais ir

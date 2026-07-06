@@ -73,6 +73,8 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
 ## Citatos
 
 - id: c-82173
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Juk šis kroniki­
     ninkas pasakoja, kad apie 880 me­

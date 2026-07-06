@@ -82,6 +82,8 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 ## Citatos
 
 - id: c-32766
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse

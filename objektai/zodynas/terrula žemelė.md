@@ -126,6 +126,8 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 ## Citatos
 
 - id: c-59508
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Plg. Codex Justinianus
     (VI a.) terrula (demin.) — žemės sklypas (sklypelis). Latvių gyvenamose žemėse žodis
@@ -148,6 +150,8 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
     - t-58876
 
 - id: c-59509
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1257.IV.14 Sembos vyskupo  ir vicemagistro valdų dalybų dokumentuose matome
     terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).

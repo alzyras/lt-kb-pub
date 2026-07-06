@@ -121,6 +121,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169971
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
     se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m.

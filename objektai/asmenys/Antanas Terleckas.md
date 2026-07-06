@@ -134,6 +134,8 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
 ## Citatos
 
 - id: c-21600
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Skirtingai nei
     katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
@@ -152,6 +154,8 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
     - t-18827
 
 - id: c-21601
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir

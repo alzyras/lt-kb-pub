@@ -72,6 +72,8 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
 ## Citatos
 
 - id: c-82210
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos

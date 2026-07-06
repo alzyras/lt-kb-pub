@@ -192,6 +192,8 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
 ## Citatos
 
 - id: c-84115
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Liucijos,
     mergelės ir kankinės, šventės, tūkstantis penki šimtai ketu­
@@ -217,6 +219,8 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
     - t-88138
 
 - id: c-84116
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Už tai visagalis Dievas prakilniosioms Šviesy­
     bėms dieviška savo malone su kaupu atsilygins. O anksčiau
@@ -243,6 +247,8 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
     - t-88136
 
 - id: c-84117
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kad Geriausias Didžiausias Dievas ne už kokius nors
     mūsų nuopelnus, o savo išskirtine malone mielaširdingai

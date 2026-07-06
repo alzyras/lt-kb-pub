@@ -72,6 +72,8 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Citatos
 
 - id: c-62010
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Zajączkowski S. Kaip jotvingiai buvo vadinami viduriniais amžiais.—Lietuvos praeitis,
     K., 1940, t. 1, sąs. 1, p. 57—76.

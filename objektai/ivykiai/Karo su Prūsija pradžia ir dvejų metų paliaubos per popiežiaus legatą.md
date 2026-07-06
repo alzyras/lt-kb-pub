@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169072
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atsi­
     dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­

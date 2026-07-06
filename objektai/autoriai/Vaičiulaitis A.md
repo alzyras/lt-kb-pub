@@ -65,6 +65,8 @@ Dusburgietis teigia, kad vaičiulaitis A.
 ## Citatos
 
 - id: c-61439
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
     K., 1940, t. 3, p. 315—319.

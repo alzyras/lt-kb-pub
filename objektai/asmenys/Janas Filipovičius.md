@@ -84,6 +84,8 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
 ## Citatos
 
 - id: c-83678
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet, kai totoriai didele
     *

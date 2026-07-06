@@ -98,6 +98,8 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
 ## Citatos
 
 - id: c-84185
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O kalbant apie mūsų raštą, kurį esame
     anais laikais tau davę dėl jų paklusnumo su mūsų rankos •

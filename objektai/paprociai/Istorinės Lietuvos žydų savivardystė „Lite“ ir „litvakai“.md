@@ -104,6 +104,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55141
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi

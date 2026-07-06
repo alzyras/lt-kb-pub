@@ -78,6 +78,8 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
 ## Citatos
 
 - id: c-45283
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     @ 1. Budrio traukinys per Mažeikius, per Latvijos
     teritoriją (Priekulę) atvyksta į Kretingą.

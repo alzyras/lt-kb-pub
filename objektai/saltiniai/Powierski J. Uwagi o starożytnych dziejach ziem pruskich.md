@@ -72,6 +72,8 @@ Dusburgietis teigia, kad powierski J.
 ## Citatos
 
 - id: c-61879
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Powierski  J. Uwagi o starożytnych dziejach ziem pruskich.— ZHPB, Warszawa—
     Poznań—Toruń, 1976, t. 41, z. 4, s. 110— 138.

@@ -82,6 +82,8 @@ Pagaliau pasibaigus karams su kryžiuo­ čiais (1422 m.—su Prūsų, 1435 m.�
 ## Citatos
 
 - id: c-34182
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos
     ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo

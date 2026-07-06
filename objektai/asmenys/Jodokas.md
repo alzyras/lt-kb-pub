@@ -70,6 +70,8 @@ Dusburgietis teigia, kad apie švento Jodoko stebuklus Prūsijos Pamedėje Tais 
 ## Citatos
 
 - id: c-60968
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     67. Apie švento Jodoko stebuklus Prūsijos Pamedėje
 

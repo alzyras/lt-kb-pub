@@ -75,6 +75,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 ## Citatos
 
 - id: c-83838
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dalyvaujant didžiai
     gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­

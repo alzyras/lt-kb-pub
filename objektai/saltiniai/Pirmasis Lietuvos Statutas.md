@@ -171,6 +171,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
 ## Citatos
 
 - id: c-84250
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1528 metų sausio 20 dieną karalius pasirašė Žemaičių
     žemei atskirą įstatymą, garantuojantį jos teises ir privilegi­
@@ -189,6 +191,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - t-88271
 
 - id: c-84251
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
     vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
@@ -213,6 +217,8 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - t-88272
 
 - id: c-84252
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Reikšminga pergalė prie Griunvaldo pirmą kar­
     tą pajudino jo tvirtus pamatus. Tačiau nėra likę ženklų, kad

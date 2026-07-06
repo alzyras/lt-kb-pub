@@ -124,6 +124,8 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 ## Citatos
 
 - id: c-42012
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos valdovas Vytautas,
     surinkęs didelę kariuomenę, pa-
@@ -144,6 +146,8 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     - t-63713
 
 - id: c-64667
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Remdamasis giminyste,
     Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė

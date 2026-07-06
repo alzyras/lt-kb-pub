@@ -73,6 +73,8 @@ Maciūnas : Orzechowski, LE, t.
 ## Citatos
 
 - id: c-177236
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Susidomėjimas
     lietuvių mitologija plito tarp Vilniaus universiteto studentų ir

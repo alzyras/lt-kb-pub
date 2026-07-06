@@ -196,6 +196,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-22679
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
     menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
@@ -214,6 +216,8 @@ media_all_json: |-
     - t-19949
 
 - id: c-166560
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
     21

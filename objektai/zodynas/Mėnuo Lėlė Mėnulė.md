@@ -115,6 +115,8 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
 ## Citatos
 
 - id: c-172050
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mėnuo (Menuo*)
     Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­
@@ -140,6 +142,8 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
     - t-189162
 
 - id: c-177086
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
     perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami

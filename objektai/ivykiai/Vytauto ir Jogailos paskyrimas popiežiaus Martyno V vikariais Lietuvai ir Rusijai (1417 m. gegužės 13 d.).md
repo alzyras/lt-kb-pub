@@ -96,6 +96,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-35786
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Popiežius Martynas V, Konstan­
     cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė

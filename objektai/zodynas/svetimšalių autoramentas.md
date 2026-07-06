@@ -137,6 +137,8 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 ## Citatos
 
 - id: c-44226
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Svetimšalių regimentai, organizuoti Lietuvoje,
     pasirodė 1633 m. Regimentui vadovavo oberšteris (pulkininkas).
@@ -150,6 +152,8 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
     - t-78910
 
 - id: c-76014
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Svetimšalių pėstinin- |
     kija daugiausia vadinta „vokiškąja“, jų pagrindą sudarė samdiniai
@@ -163,6 +167,8 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
     - t-78908
 
 - id: c-76015
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pėstininkai turėjo
     ne tik gebėti remti kavalerijos atakas ugnimi, bet ir patys apsi-

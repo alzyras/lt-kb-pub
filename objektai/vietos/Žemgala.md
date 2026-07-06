@@ -107,6 +107,8 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
 ## Citatos
 
 - id: c-175576
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau apie
     XIII amžių jie turėjo savo valdovą1, ir todėl ši provin­
@@ -123,6 +125,8 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
     - t-192806
 
 - id: c-177335
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
     lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno

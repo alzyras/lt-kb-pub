@@ -69,6 +69,8 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 ## Citatos
 
 - id: c-32713
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Laiškų pagrindinė
     mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­

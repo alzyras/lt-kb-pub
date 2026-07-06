@@ -2339,6 +2339,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 ## Citatos
 
 - id: c-24388
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vos gavęs sostą, jis tuojau paprašė imperatorių
     atsiųsti jam Vytautui žadėtąją karūną. Taigi buvo aišku, kad
@@ -2355,6 +2357,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-183074
 
 - id: c-24389
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1447 m. privilegija. Kadangi tuo metu tarp Lietuvos ir Len-
     kijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai
@@ -2370,6 +2374,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177912
 
 - id: c-32336
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
@@ -2383,6 +2389,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177931
 
 - id: c-37636
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Net
     nuostabu, kad lenką bajorai ne tik sutiko su nusileidimais Ordi­
@@ -2405,6 +2414,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177945
 
 - id: c-46677
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva**
 
@@ -2420,6 +2431,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-193225
 
 - id: c-161721
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
     mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
@@ -2454,6 +2467,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177944
 
 - id: c-161722
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -2469,6 +2484,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177918
 
 - id: c-161723
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi Švitrigaila
     Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­
@@ -2484,6 +2501,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177911
 
 - id: c-161725
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ne kartą jau minoritai, apaš­
     talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
@@ -2505,6 +2524,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177908
 
 - id: c-161726
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
     nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
@@ -2527,6 +2548,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177907
 
 - id: c-161728
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
     lų, gaminta bombos ir kiti karo reikmenys. Apsirūpinus ar­
@@ -2547,6 +2570,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177915
 
 - id: c-161730
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuviai kava-
     Ua
@@ -2568,6 +2593,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177926
 
 - id: c-161732
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
     ka neišleisti iš akių ir vieno jau aukščiau minėto fakto — Švitri­
@@ -2587,6 +2615,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177940
 
 - id: c-161733
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stanislo­
     vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­
@@ -2607,6 +2637,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177934
 
 - id: c-161734
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
     Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -2622,6 +2654,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177910
 
 - id: c-161736
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kazimiero mirtis —  Didysis kunigaikštis
     Aleksandras suteikia Vilniui naujų privilegijų —  Jo vedybos su
@@ -2656,6 +2690,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177909
 
 - id: c-161738
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     27.
     79
@@ -2678,6 +2714,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177942
 
 - id: c-161739
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia pirmiausia Petras Goš­
     tautas, kunigaikščio Algirdo laikų
@@ -2700,6 +2738,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177946
 
 - id: c-161740
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1621 m. birželio pabaigoje LDK kariuo-
     menė atvyko į Lvovą. Liepos 14 d. lietuviai
@@ -2719,6 +2759,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177929
 
 - id: c-161741
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po šio
     pralaimėjimo kilo grėsmė, kad
@@ -2741,6 +2783,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177932
 
 - id: c-161742
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Podolėje Karijotaičiai
     ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir
@@ -2759,6 +2803,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177917
 
 - id: c-161743
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     210
 
@@ -2784,6 +2830,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177928
 
 - id: c-161744
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogaila taip pat
     nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
@@ -2802,6 +2850,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177922
 
 - id: c-161745
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Galingą są­
     jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
@@ -2816,6 +2866,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177920
 
 - id: c-161746
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.
     pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
@@ -2833,6 +2886,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177947
 
 - id: c-161747
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^262) ii skyrius: valstybės iškilimas
     Dimitrui, o Naugardą-Sieverską kitam sūnui Kaributui-Dimitrui,
@@ -2853,6 +2908,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177941
 
 - id: c-161748
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Valdovo Stepono Batoro laikais paskleista Stryjkovskio Kro­
     nika pačioje Lietuvoje, žinoma, tada rado daug pritarimo, pirmiau­
@@ -2871,6 +2928,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177916
 
 - id: c-161749
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netrukus Voluinėje bei Podolėje įsiplieskė karas su
     Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
@@ -2888,6 +2947,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177924
 
 - id: c-161752
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     biau jai rodydamas savo reikalingumą, o artindamasis į Ordiną,
     dar labiau norėjo pakelti Lenkijos akyse savo įtakos ir pagalbos
@@ -2907,6 +2969,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177933
 
 - id: c-161755
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
     pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
@@ -2925,6 +2989,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-177914
 
 - id: c-166464
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
     viena iš stambiausiųjų kunigaikštysčių. Iš visų čia suminėtų sri-
@@ -2942,6 +3008,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-183073
 
 - id: c-168448
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Vytautas jiems paro­
     dė palankumą, apsuptieji visiškai pasidavė jo malonei.
@@ -2957,6 +3025,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-185087
 
 - id: c-168449
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nesunkiai pavyko susi­
     taikyti, nes kalbėjosi broliai, kurių vienas garsėjo bepro­
@@ -2979,6 +3049,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-185088
 
 - id: c-168450
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuviai visų
     pirma reikalavo iš naujo surašyti Jogailos sudarytą su­
@@ -3010,6 +3082,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-185089
 
 - id: c-168451
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
     laikais sudaryti susitarimai, be to, vėliau, Žygimanto
@@ -3040,6 +3114,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-185090
 
 - id: c-168452
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vėliau, susi­
     kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
@@ -3057,6 +3133,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-185091
 
 - id: c-168453
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     N e s ė k m in g a s  ž y g is  į
     P rūsiją
@@ -3087,6 +3165,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-185092
 
 - id: c-168454
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai
     žinia apie šį įvykį pasiekė Lenkiją ir Lietuvą, bemat
@@ -3107,6 +3187,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-185093
 
 - id: c-170582
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pirmas bu­
     vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
@@ -3121,6 +3203,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-187635
 
 - id: c-170583
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas, paėmęs Vi­
     tebsko miestą, vėl sugrįžo į Vilnių.
@@ -3140,6 +3224,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-187636
 
 - id: c-175491
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau šie, bijodami imperato­
     riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
@@ -3155,6 +3241,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-192721
 
 - id: c-176653
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-
     mltrų žinių nėra.
@@ -3169,6 +3257,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-194031
 
 - id: c-176654
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     SkrzypekJ.  Usunigcie Fedora Korjatowicza г Podola w 1393 r.—
     Prace historyczne w  30-lecie dzialalnoici protesorskiej Stanislawa
@@ -3181,6 +3271,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-194032
 
 - id: c-176851
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia prieš 1330 me­
     tus buvo pagonių šventykla, visoms

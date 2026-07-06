@@ -128,6 +128,8 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
 ## Citatos
 
 - id: c-82139
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu skelbiame visiems ir
     kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
@@ -154,6 +156,8 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
     - t-86161
 
 - id: c-82140
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi, kai šis
     ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­

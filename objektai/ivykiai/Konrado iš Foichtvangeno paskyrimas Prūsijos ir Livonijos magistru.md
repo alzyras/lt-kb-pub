@@ -167,6 +167,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66827
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
 
@@ -183,6 +185,8 @@ Nenurodyta
     - t-66631
 
 - id: c-66828
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
 

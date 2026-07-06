@@ -66,6 +66,9 @@ Nu­ puolusį (Kökeritz) karaliaus palydovai nužudė.
 ## Citatos
 
 - id: c-36031
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vienas riteris iš jų tarpo išsiskyrė ir patrau­
     kė tiesiog į Jogailą. Jis buvo bebandąs pulti, kai staiga Zbignie­

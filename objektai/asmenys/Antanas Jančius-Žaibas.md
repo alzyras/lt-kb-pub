@@ -85,6 +85,8 @@ Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos
 ## Citatos
 
 - id: c-77380
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Beveik tuo pat metu buvo puolamas
     ir Alberto Žilio-Kęstučio būrio bunke-

@@ -136,6 +136,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82808
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     išrūpintų beneficijų būtų paskirta teisėta dova­
     na ir fundacija. Pripažįstame šios Dievo apvaizdai padedant
@@ -167,6 +169,8 @@ media_all_json: |-
     - t-86830
 
 - id: c-82809
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Quod quidem praedium cum kominikus, villis,
     426

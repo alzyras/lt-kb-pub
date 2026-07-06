@@ -107,6 +107,8 @@ O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai u
 ## Citatos
 
 - id: c-84346
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po to jų didenybėms: kunigaikščiui Jonui Jurgiui,
     Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­

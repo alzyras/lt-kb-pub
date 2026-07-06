@@ -83,6 +83,8 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
 ## Citatos
 
 - id: c-83914
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rašyta Vilniaus mieste, 1507 me­
     tų gegužės 1 dieną].

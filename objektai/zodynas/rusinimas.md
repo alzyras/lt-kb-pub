@@ -157,6 +157,8 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 ## Citatos
 
 - id: c-24976
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tuo metu carizmas pradėjo jau anksčiau
     paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
@@ -173,6 +175,8 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
     - t-22287
 
 - id: c-24977
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Juk separatizmas tarpo pirmiausia vietos bajoriškoje
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
@@ -198,6 +202,8 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
     - t-22289
 
 - id: c-24978
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
     kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-

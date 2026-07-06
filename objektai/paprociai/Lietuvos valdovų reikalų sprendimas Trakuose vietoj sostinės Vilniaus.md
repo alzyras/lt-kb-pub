@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83257
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Beveik visą
     amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­

@@ -66,6 +66,9 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
 ## Citatos
 
 - id: c-37403
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Su totoriais Vytautas taip pat buvo užmezgęs prekybos
     santykius. Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­

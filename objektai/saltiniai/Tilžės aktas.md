@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-11191
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     atsišaukimą. Šiame dokumente buvo skel-
     biama, kad Mažosios Lietuvos lietuviai,

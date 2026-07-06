@@ -86,6 +86,8 @@ Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasi
 ## Citatos
 
 - id: c-59555
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 

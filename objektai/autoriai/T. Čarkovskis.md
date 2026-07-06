@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-64355
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1902 m. kun.
     Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė

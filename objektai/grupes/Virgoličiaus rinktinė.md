@@ -85,6 +85,8 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 ## Citatos
 
 - id: c-40818
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1919 m. liepos 26 d. į
     Kuršėnus įžengė pirmieji

@@ -88,6 +88,8 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
 ## Citatos
 
 - id: c-75353
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
     tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison

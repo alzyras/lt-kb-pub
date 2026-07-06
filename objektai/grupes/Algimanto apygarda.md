@@ -195,6 +195,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-42633
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Algimanto apygardą sudarė trys rinktinės:
     Šarūno, Kunigaikščio Margio ir Žalioji.
@@ -216,6 +218,8 @@ media_all_json: |-
     - t-193731
 
 - id: c-42634
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
     Didžiausias laisvės kovotojų ir NKVD susi-
@@ -244,6 +248,8 @@ media_all_json: |-
     - t-78162
 
 - id: c-75468
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Par-
     „Uniao > x 2 4 tizanai tuo metu degino dokumentus. Dukrai išėjus

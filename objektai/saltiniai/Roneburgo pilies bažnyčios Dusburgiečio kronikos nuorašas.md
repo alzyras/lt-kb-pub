@@ -74,6 +74,8 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoj
 ## Citatos
 
 - id: c-61904
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
     pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris

@@ -122,6 +122,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-172986
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ten jis buvo pa­
     stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
@@ -137,6 +139,8 @@ media_all_json: |-
     - t-190103
 
 - id: c-173776
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ten jis buvo pastebėtas pra­
     ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.

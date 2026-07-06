@@ -920,6 +920,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 ## Citatos
 
 - id: c-37358
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
     damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
@@ -935,6 +938,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179807
 
 - id: c-163454
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
     truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
@@ -952,6 +958,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179809
 
 - id: c-163456
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
     iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
@@ -982,6 +990,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179812
 
 - id: c-163457
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^27) **SRP, II, 511, 513 p.**
 
@@ -1004,6 +1014,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179816
 
 - id: c-163458
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vytautas teigė, jog pati Klaipėda priklausanti
     Žemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
@@ -1021,6 +1033,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179808
 
 - id: c-163459
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MUSIS 21
 
@@ -1062,6 +1076,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179814
 
 - id: c-163460
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš Jogailos buvo gana daug užsiprašyta. Suvažiavus gausiam
     kryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino
@@ -1078,6 +1094,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179806
 
 - id: c-163463
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Beveik trečdalį savo
     kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
@@ -1094,6 +1112,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179822
 
 - id: c-163464
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     19) prie
     pernykščiai surašytų dokumentų turėjo būti pridėti antspaudai.
@@ -1110,6 +1130,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179820
 
 - id: c-163467
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet šio suverenumas buvo siauri­
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
@@ -1129,6 +1151,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179818
 
 - id: c-163469
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
     karo buvo prijungti prie Lietuvos. Vytautas, norėdamas geriau
@@ -1149,6 +1174,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179804
 
 - id: c-163470
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
     ribas butų pripažintos dešiniojo Nemuno kranto girios su ordino
@@ -1166,6 +1193,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179810
 
 - id: c-163472
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo pat vardu buvo ir jo krikš­
     tatėvis, Ragainės komtūras.
@@ -1181,6 +1211,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179821
 
 - id: c-163474
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
     maičių krikšto klausimą. Tačiau Vytautas dar dvejus metus už­
@@ -1198,6 +1231,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-179815
 
 - id: c-168310
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Taigi šitie arba kiti (apskritai nieko ne­
     drįstu tokiu neaišku reikalu tvirtai sakyti), Venedų,
@@ -1221,6 +1256,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-184949
 
 - id: c-171576
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     218
 

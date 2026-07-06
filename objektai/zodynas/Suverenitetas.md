@@ -286,6 +286,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00297
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
     žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
@@ -312,6 +314,8 @@ Nenurodyta
     - t-10898
 
 - id: c-00298
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Iš politinių sutarčių paminėtinos yra drau-
     gingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pa-
@@ -332,6 +336,8 @@ Nenurodyta
     - t-10899
 
 - id: c-00299
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
     kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
@@ -354,6 +360,8 @@ Nenurodyta
     - t-10900
 
 - id: c-05558
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Neigdami
     tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
@@ -374,6 +382,8 @@ Nenurodyta
     - t-05427
 
 - id: c-05559
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
     ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal­

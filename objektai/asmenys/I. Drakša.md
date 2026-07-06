@@ -80,6 +80,8 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
 ## Citatos
 
 - id: c-41240
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Savadarbis lygiavamzdis šautuvas, kalibras - 16,5 mm.
     Pagamintas savanorio I. Drakšos 1991 m. Vienas iš LR seimo

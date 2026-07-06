@@ -71,6 +71,9 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
 ## Citatos
 
 - id: c-38734
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dar prieš Kaributo iš­
     siuntimą pranešė Martynui V, kad tai daro įsitikinęs, jog tai

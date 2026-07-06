@@ -68,6 +68,8 @@ Vartojamos formos: `pažines`.
 ## Citatos
 
 - id: c-09719
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     pati tauta plačiai gyvenusi ir didžias pažines^54 yra turėjusi su tolimais kraštais, kurių pirmieji vardai, nuo lietuvių, kalnėnų ir žemaičių, pramanyti^55 , lig šiai dienai užsiturėjo^56.
   statusas: verified

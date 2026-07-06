@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-28687
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Prasidėjus deryboms ir Jogailai su Skirgaila priesaika patvir­
     tinus Kęstučio su Vytautu saugumą, šiedu nuvyko tartis į Jogailos

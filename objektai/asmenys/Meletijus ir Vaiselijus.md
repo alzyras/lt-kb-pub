@@ -75,6 +75,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
 ## Citatos
 
 - id: c-173067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     103
 

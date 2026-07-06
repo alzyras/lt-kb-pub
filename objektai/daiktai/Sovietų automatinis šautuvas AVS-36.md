@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-41089
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sovietų automatinis šautuvas AVS-36 (Avtomaticheskaya Vintovka Simonova, obrazec
     1936 goda), 1936 m. pavyzdžio Simonovo automatinis šautuvas. Šovinys - 7,62x54 mm R,

@@ -71,6 +71,8 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
 ## Citatos
 
 - id: c-169600
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
     Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­

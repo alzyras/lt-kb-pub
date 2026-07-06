@@ -63,6 +63,8 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
 ## Citatos
 
 - id: c-177250
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Romėnai darydavo pakirptuves
     įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­

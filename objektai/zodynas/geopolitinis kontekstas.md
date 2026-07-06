@@ -70,6 +70,8 @@ Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno l
 ## Citatos
 
 - id: c-176451
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Knygą stengtasi gausiai iliustruoti, kad skaity-
     tojas galėtų susikurti įvairių laikotarpių Lietuvos kario

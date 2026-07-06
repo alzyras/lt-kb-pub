@@ -80,6 +80,8 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 ## Citatos
 
 - id: c-67275
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant
     1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei auto-

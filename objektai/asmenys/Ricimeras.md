@@ -126,6 +126,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 ## Citatos
 
 - id: c-174193
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Einanti savo politinio gyvenimo saulė­
     lydžio link galinga Cezarių valstybė 457 metais, kai
@@ -145,6 +147,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
     - t-191311
 
 - id: c-174857
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ne­
     trukus Ricimeras atsikratė Majorijano, o kartu neteko

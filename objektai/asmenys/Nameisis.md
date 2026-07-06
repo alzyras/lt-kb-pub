@@ -93,6 +93,8 @@ Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino v
 ## Citatos
 
 - id: c-61026
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
     bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga

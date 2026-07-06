@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66894
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     toks skyrius buvo suorganizuotas draugijos bendrai su Lietuvos
     inteligentais. Jame buvo parodyta lietuviška trobelė, lietuviškų

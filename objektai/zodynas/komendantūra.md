@@ -118,6 +118,8 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
 ## Citatos
 
 - id: c-03279
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet 1919 m. spalių mėnesį,
     kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės,
@@ -135,6 +137,8 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
     - t-03041
 
 - id: c-166352
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuvos vyriau-
     sybės protestai nieko negelbėjo. Turėdami stiprią pajėgą, ber-

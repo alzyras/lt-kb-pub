@@ -120,6 +120,8 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
 ## Citatos
 
 - id: c-59490
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     20. Apie didžiojo magistro mirtį
 
@@ -139,6 +141,8 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
     - t-58859
 
 - id: c-59491
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 

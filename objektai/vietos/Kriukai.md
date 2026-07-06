@@ -105,6 +105,8 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
 ## Citatos
 
 - id: c-59208
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.
     III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher
@@ -117,6 +119,8 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
     - t-58577
 
 - id: c-59209
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
     naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,

@@ -72,6 +72,8 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
 ## Citatos
 
 - id: c-172215
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     235
 

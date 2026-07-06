@@ -222,6 +222,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 ## Citatos
 
 - id: c-64433
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos mūšiai 15
 
@@ -243,6 +245,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - t-63395
 
 - id: c-175928
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino
     žemėje, tarp Tanenbergo ir Griunvaldo.
@@ -256,6 +260,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - t-193184
 
 - id: c-176327
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -272,6 +278,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - t-193658
 
 - id: c-176420
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
 
@@ -284,6 +292,9 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - t-193764
 
 - id: c-177344
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia
     karalius įsitaisė palapinę pamaldoms. Ir kai karalius ėjo mels­

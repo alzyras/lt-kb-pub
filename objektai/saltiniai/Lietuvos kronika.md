@@ -127,6 +127,8 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
 ## Citatos
 
 - id: c-174639
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tokia kaimy­
     nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
@@ -145,6 +147,8 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
     - t-191757
 
 - id: c-174640
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Juo tapo
     tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos

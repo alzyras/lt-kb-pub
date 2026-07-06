@@ -164,6 +164,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172703
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ne­
     turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
@@ -181,6 +183,8 @@ Nenurodyta
     - t-189820
 
 - id: c-172704
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Radau keletą geležėlių, kurios man
     atrodė esančios mažų sagtelių liekanos. Dar pastebėjau su­
@@ -199,6 +203,8 @@ Nenurodyta
     - t-189821
 
 - id: c-172705
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ir
     šiandien ten randama daugybė nuolaužų, priklausančių ašari­

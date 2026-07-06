@@ -201,6 +201,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73068
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai iš-
     skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
@@ -230,6 +232,8 @@ Nenurodyta
     - t-75192
 
 - id: c-73069
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
@@ -255,6 +259,8 @@ Nenurodyta
     - t-75191
 
 - id: c-73070
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiandien yra bene geriausia proga šią gražią diplomatinę tradici-
     ją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę,

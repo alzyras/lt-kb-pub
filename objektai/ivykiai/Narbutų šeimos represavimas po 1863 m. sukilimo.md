@@ -105,6 +105,8 @@ Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T
 ## Citatos
 
 - id: c-170972
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
     ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­

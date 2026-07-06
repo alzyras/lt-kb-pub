@@ -65,6 +65,8 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dė
 ## Citatos
 
 - id: c-176021
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagaliau didžiojo
     kunigaikščio žemės buvo sujungtos į didžiulius plotus su aiš-

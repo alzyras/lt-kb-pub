@@ -184,6 +184,8 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 ## Citatos
 
 - id: c-84199
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karalius ŽYGIMANTAS
 
@@ -207,6 +209,8 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     - t-88221
 
 - id: c-84201
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu skelbiame visiems ir
     kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
@@ -233,6 +237,8 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     - t-88222
 
 - id: c-84202
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Norime ir įsakome, kad lei­
     dimas minėtam ponui vyskupui Povilui ir jo įpėdiniams Vil­

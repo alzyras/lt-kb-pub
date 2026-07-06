@@ -576,6 +576,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 ## Citatos
 
 - id: c-36414
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jau tada bekovodamas su Ordinu Lenkų kara­
     lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­
@@ -596,6 +599,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184414
 
 - id: c-167774
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gediminas, užsitikrinęs sau-
     dybomis, buvo labai tvirti ir svarbūs.
@@ -620,6 +625,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184409
 
 - id: c-167775
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
     tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
@@ -636,6 +643,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184415
 
 - id: c-167776
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
     kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
@@ -653,6 +662,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184417
 
 - id: c-167777
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Neumark, dab. Nowe Miasto
     Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
@@ -667,6 +678,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184410
 
 - id: c-167778
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kalyšiaus sutartimi atsi­
     sakė nuo Pamario ir kitų kraštų Ordino naudai. Jau anksčiau
@@ -686,6 +700,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184419
 
 - id: c-167779
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
     čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
@@ -707,6 +723,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184416
 
 - id: c-167780
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkijoj ėjo nuo seniau ginčas
     dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs
@@ -721,6 +740,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184414
 
 - id: c-167781
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žydai, dar XI am­
     žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno
@@ -744,6 +765,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184412
 
 - id: c-168109
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
     laikais sudaryti susitarimai, be to, vėliau, Žygimanto
@@ -774,6 +797,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-184748
 
 - id: c-176828
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet Lietuvos valdymą perėmė karalius
     —  • —

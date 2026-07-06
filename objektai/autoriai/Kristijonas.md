@@ -192,6 +192,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 ## Citatos
 
 - id: c-173277
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Abu šie kronikinin­
     kai -  Lukas Davidas (kn. I. -  P. 16,53-54) ir Simonas Grunau
@@ -206,6 +208,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
     - t-190394
 
 - id: c-173278
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     -  Skirsnis 4) -  aiškiai įtikina, kad jų
     žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
@@ -223,6 +227,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
     - t-190395
 
 - id: c-173633
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -246,6 +252,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
     - t-190751
 
 - id: c-173634
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
     nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis

@@ -132,6 +132,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44655
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ## Puslapis 165
 
@@ -149,6 +151,8 @@ Nenurodyta
     - t-40717
 
 - id: c-167074
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusų karinei vadovybei pavyko
     suimti daugelį žymių sukilėlių vadų.

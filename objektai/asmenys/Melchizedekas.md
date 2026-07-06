@@ -74,6 +74,8 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 ## Citatos
 
 - id: c-61019
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tu sodinai jo daigus,  ir jis
     iškerojo žemėje, tu vėliau  jį persodinai ir išvijai stabmeldžius [gentes] iš Prūsijos bei

@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75256
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mo-
     kyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių

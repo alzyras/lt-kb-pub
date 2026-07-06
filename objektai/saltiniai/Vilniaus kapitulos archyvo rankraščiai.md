@@ -94,6 +94,8 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
 ## Citatos
 
 - id: c-84468
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IV KNYGA
     pasakytum, kad turite paklusti teisei, pagal rašytus žemės

@@ -87,6 +87,8 @@ Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direkt
 ## Citatos
 
 - id: c-174726
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     -  T. Narbutas turėjo omenyje Jurgį de Biufoną
     (de Buffon; 1707—1788), prancūzų gamtinin­

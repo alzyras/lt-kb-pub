@@ -87,6 +87,9 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 ## Citatos
 
 - id: c-14713
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­
     prastieji žmonės, kunigaikščiai—pinigais, kaip paklusnybės mo­

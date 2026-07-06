@@ -108,6 +108,8 @@ Vilniuje veikusi masonų ložė.
 ## Citatos
 
 - id: c-55855
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo metu
     Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu­

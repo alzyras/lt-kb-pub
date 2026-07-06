@@ -140,6 +140,8 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
 ## Citatos
 
 - id: c-60752
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     130 (125). Apie Brandenburgo pilies sunaikinimą
 
@@ -157,6 +159,8 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
     - t-60120
 
 - id: c-167449
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolį Liudviką, septintą Prūsijos žemės magistrą
 

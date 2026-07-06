@@ -83,6 +83,8 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
 ## Citatos
 
 - id: c-23756
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
     kimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms,

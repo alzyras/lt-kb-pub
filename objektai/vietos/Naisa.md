@@ -86,6 +86,8 @@ Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumu
 ## Citatos
 
 - id: c-175655
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     298
     Netrukus po to, apie 269 metus, gotai, surinkę milži­

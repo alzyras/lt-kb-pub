@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67043
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl kai 1578 m. Vilniaus
     jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti
@@ -124,6 +126,8 @@ Nenurodyta
     - t-66955
 
 - id: c-67044
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Kliūčių** akademijai kurti atsirado pačioje Lietuvoje. Jos įkū-
     rimui karštai priešinosi Lietuvos didikai protestantai. Abudu

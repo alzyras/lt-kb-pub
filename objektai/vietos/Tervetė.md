@@ -85,6 +85,8 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 ## Citatos
 
 - id: c-34049
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tų žygių įtakoje jau 1259 m. sukilo žiemgaliai, išvarydami or­
     dino ir Rygos arkivyskupo pastatytus viršininkus. Kai kryžiuočiams

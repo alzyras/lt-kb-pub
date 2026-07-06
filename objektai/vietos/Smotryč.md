@@ -73,6 +73,8 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 ## Citatos
 
 - id: c-34040
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šalia kitų,
     kurių vardai apytikriai tenustatomi, rodos, Karijoto sūnus buvo ir

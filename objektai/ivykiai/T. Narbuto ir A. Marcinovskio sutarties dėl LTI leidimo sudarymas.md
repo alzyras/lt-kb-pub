@@ -146,6 +146,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­
     kalo išleidimo buvo sudaryta tik praėjus porai metų po pirmo
@@ -162,6 +164,8 @@ Nenurodyta
     - t-192013
 
 - id: c-174896
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­
     kalo išleidimo buvo sudaryta tik praėjus porai metų po

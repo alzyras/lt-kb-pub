@@ -71,6 +71,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-171860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
     žesni upeliai.

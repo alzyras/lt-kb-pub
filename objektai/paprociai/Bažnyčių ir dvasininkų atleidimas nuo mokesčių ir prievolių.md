@@ -117,6 +117,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-88429
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vi­
     sos bažnyčios buvo atleistos nuo mokesčių, natūralijų (javų pi­
@@ -133,6 +136,9 @@ Nenurodyta
     - t-93016
 
 - id: c-88430
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas tik naudojasi jo parama
     ir karališku autoritetu.

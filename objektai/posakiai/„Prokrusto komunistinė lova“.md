@@ -112,6 +112,8 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 ## Citatos
 
 - id: c-23592
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kūrybai pasitarnavo vadinamo-
     ji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam
@@ -132,6 +134,8 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
     - t-20866
 
 - id: c-166896
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Naujomis sąlygomis menininkai vis dažniau atsiribodavo
     nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir

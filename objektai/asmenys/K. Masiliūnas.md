@@ -141,6 +141,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 ## Citatos
 
 - id: c-00117
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ypač dėl jo sielojosi Švietimo
     Ministerija. Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
@@ -156,6 +158,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     - t-00008
 
 - id: c-00118
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
     tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-
@@ -173,6 +177,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     - t-00009
 
 - id: c-176296
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kartais juos
     inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-

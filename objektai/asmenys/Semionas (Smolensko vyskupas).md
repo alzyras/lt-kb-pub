@@ -75,6 +75,8 @@ Ir Smolensko vyskupas Semionas2 , ir kunigaikš čiai, ir bajorai, ir miestieči
 ## Citatos
 
 - id: c-176756
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ## Puslapis 127
 

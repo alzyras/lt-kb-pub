@@ -77,6 +77,8 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
 ## Citatos
 
 - id: c-174666
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kažkokia alanų da­
     lis persikėlė į Europos pietvakarius: vieni iš jų įsikūrė

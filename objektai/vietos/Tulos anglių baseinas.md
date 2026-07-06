@@ -75,6 +75,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-45370
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Įstojo į Vietinę rinktinę, po jos išformavimo dirbo
     mokytoju. 1945 m. sovietai jj suėmė ir išsiuntė

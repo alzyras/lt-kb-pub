@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60347
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
     Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu

@@ -235,6 +235,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174941
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo
     tarpu kiti LDK kariai dviejose vietose rentė
@@ -252,6 +254,8 @@ Nenurodyta
     - t-192073
 
 - id: c-174942
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Dėl keblaus upės perėjimo negalėjo ne­
     delsiant su jais susigrumti ir daugiau kaip tris valan­
@@ -272,6 +276,8 @@ Nenurodyta
     - t-192072
 
 - id: c-174943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
@@ -289,6 +295,8 @@ Nenurodyta
     - t-192071
 
 - id: c-175293
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

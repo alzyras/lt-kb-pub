@@ -75,6 +75,8 @@ Balys : Bibliography of Baltic Bibliographies, Lituanistikos Darbai, t.
 ## Citatos
 
 - id: c-33543
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Atskirai paminėtina Klaipėdos krašto bibliografija :
     M. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge

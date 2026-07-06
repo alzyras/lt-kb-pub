@@ -89,6 +89,8 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
 ## Citatos
 
 - id: c-44407
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     £ sae.
     ee Kuoknesės pilis

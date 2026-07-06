@@ -76,6 +76,8 @@ Narbutas spėja, kad Romovė prie Dviupio ežero kurį laiką galėjusi būti di
 ## Citatos
 
 - id: c-171943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     XIV amžiuje žiaurios kovos su kryžiuo­
     čiais tikriausiai ne kartą vertė vyriausiuosius žynius kaitalioti

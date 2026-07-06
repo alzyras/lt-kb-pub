@@ -98,6 +98,8 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
 ## Citatos
 
 - id: c-26550
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Liublino unijos nauda pasireiškė jau ne-
     trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui

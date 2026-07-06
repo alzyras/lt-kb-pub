@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-41090
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Antrojo pasaulinio
     karo metų vokiški kulkosvaidžiai (MG 34 ir MG 42) padarė pradžią

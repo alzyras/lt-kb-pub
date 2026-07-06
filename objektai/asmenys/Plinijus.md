@@ -525,6 +525,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 ## Citatos
 
 - id: c-173083
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     100
 
@@ -544,6 +546,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190200
 
 - id: c-173832
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     63
 
@@ -570,6 +574,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190950
 
 - id: c-173833
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     71
     Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
@@ -588,6 +594,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190951
 
 - id: c-173834
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -605,6 +613,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190952
 
 - id: c-173835
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pagaliau, papildydamas aprašymą, cituoju tą
     patį autorių: Welti, Hossii ir Karbony, — tai toliau į
@@ -620,6 +630,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190953
 
 - id: c-173836
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
@@ -640,6 +652,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190954
 
 - id: c-173837
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šio labai tikslaus istoriko
     ir garbingo senovės krašto tyrinėtojo nuomonė verstų mus
@@ -661,6 +675,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190955
 
 - id: c-173839
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -677,6 +693,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190957
 
 - id: c-173840
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kopija iš Karaliau­
     čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
@@ -702,6 +720,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190958
 
 - id: c-173841
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
@@ -723,6 +743,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - t-190959
 
 - id: c-174850
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

@@ -71,6 +71,8 @@ Antanas Smetona ir jo laikai.
 ## Citatos
 
 - id: c-21040
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 2011.
     Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996.

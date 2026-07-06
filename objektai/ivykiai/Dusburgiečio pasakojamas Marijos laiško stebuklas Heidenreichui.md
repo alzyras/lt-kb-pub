@@ -117,6 +117,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-87554
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
                                   brolį Heidenreichą, Kulmo vyskupą

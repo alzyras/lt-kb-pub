@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-26640
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
     kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-

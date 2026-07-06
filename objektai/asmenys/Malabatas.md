@@ -116,6 +116,8 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
 ## Citatos
 
 - id: c-174174
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     2 Malabato vardas, yra lietuviškas.; mitologijoje tokią formą turi
     dievo Alabačio vardas. Kiti istorikai vadina jį Naulobatu, Naulobates,
@@ -132,6 +134,8 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
     - t-191292
 
 - id: c-174175
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš pra­
     džių jų ginklai įvarė gerokai baimės, bet imperatoriaus

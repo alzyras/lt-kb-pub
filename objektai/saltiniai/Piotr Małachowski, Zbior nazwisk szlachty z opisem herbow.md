@@ -80,6 +80,8 @@ T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą
 ## Citatos
 
 - id: c-174630
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     T. Narbutas turėjo omenyje Černigovo
     dvarininko Petro

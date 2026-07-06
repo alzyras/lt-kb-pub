@@ -8987,6 +8987,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 ## Citatos
 
 - id: c-00171
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo
     būdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvyk-
@@ -9003,6 +9005,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-10703
 
 - id: c-00172
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pabėgėlis Vytautas už paramą turėjo priimti visas ordino
     sąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-
@@ -9017,6 +9021,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-10704
 
 - id: c-04402
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
     sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­
@@ -9037,6 +9043,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176743
 
 - id: c-04403
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Grįžęs iš laimingai baig­
     tos Smolensko operacijos, 1404 rugpiūčio viduryje Vytautas su
@@ -9055,6 +9063,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05220
 
 - id: c-04404
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
     Zbignievo Olesnickio. Pagal kronikininką, karalius formaliai skai­
@@ -9074,6 +9084,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176720
 
 - id: c-11544
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tik 1410 m. Lietuvos val-
     dovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos
@@ -9088,6 +9100,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-10104
 
 - id: c-11545
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
     Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
@@ -9103,6 +9117,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-10106
 
 - id: c-21368
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą
     mūšiui pradėti. Vytautas buvo sudarytosios karo tarybos pir-
@@ -9117,6 +9133,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176728
 
 - id: c-21374
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene
     pirmagimis sūnus. Kuriais metais jis gimė, tiksliai sunku pasa­
@@ -9132,6 +9151,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176692
 
 - id: c-21377
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Po kiek laiko kronikos vėl mini 1377 metų Vytauto žygį.
     Jis, tėvo pavedamas, surengė žygį, Algirdui dar gyvam tebe­
@@ -9145,6 +9167,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176641
 
 - id: c-21379
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
     spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
@@ -9159,6 +9184,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176736
 
 - id: c-21380
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1392 metai Vytauto gyvenime yra persilaužimo metai —
     jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
@@ -9174,6 +9202,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176662
 
 - id: c-21382
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.
     Šioje srityje nauji išradimai ypač jį domindavo. Visokių karo
@@ -9187,6 +9218,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176659
 
 - id: c-21390
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą
     teužėmęs kaip «dux Lithuaniae », pradėjo naują laikotarpį. Vy­
@@ -9202,6 +9235,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05216
 
 - id: c-21393
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
     plauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­
@@ -9219,6 +9254,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176674
 
 - id: c-30358
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tą patį rudenį (X.12),
     susivažiavę arti Nevėžio žiočių Nemuno saloje — « Salyne », kiek
@@ -9233,6 +9270,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176655
 
 - id: c-30359
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Apsimetęs ordino draugu, ir čia Vytautas teikė pagalbą. Jis pas­
     toviai mainėsi draugiškais laiškais, davinėjo patarimus, keitėsi
@@ -9248,6 +9287,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176724
 
 - id: c-34195
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     labai siaurą priėjimą prie Baltijos (Palangos), kurią čia pirmą
     kartą pamatė Jogaila, jau būdamas žilas senelis (1428)^3.
@@ -9266,6 +9307,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05208
 
 - id: c-34196
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vilniaus
     apgulimas). Visas viešasis gyvenimas buvo perdėm nukreiptas į
@@ -9282,6 +9325,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05215
 
 - id: c-34197
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     politinį gyvenimą. Ir socialiniu atžvilgiu jie skyrėsi nuo kitų lie­
     tuvių žemių. Žemaičiai į Lietuvos valstybę labiau buvo įjungti
@@ -9296,6 +9341,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05210
 
 - id: c-34198
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Todėl Kęstutis ir Algirdas, norėdami paimti
     vyriausią valdžią, iš Vilniaus šalino brolį Jaunutį. Kęstutis vy­
@@ -9311,6 +9358,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05216
 
 - id: c-34199
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^262) ii skyrius: valstybės iškilimas
     Dimitrui, o Naugardą-Sieverską kitam sūnui Kaributui-Dimitrui,
@@ -9330,6 +9379,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05217
 
 - id: c-34200
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     **1. Vytauto didžiojo sąjunga su kryžiuočiais ir jo laimėjimai**
         **prieš Algirdaičius Lietuvoje antrojo vidaus karo metu**
@@ -9347,6 +9398,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176716
 
 - id: c-34201
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Sugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo
     Jogailai ir rėmė visus jo politinius bei kultūrinius žygius, Lietuvos
@@ -9361,6 +9414,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05211
 
 - id: c-34202
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos ir ordino santykių
     istorijoje Vytautas pasiliko vienintelis lietuvių kunigaikštis, kuris
@@ -9378,6 +9433,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05218
 
 - id: c-34203
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
     Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
@@ -9393,6 +9450,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05216
 
 - id: c-34204
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos kunigaikštijos priklausomybę nuo Karūnos. Susi­
     tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
@@ -9409,6 +9468,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176629
 
 - id: c-34205
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Galutinis unijos sulaužymas butų
     reiškęs baisią Vytauto nuodėmę visų Vakarų krikščionių, ypač
@@ -9425,6 +9486,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05212
 
 - id: c-34206
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tai butų davę progos vokiečių ordinui vesti
     vėl kietą propagandą prieš Lietuvą.
@@ -9444,6 +9507,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05213
 
 - id: c-34207
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šalia jo politikoje reikalingo didelio lankstumo, kyšojo nepaprasta
     ambicija. Šalia kronikininkų užfiksuoto švelnumo, slypėjo didelis
@@ -9458,6 +9523,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05222
 
 - id: c-34208
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šalia kronikininkų užfiksuoto švelnumo, slypėjo didelis
     kietumas, siejęsis su žiaurumu. Šalia taupumo, Vytautui buvo
@@ -9475,6 +9542,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176751
 
 - id: c-36591
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė
     minutė nenueidavo niekais. Pasižymėjo stropiu valdymu: savo
@@ -9492,6 +9562,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176761
 
 - id: c-36592
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt
     ir rusų, nes su jų kunigaikščiais vedė daug reikalų ir giminia­
@@ -9507,6 +9580,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176654
 
 - id: c-36593
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
     čio kovos metu su Jogaila. Jis atsidūrė sunkioje būklėje: abu
@@ -9523,6 +9599,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176769
 
 - id: c-160609
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karaliui išvykus į Lenkiją, Vytauto padė­
     tis tapo dargi nesaugi: mat akylai stebimas kiekviename
@@ -9549,6 +9627,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176764
 
 - id: c-160610
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
     vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­
@@ -9570,6 +9650,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-028
 
 - id: c-160611
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
     diną, kurio magistru buvo išrinktas jam palankus Povilas
@@ -9587,6 +9670,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176667
 
 - id: c-160612
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva liks savarankiška civilizacinė monada, todėl
     tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
@@ -9601,6 +9686,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176695
 
 - id: c-160614
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     A
     za srebro i za robotu i za mied' i za wsi
@@ -9633,6 +9720,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176706
 
 - id: c-160616
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio priešistorė
 
@@ -9656,6 +9745,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-10107
 
 - id: c-160617
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     To garbingo karžygio palaikai Skir­
     gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
@@ -9679,6 +9770,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-030
 
 - id: c-160618
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
     Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
@@ -9696,6 +9790,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176648
 
 - id: c-160619
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
@@ -9717,6 +9813,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176744
 
 - id: c-160620
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atrodo, kad visa Vytauto politika orientuota į „švento
     valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
@@ -9736,6 +9834,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176707
 
 - id: c-160621
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Per menkos buvo dovanos, kad būtų vertusios veidmai­
     niauti kad ir pagoniško tikėjimo lietuvį. Lietuviai krikštijosi
@@ -9751,6 +9852,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176762
 
 - id: c-160622
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Neva krikščioniškųjų valstybių sąjungos prieš tur­
     kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas
@@ -9770,6 +9873,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176753
 
 - id: c-160623
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Didvyriai surasti – tai visi Lietuvos didieji kuni-
     gaikščiai kaip prakilni jungtis su moderniąja, XX a. Lietuva, kuri atsirado
@@ -9784,6 +9889,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176642
 
 - id: c-160624
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
     čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
@@ -9797,6 +9904,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-160625
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gerbti ir garbinti
     Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
@@ -9817,6 +9926,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176638
 
 - id: c-160626
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
     tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
@@ -9834,6 +9945,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176763
 
 - id: c-160627
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
     mą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-
@@ -9851,6 +9964,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176746
 
 - id: c-160629
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šis pavojus ir turėjo būt aptartas suvažia­
     vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­
@@ -9865,6 +9981,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176651
 
 - id: c-160630
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi
     greitai, 1385 metais, mažamečiai Vy­
@@ -9885,6 +10003,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-032
 
 - id: c-160631
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas savo ka­
     riuomenę pats vedė, o lenkai visai neturėjo vadų. Jogaila ėmė
@@ -9902,6 +10023,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176660
 
 - id: c-160633
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Aišku,
     šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
@@ -9920,6 +10043,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176739
 
 - id: c-160634
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi Vytautas laukė Jogailos žodžio pradėti mūšį, o to žodžio
     nesigirdėjo. Jogailos atliekamos apeigos nervino Vytautą, murmėjo net
@@ -9934,6 +10059,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176690
 
 - id: c-160635
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia, krašto reikalus
     įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
@@ -9953,6 +10080,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176737
 
 - id: c-160636
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytauto
     didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
@@ -9975,6 +10104,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176671
 
 - id: c-160638
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
     tuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju
@@ -9993,6 +10124,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176701
 
 - id: c-160639
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šventasis valdovas
     Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs
@@ -10010,6 +10143,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176625
 
 - id: c-160640
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl ji savo grynai lietuviškomis tradicijomis
     bei papročiais ir bus jam daugiausia įtakos padariusi. Bet iš ki­
@@ -10028,6 +10164,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176628
 
 - id: c-160641
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il KNYGA
     keti činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas
@@ -10047,6 +10185,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-047
 
 - id: c-160643
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be to, Vytautas įkūnijo kiekvienam
     lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
@@ -10068,6 +10208,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176680
 
 - id: c-160644
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nežiūrint visų nesusipratimų su lenkais, Vytautas ir dabar
     atvykusiems pasiuntiniams buvo malonus ir vaišingas: nesigai­
@@ -10084,6 +10227,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176745
 
 - id: c-160646
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Toje pat Pulavų bibliotekoje
     riaus Zigmanto įkalbinėjimų, nesi- yra popiežiaus Martyno laiškai -
@@ -10114,6 +10259,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176714
 
 - id: c-160647
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto tolerancija patiko tautinėms mažumoms –
     juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
@@ -10132,6 +10279,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176630
 
 - id: c-160648
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taigi šiam
     karui pasibaigus, Vytautas visą savo energiją nukreipė į Psko­
@@ -10152,6 +10302,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176652
 
 - id: c-160649
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didysis kunigaikštis ne­
     teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
@@ -10177,6 +10329,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-048
 
 - id: c-160650
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tikrai
     tikėtina, jog vardas tautos, įsikūru­
@@ -10216,6 +10370,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-027
 
 - id: c-160651
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Apie tai galima spręsti iš to, kad Jogaila, kartu su
     „brangiausia žmona“, taikos vardan pasiuntė į Vilnių per jo se­
@@ -10236,6 +10393,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176726
 
 - id: c-160652
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Warsz.
     rašo, kad jo laikais buvę „Vytauto
@@ -10272,6 +10431,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176708
 
 - id: c-160653
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl 1413 m. Vy-
     tautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į
@@ -10286,6 +10447,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176644
 
 - id: c-160655
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pats miestelis dali­
     jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­
@@ -10305,6 +10468,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-034
 
 - id: c-160656
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dail A. Penkowskis, 1838 m.
     Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
@@ -10328,6 +10493,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176700
 
 - id: c-160657
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
     pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
@@ -10351,6 +10518,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-040
 
 - id: c-160658
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
     159
@@ -10381,6 +10550,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176710
 
 - id: c-160659
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti
     tik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio
@@ -10397,6 +10568,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176691
 
 - id: c-160661
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lucko suvažiavi-
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
@@ -10417,6 +10590,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176731
 
 - id: c-160662
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
     kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
@@ -10434,6 +10609,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176657
 
 - id: c-160663
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -10464,6 +10641,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176735
 
 - id: c-160665
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
     šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
@@ -10481,6 +10661,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176663
 
 - id: c-160667
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai
     padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
@@ -10499,6 +10681,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176636
 
 - id: c-160668
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet iš ki­
     tos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
@@ -10518,6 +10703,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176687
 
 - id: c-160669
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaprastas Rin­
     gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su
@@ -10535,6 +10722,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-160670
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
     arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
@@ -10555,6 +10744,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176631
 
 - id: c-160672
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog
     „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
@@ -10567,6 +10758,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176756
 
 - id: c-160673
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
     duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
@@ -10593,6 +10786,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176688
 
 - id: c-160674
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tasai kunigaikštis, toks pat
     narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
@@ -10612,6 +10807,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-044
 
 - id: c-160675
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Len­
     kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­
@@ -10638,6 +10835,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176718
 
 - id: c-160678
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Poloniae factam, et erectionem Antistis
     118
@@ -10668,6 +10867,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-041
 
 - id: c-160679
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tiesa, šimtmečiu vėliau karalienė
     Bona pagerbė Vytauto atminimą
@@ -10698,6 +10899,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176647
 
 - id: c-160680
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kenksmingą tos virše­
     nybės įtaką graikų apeigų tikėjimo
@@ -10725,6 +10928,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176750
 
 - id: c-160682
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -10739,6 +10944,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176742
 
 - id: c-160683
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     116
 
@@ -10762,6 +10969,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-160684
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus miesto istorijos pratarmėje istorikas rašė: „Mums
     patiems mažai pažįstami, Europai visai nežinomi istorijos įvy­
@@ -10783,6 +10992,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176712
 
 - id: c-160686
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
     tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
@@ -10796,6 +11008,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176694
 
 - id: c-160690
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško
     lemiamo mūšio, o Jogaila laukė pasiūlymo derėtis – jis tęsė laiką, klau-
@@ -10810,6 +11024,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176755
 
 - id: c-160692
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl Vytautas
     per savo agentus Lenkijoje piršo nuostatą, kad kariauti su Vokiečių or-
@@ -10824,6 +11040,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176675
 
 - id: c-160694
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1390 metų sausio pradžioje visą savo šei­
     mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
@@ -10846,6 +11064,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176639
 
 - id: c-160695
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kokios bu­
     vo šios sutarties pasekmės? Taigi
@@ -10863,6 +11083,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176633
 
 - id: c-160696
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     VYTAUTO IMPERIJA
     G
@@ -10886,6 +11108,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176650
 
 - id: c-160697
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
@@ -10898,6 +11123,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176702
 
 - id: c-160700
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK tradicija, lietuvių ir jų kuni-
     gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
@@ -10913,6 +11140,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176734
 
 - id: c-160704
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jogaila bandė teisintis, kad Vytautą įžeidžiąs laiškas
     (iš Krokuvos — imperatoriui Zigmantui) buvęs parašytas be kara­
@@ -10929,6 +11158,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-05214
 
 - id: c-160707
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
     siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
@@ -10944,6 +11175,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-10709
 
 - id: c-160709
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytauto palaikai buvo atvežti į Vilnių ir iškil­
     mingai palaidoti85. Vytautas savo laikais buvo didžią šlovę
@@ -10962,6 +11195,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176719
 
 - id: c-160712
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
     da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
@@ -10982,6 +11218,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176771
 
 - id: c-160714
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių
     Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­
@@ -11000,6 +11239,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176699
 
 - id: c-160715
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas turėjo neblogus santykius ir su kita mongolų šaka
     — turkais, kurie jo valdymo metu vis daugiau spraudėsi į Bal­
@@ -11020,6 +11262,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176658
 
 - id: c-160718
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trakų pilis, reikia many­
     ti, taip pat yra buvusi sena, galbūt
@@ -11047,6 +11291,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-160720
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švitrigaila
     telkė kariuomenę „mūsų
@@ -11070,6 +11316,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-10108
 
 - id: c-160721
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Beveik visą
     amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
@@ -11089,6 +11337,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176759
 
 - id: c-160722
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
@@ -11116,6 +11366,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176643
 
 - id: c-160723
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Algirdas
     kartais gyvendavo Paneriuose, šiandien priklausančiuose
@@ -11136,6 +11388,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176703
 
 - id: c-160725
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas Vilniui suteikė (1424 metais)
     tam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami
@@ -11154,6 +11408,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-160729
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK
     buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
@@ -11176,6 +11432,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176682
 
 - id: c-160730
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas
     visą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome­
@@ -11191,6 +11450,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176666
 
 - id: c-160731
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Juk
     tai buvo visos Lietuvos pažeminimas ir nepasitikėjimas jos ba­
@@ -11209,6 +11471,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176704
 
 - id: c-160732
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
     vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
@@ -11227,6 +11491,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176748
 
 - id: c-160733
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Napierskio  veikale, aukščiau
     ne sykį cituotame Index Codicis Hist.
@@ -11243,6 +11509,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176752
 
 - id: c-160734
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     133
 
@@ -11265,6 +11533,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176661
 
 - id: c-160735
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
     ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
@@ -11290,6 +11560,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176709
 
 - id: c-160736
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tais
     81
@@ -11313,6 +11585,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176635
 
 - id: c-160737
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
     vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­
@@ -11329,6 +11604,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176766
 
 - id: c-160739
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
     tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš
@@ -11348,6 +11626,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176656
 
 - id: c-160744
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet ir tada nebuvo iš­
     spręstas. Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­
@@ -11366,6 +11647,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176732
 
 - id: c-160745
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iki to meto,
     kerojant karingos padermės laukiniams papročiams, jo is­
@@ -11395,6 +11678,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-031
 
 - id: c-160746
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
     pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
@@ -11410,6 +11696,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176772
 
 - id: c-160747
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Re­
     gis, iš jo kilusi Hanulu giminė, kurių
@@ -11436,6 +11724,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-029
 
 - id: c-160748
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jokūbą, vėl išsiruošė ana­
     pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­
@@ -11451,6 +11741,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-160750
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ta liūdna Vilniaus
     padėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­
@@ -11470,6 +11762,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-036
 
 - id: c-166968
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1387
     Lietuvos krikštas.
@@ -11486,6 +11780,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-176634
 
 - id: c-166969
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau išvedus visą kariuomenę iš Lietuvos, liko
     neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baig-
@@ -11502,6 +11798,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-183576
 
 - id: c-167229
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­
     dislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­
@@ -11522,6 +11820,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-183844
 
 - id: c-167748
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Prie Dubysos pilies skubiai dirbo 800 darbininkų ir 24 meisteriai.
     Apsimetęs ordino draugu, ir čia Vytautas teikė pagalbą. Jis pas­
@@ -11536,6 +11836,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184379
 
 - id: c-168223
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo būdu
     užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
@@ -11559,6 +11861,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184862
 
 - id: c-168224
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl Jogai­
     la išsiuntė savo brolį Skirgailą, kuris, prisiekęs visais
@@ -11587,6 +11891,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184863
 
 - id: c-168225
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ši
     aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
@@ -11609,6 +11915,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184864
 
 - id: c-168226
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nieko nepešęs
     klasta, metė savo sumanymus ir, aplinkybių verčiamas,
@@ -11637,6 +11945,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184865
 
 - id: c-168227
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iš M a z o v ijo s  į Prū-
     Nors Urbonas IV, Romos po-
@@ -11660,6 +11970,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184866
 
 - id: c-168228
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo
     metu kaip tik pasitaikė tin-
@@ -11682,6 +11994,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184867
 
 - id: c-168229
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išlikę po mūšio gyvi, narsiai grumdamiesi su puo­
     lančiu nugalėtoju, pasitraukė su Skirgaila į Trakus.
@@ -11697,6 +12011,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184868
 
 - id: c-168230
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išsiuntęs žygūną,
     turintį Olesnickiui pranešti apie jo atvykimą, patraukė
@@ -11719,6 +12035,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184869
 
 - id: c-168231
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Vytautas jiems paro­
     dė palankumą, apsuptieji visiškai pasidavė jo malonei.
@@ -11734,6 +12052,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184870
 
 - id: c-168232
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -11765,6 +12085,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184871
 
 - id: c-168233
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Apgula užtruko ištisą mėnesį,
     tačiau ne dėl to, kad nebuvo
@@ -11785,6 +12107,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184872
 
 - id: c-168235
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Stovėdamas su' raitija toje
     pačioje vietoje, jis kiekvieną dieną vis labiau juto mais­
@@ -11806,6 +12130,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184874
 
 - id: c-168236
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto buvo pamato būgštauti, kad jie gali
     nepaisyti teisėto susitarimo iš palankumo žmonėms, su
@@ -11829,6 +12155,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184875
 
 - id: c-168237
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi
     šias negeras naujoves vykdė ne paprasti žmonės, o žy­
@@ -11848,6 +12176,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184876
 
 - id: c-168238
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
@@ -11863,6 +12193,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184877
 
 - id: c-168239
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Beje, ir Vytautas ne tiek paisė ką tik patirtos ne­
     sėkmės, kiek rūpinosi asmenine garbe ir nauda, norė­
@@ -11882,6 +12214,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184878
 
 - id: c-168240
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuvos isto rija
     417
@@ -11906,6 +12240,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184879
 
 - id: c-168241
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kaip kieti kūnai, iš
     422
@@ -11936,6 +12272,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184880
 
 - id: c-168242
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ginkluoti didžia-
     lą, pasiuntiniai pasuko į Fran­
@@ -11956,6 +12294,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184881
 
 - id: c-168243
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Luomai, susirinkę į Tra­
     kus, nutarė, pasiūlius Goštautui bei Kęsgailai, surengti
@@ -11975,6 +12315,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-184882
 
 - id: c-171536
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žemaičių ir Trakų kuni­
     gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
@@ -11993,6 +12335,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-188647
 
 - id: c-171537
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Si kunigaikštie­
     nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
@@ -12008,6 +12352,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-188648
 
 - id: c-171538
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -12026,6 +12372,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-188649
 
 - id: c-171539
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Si epocha baigėsi 1386 metais, tai yra visiškai
     įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
@@ -12043,6 +12391,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-188650
 
 - id: c-173881
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
@@ -12062,6 +12412,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-190999
 
 - id: c-173882
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
     turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
@@ -12075,6 +12427,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-191000
 
 - id: c-176128
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat tų pačių metų pabaigoje, sudeginęs Briansko ir
     Starodubo pilis, jis perdavė kunigaikščiui Vasilijui Nau-
@@ -12093,6 +12447,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-193406
 
 - id: c-176129
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     A p sk rita i n e o ru  to k iam
     v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
@@ -12110,6 +12466,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-193407
 
 - id: c-176302
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laiko-
     tarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu. Mūsų kultūroje
@@ -12125,6 +12483,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-193631
 
 - id: c-176303
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Senovės nekeitimo“ tezė tėra istoriografi-
     nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
@@ -12145,6 +12505,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-193632
 
 - id: c-176304
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     To, galų gale, jie ir buvo mokomi. O sava valstybė,
     atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
@@ -12158,6 +12520,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-193633
 
 - id: c-176631
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
@@ -12174,6 +12538,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194006
 
 - id: c-176632
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
     kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
@@ -12193,6 +12559,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194007
 
 - id: c-176633
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas prieš Ria-
     zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
@@ -12219,6 +12587,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194008
 
 - id: c-176634
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     103
 
@@ -12243,6 +12613,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194009
 
 - id: c-176635
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     108
 
@@ -12270,6 +12642,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194010
 
 - id: c-176636
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
     dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
@@ -12291,6 +12665,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194011
 
 - id: c-176637
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir Danijos
     karalius didžiai šlovino ir daugeliu dovanų apdovanojo
@@ -12306,6 +12682,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194012
 
 - id: c-176638
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir šis didysis kunigaikštis Aleksandras,
     vadinamas Vytautu, valdė didžiai gerbiamas ir šlovi­
@@ -12323,6 +12701,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194013
 
 - id: c-176639
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     VYTAUTO SKUNDAS PRIEŠ JOGAILĄ IR SKIRGAILĄ
     Vytauto skundas — tai neabejotina Lietuvos Didžiosios Ku­
@@ -12343,6 +12723,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194014
 
 - id: c-176841
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1836
 

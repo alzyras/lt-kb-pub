@@ -153,6 +153,8 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
 ## Citatos
 
 - id: c-44715
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tai dezinformacija! Imti
     skleisti gandai apie tai, kad yra parengti
@@ -194,6 +196,8 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
     - t-40833
 
 - id: c-44716
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Atrodo, kad nei Europos, nei pasaulio
     mastu dar nebuvo buvę tokio ypatingo

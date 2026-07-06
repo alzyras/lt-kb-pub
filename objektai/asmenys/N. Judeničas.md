@@ -65,6 +65,8 @@ Judeničas spalį pradėjo Petrogrado puolimą ir pareikalavo, kad Bermontas par
 ## Citatos
 
 - id: c-41594
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš bolševikus kovojęs rusų generolas monarchistas
     N. Judeničas spalį pradėjo Petrogrado puolimą ir pareika-

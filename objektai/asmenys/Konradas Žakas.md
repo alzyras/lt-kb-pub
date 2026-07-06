@@ -228,6 +228,8 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 ## Citatos
 
 - id: c-60675
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Karšuvos žemės nusiaubimą
 
@@ -246,6 +248,8 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - t-194501
 
 - id: c-60677
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
 
@@ -262,6 +266,8 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - t-60045
 
 - id: c-167489
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Straisbergo miesto sugriovimą 1298 metais
 

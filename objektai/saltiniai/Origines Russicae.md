@@ -86,6 +86,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-174732
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Gerardas Fridrikas Mileris
     (Müller;

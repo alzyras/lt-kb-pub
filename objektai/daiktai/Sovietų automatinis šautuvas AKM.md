@@ -122,6 +122,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75895
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
     prasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,

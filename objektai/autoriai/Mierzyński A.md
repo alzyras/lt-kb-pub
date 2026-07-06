@@ -73,6 +73,8 @@ Dusburgietis teigia, kad mierzyński A.
 ## Citatos
 
 - id: c-61388
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896.
   statusas: verified

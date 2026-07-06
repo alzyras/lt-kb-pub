@@ -148,6 +148,8 @@ Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką. Belč
 ## Citatos
 
 - id: c-170261
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     2r. past. 18.
     1 5  Belčica — upelis, Įtekantis i Dauguvą iš pietų, priešais Po­
@@ -162,6 +164,8 @@ Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką. Belč
     - t-187167
 
 - id: c-170262
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     18.
     1 5  Belčica — upelis, Įtekantis i Dauguvą iš pietų, priešais Po­

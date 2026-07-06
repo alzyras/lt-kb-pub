@@ -82,6 +82,8 @@ Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiam
 ## Citatos
 
 - id: c-84288
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant gana kritiško požiūrio į
     istorijos šaltinius, M. Balinskio Vilniaus istorija neprilygo J. I. Kra­

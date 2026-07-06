@@ -859,6 +859,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 ## Citatos
 
 - id: c-04834
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Traidenį šiek tiek žinių davė beveik jo amžininkai, Ipatijaus ir
     Eiliuotinės kronikos autoriai, tačiau Traidenio laikotarpyje yra daug
@@ -876,6 +878,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-05200
 
 - id: c-04835
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lie­
     tuvių būriai nusiaubdavo pietinės Lenkijos, o ypač Liublino ir Lę­
@@ -891,6 +895,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-05201
 
 - id: c-04836
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pats Trai­
     denis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I
@@ -908,6 +914,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-05202
 
 - id: c-04837
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kilmė tos rytų Europos istorijoje reikšmingos dinastijos
     pradingsta tamsoje.
@@ -926,6 +934,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-05203
 
 - id: c-42277
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pats Traidenis, pietuose atrėmęs priešo
     atakas, 1272 m. prie Vakarų Bugo, pasiuntęs
@@ -943,6 +953,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-90052
 
 - id: c-85934
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     I1L Kunigaikštis Traidenis, kunigaikščio
     Dovydo Dovydavičiaus sūnus. IV. Kunigaikštis Vytenis,
@@ -955,6 +967,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-90047
 
 - id: c-85935
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė
     aplinka sunkino bendrą kovą prieš Ordino agresiją. Vis dėlto Lietuva ir toliau liko pagrindinė,
@@ -969,6 +983,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-90046
 
 - id: c-85937
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Švarnas** Lietuvą valdė labai neilgai: vos vienerius metus
     pavaldęs, jis mirė (1269 m.). Lietuva liko be dinastijos, ir nauja
@@ -984,6 +1000,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-90059
 
 - id: c-85940
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Spinta XI, Nr. 19 ir ten pat LIV, Nr.
     3 yra paminėję. Viename dokumen­
@@ -1006,6 +1024,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-90050
 
 - id: c-85943
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,
     telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
@@ -1024,6 +1044,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-90055
 
 - id: c-168205
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kaip tei­
     giama įvairių rašytojų, Ro­
@@ -1046,6 +1068,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-184844
 
 - id: c-168206
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vargu ar galima patikėti, kad per
     tokį trumpą laiką po Šventaragio mirties (tai yra vos
@@ -1067,6 +1091,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-184845
 
 - id: c-173872
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Siekdamas padaryti
     tam galą, Lietuvos didysis kunigaikštis Narimantas apie
@@ -1086,6 +1112,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-190990
 
 - id: c-173873
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
     vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
@@ -1102,6 +1130,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-190991
 
 - id: c-173874
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
     to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
@@ -1119,6 +1149,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-190992
 
 - id: c-176619
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir tapęs jų valdovu bei juos palenkęs, atidavė
     juos už duoklę savo broliui Traideniui u .
@@ -1145,6 +1177,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-193994
 
 - id: c-176620
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O tuo metu, valdant Traide­
     niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
@@ -1165,6 +1199,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-193995
 
 - id: c-176838
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     45
 

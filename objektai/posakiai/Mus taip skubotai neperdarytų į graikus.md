@@ -73,6 +73,8 @@ Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai ne
 ## Citatos
 
 - id: c-174991
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antra vertus, suvokdamas istoriko pasirinkto tikslo
     sudėtingumą, anonimas rašė: „Autorius, norėdamas ab ovo

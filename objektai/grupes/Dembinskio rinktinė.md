@@ -107,6 +107,8 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 ## Citatos
 
 - id: c-70483
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Rusai tuo tarpu atga-
     beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
@@ -124,6 +126,8 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
     - t-72057
 
 - id: c-70484
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.

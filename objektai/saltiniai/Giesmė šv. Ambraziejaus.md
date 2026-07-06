@@ -72,6 +72,8 @@ Dusburgietis teigia, kad mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
 ## Citatos
 
 - id: c-61706
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
     Ambraziejaus”).

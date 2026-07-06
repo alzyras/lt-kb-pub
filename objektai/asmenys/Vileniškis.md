@@ -103,6 +103,8 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 ## Citatos
 
 - id: c-41472
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Priedangai buvo
     paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais. Jie dar kelias
@@ -116,6 +118,8 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     - t-39668
 
 - id: c-167154
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Gedimino“ įgula atmušė dar kelias lenkų atakas, kovoms aprimus, traukinio vadas įsakė
     įgulai nuimti ginkluotę, ir palikus traukinio vagonus, trauktis pėsčiomis. Priedangai buvo

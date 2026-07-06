@@ -129,6 +129,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 ## Citatos
 
 - id: c-168636
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo tarpu Va­
     siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
@@ -157,6 +159,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     - t-185275
 
 - id: c-168637
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto Ostro­
     giškis su keliomis lengvųjų

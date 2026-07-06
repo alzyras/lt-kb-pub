@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44648
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pavyzdžiui, tuo metu Prūsijos ka-
     riuomenė jau buvo ginkluota 1841 metų konstrukcijos šautuvais,

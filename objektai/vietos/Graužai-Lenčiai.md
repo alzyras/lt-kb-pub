@@ -77,6 +77,8 @@ Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš už
 ## Citatos
 
 - id: c-40271
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     X ŠILAINIŲ PASALA
     1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių

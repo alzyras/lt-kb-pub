@@ -75,6 +75,8 @@ Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasia
 ## Citatos
 
 - id: c-172406
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Juodas (Johds)
     Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­

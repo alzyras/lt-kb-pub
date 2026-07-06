@@ -71,6 +71,9 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
 ## Citatos
 
 - id: c-38108
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
     siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­

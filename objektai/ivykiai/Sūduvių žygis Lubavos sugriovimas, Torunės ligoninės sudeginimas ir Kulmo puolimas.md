@@ -144,6 +144,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60061
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
                                        pilies bei miesto sugriovimą
@@ -164,6 +166,8 @@ Nenurodyta
     - t-59429
 
 - id: c-167352
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais. Vienas sūduvių

@@ -129,6 +129,8 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
 ## Citatos
 
 - id: c-171872
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     1663)*.
     456
@@ -154,6 +156,8 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
     - t-188983
 
 - id: c-171873
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     457
 

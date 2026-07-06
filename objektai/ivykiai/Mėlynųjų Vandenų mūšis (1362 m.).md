@@ -300,6 +300,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11889
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taigi po mūšio buvo nusiaub-
     tas Aukso ordos valdų plotas tarp
@@ -327,6 +329,8 @@ Nenurodyta
     - t-10253
 
 - id: c-169730
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
     niai šaltiniai: žinios xv a. pirmosios pusės
@@ -350,6 +354,8 @@ Nenurodyta
     - t-186372
 
 - id: c-169731
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tas pats aprašyta vė-
     lesniame Maskvos- Tverės kilmės Nikono
@@ -373,6 +379,8 @@ Nenurodyta
     - t-10255
 
 - id: c-169732
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Algirdo didvalstybė
     Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva

@@ -283,6 +283,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16406
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
     sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
@@ -301,6 +303,8 @@ Nenurodyta
     - t-75339
 
 - id: c-26857
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pirmieji
     tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)
@@ -315,6 +319,8 @@ Nenurodyta
     - t-75334
 
 - id: c-26858
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Spalio 21 dieną LKP CK pirmuoju sekre-
     toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
@@ -336,6 +342,8 @@ Nenurodyta
     - t-75335
 
 - id: c-73140
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
     lankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-

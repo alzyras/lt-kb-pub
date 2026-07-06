@@ -389,6 +389,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 ## Citatos
 
 - id: c-37628
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Beliko
     Švitrigaila.
@@ -404,6 +407,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119219
 
 - id: c-37629
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo laiku tą sritį valdė trys broliai emirai. Bet jie buvo Algirdo
     prie Mėlynąją Vandeną sumušti (1362), o ją valdomos žemės
@@ -417,6 +423,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119212
 
 - id: c-37630
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Net
     nuostabu, kad lenką bajorai ne tik sutiko su nusileidimais Ordi­
@@ -438,6 +447,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119213
 
 - id: c-37631
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     biau jai rodydamas savo reikalingumą, o artindamasis į Ordiną,
     dar labiau norėjo pakelti Lenkijos akyse savo įtakos ir pagalbos
@@ -457,6 +469,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119214
 
 - id: c-109511
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
     didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
@@ -474,6 +489,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119216
 
 - id: c-109512
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo Lenkijos pakraščio, nuo
     Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
@@ -489,6 +506,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119215
 
 - id: c-109513
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
     ka neišleisti iš akių ir vieno jau aukščiau minėto fakto — Švitri­
@@ -508,6 +528,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119218
 
 - id: c-109514
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.
     pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
@@ -524,6 +547,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-119217
 
 - id: c-167762
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Per vieną šimtą metų, prieš Algirdui užmerkiant
     akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­

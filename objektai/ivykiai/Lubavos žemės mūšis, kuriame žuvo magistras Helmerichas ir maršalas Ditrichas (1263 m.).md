@@ -166,6 +166,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63709
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
     į Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
@@ -190,6 +192,8 @@ Nenurodyta
     - t-62870
 
 - id: c-63710
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
 
@@ -208,6 +212,8 @@ Nenurodyta
     - t-62870
 
 - id: c-63711
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai apie tai išgirdo magistras
     brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos

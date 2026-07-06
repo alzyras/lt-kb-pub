@@ -106,6 +106,8 @@ Vartojama etimologinėje pastaboje apie slavų šventyklų vardus ir jų kilmę.
 ## Citatos
 
 - id: c-175124
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     pastraipos
     tęsinys/

@@ -121,6 +121,8 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 ## Citatos
 
 - id: c-45435
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1581 m. Pskovo kampanija, Radvilos Perkūno reidas, Lietu
     Rugpjūčio 25 d. K. Radvilos pajėgos nu-
@@ -140,6 +142,8 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     - t-42321
 
 - id: c-45436
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusai buvo sumušti,
     apie 300 jų žuvo. Rugsėjo 4 d. lietuviai pa-

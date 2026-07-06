@@ -63,6 +63,8 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
 ## Citatos
 
 - id: c-176014
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Girios. Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo
     padaryta ir didžiojo kunigaikščio girių revizija. Buvo išvestos jų

@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63553
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,

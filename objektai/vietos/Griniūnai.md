@@ -77,6 +77,8 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
 ## Citatos
 
 - id: c-45106
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Puolimas buvo pradėtas 1919 m. ge-
     gužės 18 d. naktį. Dešinioji kolona ener-

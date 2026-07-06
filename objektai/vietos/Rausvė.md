@@ -119,6 +119,8 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 ## Citatos
 
 - id: c-59248
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
     1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
@@ -135,6 +137,8 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
     - t-58616
 
 - id: c-59249
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mėginta
     sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen

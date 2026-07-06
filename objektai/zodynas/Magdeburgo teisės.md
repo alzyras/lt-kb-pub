@@ -772,6 +772,9 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 ## Citatos
 
 - id: c-14674
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Miestelėnų luomo susikūrimui irgi Vytauto laikais buvo pa­
     dėti pagrindai, kai miestams buvo suteiktos pirmos savivaldy­
@@ -786,6 +789,9 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113655
 
 - id: c-14675
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmasis miestas gavęs Mag­
     deburgo teises buvo Vilnius. Tas teises jis gavo 1387 met. iš
@@ -801,6 +807,9 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113656
 
 - id: c-37888
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tas teises jis gavo 1387 met. iš
     Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
@@ -817,6 +826,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113649
 
 - id: c-104838
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karalius šią privilegiją
     suteikė savo apaštališkosios kelionės
@@ -839,6 +850,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113646
 
 - id: c-104839
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau, po ketu­
     rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
@@ -884,6 +897,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113653
 
 - id: c-104840
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     114
 
@@ -906,6 +921,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113652
 
 - id: c-104841
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau dėl gyvenančių pasiturin­
     čiųjų ir taikos šalyje buvo atstatomi sunykę pastatai, gyvėjo
@@ -931,6 +948,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113648
 
 - id: c-104842
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
     lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
@@ -974,6 +993,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113651
 
 - id: c-104844
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Buvo juk to­
     kia visuotinė pirmykščių krikščionių
@@ -1012,6 +1033,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113643
 
 - id: c-104845
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
     atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
@@ -1033,6 +1056,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113650
 
 - id: c-104846
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
     ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
@@ -1064,6 +1089,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113645
 
 - id: c-104847
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Aplink Polianų dvarą prie
     Ašmenos buvo rasta daug kartų.
@@ -1088,6 +1115,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113654
 
 - id: c-104848
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     228
 
@@ -1112,6 +1141,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113647
 
 - id: c-104849
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     12
     Iš kryžiuočių laiškų, išsaugotų Slap­
@@ -1143,6 +1174,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-113644
 
 - id: c-166357
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl
     tik Vytauto laikais daugiau iškilo Vilnius, Trakai, Brasta, Gardi-

@@ -124,6 +124,8 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
 ## Citatos
 
 - id: c-172961
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Turime kažkokį aprašymą šio medžio, kurį Bo­
     leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
@@ -141,6 +143,8 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
     - t-190078
 
 - id: c-172962
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O dėl prūsų turėtų šventyklų, tai suminėsime smulkesnes
     žinias apie jas, paimtas iš kronikininkų pranešimų ir nušvies­

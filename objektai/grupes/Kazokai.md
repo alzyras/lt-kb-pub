@@ -420,6 +420,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-22454
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
     mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
@@ -435,6 +437,8 @@ media_all_json: |-
     - t-65308
 
 - id: c-22455
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
     kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
@@ -451,6 +455,8 @@ media_all_json: |-
     - t-65307
 
 - id: c-42704
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šiame sparne buvo sutelktos įvairios
     kavalerijos rūšys. Šio sparno jėga - reitarų
@@ -471,6 +477,8 @@ media_all_json: |-
     - t-65305
 
 - id: c-42705
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmiausiai janičarai (turkų pėstininkai),
     o po to ir turkų kavalerija atakavo atski-
@@ -487,6 +495,8 @@ media_all_json: |-
     - t-65306
 
 - id: c-42706
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gynybos linija prie Chocino buvo taip
     įrengta, kad priešas negalėtų jos apeiti,
@@ -509,6 +519,8 @@ media_all_json: |-
     - t-65309
 
 - id: c-42707
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Bėgantį priešą pradėjo vytis ir
     kazokai, kurie, įsiveržę į turkų ar-
@@ -527,6 +539,8 @@ media_all_json: |-
     - t-65304
 
 - id: c-167047
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Staigus puolimas
     sukėlė paniką janičarų gretose.

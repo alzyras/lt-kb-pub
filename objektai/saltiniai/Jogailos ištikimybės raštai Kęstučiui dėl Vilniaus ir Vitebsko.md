@@ -72,6 +72,8 @@ Mūsų tėvas šitą tikrai patyrė ir, pamatęs ant savo galvos nelaimę, nužy
 ## Citatos
 
 - id: c-176779
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mūsų tėvas šitą tikrai patyrė
     ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­

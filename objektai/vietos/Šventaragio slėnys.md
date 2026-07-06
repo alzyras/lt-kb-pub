@@ -73,6 +73,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 ## Citatos
 
 - id: c-93921
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     97, 101, 106, 148
     Šušvė 127, 332

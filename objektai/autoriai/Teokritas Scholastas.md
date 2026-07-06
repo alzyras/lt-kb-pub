@@ -73,6 +73,8 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
 ## Citatos
 
 - id: c-173341
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kronikininkai taip pat mano, kad dievui Varpui būdavo
     aukojami gaidžiai, kaip budrumo simboliai.

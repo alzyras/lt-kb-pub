@@ -71,6 +71,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33677
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tow. Nauk w Toruniu,
     t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von

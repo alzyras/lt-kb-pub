@@ -176,6 +176,8 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
 ## Citatos
 
 - id: c-174617
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
@@ -191,6 +193,8 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
     - t-191735
 
 - id: c-174618
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šioje
     sutartyje yra viena detalė, atskleidžianti visą esmę. Ten
@@ -208,6 +212,8 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
     - t-191736
 
 - id: c-174619
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Labiau priartėsime prie tikslo, kai pasitelksime kitą
     sutarties vietą. Tam, kad naujiems šio pajūrio miesto

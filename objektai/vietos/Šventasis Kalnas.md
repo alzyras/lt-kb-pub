@@ -136,6 +136,8 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
 ## Citatos
 
 - id: c-170402
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Paskiau leidosi kelionėn į Poionos6  vienuolyną pas
     5 6
@@ -158,6 +160,8 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
     - t-187407
 
 - id: c-170632
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
     Paskiau leidosi kelionėn į Poionos6  vienuolyną pas

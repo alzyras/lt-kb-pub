@@ -81,6 +81,8 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 ## Citatos
 
 - id: c-60960
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
 

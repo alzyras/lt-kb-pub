@@ -199,6 +199,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66835
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
     šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
@@ -239,6 +241,8 @@ Nenurodyta
     - t-66638
 
 - id: c-66836
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
 

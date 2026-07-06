@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63055
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
 

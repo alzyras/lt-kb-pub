@@ -83,6 +83,8 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
 ## Citatos
 
 - id: c-175653
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais

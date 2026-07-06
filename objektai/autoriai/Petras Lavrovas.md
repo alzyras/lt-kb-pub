@@ -76,6 +76,8 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gub
 ## Citatos
 
 - id: c-174496
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Korespondentas — Lydos bajorų mokyklos
     vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­

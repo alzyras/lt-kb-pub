@@ -88,6 +88,8 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
 ## Citatos
 
 - id: c-84414
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1577 metų gruodžio 19 dienos, o pirmesne 1539
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­

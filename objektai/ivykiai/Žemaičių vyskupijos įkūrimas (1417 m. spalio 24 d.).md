@@ -140,6 +140,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-35751
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Apie Žemaičių arba Medininkų vyskupijos įkūrimą (1417.
     X. 24) pasiuntiniai pranešė Konstancijos susirinkimui; jų raštas
@@ -158,6 +161,9 @@ Nenurodyta
     - t-34527
 
 - id: c-35752
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Varniuose, kur buvo Vytauto paskirta Žemaičių
     vyskupui buveinė ir praminta nuo tos apskrities vardo Medinin­

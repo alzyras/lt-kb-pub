@@ -81,6 +81,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24133
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Narystė
     NATO – ne tik didesnės saugumo garantijos, bet ir įsipareigojimai prisidėti

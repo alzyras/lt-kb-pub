@@ -191,6 +191,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84255
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1572, mir.
     1619 m.
@@ -215,6 +217,8 @@ media_all_json: |-
     - t-88277
 
 - id: c-84256
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po Paleckių mirties jų
     sūnūs turėjo privilegijas atiduoti
@@ -233,6 +237,8 @@ media_all_json: |-
     - t-88276
 
 - id: c-84257
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bandė keletą kartu, būtent jau prie
     karaliaus Stepono, pasikvietę Palec­

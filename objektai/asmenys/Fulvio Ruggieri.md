@@ -166,6 +166,8 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 ## Citatos
 
 - id: c-76069
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
     didesnė dalis Livonijos tapo Lietuvos dalimi
@@ -188,6 +190,8 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
     - t-78981
 
 - id: c-76071
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jungtinėje
     kariuomenėje buvo 33180 karių

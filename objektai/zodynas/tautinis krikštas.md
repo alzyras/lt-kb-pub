@@ -110,6 +110,8 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 ## Citatos
 
 - id: c-95107
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tautos patriarchas dr. Jonas Basanavičius
 

@@ -68,6 +68,9 @@ Kaip kiekviena sutartis taip ir ši pasiliko sutartimi: galingi gyvenimo faktai 
 ## Citatos
 
 - id: c-38379
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tenka manyti, kad Vytautas tiek
     padarė, kiek jautė savy galybės ne tik santykiuose su Lenki­

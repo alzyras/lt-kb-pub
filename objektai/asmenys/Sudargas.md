@@ -184,6 +184,8 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
 ## Citatos
 
 - id: c-60842
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikoje Sudargas, kaip lietuvių karo vadas,
     figūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332). Jis kovojo prieš Ordiną,
@@ -197,6 +199,8 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
     - t-60210
 
 - id: c-60843
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Antra
     kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
@@ -216,6 +220,8 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
     - t-60211
 
 - id: c-168195
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai Chris-
     1316 m e ta i

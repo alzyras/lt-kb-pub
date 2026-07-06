@@ -104,6 +104,8 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
 ## Citatos
 
 - id: c-23766
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Šlovinga Lenkijos ir Lietuvos Konstitucija“ vėl sutei-
     kė Lietuvai prarastą „būsimos didybės viltį“. Reformos ne tik pažangia
@@ -121,6 +123,8 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
     - t-75446
 
 - id: c-73228
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reformos ne tik pažangia
     linkme kreipė socialinę ir politinę Lietuvos visuomenės raidą, bet ir teikė

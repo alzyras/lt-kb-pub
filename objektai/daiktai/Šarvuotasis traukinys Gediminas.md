@@ -243,6 +243,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42593
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Todėl
     praėjus bolševikų
@@ -268,6 +270,8 @@ Nenurodyta
     - t-78695
 
 - id: c-42594
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šarvuotam traukiniui vadovavo
     plk. Itn. Jonas Kraucevičius.
@@ -279,6 +283,8 @@ Nenurodyta
     - t-78694
 
 - id: c-42596
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Spalio 10 d. traukinys sugrįžo į Kauną, kur greitai buvo įrengti nauji kulkosvaidžių va-
     gonai, suremontuoti ir patobulinti mūšiuose dalyvavę traukinio vagonai. Lapkričio 21 d.
@@ -292,6 +298,8 @@ Nenurodyta
     - t-78691
 
 - id: c-75902
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Traukinys savo patrankomis ir kul-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
@@ -307,6 +315,8 @@ Nenurodyta
     - t-78692
 
 - id: c-75903
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-

@@ -104,6 +104,8 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
 ## Citatos
 
 - id: c-33110
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^13) **Žr. Pr. Penkauskas :** **_Vytautas Didysis ir jo Čekijos politika Venceliui
     mirus,_** **atsp. iš Židinio, 1930.**
@@ -119,6 +121,8 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
     - t-30931
 
 - id: c-33111
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Pasz­
     kiewicz, H. : _O genezie i wartości Krewa_ , Warszawa, 1938. — Penkaus-

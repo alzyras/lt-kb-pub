@@ -84,6 +84,8 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 ## Citatos
 
 - id: c-83751
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-33415
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nepatogu Rygai buvo girdėti priekaištą apie bendravimą su pago­
     nimis. Tad Rygos arkivyskupo paraginti, Lietuvos pasiuntiniai,

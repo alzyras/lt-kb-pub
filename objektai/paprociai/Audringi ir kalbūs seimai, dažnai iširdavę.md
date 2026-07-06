@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02149
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jei kuri pusė jų nepriimtų, prieš tą jis pagrasino čia pat
     stovinčia caro armija. Visi buvo labai nepatenkinti, tačiau prieš

@@ -61,6 +61,8 @@ Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos
 ## Citatos
 
 - id: c-60982
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Joną XXI, popiežių, ir karalių Rudolfą, Romos karalių
 

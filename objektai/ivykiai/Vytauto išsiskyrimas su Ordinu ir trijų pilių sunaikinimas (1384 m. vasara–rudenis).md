@@ -101,6 +101,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37079
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tad praslinkus trims savaitėms nuo paskutinio susitarimo su
     Ordinu, Vytautas pradėjo vykdyti savo atsimetimo nuo kry­

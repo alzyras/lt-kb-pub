@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173912
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ta­
     čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­

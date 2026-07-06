@@ -157,6 +157,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 ## Citatos
 
 - id: c-42988
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vakaruose 1433 m. Lenkijai suartėjus su
     čekų husitais, Ordinui kilo didelė grėsmė.
@@ -175,6 +177,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     - t-193738
 
 - id: c-44876
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ordinas, pirmiausia jo Livonijos šaka,
     toliau liko Švitrigailos rėmėja, nes siekė,
@@ -200,6 +204,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     - t-41207
 
 - id: c-176403
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švitrigaila
     siekė visiško savarankiškumo ir palaikė

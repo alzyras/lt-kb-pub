@@ -151,6 +151,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-156006
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kęstutis ją, po 5 savaites trukusio apgulimo, naudodamas sienoms
     griauti mašinas, paėmė. Torno analuose pažymėta, kad lietuviai,
@@ -166,6 +168,8 @@ Nenurodyta
     - t-171482
 
 - id: c-156007
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tris savaites už­
     trukęs apgulimas buvo atliktas gerai pasiruošus, nes «pilis buvo

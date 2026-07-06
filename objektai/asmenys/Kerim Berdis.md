@@ -158,6 +158,8 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
 ## Citatos
 
 - id: c-169413
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Užvolgio skitai,
     netekę mirusio chano Saladi-
@@ -181,6 +183,8 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
     - t-186052
 
 - id: c-169414
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nie­
     ko gero nesusilaukė Tochtamyšas, mat tas, kuris,
@@ -203,6 +207,8 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
     - t-186053
 
 - id: c-169415
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šio jėgos smarkiai išaugo. Tačiau Kerim Ber­
     dis nė trupučio nesutriko, drąsos jam teikė prisimini­

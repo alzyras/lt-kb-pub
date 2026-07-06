@@ -169,6 +169,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-35411
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tokį suvažiavimą, kuriame abi pusės rengėsi laimėti, Jo­
     gaila sušaukė 1413 m. spalių mėn. 2 d. Horodlės miestelyje (prie
@@ -182,6 +185,8 @@ media_all_json: |-
     - t-34186
 
 - id: c-171588
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­

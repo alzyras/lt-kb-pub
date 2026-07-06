@@ -743,6 +743,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 ## Citatos
 
 - id: c-36562
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene
     pirmagimis sūnus. Kuriais metais jis gimė, tiksliai sunku pasa­
@@ -758,6 +761,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194955
 
 - id: c-36564
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas savo ka­
     riuomenę pats vedė, o lenkai visai neturėjo vadų. Jogaila ėmė
@@ -775,6 +781,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194956
 
 - id: c-36566
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas
     visą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome­
@@ -790,6 +799,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194957
 
 - id: c-36576
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
@@ -802,6 +814,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194960
 
 - id: c-36579
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
     da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
@@ -822,6 +837,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194961
 
 - id: c-36580
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių
     Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­
@@ -840,6 +858,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194962
 
 - id: c-36581
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
     tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš
@@ -859,6 +880,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194963
 
 - id: c-36583
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
     Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
@@ -876,6 +900,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194964
 
 - id: c-36586
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šis pavojus ir turėjo būt aptartas suvažia­
     vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­
@@ -890,6 +917,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194965
 
 - id: c-36588
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
     pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
@@ -905,6 +935,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194967
 
 - id: c-177351
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Daugiau Jogaila Lie­
     tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos
@@ -923,6 +956,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194958
 
 - id: c-177352
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vadinasi, taip stipriai Vytautas buvo užatakavęs šiuos stepių
     gyventojus, kurie nuo Aukso Ordos įkūrimo laikų (1273) vargi­
@@ -942,6 +978,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194959
 
 - id: c-177353
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Juk
     tai buvo visos Lietuvos pažeminimas ir nepasitikėjimas jos ba­
@@ -960,6 +999,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194966
 
 - id: c-177354
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet ir tada nebuvo iš­
     spręstas. Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­
@@ -978,6 +1020,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194968
 
 - id: c-177355
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet
     ir ligi to termino nieko nesulaukta. Vytautas, atsisveikinęs
@@ -991,6 +1036,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194969
 
 - id: c-177356
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jei jis negerai suprantąs tą tiesą, prašo pamo­
     kyti, nes esąs pasiruošęs išpildyti visus Katalikų Bažnyčios
@@ -1008,6 +1056,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194970
 
 - id: c-177357
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo tam tikra žemės
     valdymo reforma, Vytauto įvykdyta rusiškuose kraštuose, ir
@@ -1024,6 +1075,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194971
 
 - id: c-177358
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip
     pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­
@@ -1040,6 +1094,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194972
 
 - id: c-177359
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.
     Šioje srityje nauji išradimai ypač jį domindavo. Visokių karo
@@ -1053,6 +1110,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194973
 
 - id: c-177360
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt
     ir rusų, nes su jų kunigaikščiais vedė daug reikalų ir giminia­
@@ -1068,6 +1128,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194974
 
 - id: c-177361
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
     čio kovos metu su Jogaila. Jis atsidūrė sunkioje būklėje: abu
@@ -1084,6 +1147,9 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     - t-194975
 
 - id: c-177362
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1392 metai Vytauto gyvenime yra persilaužimo metai —
     jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­

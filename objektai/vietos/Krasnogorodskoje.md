@@ -88,6 +88,8 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
 ## Citatos
 
 - id: c-170303
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­

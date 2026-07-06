@@ -70,6 +70,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176753
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ”  Michailas Borisovičius (1453 — apie 1505 m.) — paskutinis sa­
     varankiškas T verės didysis kunigaikštis (nuo 1461 m.) 1483 m. bu­

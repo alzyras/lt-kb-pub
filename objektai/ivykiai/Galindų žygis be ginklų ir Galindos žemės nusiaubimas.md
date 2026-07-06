@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-87546
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
     žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
@@ -153,6 +155,8 @@ Nenurodyta
     - t-91904
 
 - id: c-87547
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje,
     buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus,

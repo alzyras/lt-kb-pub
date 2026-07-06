@@ -115,6 +115,8 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
 ## Citatos
 
 - id: c-59238
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Reikšminga, kad senuose pasakojimuose,
     žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi
@@ -128,6 +130,8 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
     - t-58606
 
 - id: c-59239
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje,
     kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e. tūkstantmečio

@@ -228,6 +228,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174944
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Man vis dėlto atrodo,
     kad įvykis, aprašytas Petro Olai
@@ -256,6 +258,8 @@ Nenurodyta
     - t-192076
 
 - id: c-174945
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šie, susirinkę labai daug savo valčių, stojo
     į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
@@ -273,6 +277,8 @@ Nenurodyta
     - t-192074
 
 - id: c-174946
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šią
     karalaitę, nenorėjusią už jo tekėti, Frotonas paviliojęs ste­
@@ -292,6 +298,8 @@ Nenurodyta
     - t-192075
 
 - id: c-175296
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Danai, atplaukę su
     nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas

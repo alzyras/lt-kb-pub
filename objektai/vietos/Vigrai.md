@@ -81,6 +81,8 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 ## Citatos
 
 - id: c-03101
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Šiaurinė Užnemunės dalis anksčiau priklausė
     Žemaičių, o pietinė — Vilniaus vyskupijai. Norėdama atskirti

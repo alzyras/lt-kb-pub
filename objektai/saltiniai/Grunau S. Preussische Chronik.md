@@ -74,6 +74,8 @@ Dusburgietis teigia, kad grunau S.
 ## Citatos
 
 - id: c-61708
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Grunau S. Preussische Chronik / Herausgegeben von M. Perlbach.— Bd. 1.— Leipzig,
     1875.

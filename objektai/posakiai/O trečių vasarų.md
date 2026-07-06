@@ -96,6 +96,8 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
 ## Citatos
 
 - id: c-170078
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     D'u-
     gošo (IV. p. 511—5121 žinoma, kad 1434 m. rugplūčio pabaigoje

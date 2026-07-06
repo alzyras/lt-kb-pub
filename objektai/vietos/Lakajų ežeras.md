@@ -87,6 +87,8 @@ Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, e
 ## Citatos
 
 - id: c-82183
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Dievobaimin­
     ga širdimi apsvarstę pirmuosius

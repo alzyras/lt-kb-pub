@@ -108,6 +108,8 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
 ## Citatos
 
 - id: c-168821
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Cenzoriai neskaitė autoriaus pirmo ir antro tomų
     dedikacijų Sapiegoms. Antrą tomą A. Kojelavičius pa­
@@ -123,6 +125,8 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
     - t-185460
 
 - id: c-171223
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lie­
     9

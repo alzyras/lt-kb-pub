@@ -82,6 +82,8 @@ Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos
 ## Citatos
 
 - id: c-24068
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tarptautinis olimpinis ko-
     mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto

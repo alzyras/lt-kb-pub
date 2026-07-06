@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-28719
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Valkaviske Lenkijos pasiuntinių sutiktas (1386.I.12), Jogaila
     nuvyko į kilmingųjų seimą Liubline, kur buvo išrinktas Lenkijos

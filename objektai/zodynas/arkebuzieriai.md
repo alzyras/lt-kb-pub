@@ -107,6 +107,8 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 ## Citatos
 
 - id: c-45500
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ie r. g“ sel
 
@@ -124,6 +126,8 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
     - t-42431
 
 - id: c-45501
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rotmistro husarai
     smogė priešininko pėstininkams. Lietuvos

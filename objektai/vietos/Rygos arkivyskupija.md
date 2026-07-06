@@ -70,6 +70,9 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
 ## Citatos
 
 - id: c-38634
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo pat metu
     ateina ir iš Italijos laiškų, jį atkalbinėjančių nuo karūnacijos su­

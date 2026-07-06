@@ -89,6 +89,8 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
 ## Citatos
 
 - id: c-174687
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     278
 

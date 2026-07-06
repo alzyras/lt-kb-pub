@@ -75,6 +75,8 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
 ## Citatos
 
 - id: c-24386
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XX a. septintajame dešimtmetyje LSSR administracija parengė šalies
     regioninį ekonomikos plėtros planą, kurio esmė – stabdyti senųjų pra-

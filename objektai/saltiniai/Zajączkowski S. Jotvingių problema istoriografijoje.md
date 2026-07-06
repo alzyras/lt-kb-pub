@@ -72,6 +72,8 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Citatos
 
 - id: c-62009
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Zajączkowski S. Jotvingių problema istoriografijoje.— Lietuvos praeitis, V.—K., 1941,
     t. 1, sąs. 2, p. 387—468.

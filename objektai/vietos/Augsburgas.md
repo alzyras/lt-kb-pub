@@ -81,6 +81,8 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
 ## Citatos
 
 - id: c-170258
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1938.
     Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu-

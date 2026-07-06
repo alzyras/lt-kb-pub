@@ -185,6 +185,9 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 ## Citatos
 
 - id: c-37316
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas skubiai
     įvykdė savo pasiryžimą. Pametė Jogailą ir lenkų būrius prie
@@ -199,6 +202,9 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     - t-83245
 
 - id: c-79612
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą
     auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
@@ -217,6 +223,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     - t-83243
 
 - id: c-79613
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ištisi kaimai visoje kunigaikš­
     tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­

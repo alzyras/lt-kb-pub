@@ -75,6 +75,8 @@ Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.
 ## Citatos
 
 - id: c-83864
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo
     Jašiūnų dvare. Sugrįžimą pagreitino nelaimės šeimoje: sūnaus

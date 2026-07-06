@@ -213,6 +213,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 ## Citatos
 
 - id: c-175715
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Herodotas ¡savo kelionės po Skitiją metu teiravosi
     apie gintaringas vietas; boristeniečiai, ariba Padneprės
@@ -232,6 +234,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
     - t-192945
 
 - id: c-175716
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     167
     Gintaras, alavas ir brangūs kailiai Pietų ir Rytų gy­
@@ -249,6 +253,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
     - t-192946
 
 - id: c-175717
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Savo ruožtu graikų boristeniečių prekybiniai santy­
     kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno
@@ -268,6 +274,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
     - t-192947
 
 - id: c-175718
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šie atradimai labiau padeda pateisinti nuomones, jog
     Ptolemėjo geninai iš tikrųjų buvo vadinamieji chueninai,

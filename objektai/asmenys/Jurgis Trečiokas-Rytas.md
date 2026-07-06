@@ -69,6 +69,8 @@ Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį �
 ## Citatos
 
 - id: c-44394
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lapkričio 2 d. rytą čekistų pajėgos ap-
     supo Jurgio Trečioko-Ryto bunkerį Šimonių

@@ -75,6 +75,8 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
 ## Citatos
 
 - id: c-170710
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
     prasideda sakiniu apie Kristaus gimimą, valdant Romos

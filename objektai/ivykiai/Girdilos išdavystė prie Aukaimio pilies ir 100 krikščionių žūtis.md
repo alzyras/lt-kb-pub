@@ -139,6 +139,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62788
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie išdavystę, per kurią žuvo šimtas krikščionių
 

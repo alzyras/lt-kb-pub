@@ -116,6 +116,8 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 ## Citatos
 
 - id: c-41908
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     © Dambravos raitarai užeina F.J. Mansfeldo
     kavaleristams iš flango ir suduoda stiprų
@@ -128,6 +130,8 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
     - t-40107
 
 - id: c-44329
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     valdovui Zigmantui Vazai kovoti su maiš-
     tininkais. Tuo pasinaudojo Švedijos ka-

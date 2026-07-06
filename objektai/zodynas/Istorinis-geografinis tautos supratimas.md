@@ -129,6 +129,8 @@ Vartojama aptariant XIX a. Vilniaus istorijų reikšmę Lietuvos istoriografijai
 ## Citatos
 
 - id: c-55810
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo
     J. I. Kraševskio ir M. Balinskio nuopelnus tiriant Vilniaus pra­

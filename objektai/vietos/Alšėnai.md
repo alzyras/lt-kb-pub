@@ -207,6 +207,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 ## Citatos
 
 - id: c-82037
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dalyvaujant didžiai
     gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
@@ -222,6 +224,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     - t-86058
 
 - id: c-170513
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis
     kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku

@@ -132,6 +132,9 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 ## Citatos
 
 - id: c-37180
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Valdžia, mat, turi tendencijos vis didėt, plėto­
     tis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­
@@ -145,6 +148,9 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     - t-54387
 
 - id: c-55232
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo
     galybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­

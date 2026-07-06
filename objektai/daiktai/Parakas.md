@@ -117,6 +117,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55714
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
     penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­

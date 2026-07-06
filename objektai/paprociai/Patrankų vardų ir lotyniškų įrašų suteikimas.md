@@ -117,6 +117,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83280
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
     turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­

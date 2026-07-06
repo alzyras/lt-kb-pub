@@ -117,6 +117,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12437
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     mūsiškiai metėsi durtuvų kautynėms, tai jie turėjo nusilenkti, nes
     tai buvo jiems didelis netikėtumas. „Šturmovcai“ tą savo nepasi-
@@ -130,6 +132,8 @@ Nenurodyta
     - t-67245
 
 - id: c-43183
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tam tikslui
     | jie sutraukė daug pėstininkų, artilerijos ir kavalerijos

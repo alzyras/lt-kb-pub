@@ -84,6 +84,8 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
 ## Citatos
 
 - id: c-170069
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pasakojimui pagyvinti jis vartoja tiesioginę kalbą
     Tai, beje, nebuvo išimtis ir tuometinių Lietuvos vals­

@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63077
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Poterbergo pilies pastatymą
 

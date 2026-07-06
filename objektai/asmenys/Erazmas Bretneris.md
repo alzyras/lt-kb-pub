@@ -90,6 +90,8 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
 ## Citatos
 
 - id: c-83639
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono Kolegijos Vaistinės kronika
     1546. Žygimanto Augusto laikais to mūrinio namo vie­

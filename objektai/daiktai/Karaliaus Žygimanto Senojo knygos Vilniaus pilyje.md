@@ -146,6 +146,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83058
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Suklestėjus prekybai, sukru­
     to ir iki tol apverktinoje padėtyje Vilniuje buvę amatai, o
@@ -164,6 +166,8 @@ Nenurodyta
     - t-87080
 
 - id: c-83059
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     97,
     ten yra iš Lietuvos Metrikos paimtas

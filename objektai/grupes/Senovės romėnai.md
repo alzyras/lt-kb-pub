@@ -693,6 +693,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 ## Citatos
 
 - id: c-172251
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuo tarpu Apvaizda ruošė kitą tautą, turėjusią tapti Euro­
     pos apšvietos sargu. Senovės Lacijaus gilumoje, tarp plikų kal­
@@ -714,6 +716,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189364
 
 - id: c-172255
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
     kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
@@ -728,6 +732,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189368
 
 - id: c-172256
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikoje beveik kiekviena tauta turėjo
     savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
@@ -752,6 +758,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189369
 
 - id: c-172259
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak Plutarcho, pas atėniečius prijaukinti žal­
     čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
@@ -767,6 +775,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189372
 
 - id: c-172260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -780,6 +790,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189373
 
 - id: c-172261
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Palemonas (Palemon)
     Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
@@ -799,6 +811,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189374
 
 - id: c-172262
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kunigai, stovėdami ant pa­
     kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
@@ -814,6 +828,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189375
 
 - id: c-172263
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis ugnies krikštas, arba apsivalymas
     panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
@@ -831,6 +847,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189376
 
 - id: c-172264
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet kol stabmeldystė tebebuvo
     savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
@@ -847,6 +865,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189377
 
 - id: c-172265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šitaip jaunystėje
     apkirpo Tesėją; nuo to laiko pakirptuvių apeigos tapo įprasti­
@@ -864,6 +884,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-189378
 
 - id: c-176987
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Savo ruožtu romėnai -  kuo jie darėsi galingesni ir labiau
     apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą. Žy­
@@ -881,6 +903,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-194588
 
 - id: c-176988
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš jų dažnai galima išgirsti: tas jau
     biją winnam Likis („taip jam jau buvo lemta“)1 2.
@@ -897,6 +921,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-194589
 
 - id: c-176989
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šio dievo mitas taip pat sutampa su senovės persų Oro-
     mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
@@ -910,6 +936,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-194590
 
 - id: c-176990
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie fetišizmą
     Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
@@ -929,6 +957,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-194591
 
 - id: c-176991
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -943,6 +973,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-194592
 
 - id: c-176992
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Juk mirtingai būtybei net sekundė
     gyvenimo yra malonus turtas.
@@ -958,6 +990,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - t-194593
 
 - id: c-176993
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Užrašas virš akmenų galvų -  runomis'*.
     Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra

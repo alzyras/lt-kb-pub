@@ -71,6 +71,8 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
 ## Citatos
 
 - id: c-24312
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Čia gotika tapo
     net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.

@@ -73,6 +73,8 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
 ## Citatos
 
 - id: c-172449
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žvaigždės tuokdavosi tarpusavy, kaip sakoma latvių
     dainoje:

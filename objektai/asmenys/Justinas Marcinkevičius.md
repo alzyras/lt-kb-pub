@@ -64,6 +64,8 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 ## Citatos
 
 - id: c-176366
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Steigiant LPS apdairiai sutarta ne-
     rinkti iniciatyvinės grupės vadovo –

@@ -74,6 +74,8 @@ Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuol
 ## Citatos
 
 - id: c-173011
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje

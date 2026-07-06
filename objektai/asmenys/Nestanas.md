@@ -100,6 +100,8 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
 ## Citatos
 
 - id: c-169603
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
     se stiprias valachų įgulas, jis leidosi iš Podolės pas

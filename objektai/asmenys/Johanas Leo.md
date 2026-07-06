@@ -78,6 +78,8 @@ Narbutas rašo, kad Gutštato kanauninkas Johanas Leo rėmėsi vyskupo Kristijon
 ## Citatos
 
 - id: c-173045
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad

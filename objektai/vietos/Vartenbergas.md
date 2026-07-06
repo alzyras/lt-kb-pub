@@ -128,6 +128,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 ## Citatos
 
 - id: c-59282
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     158 (153). Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
 
@@ -145,6 +147,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     - t-58650
 
 - id: c-59283
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sūduviai, subūrę dar
     didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,

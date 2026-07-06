@@ -82,6 +82,8 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria ra�
 ## Citatos
 
 - id: c-59777
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
     „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,

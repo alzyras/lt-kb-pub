@@ -2354,6 +2354,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 ## Citatos
 
 - id: c-24425
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau neparemti jie pralaimėjo, ir Kazi-
     mierui teko padaryti su Maskva amžinąją taiką (1449 m.), —
@@ -2372,6 +2374,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178154
 
 - id: c-24426
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tad Maskva
     galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
@@ -2389,6 +2393,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178148
 
 - id: c-24428
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Psko-
     vą, o mažesni jo kariuomenės būriai naikino tolimąsias ru-
@@ -2404,6 +2410,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178121
 
 - id: c-32365
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Salyno akte pirmą kartą apytikriai
     buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos
@@ -2424,6 +2432,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178140
 
 - id: c-37674
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinu
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
@@ -2445,6 +2456,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178122
 
 - id: c-37675
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir kada Vytautas,
     norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
@@ -2471,6 +2485,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178114
 
 - id: c-37677
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
     tribucijomis. Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
@@ -2489,6 +2506,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178108
 
 - id: c-37678
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas turėjo patrankų ir savo žygiuose į Pskovą
     (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
@@ -2505,6 +2525,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178152
 
 - id: c-43781
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pskovo apgultis
 
@@ -2523,6 +2545,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178150
 
 - id: c-43782
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ## Puslapis 95
 
@@ -2542,6 +2566,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178110
 
 - id: c-43783
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
     Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų. Mėginta šautuvus gaminti Gardine,
@@ -2571,6 +2597,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178132
 
 - id: c-161891
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -2590,6 +2618,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178103
 
 - id: c-161892
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
     kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
@@ -2605,6 +2635,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178112
 
 - id: c-161893
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tapęs karaliumi, jis tą pačią privilegiją pritaikė
     visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
@@ -2623,6 +2655,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178153
 
 - id: c-161894
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
@@ -2641,6 +2676,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178100
 
 - id: c-161895
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Palenkdamas rusų bojari-
     10
@@ -2660,6 +2697,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178117
 
 - id: c-161896
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Naugardą su Pskovu. Bet Vytauto veiklumas rytuose, jo
     pastangos Pskove pastatyti savo vietininką, suvedė į naują kon­
@@ -2673,6 +2712,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178109
 
 - id: c-161898
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
@@ -2693,6 +2734,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178144
 
 - id: c-161899
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Atvyko
     Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
@@ -2714,6 +2758,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178111
 
 - id: c-161901
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Steponas Batoras uždraudė
     plėšti gyventojus, paimtus į nelaisvę žmo-
@@ -2736,6 +2782,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178147
 
 - id: c-161902
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Oni że jechawsze w Wilno na srok i po-
     stawisza plenennych pred Witowtom, i
@@ -2770,6 +2818,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178137
 
 - id: c-161904
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­
     taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
@@ -2787,6 +2837,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178124
 
 - id: c-161905
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šis vyskupo žingsnis 1581 metais padrąsino
     viešosios rimties drumstėjus atvirai užpulti reformatų mal­
@@ -2812,6 +2864,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178128
 
 - id: c-161910
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
     ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
@@ -2839,6 +2893,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178127
 
 - id: c-161915
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
     taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
@@ -2864,6 +2920,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178130
 
 - id: c-161917
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didžiulė politinė permaina, atėjusi per Jogailą
     su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos
@@ -2881,6 +2939,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178123
 
 - id: c-161918
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Palaikydamas labai gyvus politinius santykius
     su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
@@ -2900,6 +2961,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178115
 
 - id: c-161920
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mindaugas sukuria Lietuvos valstybę.
     Mindaugo karūnacija 1253 metais
@@ -2916,6 +2979,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178105
 
 - id: c-161923
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Cts
 
@@ -2964,6 +3029,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178135
 
 - id: c-161925
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -2986,6 +3053,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178129
 
 - id: c-161928
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Būda­
     mas ir fiziniu atžvilgiu silpnas, Jaunutis nesugebėjo išreikalauti
@@ -3003,6 +3072,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178143
 
 - id: c-161930
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
     das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti,
@@ -3019,6 +3090,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178107
 
 - id: c-161931
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal Gedimino testamentą tapęs didžiuoju Lietuvos kuni­
     gaikščiu, Jaunutis (1341-1345) pasirodė nesugebąs laikyti tėvo
@@ -3036,6 +3109,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178116
 
 - id: c-161932
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Išsi­
     laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
@@ -3057,6 +3132,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178149
 
 - id: c-161933
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Todėl suprantama,
 
@@ -3074,6 +3151,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178118
 
 - id: c-161935
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
     žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirma-
@@ -3094,6 +3173,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178120
 
 - id: c-161937
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
@@ -3110,6 +3191,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-178106
 
 - id: c-166474
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Batorą; jis tikėjosi, kad
     Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo
@@ -3127,6 +3210,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-183086
 
 - id: c-167690
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau
     šie, palyginti, dar nauji karo technikos pabūklai buvo tokie ne­
@@ -3142,6 +3228,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-184319
 
 - id: c-168477
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi nė sienos nega­
     lėjo ilgiau jo apsaugoti, nes matė, jog bus priverstas
@@ -3171,6 +3259,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-185116
 
 - id: c-170590
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tais pačiais metais, Vytautui būnant Vokiečių že­
     mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,

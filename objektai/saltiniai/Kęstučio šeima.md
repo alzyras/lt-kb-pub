@@ -65,6 +65,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-31671
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99. —
     Veblaitis, P.

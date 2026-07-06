@@ -103,6 +103,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-38688
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Sako
     jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­
@@ -119,6 +122,9 @@ media_all_json: |-
     - t-36709
 
 - id: c-38689
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas užėmė Smolenską antrąsyk
     ir galutinai^1 ). Tuo pat metu jis praplėtė savo valdžią Okos

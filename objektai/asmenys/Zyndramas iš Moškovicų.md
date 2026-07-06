@@ -93,6 +93,9 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
 ## Citatos
 
 - id: c-36061
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tada karalius lenkų kariuomenės ve­
     dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.

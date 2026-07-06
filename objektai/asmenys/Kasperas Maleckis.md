@@ -105,6 +105,8 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 ## Citatos
 
 - id: c-44419
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po nepavykusio
     grafo Liudviko Pliaterio antpuolio prieš
@@ -133,6 +135,8 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     - t-40277
 
 - id: c-44420
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     kryptimi. Netrukus iš K. Maleckio žvalgy-
     binio padalinio atėjo pranešimas apie

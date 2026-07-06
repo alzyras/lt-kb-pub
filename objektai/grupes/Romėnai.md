@@ -647,6 +647,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 ## Citatos
 
 - id: c-46394
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
     galo romėnų rašytojas Tacitas savo veikale „Germania".
@@ -663,6 +665,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-66064
 
 - id: c-171216
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikoje beveik kiekviena tauta turėjo
     savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
@@ -687,6 +691,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-188323
 
 - id: c-171217
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie fetišizmą
     Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
@@ -706,6 +712,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-188324
 
 - id: c-171218
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -720,6 +728,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-188325
 
 - id: c-171219
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak Plutarcho, pas atėniečius prijaukinti žal­
     čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
@@ -735,6 +745,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-188326
 
 - id: c-171220
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -748,6 +760,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-188327
 
 - id: c-171221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Palemonas (Palemon)
     Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
@@ -767,6 +781,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-188328
 
 - id: c-171222
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Užrašas virš akmenų galvų -  runomis'*.
     Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
@@ -783,6 +799,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-188329
 
 - id: c-175246
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kai kartaginietis
     pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
@@ -804,6 +822,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-192452
 
 - id: c-177260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     149
 

@@ -162,6 +162,8 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 ## Citatos
 
 - id: c-66718
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai jie plaukė pro jau
     minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
@@ -185,6 +187,8 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
     - t-66507
 
 - id: c-66719
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias

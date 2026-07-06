@@ -95,6 +95,8 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
 ## Citatos
 
 - id: c-44794
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po antros sovietų okupacijos priklausė pogrindžio
     Lietuvos išlaisvinimo tarybai. Vėliau buvo Lietuvos
@@ -111,6 +113,8 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
     - t-41028
 
 - id: c-176401
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prasidėjus karui paleistas.
     Po antros sovietų okupacijos priklausė pogrindžio

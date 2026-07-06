@@ -79,6 +79,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33479
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vytautas rašė, jog kol jis gyvas busiąs, o taip pat ir jo
     įpėdiniai, niekada nuo tų žemių neatsisakysią^15.

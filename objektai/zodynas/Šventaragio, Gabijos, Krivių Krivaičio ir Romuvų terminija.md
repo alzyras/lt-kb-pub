@@ -223,6 +223,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 ## Citatos
 
 - id: c-82429
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prie viso
     to reikia pridurti, kad graikų apei­
@@ -250,6 +252,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
     - t-86452
 
 - id: c-82430
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Juk lotynų kalba Rogum v. Ro­
     gus, reiškia Aukurą, vietą deginti ir
@@ -274,6 +278,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
     - t-86451
 
 - id: c-82431
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ties ta
     puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
@@ -296,6 +302,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
     - t-86449
 
 - id: c-176820
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant to, kryžiuo­
     čiai, nuolatos baudęsi sunaikinti tą

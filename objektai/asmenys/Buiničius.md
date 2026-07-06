@@ -103,6 +103,8 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
 ## Citatos
 
 - id: c-44312
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1945 m.
     gegužės 16 dienos mūšyje

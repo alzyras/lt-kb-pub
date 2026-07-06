@@ -582,6 +582,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 ## Citatos
 
 - id: c-169514
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl niekas neturėtų piktintis, jeigu aš rašydamas
     nuklysiu už Lietuvos ribų ir truputį paliesiu įvykius,
@@ -615,6 +617,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-186153
 
 - id: c-171488
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kituose Lietu­
     vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
@@ -635,6 +639,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-188599
 
 - id: c-173821
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -653,6 +659,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-190939
 
 - id: c-173822
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     202
 
@@ -674,6 +682,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-190940
 
 - id: c-173823
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
     vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
@@ -689,6 +699,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-190941
 
 - id: c-173824
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     303
 
@@ -716,6 +728,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-190942
 
 - id: c-173825
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
@@ -739,6 +753,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-190943
 
 - id: c-173826
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     327
     Odoakras savo ruožtu taip pat negaišo laiko; jis su­
@@ -761,6 +777,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-190944
 
 - id: c-173827
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuo tar­
     pu Odoakras, skubiai surinkęs saviškius, tyliai ir taip
@@ -782,6 +800,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-190945
 
 - id: c-173828
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam

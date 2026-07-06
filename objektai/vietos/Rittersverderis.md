@@ -158,6 +158,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-38627
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tų pilių komtūrų klausiamas,
     kuriais reikalais čia atvykęs, pareiškė norįs Lenkijos karaliaus
@@ -175,6 +178,9 @@ media_all_json: |-
     - t-36554
 
 - id: c-38628
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
     kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
@@ -190,6 +196,9 @@ media_all_json: |-
     - t-36552
 
 - id: c-38629
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl reikėjo didelio slaptumo ir atsargumo, kad
     ir antras jo atsimetimo planas vokiečių nebūtų pastebėtas. Dar

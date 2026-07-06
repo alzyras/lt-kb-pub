@@ -80,6 +80,8 @@ Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos
 ## Citatos
 
 - id: c-173426
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Todėl plačios galimybės maitintis visuomenės lengvatikiš­
     kumu leido laikyti daug žynių.

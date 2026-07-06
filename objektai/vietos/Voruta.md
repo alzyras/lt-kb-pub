@@ -136,6 +136,8 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
 ## Citatos
 
 - id: c-170394
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
     parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė

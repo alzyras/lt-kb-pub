@@ -76,6 +76,8 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
 ## Citatos
 
 - id: c-171893
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be jo­
     kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­

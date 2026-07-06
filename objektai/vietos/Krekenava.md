@@ -76,6 +76,8 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.
 ## Citatos
 
 - id: c-45147
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     M. Katche. Rinktinės pajėgos gegužės 13 d.
     susitelkė Krekenavos-Ramygalos rajo-

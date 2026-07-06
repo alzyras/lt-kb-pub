@@ -144,6 +144,8 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 ## Citatos
 
 - id: c-23591
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     V s k y r i u s
     LIETUVA: SOVIETŲ IR
@@ -175,6 +177,8 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
     - t-20865
 
 - id: c-166895
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva stovėjo šių karinių milžinių kelyje Antrojo pasaulinio karo fone
     ir svarstė ne tik savo, valstybės, bet ir tautos galimybes išlikti. Mintis „Po

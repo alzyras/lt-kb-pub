@@ -68,6 +68,8 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
 ## Citatos
 
 - id: c-21686
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos

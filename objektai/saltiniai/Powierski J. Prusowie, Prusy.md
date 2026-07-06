@@ -62,6 +62,8 @@ Dusburgietis teigia, kad powierski J.
 ## Citatos
 
 - id: c-61874
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371.
   statusas: verified

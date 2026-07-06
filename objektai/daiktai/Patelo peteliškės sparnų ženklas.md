@@ -79,6 +79,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čio­
     nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena

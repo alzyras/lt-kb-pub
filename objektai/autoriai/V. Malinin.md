@@ -74,6 +74,8 @@ Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.).
 ## Citatos
 
 - id: c-33174
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Žr. A. Lazar :** **_Maskva_** **-** **_treci Rim,_** **žur­
     nale Božym Šlacham, 1948, 9-10 nr., 5-8 p. ; A. Ammann:** **_Abriß der ost­

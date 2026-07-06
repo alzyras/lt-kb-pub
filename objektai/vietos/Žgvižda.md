@@ -78,6 +78,8 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
 ## Citatos
 
 - id: c-82268
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Per pusantros mylios nuo Rūdninkų Men-
     dzižečės* link stūksojo nuostabiai gražus šilas, Žgviždos

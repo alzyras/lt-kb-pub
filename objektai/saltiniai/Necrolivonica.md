@@ -69,6 +69,8 @@ Narbutas nurodo, kad veikale „Necrolivonica“ nagrinėta tenykščių bronzin
 ## Citatos
 
 - id: c-174641
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bronzinių daiktų, kurie buvo randami lietuviškuose
     kapuose, cheminė sudėtis nebuvo tiriama. Kiek man ži­

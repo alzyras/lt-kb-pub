@@ -69,6 +69,8 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
 ## Citatos
 
 - id: c-175770
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
     rulai. Taip pat neabejotina, kad senovės valetabai ir lu-

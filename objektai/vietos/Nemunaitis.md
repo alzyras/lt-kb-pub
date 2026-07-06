@@ -76,6 +76,8 @@ Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip
 ## Citatos
 
 - id: c-171916
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Siek tiek pasistūmėję upe
     aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,

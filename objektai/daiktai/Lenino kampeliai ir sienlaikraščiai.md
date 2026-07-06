@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22258
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ją ruošė totaliai kontroliuojama švieti-
     mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti

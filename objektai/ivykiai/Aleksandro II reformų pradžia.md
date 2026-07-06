@@ -144,6 +144,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82884
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietuvoje M. Ba­
     linskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­
@@ -165,6 +167,8 @@ Nenurodyta
     - t-86905
 
 - id: c-82885
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
     Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti

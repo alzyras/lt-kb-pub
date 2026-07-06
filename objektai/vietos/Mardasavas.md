@@ -85,6 +85,8 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
 ## Citatos
 
 - id: c-45201
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš mūšį
     1945 m. gruodžio 5 d. prie Mardasavo

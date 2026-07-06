@@ -543,6 +543,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
 ## Citatos
 
 - id: c-172905
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tas vanduo buvo laiko­
     mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
@@ -557,6 +559,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-190022
 
 - id: c-172906
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
     sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
@@ -572,6 +576,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-190023
 
 - id: c-172907
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     (Tenai gyveno
     aukščiausiasis teisėjas,
@@ -593,6 +599,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-190024
 
 - id: c-172908
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visų pirma kry­
     žiuočių kronikininko pasakojimas tame pačiame skyrelyje, kur
@@ -615,6 +623,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-190025
 
 - id: c-176946
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Siekdamas pagrįsti kryžiuočių
     užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
@@ -629,6 +639,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194507
 
 - id: c-176947
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikos autorius, politiniai ir ideologiniai uždaviniai
 
@@ -645,6 +657,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194508
 
 - id: c-176948
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
       Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -660,6 +674,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194509
 
 - id: c-176949
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Taigi autorius siekia išaukštinti
     jau užmirštus Ordine pirminius idealus.
@@ -674,6 +690,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194510
 
 - id: c-176950
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
     karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
@@ -690,6 +708,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194511
 
 - id: c-176951
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ši turėjo priminti Ordino veiklos tikslus ne
     tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
@@ -706,6 +726,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194512
 
 - id: c-176952
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ši kronika, kaip  ir atitinkami
     popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
@@ -722,6 +744,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194513
 
 - id: c-176953
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     69.
 
@@ -746,6 +770,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194514
 
 - id: c-177113
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ar kas nors atviriau pasakytų apie savo šaltinius?
     Arba pats matė savo akimis, arba sužinojo iš tikrų liudytojų ir
@@ -765,6 +791,8 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     - t-194717
 
 - id: c-177114
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tą
     lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­

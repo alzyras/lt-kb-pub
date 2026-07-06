@@ -78,6 +78,8 @@ LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m
 ## Citatos
 
 - id: c-21026
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
     rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos

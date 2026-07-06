@@ -67,6 +67,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 ## Citatos
 
 - id: c-02776
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     St. Radvilos fundacija), Pa-
     šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),

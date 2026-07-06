@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75214
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugelis bajorų apskritai nesuprato
     lietuvių siekių, o bendradarbiavimą su jais laikė negarbe.

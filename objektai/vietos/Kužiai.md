@@ -91,6 +91,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-40303
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
     (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.,

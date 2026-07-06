@@ -145,6 +145,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 ## Citatos
 
 - id: c-28937
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
     Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
@@ -160,6 +162,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     - t-29032
 
 - id: c-176119
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Metraštininkai mini, jog tie patys
     žmonės pastatė ant neprieinamo akmens kalno nuos­

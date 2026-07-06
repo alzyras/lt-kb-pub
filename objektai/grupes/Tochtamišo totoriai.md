@@ -204,6 +204,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-42942
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Čia buvo ir
     Tochtamišo totoriai (keli tūkstančiai), 400
@@ -232,6 +234,8 @@ media_all_json: |-
     - t-171391
 
 - id: c-42945
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tochtamišo karių dalis, jau prieš mūšį su-
     sisiekusi su priešais, galėjo pereiti į chano
@@ -254,6 +258,8 @@ media_all_json: |-
     - t-171392
 
 - id: c-167060
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugpjūčio
     pradžioje kariuomenė, persikėlusi per

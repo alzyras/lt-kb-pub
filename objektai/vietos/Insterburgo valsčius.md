@@ -78,6 +78,8 @@ Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją p
 ## Citatos
 
 - id: c-171894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
     tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-

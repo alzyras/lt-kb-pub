@@ -175,6 +175,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172686
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Saulės tekėjimas buvo aukų atnašavimo
     laikas*.
@@ -191,6 +193,8 @@ Nenurodyta
     - t-189803
 
 - id: c-172687
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kronikininkas
     Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
@@ -208,6 +212,8 @@ Nenurodyta
     - t-189804
 
 - id: c-172688
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Į mote­
     ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­

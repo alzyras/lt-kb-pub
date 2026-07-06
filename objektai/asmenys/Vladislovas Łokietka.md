@@ -86,6 +86,9 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
 ## Citatos
 
 - id: c-38144
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žymiausią rolę čia vaidino Pamario žemė,
     kurią kryžiuočiai buvo užgrobę betalkinėdami Vladislovui Lo­

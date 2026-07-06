@@ -454,6 +454,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36970
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čekai jo metu nebuvo Lietuvai svetimi žmonės. Jų kuni­
     gai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.
@@ -468,6 +471,9 @@ media_all_json: |-
     - t-50767
 
 - id: c-36971
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
     vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
@@ -483,6 +489,9 @@ media_all_json: |-
     - t-50766
 
 - id: c-36973
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čekai, nenustoję vilties, vėl išsiuntė
     savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu
@@ -501,6 +510,9 @@ media_all_json: |-
     - t-50768
 
 - id: c-36974
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pamatęs, kad jo jė­
     gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
@@ -517,6 +529,9 @@ media_all_json: |-
     - t-50769
 
 - id: c-167612
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytauto dvare
     lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
@@ -533,6 +548,8 @@ media_all_json: |-
     - t-184228
 
 - id: c-167950
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jogaila
     1419 m e ta i
@@ -566,6 +583,8 @@ media_all_json: |-
     - t-184589
 
 - id: c-167951
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Panašų atsakymą gavo jie ir iš
     Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,

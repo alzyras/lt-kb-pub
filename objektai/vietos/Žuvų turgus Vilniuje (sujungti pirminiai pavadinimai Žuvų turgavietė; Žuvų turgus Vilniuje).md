@@ -145,6 +145,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82269
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     5 pasakoja, kad
     „kapitula, gavusi žinių apie kažko­
@@ -170,6 +172,8 @@ media_all_json: |-
     - t-86291
 
 - id: c-82270
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus
     pradinius turtus ir pajamas

@@ -71,6 +71,8 @@ Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už at
 ## Citatos
 
 - id: c-174738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Aiškiausiai apie tai kalba
     Sambijos vyskupo Henriko sutartis, paminėta Dregerio*

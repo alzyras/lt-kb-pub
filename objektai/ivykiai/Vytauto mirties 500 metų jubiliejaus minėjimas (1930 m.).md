@@ -171,6 +171,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67068
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto Didžiojo mirties
     500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
@@ -192,6 +194,8 @@ Nenurodyta
     - t-66991
 
 - id: c-67069
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto tolerancija patiko tautinėms mažumoms –
     juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
@@ -211,6 +215,8 @@ Nenurodyta
     - t-66989
 
 - id: c-67070
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva, kuri atsirado
     iš anos Lietuvos ir atkūrė savo valstybę. LDK tradicija, lietuvių ir jų kuni-

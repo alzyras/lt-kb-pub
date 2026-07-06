@@ -177,6 +177,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173915
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     318
     Išsigandę italai nė nedrįso priešintis, visi iškart len­
@@ -195,6 +197,8 @@ Nenurodyta
     - t-191033
 
 - id: c-173916
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Odoakras,
     kuriam buvo gerai žinoma Rytų imperatoriaus mintys ir
@@ -216,6 +220,8 @@ Nenurodyta
     - t-191034
 
 - id: c-173917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Po trejų metų Dalmatijoje šį nominalinį
     monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­

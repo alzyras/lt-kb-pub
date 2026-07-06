@@ -69,6 +69,8 @@ M askvos didžiojo kunigaikščio Ivano III puolimas prasidėjo žygiu j Tvėrė
 ## Citatos
 
 - id: c-176722
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     M askvos didžiojo kunigaikščio Ivano III puolimas
     prasidėjo žygiu j Tvėrė 1485 m. rugpiūčlo mėn., Tverė buvo ap­

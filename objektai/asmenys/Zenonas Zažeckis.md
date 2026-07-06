@@ -103,6 +103,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83870
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kristoforo atvaizdas raudoname fo­
     ne. Iš kur jis atsiradęs, tai gal vėliau

@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168867
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vos brėkštant dienai, lietuvius iš visų
     pusių apsupo kryžiuočiai, vedami Henriko fon Ploc-

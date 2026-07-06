@@ -798,6 +798,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 ## Citatos
 
 - id: c-55534
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visos detalės apie Lietu­
     vos pranciškonus yra šio didžiulio
@@ -827,6 +829,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-173209
 
 - id: c-55535
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Algirdas viešai nubaudė to žiauraus poelgio vadei­
     vas ir liepė paskelbti visame krašte valią nevaržomiems
@@ -856,6 +860,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-173211
 
 - id: c-157534
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šios
     19
@@ -883,6 +889,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-54990
 
 - id: c-157537
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     - medinės bažnyčios ir bazilijo­
     nų vienuolyno įkūrimą Vilniuje pri­
@@ -920,6 +928,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-54989
 
 - id: c-157538
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ne kartą jau minoritai, apaš­
     talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
@@ -943,6 +953,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-54988
 
 - id: c-157540
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia pirmiausia Petras Goš­
     tautas, kunigaikščio Algirdo laikų
@@ -982,6 +994,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-54993
 
 - id: c-168181
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Smarkiausia ir sunkiausia kova vyko prie to di­
     džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
@@ -1006,6 +1020,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-184820
 
 - id: c-168182
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vienas būrelis iš sep­
     tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
@@ -1035,6 +1051,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-184821
 
 - id: c-168183
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karą prieš maištininką pradėjo pats Algir­
     das. Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
@@ -1056,6 +1074,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-184822
 
 - id: c-168184
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iš pradžių Ragainės komtūras išsklaidė dar­
     bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
@@ -1077,6 +1097,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-184823
 
 - id: c-176596
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kai
     krikštijosi, pereidamas į lenkų tikėjimą, davė jam Petro
@@ -1097,6 +1119,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-193971
 
 - id: c-176597
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Būdamas Vilniaus vaivada \
     didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar­

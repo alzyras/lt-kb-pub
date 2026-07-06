@@ -68,6 +68,8 @@ Motiejūnas-Valevičius, ir karin.
 ## Citatos
 
 - id: c-41546
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Panevėžio rinktinei priklausė Panevėžio
     atskirasis batalionas (6 kuopos ir rai-

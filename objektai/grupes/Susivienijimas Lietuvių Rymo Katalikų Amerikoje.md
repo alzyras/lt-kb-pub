@@ -82,6 +82,8 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
 ## Citatos
 
 - id: c-66462
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Susivienijimas Lietuvių Rymo Katalikų
     Amerikoje** iš pradžių teturėjo vos 704 narius, o dabar turi

@@ -71,6 +71,8 @@ Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, pare
 ## Citatos
 
 - id: c-174536
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia cituojama įžymaus archeografo Motiejaus
     Dominiko Dogelio (1715—1760) šaltinių pub­

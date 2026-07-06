@@ -74,6 +74,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 ## Citatos
 
 - id: c-01651
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Protestantai buvo silpnesni, todėl jie daugiau ir nu-
     kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-

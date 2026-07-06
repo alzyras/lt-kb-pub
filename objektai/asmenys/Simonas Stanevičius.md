@@ -123,6 +123,8 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
 ## Citatos
 
 - id: c-172928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
@@ -138,6 +140,8 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
     - t-190045
 
 - id: c-173852
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį
     LTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­

@@ -183,6 +183,8 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 ## Citatos
 
 - id: c-170382
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 4  Polonka (dabar Polonečka) — BTSR kaimas (apie 10 km j
     pietryčius nuo Cirino, prie Dviejos upės, Ušos intako).
@@ -203,6 +205,8 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
     - t-187370
 
 - id: c-170383
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     17 Umolts — gyvenvietė prie Slucko. Jo s vietų patikslina
     M  Strijkovskis: „ties Slucku, laukuose u i Umolio, kur Slucko ku­

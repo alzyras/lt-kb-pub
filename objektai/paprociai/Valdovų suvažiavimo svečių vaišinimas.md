@@ -77,6 +77,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176691
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kiti Lietuvos m etraščių nuorašai ne­
     mini nei Mazovijos kunigaikščio, nei jo atstovų dalyvavimo Lucke.

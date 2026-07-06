@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172810
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mėšlų boba (Mahslu Baba)
     Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­

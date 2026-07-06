@@ -78,6 +78,8 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 ## Citatos
 
 - id: c-44435
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Atsilikusi žygiavo Lucko kariuomenė, nuo
     Kopylio niokodama teritoriją - kur jau tuo metu prasidėjo Lietu-

@@ -57,6 +57,9 @@ Pietaro.
 ## Citatos
 
 - id: c-36697
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     26. V. Pietaro. LAPĖS GYVENIMAS IR MIRTIS. (Pagal senų žmo­
     nių pasakas). Iliustravo Meno mokyklos mokiniai prof. Dobužinskiui ko­

@@ -117,6 +117,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 ## Citatos
 
 - id: c-26552
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Per trejus–ketverius metus į JAV pasisekė atvykti
     visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
@@ -133,6 +135,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - t-26327
 
 - id: c-166977
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Baltijos valstybių ir Lenkijos pa-
     bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti

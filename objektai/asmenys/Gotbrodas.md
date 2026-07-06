@@ -83,6 +83,8 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
 ## Citatos
 
 - id: c-174155
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     229
 

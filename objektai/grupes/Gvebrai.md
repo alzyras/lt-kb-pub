@@ -70,6 +70,8 @@ Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiū
 ## Citatos
 
 - id: c-172405
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šventoji ugnis
     Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip

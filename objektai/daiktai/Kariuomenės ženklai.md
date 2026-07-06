@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83089
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas, ne­
     mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,

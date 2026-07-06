@@ -103,6 +103,8 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
 ## Citatos
 
 - id: c-174147
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Beje, šiandien nelengva atrasti
     visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.
@@ -117,6 +119,8 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
     - t-191265
 
 - id: c-174829
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Aiškiausiai apie tai kalba
     Sambijos vyskupo Henriko sutartis, paminėta Dregerio*

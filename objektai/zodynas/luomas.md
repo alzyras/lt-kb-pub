@@ -708,6 +708,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 ## Citatos
 
 - id: c-37930
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas šioje srity padarė
     tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­
@@ -724,6 +727,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-169923
 
 - id: c-154599
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O jeigu kuri tauta būtų nedėkinga ir ieškotų kelių atsi­
     skirti, tegu bijosi Dievo pykčio, kuris turi galios (kaip pra­
@@ -767,6 +772,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-169919
 
 - id: c-154600
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jų vietą
     užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
@@ -787,6 +795,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-169920
 
 - id: c-154601
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Radvila užsistojo juos,
     prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
@@ -812,6 +822,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-169921
 
 - id: c-154602
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     100
@@ -831,6 +843,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-169917
 
 - id: c-167628
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lietuva gi tuo
     atžvilgiu nebuvo labai laiminga. Vytautas šioje srity padarė
@@ -846,6 +861,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184244
 
 - id: c-167979
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip paprastai esti, kai vienoje
     valstybėje gyvena skirtingos tautos, tada kiekvienai
@@ -868,6 +885,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184618
 
 - id: c-167980
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visi Lietuvos
     iuvoje
@@ -888,6 +907,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184619
 
 - id: c-167981
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
     niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
@@ -906,6 +927,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184620
 
 - id: c-167982
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Beje, ir Jogaila, smarkiai pasenęs ir su­
     vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
@@ -929,6 +952,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184621
 
 - id: c-167983
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Breste Kazi­
     miero laukė gausybė žymiau-
@@ -954,6 +979,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184622
 
 - id: c-167984
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo tarpu Aleksandras, didžiai rūpindama­
     sis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­
@@ -972,6 +999,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184623
 
 - id: c-167986
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K okį atsak y m ą
     g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
@@ -990,6 +1019,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-184625
 
 - id: c-176106
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     L ietuviai, su šau k ę B reste lu o ­
     m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­

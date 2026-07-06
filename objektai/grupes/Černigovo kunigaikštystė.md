@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-170716
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Patrikijaus.
     "  Karačevas — RTFSR miestas (| pietryčius nuo Briansko). Iš­

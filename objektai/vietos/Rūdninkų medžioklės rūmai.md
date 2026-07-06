@@ -68,6 +68,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82010
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto esama vieno gana nemažo
     iš plytų ir akmens sumūryto pastato pamatų griuvėsių. Čia

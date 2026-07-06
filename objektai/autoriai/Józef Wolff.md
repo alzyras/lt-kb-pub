@@ -116,6 +116,9 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 ## Citatos
 
 - id: c-13911
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
     nius, 1848.
@@ -129,6 +132,9 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
     - t-11262
 
 - id: c-13912
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
     tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,

@@ -198,6 +198,8 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 ## Citatos
 
 - id: c-42754
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1561 m. Livonijos konfederacija nustojo egzis-
     cS <cremoss:® 2 tuoti. Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į
@@ -211,6 +213,8 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     - t-71645
 
 - id: c-42755
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vengriškasis-lenkiškasis kardas. Tokie
     kardai kilo iš Vengrijos, kur jie formavosi turkų
@@ -233,6 +237,8 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     - t-71646
 
 - id: c-46335
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuviai ją laikė prijungta prie Lietuvos, o Lenkai
     tvirtino, kad ji prisiekusi karaliui, todėl ir jiems priklausanti.

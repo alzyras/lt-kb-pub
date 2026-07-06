@@ -59,6 +59,8 @@ Snorro.
 ## Citatos
 
 - id: c-177297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla
     Saga.

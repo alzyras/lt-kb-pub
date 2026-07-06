@@ -106,6 +106,8 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 ## Citatos
 
 - id: c-167504
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie kelių prūsų žūtį
 

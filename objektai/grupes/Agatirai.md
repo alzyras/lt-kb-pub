@@ -135,6 +135,8 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
 ## Citatos
 
 - id: c-175719
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toliau nagrinėda­
     mi pamatome, kad agazirai buvo ta pati gentis kaip ir
@@ -161,6 +163,8 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
     - t-192949
 
 - id: c-175720
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visa tai rodo, kad minėtų agazirų žemė buvusi prie En-
     gūrės ežero, pavadinto jų vardu, o jie patys buvo lietu­

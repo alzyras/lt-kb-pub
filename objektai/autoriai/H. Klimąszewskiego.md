@@ -66,6 +66,8 @@ Klimąszewskiego.
 ## Citatos
 
 - id: c-176763
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Noworocznik Utew ski na rok 1831. w ydany przez H. Klimą-
     szewskiego.  W ilno, 1830, s. 91— 102.

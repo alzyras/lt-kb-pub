@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63181
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
 

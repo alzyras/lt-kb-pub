@@ -88,6 +88,8 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
 ## Citatos
 
 - id: c-83490
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ta­
     da visa tai paėmė į savo valdžią - ir

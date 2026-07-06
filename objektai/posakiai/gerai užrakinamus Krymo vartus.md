@@ -93,6 +93,8 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 ## Citatos
 
 - id: c-76024
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Totorių kariuomenė
 

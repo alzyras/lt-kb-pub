@@ -191,6 +191,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 ## Citatos
 
 - id: c-59266
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
     dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
@@ -205,6 +207,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     - t-58634
 
 - id: c-59267
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos
     dokumente prie Torunės minima prūsiška Lisske (pr. liscis, *lizkis ‘stovykla, apsistojimo
@@ -219,6 +223,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     - t-58635
 
 - id: c-171722
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šventyklos aptvaro vi­
     duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
@@ -235,6 +241,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     - t-188833
 
 - id: c-177149
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai buvo 1258 metais“ .
     Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­

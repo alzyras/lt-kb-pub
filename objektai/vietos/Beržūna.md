@@ -133,6 +133,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 ## Citatos
 
 - id: c-175582
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tų įdubų juos­
     tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
@@ -157,6 +159,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
     - t-192812
 
 - id: c-175583
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
     daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau

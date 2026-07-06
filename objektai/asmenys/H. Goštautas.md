@@ -66,6 +66,8 @@ Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pė
 ## Citatos
 
 - id: c-41538
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     karin. H. Goštauto vadovaujamas hu-
     sarų eskadrono būrys, kiek vėliau dvi

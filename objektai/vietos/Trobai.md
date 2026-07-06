@@ -74,6 +74,8 @@ Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.
 ## Citatos
 
 - id: c-170373
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     301
     Sendzivojus, Krokuvos šen. 341

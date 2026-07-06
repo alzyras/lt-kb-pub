@@ -76,6 +76,8 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
 ## Citatos
 
 - id: c-84400
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gedimi­
     no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,

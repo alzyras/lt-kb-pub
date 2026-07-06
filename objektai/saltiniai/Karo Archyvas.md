@@ -76,6 +76,8 @@ KAr = Karo Archyvas, Vyriausiojo Kariuomenės Štabo Karo Mokslo skyriaus leidin
 ## Citatos
 
 - id: c-39238
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pp. 159, „SUKILĖLIŲ PULKAI“, Karo archyvas 11, Kaunas, 1925, p. 60-61.
   statusas: verified

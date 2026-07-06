@@ -141,6 +141,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-38328
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
     mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
@@ -160,6 +163,9 @@ Nenurodyta
     - t-35897
 
 - id: c-38329
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nepatenkinti
     lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos

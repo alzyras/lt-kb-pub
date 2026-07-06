@@ -192,6 +192,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-04982
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia
     kardo jis veikė ir diplomatija. Anų sunkių kovų metu yra atsiradę
@@ -206,6 +208,8 @@ Nenurodyta
     - t-05290
 
 - id: c-04983
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Laiškų pagrindinė
     mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­
@@ -222,6 +226,8 @@ Nenurodyta
     - t-05291
 
 - id: c-04984
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Savo laiškuose Vokietijon Gediminas kvietė Lietuvon visokiau­
     sius amatininkus, pirklius, paminėdamas ir riterius su valstiečiais.

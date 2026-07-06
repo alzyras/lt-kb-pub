@@ -76,6 +76,8 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
 ## Citatos
 
 - id: c-172404
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai kada tarnai, arkliai, šunys, saka­
     lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant

@@ -78,6 +78,8 @@ Narbutas kalbinę formuluotę sieja su tėvo kilmės aiškinimu ir iš jos išve
 ## Citatos
 
 - id: c-175008
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ka­
     dangi Panerių gentys pūtė dūdas ant Neries krantų, ku­

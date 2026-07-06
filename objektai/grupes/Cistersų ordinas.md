@@ -185,6 +185,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 ## Citatos
 
 - id: c-84522
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Cistersų ordinas — 1097 viešpaties metais.
       Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
@@ -200,6 +202,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     - t-88537
 
 - id: c-84523
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
@@ -218,6 +222,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     - t-88539
 
 - id: c-84524
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Antra knygos dalis
 

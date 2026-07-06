@@ -170,6 +170,9 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 ## Citatos
 
 - id: c-79174
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Patirgas, vyriausias Kęstučio sūnus, 1348—65 metų laiko­
     tarpyje buvo nuolatinis Algirdo ir Kęstučio žygių palydovas ir,
@@ -186,6 +189,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     - t-82732
 
 - id: c-79175
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
     miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
@@ -205,6 +210,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     - t-82731
 
 - id: c-79176
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir todėl, nepaisant viso Algirdo veiklumo, Lietuvos sos­
     tinė keletą kartų, jam gyvam esant, buvo žiauriai nunioko­

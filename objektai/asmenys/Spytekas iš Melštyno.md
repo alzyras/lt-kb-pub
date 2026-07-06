@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44513
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     O Vytautas atsakęs:
     „caro Tochtamišo neišduosiu, o su caru

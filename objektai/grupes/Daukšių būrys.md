@@ -74,6 +74,8 @@ Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vac
 ## Citatos
 
 - id: c-44731
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Partizanai taip
     pat vengė atviros kovos, kuriai dar ne-

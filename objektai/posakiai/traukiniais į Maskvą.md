@@ -69,6 +69,8 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
 ## Citatos
 
 - id: c-44969
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pulko vadas
     Lebedevas, sužinojęs apie Jiezno apsu-

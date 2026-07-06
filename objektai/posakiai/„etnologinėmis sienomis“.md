@@ -108,6 +108,8 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 ## Citatos
 
 - id: c-166885
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
     balsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo

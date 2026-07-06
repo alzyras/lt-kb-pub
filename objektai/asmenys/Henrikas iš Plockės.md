@@ -336,6 +336,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 ## Citatos
 
 - id: c-60496
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     326 (319). Apie Paštuvos valsčiaus nusiaubimą
 
@@ -356,6 +358,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-59866
 
 - id: c-60497
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     327 (320). Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -373,6 +377,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-59868
 
 - id: c-60498
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     331 (324). Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
                                     kariuomenę
@@ -392,6 +398,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-59869
 
 - id: c-60499
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     321 (314). Dar apie tą patį
 
@@ -412,6 +420,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-59870
 
 - id: c-60500
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     338 (331). Apie maršalo, 29 brolių ir daugybės sembų žūtį
 
@@ -432,6 +442,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-59867
 
 - id: c-60501
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -448,6 +460,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-59865
 
 - id: c-60502
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
     visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,

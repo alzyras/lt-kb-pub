@@ -176,6 +176,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-169386
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Į seimą atvyko iš Vilniaus
     Skitas Sich Achmetas
@@ -198,6 +200,8 @@ media_all_json: |-
     - t-186025
 
 - id: c-169387
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius įsakė parūpinti Šich Achmetui pui­
     kiausią svitą ir palydėti jį į Radomą. Pakviestas į se­
@@ -217,6 +221,8 @@ media_all_json: |-
     - t-186026
 
 - id: c-169388
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­
     leistas, kadangi vargu ar ką galima buvo benuveikti.

@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63195
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
 

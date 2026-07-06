@@ -116,6 +116,8 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
 ## Citatos
 
 - id: c-170719
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Trys iš jų priklau­
     so Bychovco kronikos autoriui. Žemaitijos istorijai pri­
@@ -132,6 +134,8 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
     - t-187780
 
 - id: c-171114
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV
     lentelė, 19-asis piešinys. Nuogas bėgantis žmogus abiem

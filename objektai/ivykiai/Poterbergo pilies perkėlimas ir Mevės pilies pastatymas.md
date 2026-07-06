@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63760
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,
     tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos

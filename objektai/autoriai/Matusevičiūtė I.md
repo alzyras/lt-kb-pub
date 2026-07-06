@@ -74,6 +74,8 @@ Dusburgietis teigia, kad matusevičiūtė I.
 ## Citatos
 
 - id: c-61382
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Matusevičiūtė I. Kiek naujos medžiagos prūsų vardynui.— Archivum philologicum. K.,
     1939, kn. 8, p. 10—18.

@@ -75,6 +75,8 @@ Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiunt
 ## Citatos
 
 - id: c-169420
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tad lenkdamasis pulkų, siautėjančių po kraštą,
     jis kuo greičiausiai mažai kam žinomais keliais atžy­

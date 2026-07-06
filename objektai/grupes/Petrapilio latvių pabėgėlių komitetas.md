@@ -102,6 +102,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 ## Citatos
 
 - id: c-71004
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dabartinė Latvija yra atsiradusi taip pat po didžiojo karo,
     kaip ir Lietuva. Kai Rusijoje kilo revoliucija, beveik visa Lat-
@@ -117,6 +119,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - t-72599
 
 - id: c-175881
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kai Rusijoje kilo revoliucija, beveik visa Lat-
     vija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią

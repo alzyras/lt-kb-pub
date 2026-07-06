@@ -78,6 +78,8 @@ Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 
 ## Citatos
 
 - id: c-23798
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagrindinė kliūtis –
     skirtingos abiejų valstybių užsienio politikos geopolitinės orientacijos ir

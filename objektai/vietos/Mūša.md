@@ -73,6 +73,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33960
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Salyno akte pirmą kartą apytikriai
     buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos

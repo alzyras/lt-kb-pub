@@ -80,6 +80,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10265
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų grumtai^594 yra kieti, ne smiltėti. Paprastai aria sau medžio noragus po juosta pakišę, idant, vienam nulūžus, netrukdami kitą antmautų^595. Nekurie Storastos, norėdami palengvinti orę, įsakė laukus arti gelžiniais noragais; jei tą metą ar atentį^596 nepaderėjo javai dėl giedrų ar lytų taip, kaip svietas kad buvo geidęs, tad pradėjo jis stigavoti, jog nuo gelžinių noragų javai nevykstantys, nesgi kito lyčiaus nenumanė. Storasta, krūpaudamas, kad svietas, įpuolęs į rūpesnį, nepatraktų, liepė vėl po seno mediniais noragais laukus arti.
   citata_rodoma: "Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų grumtai^594 yra kieti, ne smiltėti. Paprastai aria sau medžio noragus po juosta pakišę, idant, vienam nulūžus, netrukdami kitą antmautų^595. Nekurie Storastos, norėdami palengvinti orę, įsakė laukus arti gelžiniais noragais; jei tą metą ar atentį^596 nepaderėjo javai dėl giedrų ar lytų taip, kaip svietas kad buvo geidęs, tad pradėjo jis stigavoti, jog nuo gelžinių noragų javai nevykstantys, nesgi kito lyčiaus nenumanė. Storasta, krūpaudamas, kad svietas, įpuolęs į rūpesnį, nepatraktų, liepė vėl po seno mediniais noragais laukus arti."

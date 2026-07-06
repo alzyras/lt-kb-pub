@@ -136,6 +136,8 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 ## Citatos
 
 - id: c-44473
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     buvo atremti Aukso ordos, rusų kunigaikš
     čių bei Livonijos ordino antpuoliai. Po šio
@@ -155,6 +157,8 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
     - t-40367
 
 - id: c-167144
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     frontą, jungtinėmis pajėgomis atakuodami
     Ordiną ir jo sąjungininkę Lenkiją.

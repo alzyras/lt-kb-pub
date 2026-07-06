@@ -173,6 +173,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63834
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
 
@@ -190,6 +192,8 @@ Nenurodyta
     - t-62952
 
 - id: c-63835
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
     mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
@@ -210,6 +214,8 @@ Nenurodyta
     - t-62951
 
 - id: c-63836
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Neilgai trukus broliai, pristigę
     maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę

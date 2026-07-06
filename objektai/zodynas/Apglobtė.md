@@ -70,6 +70,8 @@ Narbutas apglobte (Abglojte) vadino senovės prūsų nuometą reiškusį jaunosi
 ## Citatos
 
 - id: c-172164
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visa tai trukdavo iki vėlyvos nakties.
     Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­

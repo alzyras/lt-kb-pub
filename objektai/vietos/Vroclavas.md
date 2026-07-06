@@ -320,6 +320,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-81576
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
     desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
@@ -338,6 +340,8 @@ media_all_json: |-
     - t-85594
 
 - id: c-81577
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Valdant Švitrigailai, Vilniaus miestietis
     Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
@@ -360,6 +364,8 @@ media_all_json: |-
     - t-85591
 
 - id: c-81578
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Per susitikimą Dauguose patyrę
     ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­
@@ -376,6 +382,8 @@ media_all_json: |-
     - t-85593
 
 - id: c-81579
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jame pasakoja, kad „pasiunčiau nuo
     savęs maloningąjį poną Konradą,
@@ -410,6 +418,8 @@ media_all_json: |-
     - t-85592
 
 - id: c-81581
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau
     apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo

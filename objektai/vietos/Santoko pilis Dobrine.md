@@ -70,6 +70,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 ## Citatos
 
 - id: c-93896
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     buvo surašytas naujas dokumentas. Jis skelbė,
     jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasienio

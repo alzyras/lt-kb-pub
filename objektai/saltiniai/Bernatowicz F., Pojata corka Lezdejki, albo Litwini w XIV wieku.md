@@ -79,6 +79,8 @@ Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ bu
 ## Citatos
 
 - id: c-173412
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     -  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-
     natowiczF. Pojata corka Lezdejki, albo Litwini w

@@ -99,6 +99,8 @@ toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe i
 ## Citatos
 
 - id: c-46874
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
     ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje

@@ -656,6 +656,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 ## Citatos
 
 - id: c-46502
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Esą, istorijoje žinomas romėnų karvedys Publijas Li-
     bonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą
@@ -675,6 +677,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-114293
 
 - id: c-105413
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
     kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
@@ -696,6 +700,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-114299
 
 - id: c-105417
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     — • —
     275
@@ -718,6 +724,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-114296
 
 - id: c-166413
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Krikščionių būklė Mažojoj Azijoj buvo labai
     netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj. Dar
@@ -732,6 +740,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-183020
 
 - id: c-166414
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Šiaip, kas norėdavo gauti aukštesniojo ir
 
@@ -751,6 +761,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-183021
 
 - id: c-168323
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi švedų valdovas atsisakė siūlomos sąjungos,
     būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
@@ -778,6 +790,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-184962
 
 - id: c-171589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet jos principai visiškai
     nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
@@ -802,6 +816,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-188700
 
 - id: c-175437
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šios tautos plėtėsi nuo
     1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
@@ -817,6 +833,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-192667
 
 - id: c-176308
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sportininkus parvežantį traukinį kie-
     kvienoje Lietuvos stotelėje sutiko tūkstantinės minios su gėlėmis, tautos

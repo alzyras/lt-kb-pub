@@ -190,6 +190,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 ## Citatos
 
 - id: c-169462
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Boleslovas, ga­
     vęs žinią apie sėkmingą žygį, netvėrė džiaugsmu; jis
@@ -213,6 +215,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - t-186101
 
 - id: c-174042
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuo tarpu Stegutas tikriausiai žu­
     vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
@@ -233,6 +237,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - t-191160
 
 - id: c-174043
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­

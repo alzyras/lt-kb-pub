@@ -163,6 +163,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82997
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     31
     Dar prieš kelerius metus Vilnių puo­
@@ -199,6 +201,8 @@ Nenurodyta
     - t-87018
 
 - id: c-82998
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     272
 

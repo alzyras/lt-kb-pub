@@ -64,6 +64,8 @@ Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos v
 ## Citatos
 
 - id: c-176668
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ta­
     da kunigaikštis Skirgaila davė žodi mano tėvui kuni­

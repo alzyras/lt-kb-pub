@@ -95,6 +95,8 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 ## Citatos
 
 - id: c-75352
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-
     vičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos

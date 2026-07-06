@@ -119,6 +119,8 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
 ## Citatos
 
 - id: c-83960
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
     vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus
@@ -138,6 +140,8 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
     - t-87981
 
 - id: c-83961
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje

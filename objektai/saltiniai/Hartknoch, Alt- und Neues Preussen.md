@@ -70,6 +70,8 @@ Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas i
 ## Citatos
 
 - id: c-173381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
     da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­

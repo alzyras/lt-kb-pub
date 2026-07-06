@@ -154,6 +154,8 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 ## Citatos
 
 - id: c-83963
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau, regis, toks stai­
     gus Vilniaus užėmimas tik dėl Kęs­
@@ -176,6 +178,8 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     - t-87985
 
 - id: c-83964
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors Strijkovskis yra pasakęs, kad Gedimino pa­
     laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
@@ -195,6 +199,8 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     - t-87984
 
 - id: c-83966
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     29
     Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'

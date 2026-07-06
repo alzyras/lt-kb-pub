@@ -192,6 +192,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168938
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sužinojęs apie šiuos
     M a s k v o s  galia auga,
@@ -218,6 +220,8 @@ Nenurodyta
     - t-185577
 
 - id: c-168939
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nenoromis
     Jonas sutiko dalyvauti tame žygyje, nes turėjo kovoti
@@ -247,6 +251,8 @@ Nenurodyta
     - t-185578
 
 - id: c-168940
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
     dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet

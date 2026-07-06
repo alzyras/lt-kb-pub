@@ -107,6 +107,8 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 ## Citatos
 
 - id: c-175092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,

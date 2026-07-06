@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169083
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Palikę
     Slucką, barbarai patraukė į Naugarduką. Tuo metu ten
@@ -144,6 +146,8 @@ Nenurodyta
     - t-185722
 
 - id: c-169084
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Priešas,
     įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­

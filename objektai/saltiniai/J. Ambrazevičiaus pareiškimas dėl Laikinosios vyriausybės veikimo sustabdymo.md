@@ -68,6 +68,8 @@ Vyriausybės pirmininkui J.
 ## Citatos
 
 - id: c-23783
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemari-
     ninkų nacionalistų, paklususių gestapui, rankomis įvykdė pučą, pašalinę

@@ -76,6 +76,9 @@ Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen - Lithauen 1409—1
 ## Citatos
 
 - id: c-38424
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lwów, 1923.
     Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen -

@@ -87,6 +87,8 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
 ## Citatos
 
 - id: c-170755
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
     do „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­

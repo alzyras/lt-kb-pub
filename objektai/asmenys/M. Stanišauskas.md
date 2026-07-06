@@ -107,6 +107,8 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 ## Citatos
 
 - id: c-44446
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Merlino dalinio kariais ir ne-
     įvertino situacijos. Sukilėliai
@@ -128,6 +130,8 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
     - t-40321
 
 - id: c-44447
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 

@@ -71,6 +71,8 @@ Dusburgietis teigia, kad remeika J.
 ## Citatos
 
 - id: c-61902
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
   statusas: verified

@@ -69,6 +69,8 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 ## Citatos
 
 - id: c-44558
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po mūšio pasikeitė karo eiga.
     Išgirdęs apie pralaimėjimą,

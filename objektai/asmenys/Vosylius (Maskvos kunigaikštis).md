@@ -87,6 +87,9 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
 ## Citatos
 
 - id: c-38145
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žinoma, nereikia tikėti, kad toks didelis lenkų pasiprieši­
     nimas Liubičo klausime ir dėl atidavimo Ordinui Palangos rodė

@@ -130,6 +130,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-40529
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1918 m. Lietuvos
     valstybė pagaliau atsikūrė, bet jau su modernios lietuvių tautos
@@ -145,6 +147,8 @@ media_all_json: |-
     - t-38725
 
 - id: c-167104
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Laisvę lengviau prarasti, nei ją atgauti. 1918 m. Lietuvos
     valstybė pagaliau atsikūrė, bet jau su modernios lietuvių tautos

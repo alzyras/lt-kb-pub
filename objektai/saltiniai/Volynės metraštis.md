@@ -113,6 +113,8 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 ## Citatos
 
 - id: c-61646
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus
     metus išlaikė savo valdžioje prieš brolių valią. Galop atvyko jo šventenybė Pilypas, Fermo
@@ -130,6 +132,8 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
     - t-61014
 
 - id: c-61647
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis —
     Krismence (ПСРЛ, 2, стб. 833); 1259 m. Mindaugo dokumente Cresmen (PUB, 1, 2,

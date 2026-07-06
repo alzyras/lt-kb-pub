@@ -104,6 +104,8 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 ## Citatos
 
 - id: c-159305
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Panemunėje esama Rambyno (žr. paaiškinimą III, 183; ant Rambyno po akmeniu yra
     „velnio buveinė” — Remeika J., Ką kalneliai..., p. 19; mitologinis personažas su šaknim
@@ -118,6 +120,8 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
     - t-175153
 
 - id: c-159307
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
     antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.

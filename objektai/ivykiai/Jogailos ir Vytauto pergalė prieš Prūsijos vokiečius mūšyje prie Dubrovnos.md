@@ -249,6 +249,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169893
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O likusioji lenkų kariuomenė jiems nieko
     nepadėjo, tik į tai žiūrėjo l0 .
@@ -276,6 +278,8 @@ Nenurodyta
     - t-186607
 
 - id: c-169894
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS
     VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE
@@ -312,6 +316,8 @@ Nenurodyta
     - t-193850
 
 - id: c-176491
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Karalius Jogaila ir didysis kunigaikštis Vytautas, su
     savo kariuomenėmis perėję per miškus, priėjo tuos

@@ -83,6 +83,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83759
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lenkijos miestai, jau
     Kazimiero Didžiojo laikais turėję

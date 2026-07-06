@@ -78,6 +78,8 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
 ## Citatos
 
 - id: c-82557
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vokietijos miestai, iki Ka­
     rolio Didžiojo beveik nežinomi, vėliau, X amžiuje, valdant im­

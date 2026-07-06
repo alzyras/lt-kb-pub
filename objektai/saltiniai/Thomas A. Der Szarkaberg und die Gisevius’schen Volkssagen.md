@@ -67,6 +67,8 @@ Dusburgietis teigia, kad thomas A.
 ## Citatos
 
 - id: c-61947
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Thomas A. Der Szarkaberg und die Gisevius’schen Volkssagen.— AM, Königsberg in
     Pr., 1882, Bd. 19, S. 237—242.

@@ -329,6 +329,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Citatos
 
 - id: c-65602
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
@@ -342,6 +344,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-65108
 
 - id: c-65603
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
     Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
@@ -359,6 +363,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-65109
 
 - id: c-65604
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
     karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
@@ -373,6 +379,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-65112
 
 - id: c-65605
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -394,6 +402,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-65111
 
 - id: c-65606
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
@@ -433,6 +443,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-65113
 
 - id: c-175169
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad Danielius, palikęs Neb-
     rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems

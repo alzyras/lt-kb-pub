@@ -144,6 +144,9 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 ## Citatos
 
 - id: c-38408
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     IV amž. tuose pat kraštuose aisčius
     gyvenus mini gotų istorikas Jornandis^2 ), o iš V a. yra žino­
@@ -165,6 +168,9 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     - t-36051
 
 - id: c-38409
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasak jo, čia tada gyvenę „aisčių tau­
     tos“ (Aestiorum gentes)^1 ). IV amž. tuose pat kraštuose aisčius

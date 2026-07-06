@@ -66,6 +66,9 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
 ## Citatos
 
 - id: c-177363
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     To­
     dėl ir nenuostabu, kad jis, kiek tai teisinga, yra parėmęs norus

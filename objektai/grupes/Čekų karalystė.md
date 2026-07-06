@@ -70,6 +70,8 @@ Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovi
 ## Citatos
 
 - id: c-170724
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Net ir
     Turkų sultonas didžiai gerbė ir brangias dovanas do­

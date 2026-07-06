@@ -178,6 +178,8 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 ## Citatos
 
 - id: c-83434
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Christi
     1579 [Vilniuje, mūsų vyskupo dva­
@@ -207,6 +209,8 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     - t-87455
 
 - id: c-83435
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anuo metu Vilnius galėjo drąsiai ir sumaniai atremti mies­
     to teisių priešininkus, nes buvo globojamas išsilavinusio ka­
@@ -227,6 +231,8 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     - t-87456
 
 - id: c-83436
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     T. III,
     1.196. Augustas Rotundas Milesijus

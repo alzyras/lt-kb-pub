@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-170410
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     131, 181.
     196, 210, 217, 218, 223, 244,

@@ -71,6 +71,8 @@ Dusburgietis teigia, kad ivinskis Z.
 ## Citatos
 
 - id: c-61716
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ivinskis Z. Senovės lietuvių religijos bibliografija.—K., 1938.
   statusas: verified

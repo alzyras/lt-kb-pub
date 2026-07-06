@@ -140,6 +140,8 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 ## Citatos
 
 - id: c-45353
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Karin. K. Ladyga su lie-
     tuvių kariais toliau persekiojo bolševi-
@@ -154,6 +156,8 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     - t-42181
 
 - id: c-45354
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     K. Ladyga birželio 2 d.
     su raitininkais slinko paskui atsi-

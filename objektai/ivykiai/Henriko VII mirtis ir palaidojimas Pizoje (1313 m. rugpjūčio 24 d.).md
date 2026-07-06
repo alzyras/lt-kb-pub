@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62814
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     113. Apie Henriko, imperatoriaus, mirtį
 

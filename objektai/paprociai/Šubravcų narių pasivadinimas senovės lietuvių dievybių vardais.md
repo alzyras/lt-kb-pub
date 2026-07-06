@@ -157,6 +157,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55756
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Legaliai veikė įvai­
     rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
@@ -180,6 +182,8 @@ Nenurodyta
     - t-187829
 
 - id: c-170778
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
     rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­

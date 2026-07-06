@@ -71,6 +71,8 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 ## Citatos
 
 - id: c-28490
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Anot Tacito,
     Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną

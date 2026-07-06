@@ -169,6 +169,8 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
 ## Citatos
 
 - id: c-174434
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1669 metais didžiulė audra visiškai išgriovė šio pastato
     sienas.
@@ -189,6 +191,8 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
     - t-191552
 
 - id: c-174435
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau vokiečių senovės tyrinėtojai prira­
     šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
@@ -205,6 +209,8 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
     - t-191553
 
 - id: c-174436
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

@@ -623,6 +623,9 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 ## Citatos
 
 - id: c-37875
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Katedra, kaipo būsianti vyriausia Lietuvos bažny­
     čia, kad pabrėžtų seno lietuvių tikėjimo pakeitimą naujuoju,
@@ -638,6 +641,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120083
 
 - id: c-110178
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ją saugojo ir kurstė žyniai, o jų vy­
     riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
@@ -663,6 +668,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120091
 
 - id: c-110180
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     97, 101, 106, 148
     Šušvė 127, 332
@@ -685,6 +692,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120081
 
 - id: c-110181
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia buvo
     pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
@@ -708,6 +717,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120092
 
 - id: c-110182
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Reikš­
     mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
@@ -725,6 +736,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120084
 
 - id: c-110183
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O pilies kalno pietų
     pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
@@ -743,6 +756,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120090
 
 - id: c-110186
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gražia legenda yra apipintas Vilniuje valstybės sostinės
     įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
@@ -760,6 +775,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120093
 
 - id: c-110188
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
     kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
@@ -786,6 +803,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120089
 
 - id: c-110189
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     48
 
@@ -823,6 +842,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-120095
 
 - id: c-110191
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Many­
     čiau, kad Šventaragiu buvo vadina­
@@ -852,6 +873,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-194278
 
 - id: c-168578
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ši­
     taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­

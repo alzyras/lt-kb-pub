@@ -115,6 +115,8 @@ Krokuvos karalystė priėmė Jogailą.
 ## Citatos
 
 - id: c-170306
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tačiau jie vertė ir
     mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­
@@ -134,6 +136,8 @@ Krokuvos karalystė priėmė Jogailą.
     - t-187245
 
 - id: c-170537
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir aš prieš savo norą, jų valią vyk­
     dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­

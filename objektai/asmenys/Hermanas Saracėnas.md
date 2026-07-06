@@ -280,6 +280,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 ## Citatos
 
 - id: c-60552
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tarp tų sielų jie abu matė dvi vėles
     pranašesnes nei kitos, tai buvo sielos brolio Hermano, vadinamo Saracėnu, ir kito brolio,
@@ -292,6 +294,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - t-59922
 
 - id: c-60553
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vieno Karaliaučiaus brolio šlovingą gyvenimą
 
@@ -317,6 +321,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - t-194492
 
 - id: c-60554
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     81 (78). Dar apie tą patį
 
@@ -337,6 +343,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - t-59923
 
 - id: c-60555
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
 
@@ -358,6 +366,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - t-59921
 
 - id: c-60556
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį
 

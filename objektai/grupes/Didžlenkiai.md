@@ -136,6 +136,9 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 ## Citatos
 
 - id: c-35567
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet Vytautas ir dabar, kaip ir 1410 m.,
     ėmė greit rodyti norą grįžti į Lietuvą, visiškai neatsižvelgdamas
@@ -153,6 +156,9 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
     - t-34343
 
 - id: c-35568
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila vedė trečią žmoną. Dėl to iškilo konfliktas, nes kai kurie
     didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos

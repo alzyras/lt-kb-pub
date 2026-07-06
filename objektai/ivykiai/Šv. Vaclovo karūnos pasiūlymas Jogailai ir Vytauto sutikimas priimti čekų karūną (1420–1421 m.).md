@@ -171,6 +171,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37092
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Į lietuvių ir lenkų santykius įnešė disharmonijos ir husitų,
     t. y. čekų klausimas. Kaip žinoma, 1420 m. husitai pasiūlė Jo­
@@ -185,6 +188,9 @@ Nenurodyta
     - t-92952
 
 - id: c-88390
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
     pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
@@ -203,6 +209,9 @@ Nenurodyta
     - t-92951
 
 - id: c-88391
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ši
     aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai

@@ -82,6 +82,8 @@ Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lo
 ## Citatos
 
 - id: c-171945
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Hartknochas pagal senus duomenis nurodo garsų šventąjį
     mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie

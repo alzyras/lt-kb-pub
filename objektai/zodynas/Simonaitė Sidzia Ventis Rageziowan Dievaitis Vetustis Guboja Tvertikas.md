@@ -118,6 +118,8 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
 ## Citatos
 
 - id: c-172139
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Simonaitė (Simonajte)
     Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
@@ -138,6 +140,8 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
     - t-189251
 
 - id: c-172140
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     207
 

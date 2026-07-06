@@ -120,6 +120,8 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
 ## Citatos
 
 - id: c-48448
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
     ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
@@ -138,6 +140,8 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
     - t-45751
 
 - id: c-48450
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Su tripartitio christiana (visuomenės skirstymas į
     karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti

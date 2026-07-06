@@ -121,6 +121,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 ## Citatos
 
 - id: c-82516
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
     ir kito judamo ir nejudamo turto, kurį turime ir valdome,
@@ -147,6 +149,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - t-86538
 
 - id: c-82517
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Barboros bažnyčia, kurią
     Augustas nemažomis lėšomis pastatydino mylimos žmonos

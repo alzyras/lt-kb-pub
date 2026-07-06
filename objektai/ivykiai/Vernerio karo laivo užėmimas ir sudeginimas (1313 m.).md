@@ -117,6 +117,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60079
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     318 (311). Apie šio laivo sudeginimą 1313 metais
 

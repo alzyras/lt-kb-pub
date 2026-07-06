@@ -65,6 +65,8 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
 ## Citatos
 
 - id: c-61955
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—
     Toruń, 1983.

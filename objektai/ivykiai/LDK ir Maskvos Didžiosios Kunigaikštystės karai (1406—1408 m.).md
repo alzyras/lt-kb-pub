@@ -183,6 +183,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169952
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
     Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­

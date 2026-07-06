@@ -206,6 +206,8 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
 ## Citatos
 
 - id: c-81991
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
     venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
@@ -228,6 +230,8 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
     - t-86013
 
 - id: c-81992
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Abu jie niokojo
     kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
@@ -247,6 +251,8 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
     - t-86014
 
 - id: c-81993
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­
     liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir
@@ -264,6 +270,8 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
     - t-86015
 
 - id: c-81994
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos

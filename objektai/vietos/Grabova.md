@@ -124,6 +124,9 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 ## Citatos
 
 - id: c-37389
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą
     auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
@@ -143,6 +146,8 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     - t-67983
 
 - id: c-67692
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo tarpu lenkai, prancūzų padedami, sutvar-
     kė savo kariuomenę, atsigavo ir pradėjo stumti atgal bolševikus,

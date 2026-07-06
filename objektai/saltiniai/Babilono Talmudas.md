@@ -104,6 +104,8 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
 ## Citatos
 
 - id: c-75423
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
     ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
@@ -122,6 +124,8 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
     - t-78117
 
 - id: c-75424
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
     nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas

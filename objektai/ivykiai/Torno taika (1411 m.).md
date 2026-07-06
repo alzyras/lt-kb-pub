@@ -221,6 +221,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-88383
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     9 d. pasirašė vieno mėnesio paliaubas. Joms pasibaigus, pusbroliai
     vėl žygiavo į Prūsus. Atvykę prie Torno pilies, kur buvo užsidaręs
@@ -237,6 +239,9 @@ Nenurodyta
     - t-92945
 
 - id: c-88384
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žalgirio kova, kaip žinom, pasibaigė Torno
     taika (1411), ir žinom, kad tas laimėjimas nugalėtojų nebuvo vi­
@@ -250,6 +255,8 @@ Nenurodyta
     - t-92944
 
 - id: c-88385
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dar kiek laiko karas tęsėsi tarp ordino ir Lenkų, bet 1411 m.
     pagaliau buvo pasirašyta taika. Ordinui ji buvo palyginti leng-
@@ -267,6 +274,8 @@ Nenurodyta
     - t-92947
 
 - id: c-88386
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
     čiams naudingus Raciąžo susitarimus. Ginčijamos žemės turėjo

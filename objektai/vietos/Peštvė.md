@@ -163,6 +163,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 ## Citatos
 
 - id: c-33992
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
     gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
@@ -182,6 +184,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - t-32446
 
 - id: c-33993
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo būdu Nemuno krantuose
     iki Kauno nebeliko jokio lietuvių gynimosi punkto. Apie Peštvės
@@ -198,6 +202,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - t-32447
 
 - id: c-33994
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet kryžiuočiai tuojau pat surengė naują
     žygį ir dar pilnai neužbaigtą pilį sunaikino. Grįždami jie sudegino

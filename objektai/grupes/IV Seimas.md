@@ -125,6 +125,8 @@ Dėl to atgaivinta Seimo institucija.
 ## Citatos
 
 - id: c-22416
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
     tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
@@ -143,6 +145,8 @@ Dėl to atgaivinta Seimo institucija.
     - t-19711
 
 - id: c-166518
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dėl to atgaivinta Seimo institucija.
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet

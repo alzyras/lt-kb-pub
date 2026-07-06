@@ -100,6 +100,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 ## Citatos
 
 - id: c-68454
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ten pagyvenęs kelerius metus benediktinų vienuolyne ir
     negalėdamas grįžti į savo vyskupiją, jis išsirengė misijų į Euro-
@@ -116,6 +118,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     - t-69028
 
 - id: c-175966
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,

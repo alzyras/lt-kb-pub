@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169262
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl, sukvietęs didikus ir paaiškinęs
     jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš

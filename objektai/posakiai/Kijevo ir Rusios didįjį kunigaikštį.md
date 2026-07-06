@@ -79,6 +79,8 @@ Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį 
 ## Citatos
 
 - id: c-168839
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl pa­
     sitarę nusprendė patys ati­

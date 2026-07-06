@@ -72,6 +72,8 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu.
 ## Citatos
 
 - id: c-174168
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat atvyko
     ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­

@@ -76,6 +76,8 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
 ## Citatos
 
 - id: c-34009
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Su jau Ptolomėjaus minimais galindais yra tapatinama Ipati­
     jaus kronikoje du kartu (1058 ir 1147 m.) minimi «ljudi Goliad’ ».

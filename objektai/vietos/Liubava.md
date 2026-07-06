@@ -90,6 +90,8 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 ## Citatos
 
 - id: c-168614
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vėliau, be tvarkos kelian­
     180

@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62634
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
 

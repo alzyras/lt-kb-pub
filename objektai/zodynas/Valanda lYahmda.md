@@ -71,6 +71,8 @@ Narbutas rašė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir
 ## Citatos
 
 - id: c-172228
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai nuo seniausių amžių dalijo laiką į valandas
     (lYahmda) , o jos skirstytos į dienos ir nakties. Buvo 12 dienos

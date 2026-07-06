@@ -116,6 +116,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
 ## Citatos
 
 - id: c-174044
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -134,6 +136,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
     - t-191162
 
 - id: c-174045
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Be šių įrodymų, turime ir seno­
     vės autorių paliktų, ir naujų laikų tyrimais patvirtintų

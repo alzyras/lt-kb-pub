@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169104
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto vis­
     kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­

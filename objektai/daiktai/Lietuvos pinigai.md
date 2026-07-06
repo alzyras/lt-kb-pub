@@ -592,6 +592,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00210
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     II Lietuvos pinigai
     1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro
@@ -610,6 +612,8 @@ Nenurodyta
     - t-10727
 
 - id: c-00211
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Apie jas nėra jokių ra-
     šytinių žinių (jų vardas,— kaip spėjama, kilęs iš žodžio _kapoti,_ — šaltiniuose
@@ -626,6 +630,8 @@ Nenurodyta
     - t-10728
 
 - id: c-00212
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lentelėse duodamieji pavyzdžiai:
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
@@ -643,6 +649,8 @@ Nenurodyta
     - t-10729
 
 - id: c-00214
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
@@ -657,6 +665,9 @@ Nenurodyta
     - t-10731
 
 - id: c-14327
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj
     ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­
@@ -673,6 +684,9 @@ Nenurodyta
     - t-12316
 
 - id: c-14329
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pinigai, kuriais buvo mokami mokesčiai Vytauto valdymo
     laikais, taip pat buvo įvairūs. Jogailos ir Vytauto rūmuose bu­
@@ -690,6 +704,9 @@ Nenurodyta
     - t-12318
 
 - id: c-14330
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
     m. Jų vienoje pusėje yra ieties galas, o antroj vad. Gedimino
@@ -709,6 +726,9 @@ Nenurodyta
     - t-12319
 
 - id: c-14331
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kiti Vytauto pinigai, kurie
     buvo kalami jo įsakymu Kaune, turėjo Gedimino stulpus ir raidę
@@ -725,6 +745,9 @@ Nenurodyta
     - t-12320
 
 - id: c-15954
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo tikslu
     pats Vytautas vyko Vengrijon į Kezmarko suvažiavimą. Ten
@@ -740,6 +763,8 @@ Nenurodyta
     - t-12874
 
 - id: c-96645
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1922 m. spalio 1 d. Lietuvoje
     įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
@@ -756,6 +781,8 @@ Nenurodyta
     - t-103468
 
 - id: c-96646
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
     nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
@@ -772,6 +799,8 @@ Nenurodyta
     - t-103467
 
 - id: c-96647
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
@@ -789,6 +818,9 @@ Nenurodyta
     - t-103465
 
 - id: c-96648
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kad išloštų laiką, Edyga pradėjo su Vy­
     tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
@@ -803,6 +835,9 @@ Nenurodyta
     - t-103469
 
 - id: c-96649
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Viename Jogailos ir Vytauto dokumen­
     te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­

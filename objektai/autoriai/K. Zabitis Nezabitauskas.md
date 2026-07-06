@@ -68,6 +68,8 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
 ## Citatos
 
 - id: c-06633
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Įsitraukę į tą sąjūdį, žemaičiai pirmiausia susirūpino kalba.
     D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui

@@ -80,6 +80,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177214
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tą patvirtina
     paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės

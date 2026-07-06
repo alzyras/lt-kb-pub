@@ -91,6 +91,8 @@ Santykinis datos nusakymas pagal bažnytinį kalendorių.
 ## Citatos
 
 - id: c-170080
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     valdžią Lietuvoje vien Lenkijos karaliaus vie­
     tininko. o  ne Lietuvos kunigaikščio teisėmis.

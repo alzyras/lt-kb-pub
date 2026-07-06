@@ -70,6 +70,8 @@ Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeig
 ## Citatos
 
 - id: c-173285
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Panašų į lietu­
     vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.

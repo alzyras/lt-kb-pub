@@ -76,6 +76,8 @@ Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie
 ## Citatos
 
 - id: c-174179
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

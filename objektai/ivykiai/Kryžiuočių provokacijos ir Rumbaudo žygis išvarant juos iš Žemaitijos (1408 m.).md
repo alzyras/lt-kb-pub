@@ -199,6 +199,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168956
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Norėdamas palengvinti nuniokotos tėvynės dalią,
     Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
@@ -222,6 +224,8 @@ Nenurodyta
     - t-185595
 
 - id: c-168957
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat nors jie gerai žinojo, jog lietu­
     vių tauta su savo didikais daugiau kaip prieš dvidešimt
@@ -249,6 +253,8 @@ Nenurodyta
     - t-185596
 
 - id: c-168958
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautas,
     gavęs apie tai žinią, nutarė užbėgti priešui už akių

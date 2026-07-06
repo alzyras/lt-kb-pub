@@ -106,6 +106,8 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 ## Citatos
 
 - id: c-60718
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
     perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.). Rotundas,
@@ -119,6 +121,8 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
     - t-60086
 
 - id: c-60719
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sis tekstas rodo, jog
     tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau

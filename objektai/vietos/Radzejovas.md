@@ -71,6 +71,8 @@ Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
 ## Citatos
 
 - id: c-168659
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mažosios Lenkijos bei Volynės ka­
     riams paliepė rinktis į Volbožą, Didžiosios Lenkijos —

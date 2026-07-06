@@ -97,6 +97,8 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
 ## Citatos
 
 - id: c-02611
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono

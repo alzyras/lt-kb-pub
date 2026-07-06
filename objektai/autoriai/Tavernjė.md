@@ -69,6 +69,8 @@ Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado p
 ## Citatos
 
 - id: c-173290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik
     kiekvienas savitai.

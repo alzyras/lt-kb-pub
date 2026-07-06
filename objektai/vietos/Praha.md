@@ -345,6 +345,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 ## Citatos
 
 - id: c-24405
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.
     _Vaitiekus,_ arba _Adalbertas._ Jis buvo aukštos kilmės čekas.
@@ -356,6 +358,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-193227
 
 - id: c-164993
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
     Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
@@ -376,6 +380,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-181442
 
 - id: c-164994
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1999 m. balandį NATO šalių
     vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
@@ -395,6 +401,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-181441
 
 - id: c-166468
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Abu kunigaikš-
     čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
@@ -410,6 +418,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-183079
 
 - id: c-167253
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tos
     niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems
@@ -428,6 +438,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-183868
 
 - id: c-168460
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat valdovė ypač
     mylėjo lietuvius ir visada jais rūpinosi, stengėsi, kad

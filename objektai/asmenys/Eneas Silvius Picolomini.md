@@ -67,6 +67,9 @@ Nors Eneas Silvius Picolomini ir perdeda, pa­ sakodamas apie jo žiaurumą, bet
 ## Citatos
 
 - id: c-38008
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     jam įžeidimų. Nors Eneas Silvius Picolomini ir perdeda, pa­
     sakodamas apie jo žiaurumą, bet švelniu valdovu Vytauto ne­

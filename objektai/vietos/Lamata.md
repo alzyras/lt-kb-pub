@@ -113,6 +113,8 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
 ## Citatos
 
 - id: c-59216
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
@@ -133,6 +135,8 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
     - t-58585
 
 - id: c-59217
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     546 D.— ad terram Lamotinam, Jer.— an daz lendil Lamotîn. Lamata buvo  į šiaurę
     nuo Nemuno žemupio, matyt, tarp Skalvos ir Kuršo, nes XIII a. viduryje žemės į šiaurę

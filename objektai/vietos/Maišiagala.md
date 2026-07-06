@@ -105,6 +105,8 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 ## Citatos
 
 - id: c-167246
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
     pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­

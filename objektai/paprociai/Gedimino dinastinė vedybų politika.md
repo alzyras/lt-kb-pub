@@ -187,6 +187,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-14486
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Anuo laiku, tiesa,
     buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
@@ -201,6 +204,8 @@ Nenurodyta
     - t-12427
 
 - id: c-67121
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kruvinose kovose su kryžiuočiais naudoda­
     miesi didžiojo kunigaikščio parama, Žemaičių kunigaikščiai perdaug
@@ -220,6 +225,8 @@ Nenurodyta
     - t-05339
 
 - id: c-67123
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jau nuo XIII amž., santykiaudama su Vakarų Europos kul­
     tūros atstovais, Lietuva vartojo lotynų kalbą (Mindaugo užrašai,
@@ -237,6 +244,8 @@ Nenurodyta
     - t-05340
 
 - id: c-67124
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     tėvą. Pirmosios žmonos Marijos Vitebskietės penki sūnūs, augę
     dar Algirdui esant daliniu kunigaikščiu ir gavę savo dalis Rusėje,

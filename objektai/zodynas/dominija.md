@@ -108,6 +108,9 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
 ## Citatos
 
 - id: c-157354
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kitoj doku­
     mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun.
@@ -126,6 +129,9 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
     - t-173016
 
 - id: c-157355
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     karalystę ir jos gyventojus, atnaujina ir patvirtina savo anksčiau
     duotą dokumentą^1 ), ir pasižada su dideliu tikėjimu, neveidmai­

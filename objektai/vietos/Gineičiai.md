@@ -101,6 +101,8 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 ## Citatos
 
 - id: c-76409
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Spalio 10 d. traukinys sugrįžo į Kauną, kur greitai buvo įrengti nauji kulkosvaidžių va-
     gonai, suremontuoti ir patobulinti mūšiuose dalyvavę traukinio vagonai. Lapkričio 21 d.

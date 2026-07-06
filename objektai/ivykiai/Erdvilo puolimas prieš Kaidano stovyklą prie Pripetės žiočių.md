@@ -185,6 +185,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168925
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kaidanas, pasiuntiniams per
     ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
@@ -206,6 +208,8 @@ Nenurodyta
     - t-185564
 
 - id: c-168926
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo tarpu Erdvilas, vesdamas lietuvių ir žemaičių ka­
     riaunas, be to, pasitelkęs iš Naugarduko ir Slonimo
@@ -228,6 +232,8 @@ Nenurodyta
     - t-185565
 
 - id: c-168927
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tiesa, kai buvę toliau
     nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­

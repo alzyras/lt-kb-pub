@@ -107,6 +107,8 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
 ## Citatos
 
 - id: c-60863
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių
 

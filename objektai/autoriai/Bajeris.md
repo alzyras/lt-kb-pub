@@ -161,6 +161,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 ## Citatos
 
 - id: c-174418
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ado­
     mas Bremenietis Balticum pavadinimą tapatina ¡su šių
@@ -176,6 +178,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     - t-191536
 
 - id: c-174419
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sis Kulmo provincijos pavadinimas sve­
     timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
@@ -191,6 +195,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     - t-191537
 
 - id: c-174420
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
     tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams

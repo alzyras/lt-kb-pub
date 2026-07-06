@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33529
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Brückner, A. : _Dzieje
     kultury polskiej_ , I, Kraków 1931. — Būtėnas, P. : _Karalius-kuningas,_

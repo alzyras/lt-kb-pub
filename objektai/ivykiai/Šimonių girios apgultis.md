@@ -150,6 +150,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-40922
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Priešo pajėgos
 
@@ -166,6 +168,8 @@ Nenurodyta
     - t-39119
 
 - id: c-40923
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
     Didžiausias laisvės kovotojų ir NKVD susi-

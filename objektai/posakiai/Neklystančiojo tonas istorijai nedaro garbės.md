@@ -110,6 +110,8 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
 ## Citatos
 
 - id: c-175005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mūsų
     senovės geografijos tyrinėtojas gal iš savo didelio moks­
@@ -131,6 +133,8 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
     - t-192122
 
 - id: c-177302
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuo tarpu jie, pasirinkę kuklesnę poziciją, ry­
     žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*

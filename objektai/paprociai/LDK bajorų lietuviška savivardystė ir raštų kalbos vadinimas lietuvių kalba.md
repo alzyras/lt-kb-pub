@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-166705
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Būtent visa šios valstybės terito-
     rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti

@@ -65,6 +65,8 @@ Dusburgietis teigia, kad labuda G.
 ## Citatos
 
 - id: c-61753
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Labuda G. Rec.: M. Hellmann. Über  die Grundlagen und  die Entstehung des
     Ordensstaates in Preussen...— ZHP [B], Toruń, 1964, t. 29, z. 4, s. 68—70.

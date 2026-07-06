@@ -105,6 +105,8 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 ## Citatos
 
 - id: c-82488
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Reikš­
     mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
@@ -122,6 +124,8 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
     - t-86510
 
 - id: c-82489
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
     po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­

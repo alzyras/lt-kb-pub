@@ -78,6 +78,8 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 ## Citatos
 
 - id: c-33196
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     J. Latkowskis buvo pirmasis, kuris bandė nustatyti
     Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus

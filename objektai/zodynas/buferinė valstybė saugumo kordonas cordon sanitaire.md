@@ -173,6 +173,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 ## Citatos
 
 - id: c-24770
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į to dvejeto sferą įžengė atsikūrusi
     Lenkijos valstybė. Ji tikėjosi užpildyti atsiradusį vakuumą Rytų Europoje.
@@ -188,6 +190,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     - t-101574
 
 - id: c-24771
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
@@ -206,6 +210,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     - t-101572
 
 - id: c-95097
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Persigrupavusi Lietuvos
     kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie

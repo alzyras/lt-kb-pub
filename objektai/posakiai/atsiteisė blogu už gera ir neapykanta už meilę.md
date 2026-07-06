@@ -85,6 +85,8 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
 ## Citatos
 
 - id: c-59713
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 

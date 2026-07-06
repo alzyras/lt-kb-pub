@@ -77,6 +77,8 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
 ## Citatos
 
 - id: c-01703
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Emilija Pliaterytė,
     herojiška sukilėlių vadė, gavusi

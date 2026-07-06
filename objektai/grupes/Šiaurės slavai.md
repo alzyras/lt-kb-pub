@@ -152,6 +152,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 ## Citatos
 
 - id: c-172372
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvoje gyveno garsi
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
@@ -168,6 +170,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     - t-189484
 
 - id: c-172373
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuo tarpu apsiribosime pasa­
     kydami štai ką.
@@ -186,6 +190,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     - t-189485
 
 - id: c-177004
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
     biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų

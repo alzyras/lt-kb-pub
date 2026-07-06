@@ -74,6 +74,8 @@ Ivinskis : Senovės lietuvių religijos bibliografija, Kaunas 1938 (atsp. iš So
 ## Citatos
 
 - id: c-33715
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Wl. Chojnaccy :** **_Materiały do bibliografii bitwy pod Grunwaldem,_**
     **Rocznik Olsztyński, t. 3 (1960), p. 324-349.

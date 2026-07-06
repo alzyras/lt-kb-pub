@@ -120,6 +120,8 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 ## Citatos
 
 - id: c-59228
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew),
     pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.
@@ -131,6 +133,8 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
     - t-58597
 
 - id: c-59229
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Išklausęs abiejų šalių įrodymų,
     tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos

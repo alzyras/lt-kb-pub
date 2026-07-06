@@ -85,6 +85,8 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
 ## Citatos
 
 - id: c-59400
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tropai)
       Traupis

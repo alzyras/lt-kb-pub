@@ -433,6 +433,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 ## Citatos
 
 - id: c-172396
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -447,6 +449,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     - t-189508
 
 - id: c-172397
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -460,6 +464,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     - t-189509
 
 - id: c-172398
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -477,6 +483,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     - t-189510
 
 - id: c-175198
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su
@@ -495,6 +503,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     - t-192404
 
 - id: c-175199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Padaugėjo nedorų žmonių būrių,
     pradėjo lietis kraujas ir ėmė veržtis nevaržomos aistros.
@@ -509,6 +519,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     - t-192405
 
 - id: c-175200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai

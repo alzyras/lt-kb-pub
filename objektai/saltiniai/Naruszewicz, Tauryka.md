@@ -113,6 +113,8 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 m
 ## Citatos
 
 - id: c-84245
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Daugiausia jų įsikūrė už
     61
@@ -131,6 +133,8 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 m
     - t-88267
 
 - id: c-176813
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pranešimas apie jos mirtį yra 74
     Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,

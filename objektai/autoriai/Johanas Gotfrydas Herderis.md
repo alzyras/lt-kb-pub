@@ -65,6 +65,8 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 ## Citatos
 
 - id: c-176386
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
     derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų

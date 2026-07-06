@@ -519,6 +519,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-14303
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Įdomiausias unijos paragrafas (18) tai tas, kuriuo buvo su­
     teikta 47 lietuviams bajorams 47 lenkų bajorų herbai^2 ). Tuo bu­
@@ -532,6 +535,9 @@ Nenurodyta
     - t-12289
 
 - id: c-14304
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kiekvienas
     bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi­
@@ -548,6 +554,9 @@ Nenurodyta
     - t-12290
 
 - id: c-14306
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šiuo aktu Lietuva laimi tiek, kad lenkai jau pripažįsta ją
     būsiant atskira kunigaikštija ir po Vytauto mirties, ko pagal
@@ -566,6 +575,9 @@ Nenurodyta
     - t-12289
 
 - id: c-14307
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jinai Lietuvos „ponams, nobiliams ir ba­
     jorams“ suteikia visas lenkų ponų šlėktos turimas teises, bet
@@ -580,6 +592,8 @@ Nenurodyta
     - t-12292
 
 - id: c-21394
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Iš to jie padarė išvadą, kad lietuviai ir romėnai
     seniau būsią kalbėję viena kalba; taigi lietuviai, jų nuomone,
@@ -599,6 +613,8 @@ Nenurodyta
     - t-92960
 
 - id: c-21395
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo pat metu daugelis lietuvių
     pramoko lotyniškai, susipažino su Romos imperijos istorija ir
@@ -617,6 +633,8 @@ Nenurodyta
     - t-92965
 
 - id: c-21396
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi Abiejų Tautų Respublika:
     •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
@@ -651,6 +669,8 @@ Nenurodyta
     - t-92962
 
 - id: c-21397
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gedimino stulpai ir Jogailos kryžius iš herbyno
     „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
@@ -671,6 +691,9 @@ Nenurodyta
     - t-92963
 
 - id: c-21398
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Gediminaičiai prie
     tokių aktų XIV amž. išnyksta visiškai, o Vytauto valdymo pra­
@@ -693,6 +716,9 @@ Nenurodyta
     - t-92966
 
 - id: c-88394
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1401 metų unijos aktai paliko
     Lietuvą tik lig gyvos Vytauto galvos^3 ).

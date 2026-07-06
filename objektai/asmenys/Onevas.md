@@ -66,6 +66,8 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
 ## Citatos
 
 - id: c-177315
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šiose kautynėse žu­
     vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija

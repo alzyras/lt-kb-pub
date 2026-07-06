@@ -82,6 +82,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 ## Citatos
 
 - id: c-83850
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat narsiam jo broliui Gabrieliui Be­
     kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­

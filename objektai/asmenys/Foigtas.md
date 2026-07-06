@@ -136,6 +136,8 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
 ## Citatos
 
 - id: c-174227
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     333
 
@@ -165,6 +167,8 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
     - t-191345
 
 - id: c-174228
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     342
 

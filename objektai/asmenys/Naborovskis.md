@@ -80,6 +80,8 @@ Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII a
 ## Citatos
 
 - id: c-173071
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Man sakė, kad vieno vienuolyno biblio­
     tekoje buvo XV amžiaus lotyniškas rankraštis -  svarstymas

@@ -72,6 +72,8 @@ Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami graži
 ## Citatos
 
 - id: c-174178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Raštas jiems nežinomas dalykas, be to, jie nesu­
     prato, kaip parašytomis raidėmis galima persiųsti savo

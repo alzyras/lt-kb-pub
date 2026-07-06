@@ -128,6 +128,8 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
 ## Citatos
 
 - id: c-83364
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     140
 
@@ -152,6 +154,8 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
     - t-87386
 
 - id: c-83365
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stanislovo garbei, iškilmingai pripažinta katedra. O vys­
     kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­

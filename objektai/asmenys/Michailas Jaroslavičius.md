@@ -110,6 +110,8 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
 ## Citatos
 
 - id: c-76202
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     24 DURBĖS MŪŠIS 1260 m. liepos 13 d.
 

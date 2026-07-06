@@ -59,6 +59,8 @@ Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.
 ## Citatos
 
 - id: c-176440
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 30, XIII a. Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.
   statusas: verified

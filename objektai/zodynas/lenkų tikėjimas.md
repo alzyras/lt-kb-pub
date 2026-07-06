@@ -74,6 +74,8 @@ Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
 ## Citatos
 
 - id: c-170501
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
     kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­

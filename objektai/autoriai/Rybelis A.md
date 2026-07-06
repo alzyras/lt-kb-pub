@@ -71,6 +71,8 @@ Dusburgietis teigia, kad rybelis A.
 ## Citatos
 
 - id: c-61409
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Rybelis A. Senoji lietuvių pasaulėžiūra.— Lietuvių filosofijos istorijos bruožai, V., 1978,
     p. 18—53.

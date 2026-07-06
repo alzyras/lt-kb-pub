@@ -165,6 +165,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23135
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
     mėnesiais aplenkusi Prancūzijos konstituciją.
@@ -187,6 +189,8 @@ Nenurodyta
     - t-45428
 
 - id: c-48252
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Apšvieta ateina į LDK
     Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-

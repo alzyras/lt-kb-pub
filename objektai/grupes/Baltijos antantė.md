@@ -85,6 +85,8 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
 ## Citatos
 
 - id: c-22362
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Latvijos, Es-
     tijos ir Lietuvos suartėjimą diplomatinėmis priemo-

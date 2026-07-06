@@ -75,6 +75,8 @@ Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davi
 ## Citatos
 
 - id: c-174591
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Linden-
     bergas netoli Baigos, be to, priklausąs senovės Varmijai,

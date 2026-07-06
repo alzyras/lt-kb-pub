@@ -75,6 +75,8 @@ Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą,
 ## Citatos
 
 - id: c-175679
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     101
 

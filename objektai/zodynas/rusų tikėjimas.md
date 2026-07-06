@@ -77,6 +77,8 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
 ## Citatos
 
 - id: c-170509
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     76
 

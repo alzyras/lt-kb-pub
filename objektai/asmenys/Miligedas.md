@@ -101,6 +101,8 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 ## Citatos
 
 - id: c-60805
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sitai girdėdamas,
     Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs
@@ -115,6 +117,8 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
     - t-60173
 
 - id: c-60806
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     broliai padarė daug nuostabių darbų. Mat Bartenšteino pilyje buvo vienas vyras, vardu
     Miligedas, toks drąsus, kad prūsams rodėsi, jog,  jį nukovus, pusė pilies įgulos būtų

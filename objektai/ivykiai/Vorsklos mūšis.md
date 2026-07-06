@@ -327,6 +327,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169886
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O  pas­
     kui dievas padėjo totoriams, ir jie sumušė didįjį kuni­
@@ -361,6 +363,8 @@ Nenurodyta
     - t-186585
 
 - id: c-169887
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Šeši tūkstančiai devyni šimtai šeštaisiais1 7  metais
     įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto
@@ -387,6 +391,8 @@ Nenurodyta
     - t-186591
 
 - id: c-169888
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tuo metu chanas Temir-Kutlujus suskubo atvykti su
     daugeliu pulkų, su visomis savo ordos pajėgomis, susi­
@@ -416,6 +422,8 @@ Nenurodyta
     - t-186589
 
 - id: c-177368
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šitaip rugpiučio 12 popietėje totorių kariuo­
     menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.

@@ -81,6 +81,8 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
 ## Citatos
 
 - id: c-33554
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
     II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_

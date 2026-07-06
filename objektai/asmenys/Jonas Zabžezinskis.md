@@ -126,6 +126,8 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 ## Citatos
 
 - id: c-83398
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ko j a ł o w i c z, II, p. 391. Mūrinio
     namo, stovinčio Šv. Jono ir Vysku­
@@ -145,6 +147,8 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
     - t-87420
 
 - id: c-83399
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kilo didelis pavojus karaliaus
     saugumui, tad Aleksandras, ponų patarimu, kariuomenei

@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175807
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     92
     92 /Ten pat/

@@ -80,6 +80,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-175627
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Daugiausiai dėmesio vertas šios
     provincijos prekybinis miestas Trusas prie Drūsinės eže­

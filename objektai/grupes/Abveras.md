@@ -71,6 +71,8 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
 ## Citatos
 
 - id: c-22328
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
     Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis

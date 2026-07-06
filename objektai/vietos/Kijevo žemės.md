@@ -84,6 +84,8 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
 ## Citatos
 
 - id: c-168648
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į
     seimą, kuriame karalius pareikalavo, kad liautųsi pa­

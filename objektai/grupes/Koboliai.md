@@ -78,6 +78,8 @@ Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdav
 ## Citatos
 
 - id: c-172343
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jeigu tik
     tie dievaičiai ketindavo apsigyventi kieno nors namuose, jie

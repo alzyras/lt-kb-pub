@@ -106,6 +106,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Citatos
 
 - id: c-59246
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Plikąja, arba Mažąja, Barta — buvo vadinamas pietvakarinis Bartos kampas ties Alna
     —dab. Varmijos Lidzbarko (Lidzbark Varm.), Dobrė Miasto (Dobre Miasto) ir Jezioranų
@@ -118,6 +120,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-58614
 
 - id: c-59247
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ

@@ -82,6 +82,8 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
 ## Citatos
 
 - id: c-82779
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse

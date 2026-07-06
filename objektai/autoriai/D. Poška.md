@@ -333,6 +333,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 ## Citatos
 
 - id: c-06625
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kad nebūtų darkoma
     žemaičių kalba, bajorai ir ku-
@@ -354,6 +356,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - t-05729
 
 - id: c-06627
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
     veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats
@@ -370,6 +374,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - t-05730
 
 - id: c-171288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be to,
     ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
@@ -386,6 +392,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - t-188398
 
 - id: c-171289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Manoma, kad tuo metu jau buvo parašyti
     S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
@@ -401,6 +409,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - t-188399
 
 - id: c-173576
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dobrom).
     2 Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardija Že­
@@ -421,6 +431,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - t-190694
 
 - id: c-173577
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bene geriausiai ją
     apibūdina 1829 metais „Dziennik Warszawski“ išspaus­
@@ -439,6 +451,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - t-190695
 
 - id: c-176257
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Varšuvoje Mokslo bičiulių drau-
 

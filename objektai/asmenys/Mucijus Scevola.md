@@ -82,6 +82,8 @@ Padarė jis šitai, norėdamas palikti būsimoms kartoms kovos už tėvy nę pav
 ## Citatos
 
 - id: c-176190
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kol šio palydovai at­
     gavo žadą, jis, iš visų jėgų

@@ -175,6 +175,8 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 ## Citatos
 
 - id: c-166745
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LIETUVOS KRIKŠTAS
     P
@@ -198,6 +200,8 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
     - t-67350
 
 - id: c-166746
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
     ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo

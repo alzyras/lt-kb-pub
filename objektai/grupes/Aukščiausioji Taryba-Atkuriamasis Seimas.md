@@ -77,6 +77,8 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
 ## Citatos
 
 - id: c-65552
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     susikuria Helsinkio grupė.
     1988 VI 3

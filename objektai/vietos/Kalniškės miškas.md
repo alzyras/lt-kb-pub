@@ -245,6 +245,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 ## Citatos
 
 - id: c-156115
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taip pat naudotas ir
     Lietuvos partizanų
@@ -271,6 +273,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-171638
 
 - id: c-156116
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     4 ginkluotų partizanų. 1945 m.
     gegužės 16 dienos mūšyje
@@ -293,6 +297,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-171634
 
 - id: c-156117
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Grįžus
     sovietų okupacinėms pajėgoms, Jonas Neifalta buvo
@@ -327,6 +333,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-171635
 
 - id: c-156119
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš mūšį
 

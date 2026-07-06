@@ -80,6 +80,8 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
 ## Citatos
 
 - id: c-170355
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš-
     čovskas, bet taip pat daug miestų ir valsčių, kurie BK neišvardyti.

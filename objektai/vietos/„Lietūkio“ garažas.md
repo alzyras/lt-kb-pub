@@ -172,6 +172,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 ## Citatos
 
 - id: c-69156
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ginkluoti partizanai
     nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
@@ -195,6 +197,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     - t-69975
 
 - id: c-69157
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Specialiosios SD grupės (Tilžės gestapo būrys)
     1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir
@@ -216,6 +220,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     - t-69974
 
 - id: c-167042
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
     pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai. Talkinin-

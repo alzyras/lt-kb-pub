@@ -89,6 +89,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-43279
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1700 m. lapkričio 19-24 d. Valki-
     ninkuose vyko respublikonų bajorijos

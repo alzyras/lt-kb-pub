@@ -97,6 +97,8 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
 ## Citatos
 
 - id: c-169583
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­
     luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats

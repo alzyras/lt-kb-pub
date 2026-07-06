@@ -68,6 +68,8 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
 ## Citatos
 
 - id: c-94044
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bei Saule — wohl Schaulen in Litauen — wurde das Ordensheer von
     den Litauern, denen die Semgaller sich anschlossen, überfallen und vernichtet ».**

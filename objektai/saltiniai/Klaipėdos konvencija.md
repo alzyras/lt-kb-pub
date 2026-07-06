@@ -144,6 +144,8 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
 ## Citatos
 
 - id: c-43265
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vasario 16 d. Santarvės šalių atstovai po
     ilgų derybų pripažino Klaipėdos kraštą
@@ -160,6 +162,8 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
     - t-183702
 
 - id: c-114287
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-
     joms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja... 1939 m.

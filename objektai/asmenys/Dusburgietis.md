@@ -99,6 +99,8 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
 ## Citatos
 
 - id: c-173027
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
     sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta

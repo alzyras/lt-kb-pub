@@ -114,6 +114,8 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
 ## Citatos
 
 - id: c-61607
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
     požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais
@@ -128,6 +130,8 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
     - t-60975
 
 - id: c-61608
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgiečio krivis
     tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės

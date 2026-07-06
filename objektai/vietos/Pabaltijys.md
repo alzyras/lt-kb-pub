@@ -119,6 +119,8 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 ## Citatos
 
 - id: c-166279
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet klaidinga buvo manyti, kad apie lietuvių tautos
     praeitį tegalima pradėti kalbėti tik nuo tada, kai prasideda patiki­
@@ -138,6 +140,8 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     - t-182874
 
 - id: c-175964
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Delegacija neat-
     vyko į Lietuvą, bet sustojo pakeliui pas kryžiuočius. Prasidė-

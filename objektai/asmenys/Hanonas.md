@@ -84,6 +84,8 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
 ## Citatos
 
 - id: c-174288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Buvo nutarta patiems daryti
     atradimus tolimose Vakarų pasaulio pakrantėse. Dėl to

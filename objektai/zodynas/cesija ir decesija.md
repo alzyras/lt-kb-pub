@@ -88,6 +88,8 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
 ## Citatos
 
 - id: c-82564
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tarė­
     jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą

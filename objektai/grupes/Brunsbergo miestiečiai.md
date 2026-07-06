@@ -123,6 +123,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 ## Citatos
 
 - id: c-63883
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Jiems narsiai pasipriešino miestiečiai
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
@@ -137,6 +139,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-62983
 
 - id: c-63884
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
     manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
@@ -152,6 +156,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-62984
 
 - id: c-63885
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
     kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,

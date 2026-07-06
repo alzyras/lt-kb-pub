@@ -288,6 +288,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 ## Citatos
 
 - id: c-168781
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl vienaip kalbėjo im­
     peratorius su Jogaila, kitaip
@@ -318,6 +320,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     - t-193465
 
 - id: c-168782
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jogaila, aptaręs su senatu ir
     Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­
@@ -343,6 +347,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     - t-193466
 
 - id: c-168783
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
     vikas, Antiochijos
@@ -367,6 +373,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     - t-193467
 
 - id: c-168784
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau tuo metu niekas nenorėjo pir­
     mas susigrumti su bendru priešu ir užsitraukti sau bė­
@@ -384,6 +392,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     - t-193468
 
 - id: c-170708
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tais pačiais metais Lietuvos žemę ištiko baisus ba­
     das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,

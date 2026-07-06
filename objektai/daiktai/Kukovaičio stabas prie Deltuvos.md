@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172648
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviams buvo žinomas dievinamų asmenų stabų staty­
     mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-

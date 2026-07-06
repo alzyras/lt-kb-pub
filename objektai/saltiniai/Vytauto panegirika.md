@@ -101,6 +101,9 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
 ## Citatos
 
 - id: c-167624
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuolat remdamas juos per 30 me­
     tų jis sulaukė totorių tarpe sau visiškai paklusnių „saarų“. Dėl

@@ -96,6 +96,8 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 ## Citatos
 
 - id: c-85534
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai  jį broliai sugavo ir kai paklausė, kodėl tiek daug ir
     šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir
@@ -113,6 +115,8 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
     - t-89593
 
 - id: c-85535
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs
     bei žiauriai kankinęs ir dvasininkus, ir pasauliečius, ir vienuolius, ir ne vienuolius bei

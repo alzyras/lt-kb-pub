@@ -147,6 +147,8 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
 ## Citatos
 
 - id: c-83483
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
     Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
@@ -169,6 +171,8 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
     - t-87505
 
 - id: c-83484
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Et si autem ipsi quoq.
     in ea sententia extitimus, omni ratione, ut nobis providendum

@@ -79,6 +79,8 @@ Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė mui
 ## Citatos
 
 - id: c-82222
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     79
     Kijevo kunigaikštystė ir Podolė,

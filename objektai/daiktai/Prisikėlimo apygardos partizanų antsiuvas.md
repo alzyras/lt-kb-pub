@@ -130,6 +130,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75889
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Visi po žygio sukrito pailsėti.
     Spėjama, kad partizanų sto-

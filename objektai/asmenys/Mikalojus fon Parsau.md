@@ -94,6 +94,8 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 ## Citatos
 
 - id: c-83530
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rygos miesto tarė­
     jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323

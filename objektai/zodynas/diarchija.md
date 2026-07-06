@@ -225,6 +225,9 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 ## Citatos
 
 - id: c-14686
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir, apskritai, galime
     drąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­
@@ -250,6 +253,9 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - t-131656
 
 - id: c-120212
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
     nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
@@ -267,6 +273,9 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - t-131657
 
 - id: c-120214
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo pačiu bus aptarta ir tų santykių forma,
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
@@ -285,6 +294,8 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - t-131654
 
 - id: c-166807
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gediminas nebuvo pirmas šios dinastijos atsto-
     vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus. Valdant

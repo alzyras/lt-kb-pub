@@ -115,6 +115,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31025
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuviai prieš I pasaulinį karą visai
     baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito,

@@ -208,6 +208,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16568
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
     tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
@@ -225,6 +227,8 @@ Nenurodyta
     - t-76260
 
 - id: c-24123
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į v a d a s
     LIETUVA –
@@ -251,6 +255,8 @@ Nenurodyta
     - t-76262
 
 - id: c-73884
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visai neseniai Pran-
     cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-

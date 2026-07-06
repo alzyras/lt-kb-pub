@@ -148,6 +148,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23545
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto tolerancija patiko tautinėms mažumoms –
     juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
@@ -167,6 +169,8 @@ Nenurodyta
     - t-20824
 
 - id: c-23546
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto Didžiojo mirties
     500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo

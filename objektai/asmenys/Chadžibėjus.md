@@ -76,6 +76,8 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 ## Citatos
 
 - id: c-41306
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
     iš Lietuvos valdovo Algirdo ir jo brolio

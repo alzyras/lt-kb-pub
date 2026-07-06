@@ -220,6 +220,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169906
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir tuomet pargrįžo bajorai nuo
     kunigaikščio Kazimiero; o jisai vieniems iš jų nukirto
@@ -243,6 +245,8 @@ Nenurodyta
     - t-186635
 
 - id: c-169907
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tarybos ponai su kariuomene prastovėjo prie
     Smolensko tris savaites8  ir miesto niekaip neįveikė,

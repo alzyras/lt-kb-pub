@@ -118,6 +118,8 @@ Papildomos aiškios formos neišskirtos.
 ## Citatos
 
 - id: c-09743
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Tokią būseną^21 jūros tame krašte, viena, stigavoja^22 daugybė jūrinių varlakaušių^23 , į akmenį pavirtusių, visur randamų, beje, ant kalvų, per 300 kurpių^24 aukštesnių už jūros paviršių.
   statusas: verified
@@ -128,6 +130,8 @@ Papildomos aiškios formos neišskirtos.
     - t-70052
 
 - id: c-09744
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     šiandien jau nebrasi, ką pačios pasakos, tarp žmonių tebesančios, stigavoja, kaipogi tebepasakoja: ten ežeras užrukęs, kitur po žeme palindęs, kitur nuo vienos vietos persikėlęs į kitą.
   statusas: verified
@@ -138,6 +142,8 @@ Papildomos aiškios formos neišskirtos.
     - t-70051
 
 - id: c-09745
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     - status: unused
     - claim_role: supports_existing_claim

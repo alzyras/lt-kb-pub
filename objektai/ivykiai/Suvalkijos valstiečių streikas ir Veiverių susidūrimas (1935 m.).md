@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23236
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žemės ūkio
     ir pramonės augimas buvo nepakankamas greitam pragyvenimo lygio

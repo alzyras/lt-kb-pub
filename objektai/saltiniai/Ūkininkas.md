@@ -68,6 +68,8 @@ Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
 ## Citatos
 
 - id: c-75452
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Varpas“ laikėsi liberalios demokratijos pozicijų,
     kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus,

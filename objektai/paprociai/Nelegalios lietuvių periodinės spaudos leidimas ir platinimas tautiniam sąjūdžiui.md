@@ -311,6 +311,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55186
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     V. Kudirka
     rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
@@ -328,6 +330,8 @@ Nenurodyta
     - t-54316
 
 - id: c-55187
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
     si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,
@@ -347,6 +351,8 @@ Nenurodyta
     - t-54314
 
 - id: c-55189
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ši idėja įplieskė lietuvybės
     branduolinio užtaiso grumėjimą.
@@ -371,6 +377,8 @@ Nenurodyta
     - t-54318
 
 - id: c-166717
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
     Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
@@ -391,6 +399,8 @@ Nenurodyta
     - t-54315
 
 - id: c-166718
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Varpas“ laikėsi liberalios demokratijos pozicijų,
     kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus,

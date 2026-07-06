@@ -77,6 +77,8 @@ Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi 
 ## Citatos
 
 - id: c-174724
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia reikėtų pateikti
     nuomonę Dorpato universiteto profesoriaus pono Kruzės, kuris Gotos

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169162
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi švedų valdovas atsisakė siūlomos sąjungos,
     būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­

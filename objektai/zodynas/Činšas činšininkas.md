@@ -70,6 +70,8 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
 ## Citatos
 
 - id: c-93923
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,
     kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių

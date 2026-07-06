@@ -78,6 +78,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-28600
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Įkurdamas atskirą Lietuvos vyskupiją ( _dioecesis Lethoviensis_ ),
     Inocentas IV jai suteikė (1251.VII.17) Apaštalų Sosto globą ir ap­

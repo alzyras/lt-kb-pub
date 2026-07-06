@@ -82,6 +82,8 @@ Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusiga
 ## Citatos
 
 - id: c-169592
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ne­
     trūko nė pačioje Lenkijoje Glinskio papirktų žmonių,

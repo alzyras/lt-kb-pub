@@ -389,6 +389,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 ## Citatos
 
 - id: c-04825
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
     Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
@@ -408,6 +410,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-97313
 
 - id: c-30095
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1331 m. neįvykus bendrai numatytam karo žygiui,
     lietuviai apiplėšė savo sąjungininko žemes. Lietuvių ir lenkų ginklo
@@ -423,6 +427,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-05155
 
 - id: c-91795
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lenkijon nutekėjusios dvi jo
     dukterys krikštijosi lotyniškai (1321 m. Elzbieta — už Vaclovo-
@@ -437,6 +443,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-003
 
 - id: c-91797
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gediminas, užsitikrinęs sau-
     dybomis, buvo labai tvirti ir svarbūs.
@@ -459,6 +467,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-97311
 
 - id: c-91798
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Neumark, dab. Nowe Miasto
     Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
@@ -473,6 +483,9 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-97305
 
 - id: c-91800
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žymiausią rolę čia vaidino Pamario žemė,
     kurią kryžiuočiai buvo užgrobę betalkinėdami Vladislovui Lo­

@@ -109,6 +109,8 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
 ## Citatos
 
 - id: c-172001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ne­
     turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
@@ -126,6 +128,8 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     - t-189113
 
 - id: c-172002
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dar pastebėjau su­
     daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­

@@ -73,6 +73,8 @@ Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
 ## Citatos
 
 - id: c-61301
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvių etnografijos bruožai / Redagavo A. Vyšniauskaitė.— V., 1964.
   statusas: verified

@@ -88,6 +88,8 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 ## Citatos
 
 - id: c-60945
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     360 (353). Apie daugybės miestų bei pilių pastatymą
 

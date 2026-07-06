@@ -88,6 +88,8 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
 ## Citatos
 
 - id: c-83695
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be išsamaus išvar­
     dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos

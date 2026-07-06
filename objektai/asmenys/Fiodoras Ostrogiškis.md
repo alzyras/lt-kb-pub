@@ -132,6 +132,8 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
 ## Citatos
 
 - id: c-169398
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kryžiuočiai
     mėgina
@@ -168,6 +170,8 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
     - t-186037
 
 - id: c-169399
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lenkai atgavo drąsą ir ūpą, tuo
     tarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­

@@ -92,6 +92,8 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
 ## Citatos
 
 - id: c-166905
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais. Tokie lydy-

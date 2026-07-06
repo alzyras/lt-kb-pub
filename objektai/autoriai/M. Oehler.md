@@ -74,6 +74,8 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
 ## Citatos
 
 - id: c-33060
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
     Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :

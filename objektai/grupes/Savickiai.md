@@ -83,6 +83,8 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 ## Citatos
 
 - id: c-82802
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1555. Radvila tą mūrinį namą ir sklypą dovanojo savo
     gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­

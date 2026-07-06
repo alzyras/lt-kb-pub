@@ -80,6 +80,8 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 ## Citatos
 
 - id: c-21842
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
     ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m.

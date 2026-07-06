@@ -108,6 +108,8 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 ## Citatos
 
 - id: c-175091
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tik
     Hevea Gujanensis, anot gamtininkų aprašymų, išauga

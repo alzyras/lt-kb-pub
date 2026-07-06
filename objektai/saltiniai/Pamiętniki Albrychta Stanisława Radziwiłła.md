@@ -79,6 +79,9 @@ Bet iki Vy­ tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu
 ## Citatos
 
 - id: c-90793
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet iki Vy­
     tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu

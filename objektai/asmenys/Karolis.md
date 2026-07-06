@@ -84,6 +84,8 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
 ## Citatos
 
 - id: c-169485
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Popiežiaus žodžiai paskatino susiruošti į ko­
     vą ne tik eilinius karius, bet ir pačius valdovus su

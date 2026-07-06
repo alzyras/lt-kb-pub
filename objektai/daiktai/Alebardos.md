@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44636
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1568 m., dail. Mathias Zūndt (fragmentas). vr, Antano Lukšėno nuotr.
     p. 88, Rusijos kariuomenė užgrobtoje Livonijoje. http://commons.wikimedia.org/wiki/

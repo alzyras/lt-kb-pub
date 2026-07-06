@@ -126,6 +126,9 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 ## Citatos
 
 - id: c-35476
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šioj, dailiai išleistoj knygelėj pateikta satyriška musų gyvenimo
     apžvalga iš pastarųjų (1926—1930) metų. Autorius, matyt, gan aky­
@@ -139,6 +142,9 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
     - t-34253
 
 - id: c-35477
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Rakšties, RAKŠTYS. Satyros ir juokai. 96 pusl. Kaina Lt. 2, —
     Čia yra labai aštrios mūsų dienų satyros.
@@ -150,6 +156,9 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
     - t-34252
 
 - id: c-35478
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­
     tinėj, o vasarą — iš lietuviškiausio mūsų kurorto — Palangos. Rašo jis

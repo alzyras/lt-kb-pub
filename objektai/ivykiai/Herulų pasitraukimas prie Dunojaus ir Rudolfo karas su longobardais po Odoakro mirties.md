@@ -130,6 +130,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173927
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Po Odo­
     akro mirties dar ketverius metus truko susirėmimas prie­
@@ -147,6 +149,8 @@ Nenurodyta
     - t-191045
 
 - id: c-173928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Herulų karalius ar veikiau po Odoakro valdęs
     vadas Rudolfas neapdairiai pradėjo kariauti su jo tau­

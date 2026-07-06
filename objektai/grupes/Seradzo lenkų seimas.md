@@ -79,6 +79,8 @@ Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją 
 ## Citatos
 
 - id: c-168816
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karaliaus sumanymus
     sugriauti padėjo ir Torunės komtūras, kryžiuočių pa­

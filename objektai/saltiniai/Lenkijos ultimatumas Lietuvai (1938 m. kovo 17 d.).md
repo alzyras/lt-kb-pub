@@ -140,6 +140,8 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
 ## Citatos
 
 - id: c-23817
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
     promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
@@ -158,6 +160,8 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
     - t-21106
 
 - id: c-166755
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     179

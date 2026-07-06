@@ -68,6 +68,8 @@ Visur, kur tik leido valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo v
 ## Citatos
 
 - id: c-72108
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visur, kur tik leido
     valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo vidu-

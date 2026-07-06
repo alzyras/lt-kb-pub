@@ -105,6 +105,9 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 ## Citatos
 
 - id: c-36079
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Labai reikšmingą priedą prie „Likimo kelių” sudaro V. Bičiūno
     pastabos ir komentarai. Be jų daugeliui nebūtų aiškios nei paties au­
@@ -119,6 +122,9 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
     - t-34854
 
 - id: c-36080
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     8. Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
     lis, su priedu — V. Bičiūno tos misterijos pastabos ir komentarai. Abiejų

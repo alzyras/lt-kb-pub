@@ -132,6 +132,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 ## Citatos
 
 - id: c-82052
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     62
     Pagal vietinį Vilniaus paprotį, Beke­
@@ -160,6 +162,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
     - t-86074
 
 - id: c-82053
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pagaliau čia, Vilniuje,
     šis didis karalius, nenuilstamai rūpindamasis krašto saugu­

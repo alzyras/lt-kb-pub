@@ -66,6 +66,8 @@ Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
 ## Citatos
 
 - id: c-23669
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kartais išskiriama ir „naujoji“ Viduramžių Europa –
     Čekija, Vengrija, Kroatija ir Skandinavija, – susiformavusi X–XII a. Logiška

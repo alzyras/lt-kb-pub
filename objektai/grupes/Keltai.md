@@ -84,6 +84,8 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
 ## Citatos
 
 - id: c-175755
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Padavimai, išlikę Šiaurės tautų
     sagose, visada pasakoja apie skandinavų protėvių atvy­

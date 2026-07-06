@@ -464,6 +464,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 ## Citatos
 
 - id: c-173135
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak Lasickio, jis buvo žinomas Aukštėjo Visagisčio (Aivc-
     lejas Wissagistis) vardu. Iš šio vardo prasmės pastebime, kad
@@ -478,6 +480,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-190252
 
 - id: c-173137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak
     kronikininkų, jis dar vadinamas Szwintestix, Szwaixtiks*. Anot
@@ -496,6 +500,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-190254
 
 - id: c-173139
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pat priski­
     ria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-
@@ -512,6 +518,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-190256
 
 - id: c-173144
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
     tų gongais.
@@ -527,6 +535,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-190261
 
 - id: c-173146
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
     nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
@@ -545,6 +555,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-190263
 
 - id: c-177042
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vokiška rankraštinė J. E R. kronika, apie kurią papasako­
     sime žemiau, minėdama šio dievo šventyklą Vilniuje, nurodo
@@ -561,6 +573,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-194645
 
 - id: c-177043
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kriukis (Krugis)
     Kalvių dievas arba kažkokia antikinio Vulkano liekana; jis,
@@ -580,6 +594,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-194646
 
 - id: c-177044
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvoje Ūla įteka į Merkį.
     138
@@ -600,6 +616,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-194647
 
 - id: c-177045
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atikoje Krono šventė buvo švenčiama Krono garbei he-
     katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
@@ -619,6 +637,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-194648
 
 - id: c-177046
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Valgina (Walgina)
     Deivė, globojanti naminius gyvulius jų tuklumo bei tinka­
@@ -633,6 +653,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-194649
 
 - id: c-177047
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Austėja (Austheja)
     Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
@@ -648,6 +670,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - t-194650
 
 - id: c-177048
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kirais (Kimis)
     Dievaitis, saugantis vienos pilies, buvusios prie ežero, vyš­

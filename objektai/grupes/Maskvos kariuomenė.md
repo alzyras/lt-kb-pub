@@ -163,6 +163,8 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 ## Citatos
 
 - id: c-40681
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Be Naugardo, Pskovo, Tverės bei kitų
     sričių išrengtų raitelių ir Maskvos val-
@@ -182,6 +184,8 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     - t-38878
 
 - id: c-40682
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Maskvos pajėgos
 
@@ -204,6 +208,8 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     - t-38877
 
 - id: c-167055
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kai kurių šiuolaikinių istorikų ver-
     tinimu, tai labai padidintas skaičius.

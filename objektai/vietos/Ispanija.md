@@ -326,6 +326,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 ## Citatos
 
 - id: c-24141
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po didžiųjų geografinių atradimų ir turkų ekspansijos
     Viduržemio jūra prarado ekonominę svarbą. O kas nutiko didžiųjų ge-
@@ -341,6 +343,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-90460
 
 - id: c-24142
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Viena priežasčių, dėl kurių Ispanija
     ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
@@ -358,6 +362,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-90459
 
 - id: c-24143
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
     žygio Ispanija nekartojo.
@@ -376,6 +382,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-90461
 
 - id: c-86293
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     50. Apie tai, kaip saracėnai nusiaubė Ispaniją
 
@@ -390,6 +398,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-90458
 
 - id: c-86294
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     20. Apie Maljorkos ir Menorkos salų užėmimą
 
@@ -403,6 +413,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-90463
 
 - id: c-86295
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
 

@@ -216,6 +216,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 ## Citatos
 
 - id: c-169393
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasibaigus seimui, iš­
     siuntė
@@ -241,6 +243,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     - t-186032
 
 - id: c-169394
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     G o šta u tą  siunčia m al-
     Išgirdę apie Žygimanto galą,
@@ -262,6 +266,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     - t-186033
 
 - id: c-169395
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visuomet kariuomenė sėkmingai
     kariauja, kai valdovas ne tik jai duoda nurodymų, o
@@ -286,6 +292,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     - t-186034
 
 - id: c-176521
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Bet mes grįžkime
     prie ankstesnio pasakojimo.

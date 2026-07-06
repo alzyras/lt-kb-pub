@@ -280,6 +280,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 ## Citatos
 
 - id: c-173363
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -297,6 +299,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     - t-190480
 
 - id: c-173364
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -311,6 +315,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     - t-190481
 
 - id: c-173365
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Barstukai (Barstuki)
     Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
@@ -325,6 +331,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     - t-190482
 
 - id: c-173366
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tokie žyniai, mo­
     kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
@@ -341,6 +349,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     - t-190483
 
 - id: c-173367
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikos laikais panašiai būdavo
     apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
@@ -365,6 +375,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     - t-190484
 
 - id: c-173368
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Buvo buriama
     stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.

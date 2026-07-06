@@ -79,6 +79,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-93922
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Geschichte von Ost- und Westpreußen für die Jahre
     1930-1938,_** **Aalen 1964.

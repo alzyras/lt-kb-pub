@@ -232,6 +232,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 ## Citatos
 
 - id: c-169324
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius, jausdamas, jog
     1488 m e ta i
@@ -257,6 +259,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     - t-185963
 
 - id: c-169325
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl, sužinojęs, jog skitai
     dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
@@ -286,6 +290,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     - t-185964
 
 - id: c-169326
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
     dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
@@ -300,6 +306,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     - t-185965
 
 - id: c-169327
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Poznanėje netrukus
     svetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­

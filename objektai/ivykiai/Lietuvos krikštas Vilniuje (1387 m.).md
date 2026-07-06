@@ -219,6 +219,8 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
 ## Citatos
 
 - id: c-55328
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iškil­
     mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
@@ -237,6 +239,8 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     - t-54450
 
 - id: c-55329
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il KNYGA
     Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­
@@ -259,6 +263,8 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     - t-54447
 
 - id: c-55330
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il KNYGA
     Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip

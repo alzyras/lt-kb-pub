@@ -258,6 +258,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 ## Citatos
 
 - id: c-24267
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-
     tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-
@@ -273,6 +275,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - t-79716
 
 - id: c-24268
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
@@ -291,6 +295,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - t-79717
 
 - id: c-76660
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos sukilėlių vadovybė vyriausiuoju
     sukilėlių ginkluotojų pajėgų vadu 1863
@@ -311,6 +317,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - t-79713
 
 - id: c-171658
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
     vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
@@ -324,6 +332,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - t-188769
 
 - id: c-176316
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Santykiai su britais ir prancūzais pablogėjo A. Voldemarui 1928 m.
     gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos

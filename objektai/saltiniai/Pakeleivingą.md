@@ -59,6 +59,8 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 ## Citatos
 
 - id: c-02501
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl jis ragino
     kunigiją būti atsargesnę. Tačiau vyskupas nesiliovė kiekviena

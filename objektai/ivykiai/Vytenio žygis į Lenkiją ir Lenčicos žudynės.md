@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60087
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po to, kai jie ėmė
     trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
@@ -157,6 +159,8 @@ Nenurodyta
     - t-59455
 
 - id: c-60088
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     250 (243). Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
                             nių nužudymą bei paėmimą į nelaisvę

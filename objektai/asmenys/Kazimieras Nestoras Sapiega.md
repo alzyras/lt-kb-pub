@@ -119,6 +119,8 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
 ## Citatos
 
 - id: c-64760
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Septyni ministrai palaikė karalių,
     penki buvo prieš – siūlė priešintis ir toliau derėtis, siekiant kuo palan-
@@ -138,6 +140,8 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
     - t-63827
 
 - id: c-64761
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
     Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda

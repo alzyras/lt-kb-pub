@@ -163,6 +163,8 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 ## Citatos
 
 - id: c-83574
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kazimieras pamėgo Rūdninkus ir dažnai juose
     buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
@@ -181,6 +183,8 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
     - t-87594
 
 - id: c-171541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Valdant Žygimantui Augus­
     tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
@@ -197,6 +201,8 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
     - t-188652
 
 - id: c-176843
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Toji vieta, kur stovė­
     jo anie rūmai, šiandien yra vietos klebono dirbamas lau­

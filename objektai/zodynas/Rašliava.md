@@ -161,6 +161,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-153486
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ten jie
     įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
@@ -180,6 +182,8 @@ Nenurodyta
     - t-168690
 
 - id: c-153487
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu tie ginčai paskatino
     susidomėjimą garbinga Lietuvos praeitimi, ir tais laikais dar
@@ -199,6 +203,8 @@ Nenurodyta
     - t-168695
 
 - id: c-153490
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
     ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę

@@ -81,6 +81,8 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
 ## Citatos
 
 - id: c-170339
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
     jei būtų norėjęs, būtų atėmęs Vilnių ir kunigaikščiui

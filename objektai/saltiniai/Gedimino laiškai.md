@@ -802,6 +802,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 ## Citatos
 
 - id: c-55634
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     406, pri­
     simena dar vieną Gedimino dukrą,
@@ -843,6 +845,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55211
 
 - id: c-55635
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     (Žr. Preussens aeltere Geschichte, Band
     II, p. 353) - atsiskleidžia šio išskirti­
@@ -868,6 +872,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55212
 
 - id: c-55636
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau Foigtas
     naujausios Prūsijos istorijos (Ge­
@@ -888,6 +894,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55213
 
 - id: c-55637
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     T. IV, p. 627 sq.)
     autorius, kuris nenorėjo, kaip kad jo
@@ -914,6 +922,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55214
 
 - id: c-55638
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Napiers-
     k i s, išleidęs tik dokumentų rinkinio
@@ -935,6 +945,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55215
 
 - id: c-55639
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rašome apie
     tai Jums, Šventasis Tėve, idant žinotume priežastis, per ku­
@@ -961,6 +973,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55216
 
 - id: c-55640
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
     raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­
@@ -984,6 +998,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55212
 
 - id: c-55641
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kol kas niekas dar
     negalėjo miglotos mįslės įminti! Juk suktybės ir melo jukinys
@@ -1003,6 +1019,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55213
 
 - id: c-55642
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
@@ -1027,6 +1045,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55213
 
 - id: c-55643
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po šių paaiškinimų apie antspaudą visuose trijuose
     laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį
@@ -1043,6 +1063,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-55217
 
 - id: c-156040
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     398 ir 399.
     Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­
@@ -1059,6 +1081,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171541
 
 - id: c-156041
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     36
@@ -1076,6 +1100,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171538
 
 - id: c-156042
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966.
   statusas: verified
@@ -1086,6 +1112,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171537
 
 - id: c-156043
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     To­
     dėl pagaliau visų įtarinėjančių prakeiksmas žodžiais, kurie
@@ -1109,6 +1137,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171545
 
 - id: c-156044
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
     Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal-
@@ -1134,6 +1164,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171539
 
 - id: c-156045
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     I  KNYGA
     dux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­
@@ -1154,6 +1186,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171544
 
 - id: c-156046
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LIETUVOS KRIKŠTAS
     P
@@ -1176,6 +1210,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171542
 
 - id: c-156047
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir kai čia jį patrem nostrum gloriosissimum, sanctissimum,
     excellentissimum etc. [mūsų tėvu garbingiausiu, švenčiausiu,
@@ -1202,6 +1238,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-171547
 
 - id: c-156048
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pagaliau kodėl Ge­
     diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų

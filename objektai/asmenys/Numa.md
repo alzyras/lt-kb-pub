@@ -122,6 +122,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 ## Citatos
 
 - id: c-60817
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
     pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
@@ -142,6 +144,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - t-60185
 
 - id: c-60818
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos

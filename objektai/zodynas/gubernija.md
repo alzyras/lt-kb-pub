@@ -148,6 +148,8 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 ## Citatos
 
 - id: c-24844
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     BUVUSIO VALSTYBINGUMO TRAUKOJE
     Kultūrinė autonomija Napoleono šešėlyje
@@ -168,6 +170,8 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     - t-22159
 
 - id: c-24845
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Prieš baudžiavos
     panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.

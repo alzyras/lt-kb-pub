@@ -189,6 +189,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11944
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1949 m. lapkričio 1-2 dienomis MGB vidaus
     kariuomenės 137-0jo, 298-ojo šaulių pulkų
@@ -203,6 +205,8 @@ Nenurodyta
     - t-67010
 
 - id: c-11945
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1949 m. spalio 24 d. MGB agentui V. Kučiui
     panaudojus spec. preparatus „Neptun-20“,
@@ -235,6 +239,8 @@ Nenurodyta
     - t-67011
 
 - id: c-43145
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
     Didžiausias laisvės kovotojų ir NKVD susi-

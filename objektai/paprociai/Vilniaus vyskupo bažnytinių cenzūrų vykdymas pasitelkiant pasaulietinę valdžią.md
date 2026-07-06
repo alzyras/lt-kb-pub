@@ -106,6 +106,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83290
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, suteikiame dvasiškiams pilną ir ne­
     ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­

@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23312
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žydų miesto bendruomenės ir jų prekybos, finan-
     sų pajėgų parama dar nelietuviškuose miestuose buvo svarbi ir vidaus,

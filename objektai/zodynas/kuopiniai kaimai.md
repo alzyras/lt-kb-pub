@@ -141,6 +141,8 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 ## Citatos
 
 - id: c-32660
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš antro tūkstantmečio pr. Kr. Rytprūsiuose, palei žemutinę
     Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai
@@ -155,6 +157,8 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     - t-32791
 
 - id: c-32661
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais
     triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
@@ -172,6 +176,8 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     - t-32789
 
 - id: c-34163
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Net ir
     pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.

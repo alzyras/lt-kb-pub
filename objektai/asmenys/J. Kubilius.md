@@ -70,6 +70,8 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
 ## Citatos
 
 - id: c-41958
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Karin. J. Kubiliaus vadovaujamas Uk-
     mergės batalionas, nepaisydamas smar-

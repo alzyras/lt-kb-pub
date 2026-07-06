@@ -119,6 +119,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-166727
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva juk ne
     kartą buvo okupuota ir prisijungta Rytų kaimynės.

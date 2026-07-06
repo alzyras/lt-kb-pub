@@ -73,6 +73,8 @@ Antrame plane matyti Trakų salos pilis.
 ## Citatos
 
 - id: c-40460
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Antrame plane matyti Trakų salos pilis. Baigta
     statyti 1409m. Abi pilys sujungtos mediniais tiltais

@@ -71,6 +71,8 @@ Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storum
 ## Citatos
 
 - id: c-173289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kryžiuočiai
     paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,

@@ -102,6 +102,8 @@ reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekviena
 ## Citatos
 
 - id: c-46926
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pacai, bijodami jo
     kandidatūros, buvo pra-

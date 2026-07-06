@@ -275,6 +275,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 ## Citatos
 
 - id: c-75322
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Per keletą mėnesių LPS pa-
     siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
@@ -294,6 +296,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - t-78009
 
 - id: c-75323
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
     organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
@@ -309,6 +313,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - t-78007
 
 - id: c-75324
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šlovinant
     komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
@@ -325,6 +331,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - t-78008
 
 - id: c-75325
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
     viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
@@ -345,6 +353,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - t-78011
 
 - id: c-75326
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Aušros“ idėjas toliau plėto-
     jo 1889 m. pradėtas leisti žurnalas

@@ -104,6 +104,8 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
 ## Citatos
 
 - id: c-03357
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo metu rytų Lietuvos, t. y. ru-
     siškųjų žemių prekyba daugiausia ėjo Dauguva, o tikrosios Lie-
@@ -120,6 +122,8 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
     - t-03119
 
 - id: c-166368
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl prie Dauguvos
     iškilo didelis prekybos centras Polockas, o prie Nemuno

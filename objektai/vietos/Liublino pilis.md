@@ -67,6 +67,8 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
 ## Citatos
 
 - id: c-170640
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tai buvo iš jų pusės daroma man didelė neteisybė, kad
     jie prieš mano valią spyrė, kad aš priimčiau rusų ti­

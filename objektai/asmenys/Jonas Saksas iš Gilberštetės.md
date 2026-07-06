@@ -71,6 +71,8 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
 ## Citatos
 
 - id: c-60981
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie nuostabų vieno vyro atsivertimą
 

@@ -170,6 +170,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 ## Citatos
 
 - id: c-169417
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jų atsimetimą nuo
     prosenelių tikėjimo karalius Augustas slėpė net ir
@@ -193,6 +195,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     - t-186056
 
 - id: c-169418
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šis veiksmas didžiai įžeidė Romos popiežių,
     kuris, Augustui tuokiantis su Kotryna, leido jam ne­
@@ -217,6 +221,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     - t-186057
 
 - id: c-169419
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Aiškiai šitokius ir kitokius daly­
     kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,

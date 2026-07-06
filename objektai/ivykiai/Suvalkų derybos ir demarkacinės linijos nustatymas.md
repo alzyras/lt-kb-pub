@@ -162,6 +162,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43120
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Operacijos pasekmės
     Lenkija neatsisakė ketinimų užimti visą
@@ -178,6 +180,8 @@ Nenurodyta
     - t-41366
 
 - id: c-44929
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lenkai su tuo nesutiko ir vilkino
     derybas. Galiausiai spalio 7 d. buvo nusta-
@@ -195,6 +199,8 @@ Nenurodyta
     - t-41367
 
 - id: c-44930
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Derybose Lietuvos delegacija reikalavo
     nustatyti laikiną demarkacijos liniją, pasi-

@@ -1389,6 +1389,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 ## Citatos
 
 - id: c-55249
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
     mas ir K o j e 1  a v i č i u s, p. 361,
@@ -1418,6 +1420,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-55221
 
 - id: c-55250
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogailai pristigo pajėgų gintis taip staiga užkluptam,
     tad miestas ir pilys bemat buvo Kęstučio užimtos, turtai ir
@@ -1448,6 +1452,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-194210
 
 - id: c-55251
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     I  KNYGA
     Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
@@ -1479,6 +1485,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-55223
 
 - id: c-55252
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anot jų, Gediminas,
     po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
@@ -1512,6 +1520,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-55224
 
 - id: c-55253
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stryjkowski,ed. Królewiec, 1.487
     tą susirėmimą ir mūšį prie Vižūnų
@@ -1535,6 +1545,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-55225
 
 - id: c-157329
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
     tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
@@ -1552,6 +1564,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-173001
 
 - id: c-157330
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Chron. prus. p. 400.
     48
@@ -1581,6 +1595,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-172999
 
 - id: c-157335
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Strijkovskis ir Koje-
     1  a v i č i u s supainiojo Andrių, Al­
@@ -1605,6 +1621,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-173006
 
 - id: c-157336
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Netoli jo, ties Belgorodu, į
     pietvakarius nuo Kijevo („už šešių mylių“),
@@ -1623,6 +1641,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-173004
 
 - id: c-157337
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     24
     Kojalowicz, Pars I, p. 351. S t ryj­
@@ -1642,6 +1662,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-55220
 
 - id: c-157339
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il KNYGA
     po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
@@ -1685,6 +1707,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-55226
 
 - id: c-157343
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     h i
     XI Knyga, sk. 4,1. 396. Hist. Lit. Pars. I. lib. VII, p. 262.'
@@ -1704,6 +1728,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-172997
 
 - id: c-157344
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     7
     Šventaragio vardo kilmę aiškina
@@ -1721,6 +1747,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-173005
 
 - id: c-157345
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     E., p. 54 ap. F o i g t a s,
     V, 534. Strijkovskis ir Koj e-
@@ -1744,6 +1772,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-172995
 
 - id: c-171381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
@@ -1756,6 +1786,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-188491
 
 - id: c-171382
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Au­
     kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
@@ -1773,6 +1805,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-188492
 
 - id: c-171383
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kitaip juos vadindavo piktukais nuo Piktas', netoli
     Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
@@ -1787,6 +1821,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-188493
 
 - id: c-171384
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
     pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
@@ -1803,6 +1839,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-188494
 
 - id: c-171385
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Gyvatė (Giwojte)
     Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
@@ -1819,6 +1857,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-188495
 
 - id: c-171386
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviams buvo žinomas dievinamų asmenų stabų staty­
     mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
@@ -1832,6 +1872,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-188496
 
 - id: c-171387
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -1855,6 +1897,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-188497
 
 - id: c-173709
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Baigtos istorijos negalime rasti1;
     kronikos ir istorijos žinių rinkiniai, pasirodę vos nuo­
@@ -1880,6 +1924,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-190827
 
 - id: c-173710
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Latvių, arba
     Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
@@ -1898,6 +1944,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-190828
 
 - id: c-173711
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tam nereikia įrodymų,
     nes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­
@@ -1916,6 +1964,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-190829
 
 - id: c-173712
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Hartknochas, remdamasis vietos pa­
     davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
@@ -1941,6 +1991,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-190830
 
 - id: c-173713
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau esama sunku­
     mų nustatant datą, kada tai galėjo įvykti: kalbėdamas

@@ -278,6 +278,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 ## Citatos
 
 - id: c-06406
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kly­
     menko, H. Lowmiański ir kt.) 20 * didelė dauguma, o gal ir visi Min­
@@ -303,6 +305,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     - t-05591
 
 - id: c-91762
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kokio intereso būtų galėjęs turėti kry­
     žiuočių ordinas klaidingai painformuoti Romą — iš turimų versmių
@@ -322,6 +326,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     - t-05590
 
 - id: c-91763
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vykstant deryboms dėl krikšto, Mindaugo santykiai su
     ordinu buvo statomi pavyzdžiu. Psichologiškai gali būti visai supran­
@@ -338,6 +344,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     - t-05592
 
 - id: c-91764
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
     yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
@@ -358,6 +366,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     - t-05588
 
 - id: c-91766
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šalia Mindaugo «sostinės» vietos, penkių jo dokumentų tikrumo
     mįslės ir kitų neišaiškintų problemų, tai yra pats svarbiausias kontro­

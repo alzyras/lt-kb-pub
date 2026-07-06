@@ -119,6 +119,8 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
 ## Citatos
 
 - id: c-169458
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Už
     tėvo
@@ -150,6 +152,8 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
     - t-186097
 
 - id: c-176522
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     3. APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS
     VALSTYBES PRADŽIĄ

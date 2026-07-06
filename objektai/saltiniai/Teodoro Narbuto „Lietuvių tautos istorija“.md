@@ -81,6 +81,8 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
 ## Citatos
 
 - id: c-75449
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1839 m. likviduojama Uni-
     tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.

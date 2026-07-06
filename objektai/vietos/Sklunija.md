@@ -92,6 +92,8 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
 ## Citatos
 
 - id: c-59357
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Todėl maldininkai pasiruošė
     kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,

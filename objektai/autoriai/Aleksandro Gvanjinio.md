@@ -143,6 +143,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-42386
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m. A. Gvanjinio
     knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas
@@ -156,6 +158,8 @@ media_all_json: |-
     - t-78740
 
 - id: c-75921
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1480 m. sąjunga tarp Maskvos ir Krymo
     tapo politine realybe, o LDK žemės tapo

@@ -71,6 +71,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83623
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Fol. 113 ir pan.
     21

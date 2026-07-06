@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83057
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anot jų, Gediminas,
     po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­

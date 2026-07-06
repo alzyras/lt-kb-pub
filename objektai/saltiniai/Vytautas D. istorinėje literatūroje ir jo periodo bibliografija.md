@@ -74,6 +74,8 @@ Ivinskis : Vytautas D.
 ## Citatos
 
 - id: c-33744
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Chojnaccy :** **_Materiały do bibliografii bitwy pod Grunwaldem,_**
     **Rocznik Olsztyński, t. 3 (1960), p. 324-349.

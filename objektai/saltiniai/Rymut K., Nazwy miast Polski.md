@@ -71,6 +71,8 @@ Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—
 ## Citatos
 
 - id: c-61909
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Rymut K., Nazwy miast Polski.— Wrocław—Warszawa—Kraków—Gdańsk, 1980.
   statusas: verified

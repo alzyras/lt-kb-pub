@@ -223,6 +223,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23016
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau
     Baltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti
@@ -240,6 +242,8 @@ Nenurodyta
     - t-75196
 
 - id: c-23017
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Konstitucijos preambulėje glaustai įtvirtinti pagrindiniai principai – atvi-
     ra, teisinga, darni pilietinė visuomenė ir teisinė valstybė, puoselėjanti
@@ -262,6 +266,8 @@ Nenurodyta
     - t-75195
 
 - id: c-73071
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
     jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės
@@ -283,6 +289,8 @@ Nenurodyta
     - t-75194
 
 - id: c-166645
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-
     daus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spa-

@@ -68,6 +68,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 ## Citatos
 
 - id: c-83785
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jonui, Polocko............................Stanislovui Jonui Da Vai­
     nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui

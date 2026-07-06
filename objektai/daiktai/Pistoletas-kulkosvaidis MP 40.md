@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-41019
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pistoletas-kulkosvaidis MP 40 (Maschinenpistole),
     Antrojo pasaulinio karo vokiečių kariuomenės

@@ -103,6 +103,8 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
 ## Citatos
 
 - id: c-174642
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau Tidemanas rašo, kad
     jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
@@ -119,6 +121,8 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
     - t-191760
 
 - id: c-174643
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
     nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis

@@ -77,6 +77,8 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 ## Citatos
 
 - id: c-59677
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     105. Apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi
 

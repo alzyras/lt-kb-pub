@@ -138,6 +138,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-26610
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi
     didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
@@ -155,6 +157,8 @@ Nenurodyta
     - t-26385
 
 - id: c-26611
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1941–1944
     nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.

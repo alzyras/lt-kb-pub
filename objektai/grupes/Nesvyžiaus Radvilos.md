@@ -70,6 +70,8 @@ Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.
 ## Citatos
 
 - id: c-176035
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po Jonušo Radvilos mirties Kėdainiai nebeturėjo
     pono. Jonušo duktė buvo ištekėjusi už dėdės Boguslovo Radvilos

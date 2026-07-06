@@ -86,6 +86,8 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
 ## Citatos
 
 - id: c-166812
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tad išbraukta iš pasaulio
     politinio žemėlapio Lietuva diplomatų dėka

@@ -101,6 +101,8 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
 ## Citatos
 
 - id: c-84218
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tų laiškų originalai turėjo
     būti kryžiuočių archyve? Anaiptol. Tikriausiai Kotzebue
@@ -114,6 +116,8 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
     - t-88240
 
 - id: c-84219
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be abejonės,
     anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­

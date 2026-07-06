@@ -72,6 +72,8 @@ Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gard
 ## Citatos
 
 - id: c-33830
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Svarbesnė buvo jo nauja taikos sutartis su kry­
     žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis

@@ -133,6 +133,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-85317
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
                    mą ir apie tai, kaip buvo apleista ši žemė

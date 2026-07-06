@@ -134,6 +134,8 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
 ## Citatos
 
 - id: c-82453
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O kadangi no­
     rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
@@ -160,6 +162,8 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
     - t-86475
 
 - id: c-82454
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Klierikų mokymo reikalus ir vadovavimą kole­
     gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­

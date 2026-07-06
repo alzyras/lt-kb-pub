@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172650
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     7. N uolatinė auka. Jos esmė buvo visados degančios ir
     niekad negęstančios ugnies kurstymas Praurimės, Kurko,

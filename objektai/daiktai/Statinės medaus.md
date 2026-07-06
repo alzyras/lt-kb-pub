@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170029
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir suspindo žvaigždės kaip naktį, ir
     švietė tris valandas:.

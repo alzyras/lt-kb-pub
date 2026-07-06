@@ -275,6 +275,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82864
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nusprendėme ir šiuo raštu nu­
     sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­
@@ -296,6 +298,8 @@ Nenurodyta
     - t-86888
 
 - id: c-82865
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
     bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
@@ -325,6 +329,8 @@ Nenurodyta
     - t-86887
 
 - id: c-82866
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
     rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
@@ -360,6 +366,8 @@ Nenurodyta
     - t-86886
 
 - id: c-82867
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau, kad dėl Vilniaus miesto
     gyventojų, priklausančių visokiems ponams, įvairumo, ne­

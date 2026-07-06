@@ -71,6 +71,8 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 ## Citatos
 
 - id: c-26710
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien
     kartais pavadinama imperija. Vėliau Lietuva silpnėjo, todėl, ištikus ne-

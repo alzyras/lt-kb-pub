@@ -77,6 +77,8 @@ Bibliografia Regionu Białostockiego, red. U.
 ## Citatos
 
 - id: c-33541
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1, 1967 ; dal. 2 (Indeksy), Varšuva 1967.**
     **_Bibliografia Regionu Białostockiego,_** **red. U. Lewicka ir J. Pochodowicz,

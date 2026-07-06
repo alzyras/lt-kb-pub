@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-171006
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vėliau
     jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
@@ -157,6 +159,8 @@ Nenurodyta
     - t-187999
 
 - id: c-177019
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jono Krikštytojo
     šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-

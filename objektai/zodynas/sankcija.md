@@ -70,6 +70,9 @@ Dabar toji visuomenė davė unijai savo sankciją^2 ).
 ## Citatos
 
 - id: c-38761
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šiaip ar taip kalbant, paskutinioji unija patikrino Lietuvai
     su Lenkija daugiau lygybės, ko iki tol teisiškai nebuvo, ir be to,

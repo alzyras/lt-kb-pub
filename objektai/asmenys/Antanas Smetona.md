@@ -1787,6 +1787,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 ## Citatos
 
 - id: c-73419
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
     Vilniaus Rau­donajai armijai, A. Voldemaro vyriausybė neturėjo ginkluo-
@@ -1802,6 +1804,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75737
 
 - id: c-73420
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Padalijus kraštą į apskritis, kurių ribos buvo
     dažnai kaitaliojamos, 1916 m. birželį Lietuvos apskritis (su centru Kau-
@@ -1817,6 +1821,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75734
 
 - id: c-73421
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
     ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
@@ -1838,6 +1844,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75718
 
 - id: c-73422
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
     kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
@@ -1868,6 +1876,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75732
 
 - id: c-73423
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
     nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
@@ -1885,6 +1895,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75763
 
 - id: c-73425
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
     areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
@@ -1900,6 +1912,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75744
 
 - id: c-73426
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl 1936 m. vasarą
     vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas
@@ -1916,6 +1930,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75748
 
 - id: c-73427
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dauguma kaltinamųjų sakė,
     kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
@@ -1940,6 +1956,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75725
 
 - id: c-73428
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
     žimas, nors ir dėl visai skirtingų priežasčių.
@@ -1956,6 +1974,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75731
 
 - id: c-73430
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Bolševizaciją“ papildė kaltinimai polonizaci-
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
@@ -1974,6 +1994,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75715
 
 - id: c-73431
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     161
@@ -1993,6 +2015,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75758
 
 - id: c-73432
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
@@ -2010,6 +2034,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75730
 
 - id: c-73433
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Seimas ir prezidentas (renkamas Seimo) ren-
     kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
@@ -2027,6 +2053,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75726
 
 - id: c-73434
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atsitokėjusi
     kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
@@ -2045,6 +2073,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75728
 
 - id: c-73435
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
@@ -2066,6 +2096,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75739
 
 - id: c-73436
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytauto Didžiojo mirties
     500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
@@ -2086,6 +2118,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75711
 
 - id: c-73437
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
     iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
@@ -2106,6 +2140,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75733
 
 - id: c-73438
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
@@ -2127,6 +2163,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75754
 
 - id: c-73439
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
@@ -2141,6 +2179,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75723
 
 - id: c-73440
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
     būti demokratinė, parlamentinė.
@@ -2161,6 +2201,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75755
 
 - id: c-73441
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Naujas galimybes atvėrė dviejų imperijų – Rusijos ir Vokietijos – pra-
     laimėjimai kare, revoliucijos abiejose šalyse. Valstybės Taryba vis atkak­
@@ -2180,6 +2222,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75761
 
 - id: c-73442
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
     tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
@@ -2200,6 +2244,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75729
 
 - id: c-73443
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Architektas V. Landsbergis-Žemkalnis, 1938
     A. Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir
@@ -2218,6 +2264,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75738
 
 - id: c-73444
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos
     valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta
@@ -2246,6 +2294,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75719
 
 - id: c-73445
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Prezidentą renka septyneriems metams
     ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
@@ -2261,6 +2311,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75764
 
 - id: c-73446
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     169
@@ -2280,6 +2332,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75709
 
 - id: c-73447
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taip renkant ypatinguo­sius tautos atstovus buvo labai sun-
     ku išrinkti A. Smetonai priešingą asmenį. Taigi A. Smetona sudarė sau
@@ -2297,6 +2351,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75756
 
 - id: c-73448
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tautininkai, susitarę su krikščionių demokratų bloku,
     vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruo-
@@ -2312,6 +2368,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75742
 
 - id: c-73449
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“. Tai rodė,
@@ -2327,6 +2385,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75744
 
 - id: c-73450
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Karinėje srityje
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
@@ -2344,6 +2404,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75727
 
 - id: c-166919
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugiausia dėmesio jie skyrė katalikišką
     doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su

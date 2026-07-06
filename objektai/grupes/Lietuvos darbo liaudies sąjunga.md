@@ -119,6 +119,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-75143
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
     seimą dalyvavo 95 proc. (per rinkimus į pasus buvo dedami antspaudai),
@@ -136,6 +138,8 @@ media_all_json: |-
     - t-77821
 
 - id: c-75144
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į vieną vietą leista iškelti
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-

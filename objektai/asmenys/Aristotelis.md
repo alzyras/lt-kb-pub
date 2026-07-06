@@ -121,6 +121,8 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
 ## Citatos
 
 - id: c-174135
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -146,6 +148,8 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
     - t-191253
 
 - id: c-174823
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plinijus surinkęs liudijimų,
     kad gintaras vaidinęs svarbų vaidmenį senovės moterų

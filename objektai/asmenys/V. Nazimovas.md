@@ -75,6 +75,8 @@ Nazimovas balandžio pabaigoje įsakė gen.
 ## Citatos
 
 - id: c-44550
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Daugelis sukilėlių turėjo tik senus
     titnaginius arba medžioklinius šautuvus.

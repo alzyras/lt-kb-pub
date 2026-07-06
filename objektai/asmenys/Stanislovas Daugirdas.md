@@ -89,6 +89,8 @@ Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Mas
 ## Citatos
 
 - id: c-169614
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius įpareigojo
     savo pasiuntinius maršalus Mikalojų Radvilą bei Vai­

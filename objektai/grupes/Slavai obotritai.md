@@ -76,6 +76,8 @@ Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis S
 ## Citatos
 
 - id: c-177190
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-

@@ -245,6 +245,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16434
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     vaizdį. Šiandien istorikų jaunimas Lietuvos Respublikos civilizacinius pa-
     siekimus įvardija labai trumpai – sviestas, ANBO ir krepšinis. O turima
@@ -261,6 +263,8 @@ Nenurodyta
     - t-23269
 
 - id: c-16435
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Per 20 metų iš
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
@@ -278,6 +282,8 @@ Nenurodyta
     - t-13451
 
 - id: c-16437
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
     tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
@@ -294,6 +300,8 @@ Nenurodyta
     - t-13450
 
 - id: c-65485
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
     liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.

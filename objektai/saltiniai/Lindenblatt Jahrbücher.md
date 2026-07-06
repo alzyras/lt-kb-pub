@@ -209,6 +209,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84094
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš­
     stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be
@@ -231,6 +233,8 @@ media_all_json: |-
     - t-88116
 
 - id: c-84095
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Olesnickis,
     užbėgdamas kryžiuočiams už akių, buvo priverstas paau­
@@ -265,6 +269,8 @@ media_all_json: |-
     - t-88115
 
 - id: c-84096
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     33
     Lindenblatt Jahrbücher etc., p. 76,
@@ -280,6 +286,8 @@ media_all_json: |-
     - t-88117
 
 - id: c-84097
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Privilegium ir kankinės, dieną, Viešp. metais
     Praelatorum Lithuaniae etc. datum in 1401].

@@ -72,6 +72,8 @@ Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat m
 ## Citatos
 
 - id: c-81998
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dabar pilis stovi be stogo, be langų ir vis labiau
     nyksta.

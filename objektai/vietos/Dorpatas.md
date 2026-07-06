@@ -288,6 +288,9 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 ## Citatos
 
 - id: c-38474
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinas ragino Hanzą prisidėti ir
     prie 1422 m. karo. Bet ši atsisakė eiti prieš Vytautą, nes, ma­
@@ -307,6 +310,9 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
     - t-36197
 
 - id: c-38475
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tad Vytautas čia labiau pareida­
     vo ir nuo geografinės valstybės būklės ir nuo politinių bei kul­
@@ -328,6 +334,8 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
     - t-36198
 
 - id: c-168303
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šiaip ar taip, jis
     negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
@@ -345,6 +353,8 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
     - t-184942
 
 - id: c-168304
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
     stenbergas, bet niekur neradau parašyta, ar gyvas, ar

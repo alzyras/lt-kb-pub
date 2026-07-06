@@ -79,6 +79,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Citatos
 
 - id: c-84438
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus mo­
     netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis

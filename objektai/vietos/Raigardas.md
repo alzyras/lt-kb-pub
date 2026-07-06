@@ -133,6 +133,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 ## Citatos
 
 - id: c-168660
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išlikę jotvingiai, iš seno ne­
     kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
@@ -159,6 +161,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
     - t-185299
 
 - id: c-175621
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kruvina šio Ordino
     politika numatė padaryti Sūduvą visiškai negyvenamą,

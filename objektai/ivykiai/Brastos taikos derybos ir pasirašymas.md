@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01837
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Greitai įvykęs komunistų
     perversmas pertraukė ne tik Komiteto, bet ir šios Tarybos

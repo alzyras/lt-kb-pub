@@ -186,6 +186,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-16852
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
@@ -208,6 +210,8 @@ media_all_json: |-
     - t-23386
 
 - id: c-70334
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Baroko
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus

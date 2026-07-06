@@ -80,6 +80,8 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 ## Citatos
 
 - id: c-83839
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     —
     Item Omnes Homines Subditos Ecclesiae, Quicunque ab

@@ -71,6 +71,8 @@ Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su
 ## Citatos
 
 - id: c-174132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
     mums artimą gentį, tad remkimės tik moksliniu ir kruopš­

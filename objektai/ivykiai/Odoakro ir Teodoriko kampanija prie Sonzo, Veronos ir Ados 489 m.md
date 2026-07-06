@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173902
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuomet jis nusiaubė apylinkes ir, iš­
     keliavęs į Raveną1, užsidarė ten, savo rezidenciniame

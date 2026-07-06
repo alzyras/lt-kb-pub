@@ -80,6 +80,8 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
 ## Citatos
 
 - id: c-44334
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Haličo-
     Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią

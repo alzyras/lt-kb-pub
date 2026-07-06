@@ -177,6 +177,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170452
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Būtent, po Gedimino sūnų iš­
     vardijimo, kuriuo Trumpajame sąvade prasideda „Di­
@@ -204,6 +206,8 @@ Nenurodyta
     - t-187493
 
 - id: c-170453
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Vėliau, išmirus Palemono
     įpėdiniams ir sekančios Kentauro herbo dinastijos ku­

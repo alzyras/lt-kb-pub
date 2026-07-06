@@ -76,6 +76,8 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 ## Citatos
 
 - id: c-41720
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vokiečių
 

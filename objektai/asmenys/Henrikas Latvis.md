@@ -123,6 +123,8 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
 ## Citatos
 
 - id: c-172983
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taigi, jei tiek Prūsijoje, tiek ir
     Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
@@ -148,6 +150,8 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
     - t-190100
 
 - id: c-172984
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     421
 

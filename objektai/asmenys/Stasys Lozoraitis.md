@@ -248,6 +248,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 ## Citatos
 
 - id: c-21994
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
     saulį pasklidusių išeivių veikloje.
@@ -268,6 +270,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - t-46322
 
 - id: c-21995
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl 1934 m. pradėti megzti neoficialūs
     Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
@@ -283,6 +287,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - t-46323
 
 - id: c-21996
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
@@ -300,6 +306,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - t-46320
 
 - id: c-21997
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
     tos JAV bankuose laikytos Baltijos valstybių
@@ -319,6 +327,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - t-46324
 
 - id: c-48907
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šie pinigai suteikė galimybę LDT išlai-
     kyti savo pasiuntinybes ir personalą iki pat

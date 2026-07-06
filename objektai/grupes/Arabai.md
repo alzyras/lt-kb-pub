@@ -89,6 +89,9 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 ## Citatos
 
 - id: c-38234
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Arabijos moterų pasiaukojimą, meilę, pagaliau jų žiaurų
     kerštą. Mokiniui šios knygos palengvins išmokti istorijos pamokas

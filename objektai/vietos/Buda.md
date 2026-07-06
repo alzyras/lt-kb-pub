@@ -117,6 +117,8 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
 ## Citatos
 
 - id: c-31982
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo tada Jogaila
     veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­
@@ -131,6 +133,8 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
     - t-67760
 
 - id: c-67544
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
 

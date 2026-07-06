@@ -1048,6 +1048,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 ## Citatos
 
 - id: c-14726
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Paskutine proga dar norėtųsi atsakyti į klausimą: ar Vytau­
     tas padarė tuo laikotarpiu ką nors naujo Lietuvos vidaus ir už­
@@ -1069,6 +1072,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176251
 
 - id: c-37967
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vy­
     tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo
@@ -1082,6 +1088,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176260
 
 - id: c-46940
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Savo dvarams administruoti ir tvar-
     kai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus
@@ -1099,6 +1107,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-193166
 
 - id: c-46941
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie
     valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios
@@ -1115,6 +1125,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176268
 
 - id: c-160264
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
     čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
@@ -1135,6 +1147,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176250
 
 - id: c-160265
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai buvo žmogus, kurį dar Algirdas dėl didelių
     gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė. O
@@ -1153,6 +1167,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176258
 
 - id: c-160267
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Garbingosios
     Mergelės Marijos gimimo dieną
@@ -1187,6 +1203,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176265
 
 - id: c-160269
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tos pirmosios Lietuvoj teisės būtų ge­
     rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį
@@ -1206,6 +1224,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176255
 
 - id: c-160270
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Palenkdamas rusų bojari-
     10
@@ -1225,6 +1245,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176259
 
 - id: c-160273
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     PIRMOSIOS
     KNYGOS
@@ -1255,6 +1277,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176266
 
 - id: c-160275
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     41
     Miesto archyve yra Aleksandro Jogai-
@@ -1295,6 +1319,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176263
 
 - id: c-160277
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     223
 
@@ -1318,6 +1344,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-176252
 
 - id: c-166388
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
     tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
@@ -1333,6 +1361,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-182991
 
 - id: c-168005
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl, net nepabandęs laimės kovos lauke, kuo
     greičiausiai pabėgo į Severską. Gediminas, be kovos
@@ -1352,6 +1382,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-184644
 
 - id: c-168006
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to su karališku jautrumu bei dosnumu pasirūpino
     valdinių paklusnumu, mat sklido kalbos, kad jiems įgri-
@@ -1377,6 +1409,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-184645
 
 - id: c-168007
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Vytautas jiems paro­
     dė palankumą, apsuptieji visiškai pasidavė jo malonei.
@@ -1392,6 +1426,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-184646
 
 - id: c-168008
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vėliau šių valdų vietininku kara­
     lius laikinai buvo paskyręs Spiteką. Ta pačia proga ka­
@@ -1416,6 +1452,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-184647
 
 - id: c-168010
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sutelkę jėgas, visi kartu užpuolė
     Brianską ir dėl rusų klastingos išdavystės be vargo
@@ -1437,6 +1475,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-184649
 
 - id: c-170483
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas, sutelkęs visas savo
     pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
@@ -1465,6 +1505,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-187533
 
 - id: c-175915
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **22. Vytauto santykiai su Lenkija jo gyvenimo pabaigoj**
 
@@ -1480,6 +1522,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-193165
 
 - id: c-176109
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Negi jie nemato, koks grėsmingas Jurgis Nosuta,
     kuris, užėmęs Palenkę ir patraukęs čia į Mykolo pusę

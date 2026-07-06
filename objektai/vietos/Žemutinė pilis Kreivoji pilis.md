@@ -489,6 +489,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 ## Citatos
 
 - id: c-170267
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir dievas padėjo didžiajam kunigaikš­
     čiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­
@@ -511,6 +513,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-187191
 
 - id: c-170268
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didelė medinė Kreivoji pilis minima kryžiuočių kronikoje,
     1390 m. Vilniaus puolimo aprašyme. Tuomet ji buvo sudeginta ir
@@ -525,6 +529,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-187195
 
 - id: c-170269
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
     nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
@@ -546,6 +552,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-187183
 
 - id: c-170270
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 Lizdeikos Istoriškumas galutinai nenustatytas, nes patikimuose
     XIV a. šaltiniuose jo  vardas neaptinkamas. Pagal XVI a. tradicijų,
@@ -574,6 +582,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-187194
 
 - id: c-170271
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kunigaikščio rūmų pastatai,
     kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
@@ -607,6 +617,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-187182
 
 - id: c-170272
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     dabartinių Pionierių rūmų) būta ir mūrinio pastato. Tačiau seniau­
     sieji Žemutinės pilies įtvirtinim ai ligi Šiol tebera neištirti ir jų  pa-

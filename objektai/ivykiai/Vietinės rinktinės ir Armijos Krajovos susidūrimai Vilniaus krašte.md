@@ -162,6 +162,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23253
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių kariai neke-
     tino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.
@@ -179,6 +181,8 @@ Nenurodyta
     - t-75295
 
 - id: c-73121
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
     Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
@@ -195,6 +199,8 @@ Nenurodyta
     - t-75294
 
 - id: c-166670
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte,
     kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių

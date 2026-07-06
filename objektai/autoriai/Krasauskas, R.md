@@ -76,6 +76,8 @@ Krasauskas, R.
 ## Citatos
 
 - id: c-33010
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     VII + 117 p.). — Krasauskas,
     R. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p.

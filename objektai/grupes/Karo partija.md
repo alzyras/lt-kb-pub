@@ -69,6 +69,9 @@ Iš to susidarė dvi partijos: karo ir taikos.
 ## Citatos
 
 - id: c-35580
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Iš to susidarė
     dvi partijos: karo ir taikos. Taikos partija, turėdama galvoje

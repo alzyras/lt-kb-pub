@@ -76,6 +76,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 ## Citatos
 
 - id: c-83634
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Terespolis nebuvo Balinskių
     giminės paveldima nuosavybė. 1811 m. I. Balinskis perėmė iš

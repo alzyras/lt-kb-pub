@@ -112,6 +112,8 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 ## Citatos
 
 - id: c-23967
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su
     Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
@@ -128,6 +130,8 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     - t-75515
 
 - id: c-73279
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rem-
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio

@@ -178,6 +178,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83030
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas, ne­
     mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,
@@ -196,6 +198,8 @@ Nenurodyta
     - t-87053
 
 - id: c-83031
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     39
 
@@ -214,6 +218,8 @@ Nenurodyta
     - t-87051
 
 - id: c-83032
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­
     tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­

@@ -82,6 +82,8 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
 ## Citatos
 
 - id: c-173003
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,

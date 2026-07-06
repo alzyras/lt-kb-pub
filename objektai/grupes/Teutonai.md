@@ -454,6 +454,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 ## Citatos
 
 - id: c-10083
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
@@ -467,6 +469,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
     - t-07849
 
 - id: c-10084
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
         nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir

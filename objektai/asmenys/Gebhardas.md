@@ -94,6 +94,8 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
 ## Citatos
 
 - id: c-60915
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
       373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos

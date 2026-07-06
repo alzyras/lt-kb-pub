@@ -176,6 +176,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-90779
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1426 met. iš Konstantinopolio jis rašė Vytautui at­
     gailaudamas, kad „prie nesantaikos su kunigaikščiu jį prikal­
@@ -192,6 +195,9 @@ media_all_json: |-
     - t-96028
 
 - id: c-90781
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1424 m. Vytauto pa­
     siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,
@@ -211,6 +217,9 @@ media_all_json: |-
     - t-96027
 
 - id: c-90782
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     O kada pabaigė 1422
     m. kovą ir galėjo drąsiai atsidėti Rytų politikai, tai Vytauto įsi­

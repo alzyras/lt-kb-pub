@@ -145,6 +145,8 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 ## Citatos
 
 - id: c-78655
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1855 m., po caro Nikolajaus I mirties ir
     XII
@@ -166,6 +168,8 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     - t-82167
 
 - id: c-78656
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
     Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti

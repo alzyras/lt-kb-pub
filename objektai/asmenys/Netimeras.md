@@ -206,6 +206,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-21916
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Didžiausia tiki-
     mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-
@@ -223,6 +225,8 @@ media_all_json: |-
     - t-19170
 
 - id: c-21917
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo
     Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
@@ -240,6 +244,8 @@ media_all_json: |-
     - t-19172
 
 - id: c-166954
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
     vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-

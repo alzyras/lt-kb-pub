@@ -101,6 +101,8 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 ## Citatos
 
 - id: c-170283
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     * Vtazma — dabar RTFSR miestas (apie 150 km į rytus nuc
     Smolensko).

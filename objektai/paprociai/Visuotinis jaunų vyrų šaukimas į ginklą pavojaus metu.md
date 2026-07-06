@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169292
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Į sto­
     vyklą sugrįžo tik tada, kai pasklido gandas, jog ar­

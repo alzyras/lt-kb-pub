@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169201
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sėkmingai susiklostė Fiodorui žygio pradžia,
     tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­

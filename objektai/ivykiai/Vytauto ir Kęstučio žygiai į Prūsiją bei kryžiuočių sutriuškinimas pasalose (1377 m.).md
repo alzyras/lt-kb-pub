@@ -191,6 +191,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169016
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo būdu sutvarkę
     Rusioje reikalus taip, kaip norėjo, lietuviai pasijuto
@@ -216,6 +218,8 @@ Nenurodyta
     - t-185655
 
 - id: c-169017
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vėliau sūnaus žygį
     pakartojo tėvas Kęstutis, Jis, iš seno įpratęs kariauti
@@ -245,6 +249,8 @@ Nenurodyta
     - t-185656
 
 - id: c-169018
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat miškuose (kuriais kryžiuočiai turėjo trauk-
     tyti grioviai labai trukdė judėti. Kai kryžiuočiai pri­

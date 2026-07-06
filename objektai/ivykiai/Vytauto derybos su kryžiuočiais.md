@@ -92,6 +92,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-90749
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Antras Vytauto bėgimas į Prusus (1390—
     1392). Vytauto derybos su kryžiuočiais. Jo kovos su Jogaila.

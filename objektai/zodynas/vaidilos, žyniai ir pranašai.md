@@ -178,6 +178,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82473
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kunigaikščio rūmų pastatai,
     kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
@@ -210,6 +212,8 @@ media_all_json: |-
     - t-86496
 
 - id: c-82474
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Reikš­
     mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
@@ -227,6 +231,8 @@ media_all_json: |-
     - t-86494
 
 - id: c-82475
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     2
     Tas pats dviejų aukštų pastatas, la­

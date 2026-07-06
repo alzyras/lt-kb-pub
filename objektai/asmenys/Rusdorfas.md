@@ -168,6 +168,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-105139
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1435 m. gruodžio 31 d. sudaryta Bresto
     (Kujavy) taika tarp Lenkijos karaliaus
@@ -188,6 +190,8 @@ media_all_json: |-
     - t-113963
 
 - id: c-105140
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pa­
     galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-

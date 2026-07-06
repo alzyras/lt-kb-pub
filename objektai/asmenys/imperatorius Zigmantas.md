@@ -84,6 +84,8 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 ## Citatos
 
 - id: c-65189
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-

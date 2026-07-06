@@ -72,6 +72,8 @@ Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.
 ## Citatos
 
 - id: c-175650
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Strabonas kalba apie belgų venedus šian­
     dieniuose Nyderlanduose. Melą Pomponijus nedvipras­

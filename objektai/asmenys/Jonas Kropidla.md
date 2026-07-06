@@ -99,6 +99,9 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
 ## Citatos
 
 - id: c-38056
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo, tiesa, tik didelio darbo pradmens, bet tuo metu nie­
     kas Europoje negalėjo net bandyti prilygti savo darbais didžia­
@@ -118,6 +121,9 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     - t-35148
 
 - id: c-38057
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet buvo ir tokių reikalų, kur Vytautas pasireikšdavo ne
     vien patarėju, bet ir teisėju. Kartą buvo kilęs ginčas tarp Vloc­

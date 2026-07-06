@@ -101,6 +101,8 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 ## Citatos
 
 - id: c-09735
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Sunku šiandien yra aiškiai ką apie senovės lietuvių ūkės rėdą parašyti, nesgi kruvinos karės,
         smarkūs neprieteliai, dar užvis bjauresnė žmonių skaugė^956 visa paspėjo išnaikinti.
@@ -113,6 +115,8 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
     - t-70048
 
 - id: c-09736
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų, nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos ilgainiui pragaištų.
   statusas: verified

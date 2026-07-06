@@ -74,6 +74,8 @@ Wojsko powstania Košciuszkowskiego, Warszawa, 1987.
 ## Citatos
 
 - id: c-41714
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 143, LDK 2-ojo Didžiosios buožės pėstininkų regimento eilinis su Ketverių metų
 

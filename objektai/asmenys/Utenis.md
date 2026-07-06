@@ -198,6 +198,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 ## Citatos
 
 - id: c-173009
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be
     to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
@@ -215,6 +217,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - t-190126
 
 - id: c-173875
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Be to, pas Henenbergerj
     yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
@@ -232,6 +236,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - t-190993
 
 - id: c-176624
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ## Puslapis 55
 
@@ -251,6 +257,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - t-193999
 
 - id: c-177120
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     221
 

@@ -303,6 +303,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 ## Citatos
 
 - id: c-45326
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „du carai“. Nuo Aukso ordos chano val- pasikvietė lietuvius. Tai buvo Ordos val-
     džios atskilo Volgos miestų regionas. džios likvidavimo didelėje Černigovo-
@@ -317,6 +319,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-42133
 
 - id: c-168500
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
@@ -343,6 +347,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-185139
 
 - id: c-168501
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kaip
     atlyginimą už išdavystę, prisiekdamas visomis švente­
@@ -367,6 +373,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-185140
 
 - id: c-168502
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sako, jog skitai,
     laikydamiesi barbariškųjų papročių, šitaip sudarydavę
@@ -393,6 +401,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-185141
 
 - id: c-168503
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nieko nenuveikę,
     pasiuntiniai patraukė atgal, ir
@@ -412,6 +422,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-185142
 
 - id: c-171723
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-

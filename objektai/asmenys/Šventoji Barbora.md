@@ -143,6 +143,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 ## Citatos
 
 - id: c-60711
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
     išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
@@ -158,6 +160,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     - t-60080
 
 - id: c-60712
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Į tai  ji atsakė:
     „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus
@@ -174,6 +178,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     - t-60081
 
 - id: c-60713
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pagaliau pats dievas,
     niekad neapleidžiantis tų, kurie jį tiki, pasiuntė broliams iš dangaus pagalbą bei pergalę,

@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62512
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     121. Apie vieną stebuklą
 

@@ -172,6 +172,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60067
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį
@@ -189,6 +191,8 @@ Nenurodyta
     - t-59436
 
 - id: c-60068
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Vengrijos ir Lenkijos nusiaubimą
 

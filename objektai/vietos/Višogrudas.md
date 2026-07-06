@@ -177,6 +177,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 ## Citatos
 
 - id: c-59119
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     53 (52). Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
 
@@ -193,6 +195,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-58487
 
 - id: c-59121
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród
     — dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis.
@@ -204,6 +208,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-58488
 
 - id: c-167601
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     O kitoje vietoje, kai žuvo
     tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras

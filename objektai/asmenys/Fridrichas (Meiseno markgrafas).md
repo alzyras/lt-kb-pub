@@ -64,6 +64,8 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
 ## Citatos
 
 - id: c-169563
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Galustalėje
     šau n ią p u o tą

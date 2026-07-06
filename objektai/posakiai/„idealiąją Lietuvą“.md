@@ -176,6 +176,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23622
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lenkijos prezidento Bronislovo Komo-
     rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
@@ -196,6 +198,8 @@ media_all_json: |-
     - t-75612
 
 - id: c-73337
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
     tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos
@@ -223,6 +227,8 @@ media_all_json: |-
     - t-75613
 
 - id: c-166886
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
     ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-

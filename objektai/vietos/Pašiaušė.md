@@ -79,6 +79,8 @@ Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-
 ## Citatos
 
 - id: c-02905
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono

@@ -133,6 +133,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169253
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip paprastai esti, kai vienoje
     valstybėje gyvena skirtingos tautos, tada kiekvienai
@@ -155,6 +157,8 @@ Nenurodyta
     - t-185892
 
 - id: c-169254
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
     Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­

@@ -71,6 +71,9 @@ Sokolovski, Dr.
 ## Citatos
 
 - id: c-38436
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     I.
     Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900.

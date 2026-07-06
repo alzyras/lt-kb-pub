@@ -98,6 +98,8 @@ Bažnytinio kalendoriaus data nusakanti formulė.
 ## Citatos
 
 - id: c-170079
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 5  Pasak M. Strijkovskio, Skabeika buvo Žygimanto Kęstutai­
     čio ekonomu ir drauge žirgininku. Jokių tikslesnių duomenų apie

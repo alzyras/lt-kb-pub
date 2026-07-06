@@ -167,6 +167,8 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
 ## Citatos
 
 - id: c-174109
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip įsivaizduojame mūsų žemyno susifor­
     mavimą.
@@ -188,6 +190,8 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     - t-191227
 
 - id: c-174111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     361
 
@@ -218,6 +222,8 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     - t-191229
 
 - id: c-174856
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
     delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­

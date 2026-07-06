@@ -79,6 +79,9 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
 ## Citatos
 
 - id: c-38376
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šitas tvirtinimas priešingas unijos nuosta­
     tams ir aukščiau išdėstytiems faktams. Turime atvirai pasisa­

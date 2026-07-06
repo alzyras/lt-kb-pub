@@ -109,6 +109,8 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
 ## Citatos
 
 - id: c-172331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto
     reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos
@@ -124,6 +126,8 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
     - t-189444
 
 - id: c-177003
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikos laikais panašiai būdavo
     apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram

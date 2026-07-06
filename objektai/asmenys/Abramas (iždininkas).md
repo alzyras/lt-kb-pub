@@ -92,6 +92,8 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
 ## Citatos
 
 - id: c-83584
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietuvos Metriko­
     je taip pat dažnai minima ši preky­

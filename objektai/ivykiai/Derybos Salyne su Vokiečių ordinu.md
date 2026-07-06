@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-26598
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio
     konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-

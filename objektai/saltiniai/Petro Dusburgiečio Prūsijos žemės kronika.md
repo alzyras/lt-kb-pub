@@ -103,6 +103,8 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
 ## Citatos
 
 - id: c-174575
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat čia buvo
     nemažai turtingų didelių žemės valdų savininkų; vien Me-
@@ -116,6 +118,8 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
     - t-191693
 
 - id: c-177076
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ten gyvenda­
     mas, vyriausiasis kunigas daug ką pakeitė ir papildė apeigas,

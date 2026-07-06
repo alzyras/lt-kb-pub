@@ -78,6 +78,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33656
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Jakštas, J. : _Dlugošas apie Žalgirio
     mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,

@@ -90,6 +90,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84184
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
     ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­

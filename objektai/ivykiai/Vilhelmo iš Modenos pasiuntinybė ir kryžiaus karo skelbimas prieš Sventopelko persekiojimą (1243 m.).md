@@ -139,6 +139,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67041
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
       271 Sukilimo pradžia datuojama 1242 m.
@@ -150,6 +152,8 @@ Nenurodyta
     - t-66952
 
 - id: c-67042
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi
     Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską,

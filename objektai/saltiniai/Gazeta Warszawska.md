@@ -136,6 +136,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 ## Citatos
 
 - id: c-175817
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
     do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
@@ -155,6 +157,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     - t-193049
 
 - id: c-175818
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
     do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
@@ -174,6 +178,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     - t-193050
 
 - id: c-177074
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Yra žmogus Dievo siųstas iš dangaus,
     Jo lietuviškoje krūtinėje šventoji ugnis

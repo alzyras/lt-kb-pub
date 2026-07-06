@@ -85,6 +85,8 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
 ## Citatos
 
 - id: c-171935
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
     metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos

@@ -82,6 +82,8 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 ## Citatos
 
 - id: c-61076
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Baigos brolį Tamę ir jo gyvenimą
 

@@ -102,6 +102,8 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
 ## Citatos
 
 - id: c-67333
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     „Lietuviškojo Balso" pirmojo numerio antraštė.
     (Laikraštis ėjo 1885—1889 m.).
@@ -117,6 +119,8 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     - t-67435
 
 - id: c-67334
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Iš pradžių jis ėmė dirbti čia atrastoje lietuvių
     spaudoje kartu su veikėjais, palaikiusiais ryšius su lenkais. Bet

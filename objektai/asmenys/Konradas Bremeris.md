@@ -76,6 +76,8 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
 ## Citatos
 
 - id: c-60996
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie laivų kautynes
 

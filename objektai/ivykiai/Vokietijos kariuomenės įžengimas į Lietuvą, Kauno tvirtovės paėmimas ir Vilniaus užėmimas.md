@@ -182,6 +182,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23282
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Idėja skynėsi kelią ne tik Europo-
     je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje
@@ -203,6 +205,8 @@ Nenurodyta
     - t-75303
 
 - id: c-23283
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
     nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
@@ -223,6 +227,8 @@ Nenurodyta
     - t-75305
 
 - id: c-166675
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Toje teritorijoje gyveno lenkai,
     lietuviai, latviai ir baltarusiai. Dar nesusigaudę kur pateko, vokiečiai Vil-

@@ -84,6 +84,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Citatos
 
 - id: c-155070
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-

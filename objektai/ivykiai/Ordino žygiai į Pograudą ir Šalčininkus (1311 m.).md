@@ -136,6 +136,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31365
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1311 ordinas turėjo vėl laikinų pasisekimų. Nors Pograudos
     apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių puolimą,
@@ -152,6 +154,8 @@ Nenurodyta
     - t-31462
 
 - id: c-33421
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai jie iš ten išėjo ir pamatė netikėlius,
     pasiruošusius kovoti, išžudė visus belaisvius žmones ir visa, kas

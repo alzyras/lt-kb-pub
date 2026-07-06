@@ -121,6 +121,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02146
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Taip antai, po Zigmanto
     Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo
@@ -138,6 +140,8 @@ Nenurodyta
     - t-01908
 
 - id: c-02147
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuojau po Liublino unijos abi valstybės turėjo labai daug skir-
     tingų reikalų, kurie kartais visai neliesdavo antrosios valstybės.

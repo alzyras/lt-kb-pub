@@ -319,6 +319,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 ## Citatos
 
 - id: c-32088
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jų didelė dalis buvo skirta naikinti Žemaičių
     sodyboms ir šturmuoti jų pilims. Po du — tris kartus buvo teriota
@@ -335,6 +337,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-90531
 
 - id: c-32089
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nesisekė tada lietuviams ir Karšuvos srityje. Kai karšuviai
     «su didele kariuomene » išžygiavo prieš Klaipėdos pilį, Ragainės
@@ -350,6 +354,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-90533
 
 - id: c-32090
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ten buvo galima kolektyviai stipriau
     priešintis, pasistatant daug darbo rankų reikalaujančių naujų pilių.
@@ -365,6 +371,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-90529
 
 - id: c-86347
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     285 (278). Apie Karšuvos žemės nusiaubimą
 
@@ -380,6 +388,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-90530
 
 - id: c-168333
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     105
 
@@ -402,6 +412,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-184972
 
 - id: c-168334
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-
     jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,

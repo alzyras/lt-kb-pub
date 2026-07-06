@@ -73,6 +73,8 @@ Dusburgietis teigia, kad palmaitis L.
 ## Citatos
 
 - id: c-63376
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),
     p. 156—164.

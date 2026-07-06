@@ -79,6 +79,8 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
 ## Citatos
 
 - id: c-60921
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
     Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo

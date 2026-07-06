@@ -121,6 +121,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-31458
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Štai, XII amž. pradžioje surašyta
     «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
@@ -135,6 +137,8 @@ media_all_json: |-
     - t-31562
 
 - id: c-33489
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
     Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą

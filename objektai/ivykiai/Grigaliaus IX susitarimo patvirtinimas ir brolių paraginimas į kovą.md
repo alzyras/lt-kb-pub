@@ -161,6 +161,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63599
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
     Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
@@ -182,6 +184,8 @@ Nenurodyta
     - t-62797
 
 - id: c-63600
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
                                       kovų
@@ -202,6 +206,8 @@ Nenurodyta
     - t-62796
 
 - id: c-63601
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
     ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš

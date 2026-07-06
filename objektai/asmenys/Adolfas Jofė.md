@@ -72,6 +72,8 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
 ## Citatos
 
 - id: c-21540
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
     miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-

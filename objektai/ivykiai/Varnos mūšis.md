@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169951
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 0  Kalbama apie Jogailos plrmųjį sūnų Vladislovų, gimusi
     1424 X 31. Lenkijos (nuo 1434 m.) ir Vengrijos (nuo 1440 m.) ka­

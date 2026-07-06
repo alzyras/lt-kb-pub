@@ -79,6 +79,8 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
 ## Citatos
 
 - id: c-44263
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo tarpu Bazelio
     bažnytinis susirinkimas dar 1431 m. pa-

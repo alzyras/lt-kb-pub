@@ -350,6 +350,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 ## Citatos
 
 - id: c-61109
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
@@ -369,6 +371,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-60477
 
 - id: c-168262
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Galbūt šitaip ir bū­
     tų atsitikę, jeigu, jam mirus,
@@ -391,6 +395,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-184901
 
 - id: c-168263
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi mano pagrindinis ketinimas — glaustai
     atpasakoti lotyniškai tai, ką radau kitų sužymėta, ma­
@@ -424,6 +430,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-184902
 
 - id: c-168265
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo tarpu Skirmantas
     po
@@ -468,6 +476,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-184904
 
 - id: c-176137
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atleidęs
     pasiuntinius, įsakė juos klyst-
@@ -494,6 +504,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-193415
 
 - id: c-176647
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Skirmantas iškilmingai pasitiko
     Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo

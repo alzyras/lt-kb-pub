@@ -69,6 +69,8 @@ Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelk
 ## Citatos
 
 - id: c-174537
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     5 Nužymėti šį prekybos kelią padėjo:
     Kraus.

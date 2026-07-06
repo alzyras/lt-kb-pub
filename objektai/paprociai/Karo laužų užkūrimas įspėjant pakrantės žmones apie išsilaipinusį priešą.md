@@ -138,6 +138,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174968
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Natangijoje, būdavo užkuriami karo laužai, kai prireik­
     davo įspėti žmones, kurie stodavo po garsių karvedžių
@@ -156,6 +158,8 @@ Nenurodyta
     - t-192101
 
 - id: c-175300
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šios tvir­
     tovės kalvoje, matomoje per daugelį mylių Sambijos ir

@@ -76,6 +76,8 @@ Priešo pajėgos 1949 m. lapkričio 1-2 dienomis MGB vidaus kariuomenės 137-0jo
 ## Citatos
 
 - id: c-40300
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Priešo pajėgos
 

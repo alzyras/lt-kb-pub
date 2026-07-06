@@ -155,6 +155,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22216
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors nuolat persekiojama, LLL – vienintelė pogrindžio organizacija,
     sulaukusi atgimimo laikų. Kaip tik tuo metu iš įkalinimo vietų buvo pa-
@@ -171,6 +173,8 @@ Nenurodyta
     - t-101534
 
 - id: c-22217
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kaip tik tuo metu iš įkalinimo vietų buvo pa-
     leisti jos aktyvieji nariai, organizacija tapo legali. LLL apie save ypač drą-

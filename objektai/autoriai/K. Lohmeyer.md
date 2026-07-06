@@ -153,6 +153,9 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 ## Citatos
 
 - id: c-13913
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lohm. = Lohmeyer. Karl, Zur Altpreussischen Geschichte,
     Aufsätze und Vorträge. Gotha, 1907.
@@ -164,6 +167,9 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     - t-64678
 
 - id: c-13914
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taigi Vytautas buvo žymus asmuo visoje
     Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­
@@ -179,6 +185,9 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     - t-64681
 
 - id: c-13915
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     (^1) ) Proch. D. W,., 148, 202, Kol. mano Vytautą pasitraukus dėl kariuo­
     menės susilpnėjimo ir dėl pavojaus iš Livonijos Ordino pusės (106 p.).

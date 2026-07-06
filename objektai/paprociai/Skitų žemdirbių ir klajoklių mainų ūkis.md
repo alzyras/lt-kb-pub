@@ -124,6 +124,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175797
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš skitų
     kilo budina, o ką jau kalbėti apie kitas mūsų nagrinėjamam objektui
@@ -146,6 +148,8 @@ Nenurodyta
     - t-193027
 
 - id: c-177271
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     32
     Skitų gentys dalijosi į įvairias kartas arba klases, bet

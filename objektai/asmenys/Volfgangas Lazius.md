@@ -82,6 +82,8 @@ Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis 
 ## Citatos
 
 - id: c-173103
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     -  Išnaša, kuria T. Narbutas papildė paragrafą, reng­
     damas antrąjį LTI leidimą (PEĮ. -  L. 304). Volf­

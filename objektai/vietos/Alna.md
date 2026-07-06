@@ -115,6 +115,8 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
 ## Citatos
 
 - id: c-59147
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
@@ -130,6 +132,8 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
     - t-58515
 
 - id: c-59148
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
     priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad

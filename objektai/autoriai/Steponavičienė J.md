@@ -75,6 +75,8 @@ Dusburgietis teigia, kad steponavičienė J.
 ## Citatos
 
 - id: c-61425
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—
     Baltistica, 1974, 10 (2), p. 163— 168.

@@ -171,6 +171,8 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 ## Citatos
 
 - id: c-42884
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mir. E. Sabeckio vadovaujama 300 karių
     grupė (dvi kuopos iš 7-ojo fusilierių re-
@@ -187,6 +189,8 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - t-78389
 
 - id: c-75670
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
     Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų. Mėginta šautuvus gaminti Gardine,
@@ -215,6 +219,8 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - t-78388
 
 - id: c-75671
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuviams puolant balandžio 23 d.
     Vilniuje buvusią rusų įgulą sudarė:

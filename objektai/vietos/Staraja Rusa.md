@@ -100,6 +100,8 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
 ## Citatos
 
 - id: c-77035
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
 

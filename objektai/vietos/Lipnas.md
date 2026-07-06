@@ -73,6 +73,8 @@ Po Dobrynės užėmimo ir sudeginimo buvo žiauriai nusiaubti Lipnas ir Ripinas.
 ## Citatos
 
 - id: c-168652
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Užpuolęs
     Dobrynę užėmė ją ir sudegi­

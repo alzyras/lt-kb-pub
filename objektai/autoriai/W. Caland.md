@@ -69,6 +69,8 @@ Caland, W.
 ## Citatos
 
 - id: c-33190
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _Die
     Slaven,_ Religionsgeschichtliches Lesebuch, III, Tübingen 1926 (vokiškai

@@ -139,6 +139,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 ## Citatos
 
 - id: c-41961
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     @ J.P. Sapiegos ir T. Dambravos raiteliai su-
     sikauna su atakuojančia švedų kavalerija
@@ -152,6 +154,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     - t-53891
 
 - id: c-54903
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Užnugaryje buvę Sapiegas rėmę
     bajorų pašauktiniai pasitraukė iš
@@ -171,6 +175,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     - t-53890
 
 - id: c-54904
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuomet didžiojo etmono dėmesys buvo
     nukreiptas į lietuvių dešinįjį sparną. Ar su-

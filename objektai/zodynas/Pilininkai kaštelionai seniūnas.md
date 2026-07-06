@@ -78,6 +78,8 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 ## Citatos
 
 - id: c-82617
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilnius, Gedimino dėka nuo mažos gyvenvie­
     tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos

@@ -73,6 +73,8 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 ## Citatos
 
 - id: c-23687
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Niekuo nekaltų žydų
     sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-

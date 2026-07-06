@@ -109,6 +109,8 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 ## Citatos
 
 - id: c-76124
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipy-
     kusi su savo ponais, atsisakė nuo sosto. Sostas atiteko Karo-
@@ -124,6 +126,8 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
     - t-79027
 
 - id: c-76126
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
     vadovaujama švedų kariuomenė ėmė skinti pergales prieš kata-

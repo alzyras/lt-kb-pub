@@ -104,6 +104,8 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 ## Citatos
 
 - id: c-42255
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ® Švedų gvardijos kavaleriją pasitinka
     T. Lackio husarai ir ryžtingu puolimu nu-
@@ -118,6 +120,8 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
     - t-40457
 
 - id: c-44530
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     nas suprato, kad pats laikas mesti į mūšį
     dvi paskutines husarų vėliavas. Rotmistro

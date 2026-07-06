@@ -119,6 +119,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-161010
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
     pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
@@ -132,6 +134,8 @@ media_all_json: |-
     - t-177105
 
 - id: c-167755
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
     magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.

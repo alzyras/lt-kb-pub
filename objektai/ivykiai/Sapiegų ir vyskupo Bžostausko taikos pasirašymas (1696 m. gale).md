@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02036
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     O Lietuvoje jau buvo prasidėjusi atvira
     kova prieš juos ir dar tebebuvo nebaigta byla su vyskupu. To-

@@ -115,6 +115,8 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
 ## Citatos
 
 - id: c-174608
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -133,6 +135,8 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
     - t-191726
 
 - id: c-174609
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     102
     Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų

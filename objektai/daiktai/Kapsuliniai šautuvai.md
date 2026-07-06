@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44659
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     I. Ganeckio rinktinę, tačiau rusų
     kariai pranoko sukilėlius ginkluote, nes

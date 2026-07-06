@@ -75,6 +75,8 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
 ## Citatos
 
 - id: c-174276
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Manydami, kad mūsų skaity­
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),

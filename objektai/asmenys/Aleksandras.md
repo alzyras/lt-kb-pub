@@ -428,6 +428,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 ## Citatos
 
 - id: c-85561
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1365 m. Kęstutis,
     Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
@@ -444,6 +446,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-89627
 
 - id: c-85563
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     rugpjūčio 8 d. Mūšio
     nugalėtojas Mykolas
@@ -471,6 +475,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-89629
 
 - id: c-85564
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tą pačią
     dieną ten buvo atvykęs jau mirtinai nega-
@@ -492,6 +498,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-89626
 
 - id: c-168017
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Metraštininkai mini, jog tie patys
     žmonės pastatė ant neprieinamo akmens kalno nuos­
@@ -523,6 +531,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-184656
 
 - id: c-173724
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vėliau, 358 metais prieš Kristaus gi­
     mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­

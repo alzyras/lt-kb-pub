@@ -100,6 +100,8 @@ Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vie
 ## Citatos
 
 - id: c-171838
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
     tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną

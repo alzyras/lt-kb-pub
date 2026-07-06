@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83277
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1528 metų sausio 20 dieną karalius pasirašė Žemaičių
     žemei atskirą įstatymą, garantuojantį jos teises ir privilegi­

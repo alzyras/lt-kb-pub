@@ -86,6 +86,8 @@ Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaik�
 ## Citatos
 
 - id: c-172383
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tre­
     čioji paliko bevaikė. Lietuvos ponai 1316 metų sausio mėnesį

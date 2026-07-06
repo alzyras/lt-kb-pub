@@ -72,6 +72,9 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
 ## Citatos
 
 - id: c-37217
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.
     1928 m. Kaina Lt. 1,50.

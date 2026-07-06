@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23537
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
     ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-

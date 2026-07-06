@@ -74,6 +74,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 ## Citatos
 
 - id: c-01511
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tiesa, kur-ne-kur
     jie įsteigdavo ir pradžios mokyklų (kur turėdavo keletą savo

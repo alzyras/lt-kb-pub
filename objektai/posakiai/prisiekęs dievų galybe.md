@@ -110,6 +110,8 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
 ## Citatos
 
 - id: c-59787
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Todėl jie turėjo nutraukti
     apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
@@ -127,6 +129,8 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
     - t-59155
 
 - id: c-167424
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Broliai nieku
     būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti. Todėl jie turėjo nutraukti

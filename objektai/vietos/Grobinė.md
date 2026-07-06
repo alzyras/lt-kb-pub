@@ -77,6 +77,8 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
 ## Citatos
 
 - id: c-28248
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų

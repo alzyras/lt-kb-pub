@@ -108,6 +108,8 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
 ## Citatos
 
 - id: c-42996
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ® Švedų gvardijos kavaleriją pasitinka
     T. Lackio husarai ir ryžtingu puolimu nu-
@@ -122,6 +124,8 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
     - t-41216
 
 - id: c-44882
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jį apsupę ginkluoti alebardo-
     mis kariai — pėstininkų karininkai. Netrukus karalius duos nurodymą

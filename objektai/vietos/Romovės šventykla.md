@@ -231,6 +231,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
 ## Citatos
 
 - id: c-171793
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jų nuomonės nėra nepagrįstos, nes tai buvo
     suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
@@ -249,6 +251,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - t-188904
 
 - id: c-171794
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dievo Atrimpo stabas buvo žaltys, susivyniojęs j spiralę.
     Žiūrėk II lentelės 7-ąjį piešinį. Jis stovėjo Romovės šventyk­
@@ -262,6 +266,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - t-188905
 
 - id: c-171795
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Treteris Jono I, Varmijos
     vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
@@ -280,6 +286,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - t-188906
 
 - id: c-171797
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Priešais ąžuolą,
     angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
@@ -295,6 +303,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - t-188908
 
 - id: c-177145
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tad paskaitykime dabar pačios seno­
     vinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­

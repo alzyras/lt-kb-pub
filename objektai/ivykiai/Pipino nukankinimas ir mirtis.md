@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63753
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nutyli lenkų feodalinės ekspansijos  į prūsų žemes
     bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo

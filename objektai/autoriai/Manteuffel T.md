@@ -69,6 +69,8 @@ Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo
 ## Citatos
 
 - id: c-61478
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės
     pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122—

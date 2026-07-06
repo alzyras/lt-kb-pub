@@ -81,6 +81,8 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
 ## Citatos
 
 - id: c-170718
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Labai maža jų grįžo į Ordą.
     Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį

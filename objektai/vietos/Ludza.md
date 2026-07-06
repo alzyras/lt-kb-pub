@@ -85,6 +85,8 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
 ## Citatos
 
 - id: c-168653
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Seimo darbe dalyvavo ir ordino magistras Ket-
     leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus

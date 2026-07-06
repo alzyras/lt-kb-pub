@@ -90,6 +90,8 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
 ## Citatos
 
 - id: c-45406
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1700 m. į respublikonų judėjimą
     aktyviai įsijungė broliai Jonušas ir Myko-

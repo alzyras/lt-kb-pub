@@ -73,6 +73,8 @@ Daugel krito sūnų...
 ## Citatos
 
 - id: c-77404
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 226, „MŪŠIO DALYVIO ATSIMINIMAI, LGGRT centras, „Gyvosios atminties programa“.
     p.230, „MALDAKNYGĖ“, Ramanauskas- Vanagas A. Daugel krito sūnų... / Partizanų gretose,

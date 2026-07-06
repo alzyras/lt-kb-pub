@@ -73,6 +73,8 @@ Dusburgietis teigia, kad pollakówna M.
 ## Citatos
 
 - id: c-61864
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pollakówna  M.  Sprawa  ocenzurowania  kroniki  Piotra  z  Dusburga.—Europa—
     Słowiańszczyzna—Polska: Studia ku uczceniu prof. K. Tymienieckiego, Poznań, 1970, s.

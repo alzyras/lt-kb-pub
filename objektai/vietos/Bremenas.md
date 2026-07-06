@@ -121,6 +121,8 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
 ## Citatos
 
 - id: c-59166
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
     Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)

@@ -83,6 +83,8 @@ Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvo
 ## Citatos
 
 - id: c-174663
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     178 /Ten pat,
     (5)

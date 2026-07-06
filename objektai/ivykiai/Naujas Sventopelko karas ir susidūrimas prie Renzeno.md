@@ -115,6 +115,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai sužinoję, Kulmo pilies broliai pasekė
     juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis

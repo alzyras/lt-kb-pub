@@ -129,6 +129,8 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 ## Citatos
 
 - id: c-91984
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
     tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
@@ -145,6 +147,8 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
     - t-97510
 
 - id: c-91985
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
     gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­

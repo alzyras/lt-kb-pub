@@ -503,6 +503,8 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 ## Citatos
 
 - id: c-05791
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dažnai toks lietuvių ku­
     nigas buvo vadinamas ir « dux », nes kaimynų kronikose tarp pa­
@@ -522,6 +524,8 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-103735
 
 - id: c-05792
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kartais tos kunigaikštijos taip pasiprie­
     šindavo abiem varžovam, jog išsikovodavo visišką nepriklausomu­
@@ -539,6 +543,9 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-103737
 
 - id: c-14963
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia Vytautas rūpinosi
     išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
@@ -559,6 +566,9 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-12357
 
 - id: c-14964
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia jam pasidavė Liubutsko,
     Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
@@ -576,6 +586,8 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-12358
 
 - id: c-96827
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Todėl suprantama,
 
@@ -594,6 +606,8 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-05243
 
 - id: c-170671
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pskoviečiai, nebenorėdami,
     kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
@@ -623,6 +637,8 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-187732
 
 - id: c-170672
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir didysis kunigaikštis Vytautas
     paskyrė jiems vietininku savo svainį, kunigaikštį Si­
@@ -645,6 +661,8 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-187733
 
 - id: c-176487
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     3  Porchovas — XV a. D. Naugardo, dabar RFTSR Pskovo si.
     miestas (prie Selonės upės, j pietų vakarus nuo D. Naugardo), M a­

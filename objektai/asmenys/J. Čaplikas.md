@@ -98,6 +98,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-41970
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Viduriniosios kolonos 2-asis pėst. p. II bn. užima Skerskilą.
     Sutemus vidurinioji kolona pasiekia Augustavo apylinkes.
@@ -110,6 +112,8 @@ media_all_json: |-
     - t-40171
 
 - id: c-44368
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Čaplikas puola Jestšembną, tai sustabdo len-
     kus ir jis gali atsitraukti į Gruškų-Liepynės liniją.

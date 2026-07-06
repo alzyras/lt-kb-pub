@@ -67,6 +67,8 @@ LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi
 ## Citatos
 
 - id: c-18361
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
     kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,

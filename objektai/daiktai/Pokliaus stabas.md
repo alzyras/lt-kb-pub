@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172582
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tada
     nebebuvo ko delsia: reikėdavo kuo skubiau vykti pas kurį nors

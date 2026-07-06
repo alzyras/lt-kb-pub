@@ -127,6 +127,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172570
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai buvo Linų Izidė, to augalo vertės atradėja; ji globojo
     ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus
@@ -145,6 +147,8 @@ Nenurodyta
     - t-189687
 
 - id: c-177015
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvoje Ūla įteka į Merkį.
     138

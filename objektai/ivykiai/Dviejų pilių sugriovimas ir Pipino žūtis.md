@@ -195,6 +195,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66746
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie dviejų pilių sugriovimą ir Pipino žūtį
 
@@ -244,6 +246,8 @@ Nenurodyta
     - t-194384
 
 - id: c-66747
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     221 Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).
       222  Žr. D. III. 84.

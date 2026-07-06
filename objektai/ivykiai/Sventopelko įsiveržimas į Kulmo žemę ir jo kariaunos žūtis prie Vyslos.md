@@ -168,6 +168,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     ——————————————————
 
@@ -192,6 +194,8 @@ Nenurodyta
     - t-194425
 
 - id: c-67015
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ir viešpaties
     dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su

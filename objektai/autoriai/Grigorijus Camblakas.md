@@ -186,6 +186,8 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 ## Citatos
 
 - id: c-48357
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     K. W. Kielisińskio rekonstrukcija, 1841 m.
     radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas

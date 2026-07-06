@@ -127,6 +127,8 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
 ## Citatos
 
 - id: c-174481
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -150,6 +152,8 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
     - t-191599
 
 - id: c-174482
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tolesnės
     vagos ir jas jungiančios perplaukos vadinamos Rusneit,

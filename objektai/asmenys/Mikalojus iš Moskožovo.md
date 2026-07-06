@@ -75,6 +75,8 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
 ## Citatos
 
 - id: c-169511
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautas manė, jog patirto pralai­
     mėjimo palaužti pilėnai lengvai pasiduos, todėl, apsu­

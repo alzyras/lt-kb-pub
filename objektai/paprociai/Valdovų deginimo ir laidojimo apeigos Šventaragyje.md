@@ -201,6 +201,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169217
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat Šventaragis, būdama*
     gyvas, kartą medžioklės metu pateko į be galo žavin­
@@ -226,6 +228,8 @@ Nenurodyta
     - t-185856
 
 - id: c-169218
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ši vieta, pa­
     vadinta Šventarage (tai yra šventąja aikšte), išsaugojo
@@ -255,6 +259,8 @@ Nenurodyta
     - t-185857
 
 - id: c-169219
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visa šitai deramai sutvarkius, mirusiojo valdovo kū­
     nas, aprengtas kario drabužiais, buvo didikų užkeltas

@@ -62,6 +62,8 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
 ## Citatos
 
 - id: c-173182
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rėza. Dainės)*.
     Visa ši dainelė yra mitologinė: joje papasakotas ištekan­

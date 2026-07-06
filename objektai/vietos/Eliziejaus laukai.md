@@ -73,6 +73,8 @@ Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali s
 ## Citatos
 
 - id: c-171885
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žmogaus siela taip pat esanti dvilypės
     prigimties ir dvejopos kilmės: vienos sielos kilusios iš gerojo

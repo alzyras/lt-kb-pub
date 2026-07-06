@@ -80,6 +80,8 @@ Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir J
 ## Citatos
 
 - id: c-175633
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toks skitų tautos
     bruožų vaizdas susidaro iš Herodoto, kuris pats asme­

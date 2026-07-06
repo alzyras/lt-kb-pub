@@ -116,6 +116,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 ## Citatos
 
 - id: c-36533
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
     kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi

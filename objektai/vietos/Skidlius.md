@@ -78,6 +78,8 @@ Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu b
 ## Citatos
 
 - id: c-175669
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai aiškūs dviejų skirtingų religijų kolonistų, at­
     vestų iš Jotvingijos, pėdsakai. Taip pat pavyko rasti prie

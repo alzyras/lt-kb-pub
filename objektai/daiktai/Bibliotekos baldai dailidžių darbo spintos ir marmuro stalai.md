@@ -115,6 +115,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83087
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus
     pradinius turtus ir pajamas

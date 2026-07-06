@@ -67,6 +67,8 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
 ## Citatos
 
 - id: c-168840
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuviai, net būdami pagonys, teisėtai valdę
     Rusios krikščionis (rutėnus, arba rusinus) — pravos­

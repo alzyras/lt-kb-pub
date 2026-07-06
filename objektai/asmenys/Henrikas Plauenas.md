@@ -99,6 +99,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83668
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia, Vilniuje (1443 metais), totorių pasiuntinių
     prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­

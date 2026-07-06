@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83867
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šio namo padėtis dokumen­
     te taip apibūdinta: Kotory leżał w

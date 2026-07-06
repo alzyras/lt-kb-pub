@@ -68,6 +68,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176725
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 1 Kaributas — Algirdo ir Julijonos Tveriškės sūnus, apie
     1380 m. pakrikštytas Dimttru. M irė po 1404 m. Iki 1393 m. buvo

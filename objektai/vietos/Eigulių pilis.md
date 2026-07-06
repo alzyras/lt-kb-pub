@@ -76,6 +76,8 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
 ## Citatos
 
 - id: c-33837
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Galutinai subrendus vidaus karui, tik ginklas begalėjo surasti
     išeitį iš susidariusios tragiškos būklės. Tuo pat laiku (1382 birželio

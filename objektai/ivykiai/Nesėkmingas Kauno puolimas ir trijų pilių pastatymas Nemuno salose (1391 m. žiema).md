@@ -186,6 +186,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168987
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atėjo žiema, vis dėlto lietuviams ji nebuvo nė
     kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­
@@ -210,6 +212,8 @@ Nenurodyta
     - t-185626
 
 - id: c-168988
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     324
 
@@ -238,6 +242,8 @@ Nenurodyta
     - t-185627
 
 - id: c-176089
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dviejose
     salose, Naujojoje ir Riterių, pavadintose Nojerverde-

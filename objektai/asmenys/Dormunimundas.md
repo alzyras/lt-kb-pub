@@ -80,6 +80,8 @@ Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liu
 ## Citatos
 
 - id: c-173026
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o

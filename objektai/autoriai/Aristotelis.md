@@ -121,6 +121,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 ## Citatos
 
 - id: c-174515
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plinijus surinkęs liudijimų,
     kad gintaras vaidinęs svarbų vaidmenį senovės moterų
@@ -137,6 +139,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     - t-191633
 
 - id: c-174516
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

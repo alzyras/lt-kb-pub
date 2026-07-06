@@ -112,6 +112,8 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
 ## Citatos
 
 - id: c-175030
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Antri, susipažinę tik su
     naujesniais latvių tyrinėjimais, visas gentis tempia po

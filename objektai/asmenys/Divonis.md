@@ -81,6 +81,8 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 ## Citatos
 
 - id: c-174021
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vyrai turi po tris žmonas, bendrauja su jo­
     mis kada ir kur nori nesigėdydami pašalinių, nes tokiuose

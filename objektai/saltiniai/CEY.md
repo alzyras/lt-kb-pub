@@ -65,6 +65,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33549
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^2) **Žr. aukščiau 308 p.**
     (^3) **Plg. A. Šapoka:** **_Valstybiniai Lietuvos Lenkijos santykiai Jogailos

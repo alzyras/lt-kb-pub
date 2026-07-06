@@ -65,6 +65,8 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
 ## Citatos
 
 - id: c-61907
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [Ruigys] Ruhig P. Littauisch-deutsches und deutsch-littauisches Lexicon.— Königsberg,
     1747.

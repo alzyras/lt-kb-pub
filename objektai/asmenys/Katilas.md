@@ -70,6 +70,8 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
 ## Citatos
 
 - id: c-173115
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­
     rio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.

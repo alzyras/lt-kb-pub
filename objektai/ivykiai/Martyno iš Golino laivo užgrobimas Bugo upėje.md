@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62993
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     229 (224). Apie tą patį
 

@@ -78,6 +78,8 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
 ## Citatos
 
 - id: c-174305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šie buvo Padneprės
     emporiumų graikų kolonistai, susigiminiavę su skitais ir

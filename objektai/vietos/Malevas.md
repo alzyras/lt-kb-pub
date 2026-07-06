@@ -83,6 +83,8 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
 ## Citatos
 
 - id: c-170316
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Veikiau­
     siai, čia esama sudarkyto „na[d| Lipoj". t. y. turim as galvoje upelis

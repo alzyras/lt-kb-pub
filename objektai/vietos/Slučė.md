@@ -127,6 +127,8 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę.
 ## Citatos
 
 - id: c-170356
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 4  Bm (Bell arba Fcti)-Gtrejus — Krymo chano M engii-Girėjaus
     Ketvirtasis sūnus.

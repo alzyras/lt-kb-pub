@@ -84,6 +84,8 @@ Dejevo, į Paupį.
 ## Citatos
 
 - id: c-40329
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gen. ltn. B. Knorringas, norėdamas ap-
     eiti lietuvių įtvirtinimus, pasiuntė kelis

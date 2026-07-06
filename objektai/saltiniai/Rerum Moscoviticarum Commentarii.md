@@ -65,6 +65,8 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 ## Citatos
 
 - id: c-43298
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi
     Liberi Baronis in Herberstain, Neyperg & Guettenhag. Basileae: per loannem Oporinum,

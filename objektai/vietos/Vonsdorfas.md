@@ -102,6 +102,8 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
 ## Citatos
 
 - id: c-59402
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Viškonys
     Višogrudas (Wischerot, Wischegrot, dab. Fordonas)

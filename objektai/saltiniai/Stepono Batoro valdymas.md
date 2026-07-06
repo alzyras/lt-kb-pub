@@ -91,6 +91,8 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
 ## Citatos
 
 - id: c-84319
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Protasevičiaus pėdomis sekė ir
     jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­

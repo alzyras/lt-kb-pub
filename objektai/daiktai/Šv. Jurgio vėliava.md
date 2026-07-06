@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83108
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     39
 

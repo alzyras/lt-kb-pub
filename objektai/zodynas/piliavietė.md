@@ -126,6 +126,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 ## Citatos
 
 - id: c-175060
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pusantros mylios už šio miesto aukštos pakrantės ima
     žemėti, vagos didingumas mažėja, o Nemunas ima vin­
@@ -146,6 +148,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     - t-192196
 
 - id: c-175061
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nemunas, tas senovės
     Aldeskas, vėliau vadintas ir Kronu, viena didžiausių upių

@@ -189,6 +189,8 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
 ## Citatos
 
 - id: c-169363
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atrodė, jog kryžiuočiams šį
     5*
@@ -222,6 +224,8 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     - t-186002
 
 - id: c-169364
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šią naują
     pilį, esančią per vieną mylią nuo Kauno, pavadino
@@ -245,6 +249,8 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     - t-186003
 
 - id: c-169365
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Prasidėjo iš tie­
     sų žiaurus mūšis: ir vieni, ir

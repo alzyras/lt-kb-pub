@@ -68,6 +68,8 @@ Zajączkowski, St.
 ## Citatos
 
 - id: c-33721
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —

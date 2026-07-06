@@ -69,6 +69,8 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 ## Citatos
 
 - id: c-59367
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     2. Prūsijos žemės aprašymas
 

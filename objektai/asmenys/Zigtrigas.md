@@ -75,6 +75,8 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
 ## Citatos
 
 - id: c-174369
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadinasi, šis istorinis įvykis tu­
     rėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­

@@ -70,6 +70,8 @@ Narbutas rašo, kad Ksaveras Bogušas lietuvių genčių priskyrimą estams grin
 ## Citatos
 
 - id: c-174523
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi ir lietuvių gentys, gyvenusios šiose že­
     mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-

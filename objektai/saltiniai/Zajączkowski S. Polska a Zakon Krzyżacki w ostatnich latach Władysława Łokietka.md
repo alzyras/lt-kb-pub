@@ -69,6 +69,8 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Citatos
 
 - id: c-62011
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
     Lwów, 1929.

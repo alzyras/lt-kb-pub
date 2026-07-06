@@ -100,6 +100,8 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
 ## Citatos
 
 - id: c-71150
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Valstiečiams duodamieji valakai ne-
     buvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo
@@ -116,6 +118,8 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
     - t-72776
 
 - id: c-175914
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kadangi dvaro bernai — vergai, kurie anksčiau apdirbdavo
     dvaro žemę, per brangiai atseidavo, tai jie iš dvarų buvo iškelti

@@ -469,6 +469,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 ## Citatos
 
 - id: c-14722
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
     lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
@@ -481,6 +484,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - t-176248
 
 - id: c-46936
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tik Vilniaus ir Trakų
     sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vieti-
@@ -496,6 +501,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - t-193163
 
 - id: c-160263
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
     „dignitates, sedes et officia, prout in regno Poloniae instituta
@@ -510,6 +518,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - t-12600
 
 - id: c-168004
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
     nuolat kurstė ir Vytautas, ir
@@ -530,6 +540,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - t-184643
 
 - id: c-170482
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
     kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias

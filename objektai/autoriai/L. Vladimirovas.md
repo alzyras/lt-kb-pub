@@ -82,6 +82,8 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
 ## Citatos
 
 - id: c-33017
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika
     kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu_** **(BBK, t. 3, 1964,

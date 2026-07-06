@@ -81,6 +81,8 @@ Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie 
 ## Citatos
 
 - id: c-173076
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
     Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­

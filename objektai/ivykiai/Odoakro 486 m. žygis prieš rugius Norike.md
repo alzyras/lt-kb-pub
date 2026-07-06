@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173951
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Norike likusius jo sąjungininkus per­
     nelyg engė rugių karalius Febanas. Jis, engiamųjų pa­

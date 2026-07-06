@@ -103,6 +103,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-41706
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia,
 
@@ -118,6 +120,8 @@ media_all_json: |-
     - t-39901
 
 - id: c-176410
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.
   statusas: verified

@@ -117,6 +117,8 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 ## Citatos
 
 - id: c-82778
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rau­
     donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot

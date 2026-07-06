@@ -123,6 +123,8 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
 ## Citatos
 
 - id: c-76237
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kafos apy-
     linkės buvo pavestos valdyti į Lietuvos
@@ -149,6 +151,8 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
     - t-79160
 
 - id: c-76238
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš mūšį
 

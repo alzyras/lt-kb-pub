@@ -346,6 +346,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-31957
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet atvykimas Bavarijos kunigaikš­
     čio Henriko, artimo imperatoriaus Liudviko Bavariečio giminai­
@@ -365,6 +367,8 @@ media_all_json: |-
     - t-71846
 
 - id: c-31958
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
     sintą «išdavystę» _(Verrat),_ Vytautas, vikriai užsimaskavęs, sude­
@@ -379,6 +383,9 @@ media_all_json: |-
     - t-71845
 
 - id: c-37296
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1380 metų vasario mėn. jis jau vienas
     pats padarė su Livonijos magistru Vilhelmu von Vrymersheimu
@@ -396,6 +403,8 @@ media_all_json: |-
     - t-71843
 
 - id: c-171559
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
@@ -412,6 +421,8 @@ media_all_json: |-
     - t-188670
 
 - id: c-175918
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vakaruose siena su kry-
     žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-

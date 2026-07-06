@@ -127,6 +127,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
 ## Citatos
 
 - id: c-176329
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Planinės ekonomikos laivas plūduriavo kapitalizmo
     jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių
@@ -144,6 +146,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
     - t-193660
 
 - id: c-176330
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
@@ -159,6 +163,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
     - t-193661
 
 - id: c-176331
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
     privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui

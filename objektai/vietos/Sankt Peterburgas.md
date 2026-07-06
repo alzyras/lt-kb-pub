@@ -207,6 +207,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 ## Citatos
 
 - id: c-175131
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
     ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
@@ -230,6 +232,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     - t-192333
 
 - id: c-175132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     logijos“ variantas gali būti datuojamas 1841 —1842 me­
     tais, vadinasi, jau- po visų LTI tomų pasirodymo, ir yra
@@ -250,6 +254,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     - t-192332
 
 - id: c-175133
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
@@ -263,6 +269,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     - t-192334
 
 - id: c-175524
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadinasi, su­
     manymas siekia daug ankstesnius laikus nei „Lietuvių mi­

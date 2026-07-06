@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83150
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     vangėti. Didysis kunigaikštis betgi dosnia ranka vis didesnes

@@ -451,6 +451,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00271
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau valstiečių
     būklė ne tik nepagerėjo, bet dar pablogėjo (ypač bajorijos dva-
@@ -466,6 +468,8 @@ Nenurodyta
     - t-108580
 
 - id: c-00274
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nebuvo tik sutikimo dėl tolimesnio jų li-
     kimo. Bet vis dėlto vienur daugumas, kitur bent dalis bajorų
@@ -485,6 +489,8 @@ Nenurodyta
     - t-108568
 
 - id: c-24661
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-
     teliais pilnateisiais piliečiais, o valstiečiai ir toliau liko
@@ -501,6 +507,8 @@ Nenurodyta
     - t-108574
 
 - id: c-100721
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai reiškė Lenkijos karalystės ne-
     priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
@@ -518,6 +526,8 @@ Nenurodyta
     - t-108575
 
 - id: c-100725
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
     Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė poli-
@@ -534,6 +544,8 @@ Nenurodyta
     - t-108583
 
 - id: c-100726
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1855 m., po caro Nikolajaus I mirties ir
     XII
@@ -556,6 +568,8 @@ Nenurodyta
     - t-108582
 
 - id: c-100727
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
     no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią
@@ -572,6 +586,8 @@ Nenurodyta
     - t-108573
 
 - id: c-100728
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas
     visuomeninio gyvenimo pagyvėjimas. Buvo kuriamos legalios
@@ -586,6 +602,8 @@ Nenurodyta
     - t-108570
 
 - id: c-175893
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tikro-
     joje Lietuvoje iš pramonės, galima sakyt, tebuvo tik kiekvieno

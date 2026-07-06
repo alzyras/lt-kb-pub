@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172575
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dėl
     vaidilučių drabužių taip pat neturime tikrų duomenų; kadan­

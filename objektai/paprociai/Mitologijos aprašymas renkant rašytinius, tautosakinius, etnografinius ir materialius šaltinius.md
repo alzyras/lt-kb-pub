@@ -187,6 +187,8 @@ Nenurodyta.
 ## Citatos
 
 - id: c-170784
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Naudojamų šaltinių atranka ir vertinimu T. Narbutas irgi
     mažai kuo tesiskyrė nuo savo pirmtakų. Kaip buvo įprasta, jis
@@ -218,6 +220,8 @@ Nenurodyta.
     - t-187834
 
 - id: c-170785
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
     buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­

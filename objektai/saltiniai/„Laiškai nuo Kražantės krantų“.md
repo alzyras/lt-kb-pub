@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-174705
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sunku tarp
     jų būtų pažinti recenzijos autorių. Vis dėlto straipsnio

@@ -65,6 +65,8 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
 ## Citatos
 
 - id: c-172061
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Juos laukinių žmonių rankos nužudžiusios kaip juodus
     gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­

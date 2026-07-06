@@ -71,6 +71,9 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
 ## Citatos
 
 - id: c-38287
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šitas jo skubus sugrįži­
     mas daug pasako: matyt, tikrai pajuto sau pavojų iš Jogailos

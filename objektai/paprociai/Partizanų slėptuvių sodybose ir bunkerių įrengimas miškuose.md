@@ -154,6 +154,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12345
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „patogumai“. Tačiau gyvenimas nebūdavo komfortiškas, pro lubas sunkdavosi vanduo,
     būdavo drėgna, šalta, trūkdavo oro, ugnies kūrenimas, pėdsakai, net per paslėptą venti-
@@ -170,6 +172,8 @@ Nenurodyta
     - t-09596
 
 - id: c-12346
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tipiškas partizanų bunkeris. Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio
     kranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus).
@@ -182,6 +186,8 @@ Nenurodyta
     - t-09593
 
 - id: c-12347
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
     ūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti
@@ -200,6 +206,8 @@ Nenurodyta
     - t-09594
 
 - id: c-12348
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po
     krosnimi, tarp dviejų pastato sienų, šuliniuose ir pan. Sodybos šeimininkai aprūpindavo

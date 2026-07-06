@@ -176,6 +176,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63465
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po pergalės jie
     aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
@@ -193,6 +195,8 @@ Nenurodyta
     - t-62709
 
 - id: c-63466
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgiečio krivis
     tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
@@ -208,6 +212,8 @@ Nenurodyta
     - t-62708
 
 - id: c-63467
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
     patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,

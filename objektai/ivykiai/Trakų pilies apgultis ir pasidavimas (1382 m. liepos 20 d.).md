@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-93974
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 ,
     Skirgailai pasisekė įgulą įtikinti pasiduoti (VII.20). Visas savo

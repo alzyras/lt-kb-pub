@@ -110,6 +110,8 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
 ## Citatos
 
 - id: c-174534
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     O tai, kad jose būta ne vien pasakų, kas dieną įti­
     kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
@@ -133,6 +135,8 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
     - t-191652
 
 - id: c-176260
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Įspūdį padarė 1818 m. Karaliaučiuje žymaus
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio

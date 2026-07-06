@@ -69,6 +69,8 @@ Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris �
 ## Citatos
 
 - id: c-45330
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Beveik tuo pat metu buvo puolamas
     ir Alberto Žilio-Kęstučio būrio bunke-

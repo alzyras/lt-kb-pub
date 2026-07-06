@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66921
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagaliau atsirado
     žmonių, kurie sumanė pasinaudoti šituo bajorijos nepasitenki-
@@ -122,6 +124,8 @@ Nenurodyta
     - t-66795
 
 - id: c-66922
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo tarpu jis buvo
     labai nusigyvenęs ir gyveno tik iš kitų malonės, nes karų metu

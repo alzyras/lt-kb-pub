@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172836
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
     rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­

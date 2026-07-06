@@ -165,6 +165,8 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 ## Citatos
 
 - id: c-97127
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tada lenkai pradėjo ginkluotis.
     Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
@@ -180,6 +182,8 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - t-104168
 
 - id: c-97128
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tad santykių klausimas išbuvo ne-
     judintas iki Vytauto gyvenimo galo. Tik tada, kai jis panoro
@@ -196,6 +200,8 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - t-104169
 
 - id: c-97129
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
     siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
@@ -212,6 +218,8 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - t-104170
 
 - id: c-175901
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Suvažiavimo šeimininkas, Vytautas, turėjo progos
     parodyti savo vaišingumą.

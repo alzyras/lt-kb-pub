@@ -85,6 +85,8 @@ Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
 ## Citatos
 
 - id: c-21656
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Neutralumo politika ir
     Molotovo–Ribentropo paktas

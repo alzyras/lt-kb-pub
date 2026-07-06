@@ -262,6 +262,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 ## Citatos
 
 - id: c-55846
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karalius Aleksandras savo sprendi­
     mu, datuotu Borisove 1500 m. (feria
@@ -291,6 +293,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
     - t-194251
 
 - id: c-55848
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Aleksandras
     iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
@@ -307,6 +311,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
     - t-55247
 
 - id: c-79578
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
@@ -324,6 +330,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
     - t-83203
 
 - id: c-79579
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dvasios dominikonų baž­
     nyčioje galima pamatyti karaliaus

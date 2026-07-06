@@ -139,6 +139,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-43192
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
     mažesnioji gynėjų dalis turėjo aiškesnę uz-
@@ -162,6 +164,8 @@ media_all_json: |-
     - t-41459
 
 - id: c-44958
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo tikslu
     dalis ginkluotų A. Pociaus vadovaujamų

@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44663
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
 

@@ -79,6 +79,8 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
 ## Citatos
 
 - id: c-33317
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Antrasis to rinkinio tomas liko rankraštyje.
     Kai iki tol vadovavusieji universiteto istorikai (I. Jonynas,

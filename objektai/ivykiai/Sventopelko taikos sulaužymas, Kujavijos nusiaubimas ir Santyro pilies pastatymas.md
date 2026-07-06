@@ -129,6 +129,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63801
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai jam dėl šito buvo prikaišiojama, jis
     atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
@@ -147,6 +149,8 @@ Nenurodyta
     - t-62927
 
 - id: c-63802
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tačiau iš įgimto piktumo nesiliovė klastingai
     ir slaptai persekiojęs brolių bei tikinčiųjų ir nieko neėmė  į galvą, kai broliai jam šitai

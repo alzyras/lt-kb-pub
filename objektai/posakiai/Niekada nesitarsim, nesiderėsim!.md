@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-12485
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Štai, buvę skriaudėjai arba paveldėtojai, mūsų ištiesta taikos ir
     draugystės ranka, susitarkime.

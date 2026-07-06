@@ -124,6 +124,8 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
 ## Citatos
 
 - id: c-173276
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     P. 400** -  Turimas omenyje filologo Ignoto Benedikto Rako-
     veckio (Rakowiecki, 1782-1839) darbas (Prawda
@@ -136,6 +138,8 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
     - t-190393
 
 - id: c-173608
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     178 /Ten pat,
     (5)

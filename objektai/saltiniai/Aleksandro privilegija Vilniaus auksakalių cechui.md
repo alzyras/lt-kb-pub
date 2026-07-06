@@ -102,6 +102,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84277
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu skel­
     biame visiems ir kiekvienam, kam dera žinoti, kad pas mus

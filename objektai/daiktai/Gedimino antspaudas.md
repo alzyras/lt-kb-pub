@@ -288,6 +288,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 ## Citatos
 
 - id: c-55378
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
     raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­
@@ -312,6 +314,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-55035
 
 - id: c-78389
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
     dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
@@ -362,6 +366,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-81847
 
 - id: c-78390
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jei jie [se­
     noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­
@@ -391,6 +397,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-81846
 
 - id: c-78391
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šį raštą mes laikysime nekeičiamu, nes mūsų žodis liks
     tvirtas kaip plienas.

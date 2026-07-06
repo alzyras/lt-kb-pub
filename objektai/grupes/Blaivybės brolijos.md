@@ -80,6 +80,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 ## Citatos
 
 - id: c-22365
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ne-
     gana to, 1858 m. M.  Valančius,

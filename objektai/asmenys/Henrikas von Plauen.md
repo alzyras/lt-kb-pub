@@ -75,6 +75,8 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
 ## Citatos
 
 - id: c-32737
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Po
     pirmo katastrofos smūgio ordinas tačiau ėmė atsipeikėti. Kai

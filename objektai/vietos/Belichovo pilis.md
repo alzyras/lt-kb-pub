@@ -73,6 +73,8 @@ Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šia
 ## Citatos
 
 - id: c-175635
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip
     pat šioje provincijoje būva pilaičių, iš dalies pastatytų

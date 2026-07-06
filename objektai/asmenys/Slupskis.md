@@ -66,6 +66,8 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
 ## Citatos
 
 - id: c-83832
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     20 grašių. Slups-
     kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­

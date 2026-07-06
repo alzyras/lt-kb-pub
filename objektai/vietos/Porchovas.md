@@ -84,6 +84,9 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
 ## Citatos
 
 - id: c-38607
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mat,
     Naugardo taikos prašymą parėmė Vytauto kariuomenės rusiš­

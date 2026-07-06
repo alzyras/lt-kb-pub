@@ -112,6 +112,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 ## Citatos
 
 - id: c-82048
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ant pilkapio nuo neatme­
     namų laikų visada būdavo statomas kryžius. Mažas upeliu­
@@ -129,6 +131,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
     - t-86070
 
 - id: c-82049
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visas kalnas parko dalyje nusėtas nuolaužomis, bet ki-
     lp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė.

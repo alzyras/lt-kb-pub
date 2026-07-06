@@ -76,6 +76,8 @@ M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Na
 ## Citatos
 
 - id: c-174629
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
     duabus sarmatiis Asiana et Europiana, et de continentis in eis.

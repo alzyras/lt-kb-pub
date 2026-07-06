@@ -118,6 +118,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172770
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius
     (Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­
@@ -135,6 +137,8 @@ Nenurodyta
     - t-189887
 
 - id: c-172771
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antras veikėjas -  lengvabūdiškas, simpa­
     tiškas, su maža kepuraite ant galvos. Žaidimo pradžioje vaiz­

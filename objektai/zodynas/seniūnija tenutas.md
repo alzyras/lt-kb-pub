@@ -71,6 +71,8 @@ Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tu
 ## Citatos
 
 - id: c-176027
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kiek geriau buvo bažnyti-
     niuose ir valstybiniuose dvaruose, nes ten vals-

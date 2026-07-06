@@ -86,6 +86,8 @@ Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buv
 ## Citatos
 
 - id: c-83649
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­

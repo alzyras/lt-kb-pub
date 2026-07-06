@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67150
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kadangi seimo iširimas dažnai grėsdavo vals-
     tybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti

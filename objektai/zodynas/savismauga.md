@@ -91,6 +91,8 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 ## Citatos
 
 - id: c-166858
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių savivaldos aparate dirbo apie 300 apskričių viršininkų ir
     valsčių viršaičių, apie 900 lietuvių saugumo ir kriminalinės policijos

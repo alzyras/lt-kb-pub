@@ -91,6 +91,8 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 ## Citatos
 
 - id: c-82621
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad jau
     nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę

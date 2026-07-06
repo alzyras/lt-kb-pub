@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-175680
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mes turime neabejotiną tos
     genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­

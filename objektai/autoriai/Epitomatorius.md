@@ -90,6 +90,8 @@ Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome a
 ## Citatos
 
 - id: c-84024
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Panašių
     pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­

@@ -86,6 +86,8 @@ Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
 ## Citatos
 
 - id: c-75169
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
     Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-

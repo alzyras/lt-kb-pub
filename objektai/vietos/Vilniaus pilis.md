@@ -646,6 +646,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-158407
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, dar nerimą kėlė Gedimino valia ra­
     dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
@@ -666,6 +668,8 @@ media_all_json: |-
     - t-174218
 
 - id: c-158408
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepagelbėjo jam ir iš Kroku­
     vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­
@@ -697,6 +701,8 @@ media_all_json: |-
     - t-174214
 
 - id: c-158409
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Savo
     ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
@@ -714,6 +720,8 @@ media_all_json: |-
     - t-174221
 
 - id: c-158411
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
     būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
@@ -739,6 +747,8 @@ media_all_json: |-
     - t-174224
 
 - id: c-158412
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau netrukus į Vilnių at­
     vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
@@ -760,6 +770,8 @@ media_all_json: |-
     - t-174212
 
 - id: c-158413
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
     pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
@@ -779,6 +791,8 @@ media_all_json: |-
     - t-174223
 
 - id: c-158414
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
     ir kito judamo ir nejudamo turto, kurį turime ir valdome,
@@ -805,6 +819,8 @@ media_all_json: |-
     - t-174220
 
 - id: c-158415
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
     čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
@@ -826,6 +842,8 @@ media_all_json: |-
     - t-174217
 
 - id: c-158417
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     276
 
@@ -850,6 +868,8 @@ media_all_json: |-
     - t-174222
 
 - id: c-158418
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -882,6 +902,8 @@ media_all_json: |-
     - t-174216
 
 - id: c-158419
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     681-687, plačiai ir ganėtinai žais-
     karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
@@ -906,6 +928,8 @@ media_all_json: |-
     - t-174219
 
 - id: c-176657
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir sutarė dieną, kurią jie turės būti prie
     Vilniaus.
@@ -921,6 +945,8 @@ media_all_json: |-
     - t-194042
 
 - id: c-176860
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

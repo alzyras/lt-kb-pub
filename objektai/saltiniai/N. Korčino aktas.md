@@ -75,6 +75,9 @@ Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aišk
 ## Citatos
 
 - id: c-36200
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
     1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­

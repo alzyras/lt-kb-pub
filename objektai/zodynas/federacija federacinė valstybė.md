@@ -263,6 +263,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 ## Citatos
 
 - id: c-24826
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
     mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
@@ -282,6 +284,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-101586
 
 - id: c-24827
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš jų paimtas karo grobis svariai papildė
     Lietuvos kariuomenės ginkluotę.
@@ -300,6 +304,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-101584
 
 - id: c-24828
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenki-
     jos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federa-
@@ -314,6 +320,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-101585
 
 - id: c-24829
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Per tris savaites P. Himansas Šveicarijos pavyzdžiu paruošė Lietuvos
     federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
@@ -329,6 +337,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-101588
 
 - id: c-95101
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviai federacijos
     principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepa-
@@ -347,6 +357,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-101587
 
 - id: c-166818
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo
     užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“

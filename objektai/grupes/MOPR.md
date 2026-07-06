@@ -73,6 +73,8 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
 ## Citatos
 
 - id: c-22668
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jauna ir dar niekuo neimponuojanti lietuvių
     kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius

@@ -181,6 +181,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172530
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     To aukuro viduje buvo kambarėlių aukojimo indams ir pana­
     271
@@ -201,6 +203,8 @@ Nenurodyta
     - t-189647
 
 - id: c-172531
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senas pasakojimas,
     kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
@@ -222,6 +226,8 @@ Nenurodyta
     - t-189648
 
 - id: c-172532
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kiti pasa­
     kojo, kad, priėjus šį ženklą, žlugs stabmeldystė, ir krikščio­

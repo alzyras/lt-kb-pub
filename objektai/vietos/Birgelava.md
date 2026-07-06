@@ -133,6 +133,8 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 ## Citatos
 
 - id: c-86187
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Birgelavos pilies sugriovimą
 
@@ -152,6 +154,8 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
     - t-90327
 
 - id: c-86189
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
     imdamos į nelaisvę ir degindamos visa, ką sutikdavo pakelėje. Vakarop ji priėjo Birgelavos

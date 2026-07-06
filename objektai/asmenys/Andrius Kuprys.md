@@ -65,6 +65,8 @@ Mes štai jau trečią kartą kariaujame su vokiečiais, o jis su jais puola Pol
 ## Citatos
 
 - id: c-176718
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir didysis kunigaikštis Kęstutis vėl ėmė verk­
     damas skųstis savo sūnui, didžiajam kunigaikščiui Vy­

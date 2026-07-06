@@ -74,6 +74,8 @@ Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios
 ## Citatos
 
 - id: c-174502
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Safaržykas teigia, jog priešistoriniais lai­
     kais buvusi viena tauta, kuri, laikui bėgant, susidvejino5.

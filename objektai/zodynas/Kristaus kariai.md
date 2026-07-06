@@ -112,6 +112,8 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 ## Citatos
 
 - id: c-59486
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -133,6 +135,8 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
     - t-58855
 
 - id: c-59487
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
     Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra

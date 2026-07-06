@@ -63,6 +63,8 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 ## Citatos
 
 - id: c-61893
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.
     [Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5.

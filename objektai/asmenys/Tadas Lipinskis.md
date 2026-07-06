@@ -69,6 +69,8 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 ## Citatos
 
 - id: c-83846
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     M. Balinskis pa­
     liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­

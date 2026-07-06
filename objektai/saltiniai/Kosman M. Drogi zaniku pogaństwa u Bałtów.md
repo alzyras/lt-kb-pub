@@ -72,6 +72,8 @@ Dusburgietis teigia, kad kosman M.
 ## Citatos
 
 - id: c-61734
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—
     Gdańsk, 1976.

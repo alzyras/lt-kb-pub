@@ -103,6 +103,8 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
 ## Citatos
 
 - id: c-167501
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena

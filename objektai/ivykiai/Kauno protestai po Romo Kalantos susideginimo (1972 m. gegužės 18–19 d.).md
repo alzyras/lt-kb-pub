@@ -225,6 +225,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73022
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     R. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams
     paniką. Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
@@ -239,6 +241,8 @@ Nenurodyta
     - t-75110
 
 - id: c-73023
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Neramumai
     nuslopinti gegužės 19 dieną. Iš daugiau kaip 3 000 aktyvių protestų dalyvių
@@ -255,6 +259,8 @@ Nenurodyta
     - t-75108
 
 - id: c-73024
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     So-
     vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
@@ -288,6 +294,8 @@ Nenurodyta
     - t-75109
 
 - id: c-166614
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš daugiau kaip 3 000 aktyvių protestų dalyvių
     buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon at-

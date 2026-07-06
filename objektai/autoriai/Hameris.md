@@ -62,6 +62,8 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
 ## Citatos
 
 - id: c-174490
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
     gyvenusią galų kaimynystėje, prie Dnestro.

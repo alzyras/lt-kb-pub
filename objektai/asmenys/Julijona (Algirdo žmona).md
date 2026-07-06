@@ -366,6 +366,9 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 ## Citatos
 
 - id: c-15317
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Greit atėjo eilė ir Vitebskui. Ten viešpatavo kunigaikš­
     tienė Julijona, Algirdo žmona. Pas ją buvo apsigyvenęs ir
@@ -381,6 +384,9 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-12183
 
 - id: c-15946
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tad ir esančiam dabar didž. Lietuvos kunigaikš­
     čiui Jogailai, Algirdo sūnui, kuris nebuvo priėmęs dar jokio
@@ -396,6 +402,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-176511
 
 - id: c-160506
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žr. V\lre- tis buvęs Kęstudo karių suduptas.
     26
@@ -418,6 +426,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-176514
 
 - id: c-160507
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet jiedu nepasiekė tikslo, nes
     buvo perduoti didžiajam Maskvos kunigaikščini, šiam reikalaujant.
@@ -434,6 +444,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-176512
 
 - id: c-160509
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Remiantis Torno analų
     žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
@@ -447,6 +459,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-176509
 
 - id: c-160510
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
@@ -468,6 +482,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-176506
 
 - id: c-160511
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Duota Viešpaties
     metais 1380 artimiausią šiokiadienį,
@@ -493,6 +509,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-176510
 
 - id: c-160513
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu Jo-
     gaila pasidarė ordino sąjungininkas prieš dėdę. Sutarty net nu-

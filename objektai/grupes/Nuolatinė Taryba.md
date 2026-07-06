@@ -201,6 +201,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 ## Citatos
 
 - id: c-66300
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
@@ -216,6 +218,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - t-65961
 
 - id: c-66302
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.). Ji turėjo
     didelę reikšmę ir Lietuvai. Iki tol Lietuva ir Lenkija buvo
@@ -231,6 +235,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - t-65962
 
 - id: c-66305
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nuolatinė Taryba susidėjo iš 18 senatorių ir 18 at-
     stovų;^2 /3 jų turėjo būti lenkai ir^1 /з lietuviai. Kiekvienas or-
@@ -251,6 +257,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - t-65964
 
 - id: c-166315
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Daugiausia ta teise
     ėmė naudotis Rusija. Be jos ambasadoriaus Štakelbergo
@@ -266,6 +274,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - t-182912
 
 - id: c-166316
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Buvo sudaryta
     naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,

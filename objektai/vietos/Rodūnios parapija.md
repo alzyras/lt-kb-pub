@@ -72,6 +72,8 @@ Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas k
 ## Citatos
 
 - id: c-171940
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

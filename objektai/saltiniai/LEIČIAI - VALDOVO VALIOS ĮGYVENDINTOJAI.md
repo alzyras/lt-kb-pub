@@ -68,6 +68,8 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
 ## Citatos
 
 - id: c-41755
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Bendrųjų Informacinių blokų sąrašas
 

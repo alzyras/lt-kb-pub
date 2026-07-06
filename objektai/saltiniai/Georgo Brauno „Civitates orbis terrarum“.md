@@ -80,6 +80,8 @@ Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atl
 ## Citatos
 
 - id: c-173380
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     P. 456* -  Tekstas, kuriuo autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. -  L. 310). T. Narbutas

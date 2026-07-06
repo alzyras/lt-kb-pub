@@ -198,6 +198,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-88388
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tarpininkaujant maršalkai Konradui Vallenrodui, kaip kro­
     nikininkas Vigandas rašo, dar 1382 metų pačioje pabaigoje Vy­
@@ -214,6 +217,9 @@ Nenurodyta
     - t-92949
 
 - id: c-88389
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas kurį laiką išbuvo Ordino sostinėje
     Marienburge. Čia jis ir pradėjo savo veikimą. Vytautas, no­
@@ -229,6 +235,9 @@ Nenurodyta
     - t-92948
 
 - id: c-167620
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pareiškęs jam paklusnumą ir norą priimti krikštą,
     iš magistro Vytautas gavo sutikimą, kad kryžiuočiai padės jam
@@ -242,6 +251,9 @@ Nenurodyta
     - t-184236
 
 - id: c-177340
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmi
     Vytauto žygiai tėviškei atgauti (1382—1384)

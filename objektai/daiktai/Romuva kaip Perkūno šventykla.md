@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83072
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
     ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­

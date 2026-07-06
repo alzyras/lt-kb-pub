@@ -78,6 +78,8 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
 ## Citatos
 
 - id: c-84453
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
     19

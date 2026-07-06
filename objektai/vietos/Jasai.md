@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-45110
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1620 m. Lenkijos kariuomenė įžengė
     į Valakiją ir mūšyje prie Cecoro ne-

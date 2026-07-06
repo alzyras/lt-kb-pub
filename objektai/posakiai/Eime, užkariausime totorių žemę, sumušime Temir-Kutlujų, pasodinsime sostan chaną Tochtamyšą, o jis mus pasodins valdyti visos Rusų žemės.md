@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176669
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Šeši tūkstančiai devyni šimtai šeštaisiais1 7  metais
     įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto

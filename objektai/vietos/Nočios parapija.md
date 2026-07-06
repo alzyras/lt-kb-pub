@@ -64,6 +64,8 @@ Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkai
 ## Citatos
 
 - id: c-177164
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ragelienė (Ragutienie)
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­

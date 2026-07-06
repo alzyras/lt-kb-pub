@@ -81,6 +81,8 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
 ## Citatos
 
 - id: c-64413
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Padariniai
 

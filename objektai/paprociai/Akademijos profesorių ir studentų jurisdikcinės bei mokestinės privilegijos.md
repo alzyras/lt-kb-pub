@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83236
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
     kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­

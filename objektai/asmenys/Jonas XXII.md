@@ -205,6 +205,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 ## Citatos
 
 - id: c-166938
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gediminas kūrė stačiatikių metro-
     poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
@@ -221,6 +223,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - t-183545
 
 - id: c-167225
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
     ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
@@ -244,6 +248,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - t-183840
 
 - id: c-167480
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     118. Apie popiežių Joną XXII ir išrinktus [karalius]
 

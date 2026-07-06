@@ -76,6 +76,8 @@ Kaip rašo istorikas Romualdas Naruniecas, „Mykolo Balinskio išlaisvinimo iš
 ## Citatos
 
 - id: c-84021
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gegužės mėnesį buvo areštuotas M. Balinskis, bet
     netrukus paleistas. Kaip rašo istorikas Romualdas Naruniecas,

@@ -155,6 +155,8 @@ Amsterdamas, 1650 m.
 ## Citatos
 
 - id: c-24042
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
@@ -168,6 +170,8 @@ Amsterdamas, 1650 m.
     - t-46497
 
 - id: c-49067
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė

@@ -117,6 +117,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-30998
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro
     plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų

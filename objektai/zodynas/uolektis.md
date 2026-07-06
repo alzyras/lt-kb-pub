@@ -82,6 +82,8 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 ## Citatos
 
 - id: c-78597
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prašydamas Mus, Teismą, kad minėtoji fun­
     dacijos privilegija būtų priimta ir įrašyta į Lietuvos Didžio­

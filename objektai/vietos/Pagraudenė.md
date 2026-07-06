@@ -93,6 +93,8 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 ## Citatos
 
 - id: c-82077
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau atkreipus dėmesį į tai, ką Dus-
     burgas, aprašomų įvykių amžininkas, todėl labiausiai ver­

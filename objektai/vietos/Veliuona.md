@@ -1162,6 +1162,8 @@ saugoti Dubysos upyną.
 ## Citatos
 
 - id: c-32515
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Grįždami jie sudegino
     dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
@@ -1179,6 +1181,9 @@ saugoti Dubysos upyną.
     - t-180752
 
 - id: c-37790
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet
     Vytautas mąstė apie visišką Žemaitijos krašto priskyrimą Lie­
@@ -1198,6 +1203,8 @@ saugoti Dubysos upyną.
     - t-180755
 
 - id: c-43974
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1360 m.
     kryžiuočiai toliau tvirtinosi pačiame Ne-
@@ -1217,6 +1224,9 @@ saugoti Dubysos upyną.
     - t-180757
 
 - id: c-164323
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     O kai Vokiečių Ordino ma­
     gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
@@ -1236,6 +1246,8 @@ saugoti Dubysos upyną.
     - t-180744
 
 - id: c-164324
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
@@ -1250,6 +1262,8 @@ saugoti Dubysos upyną.
     - t-180758
 
 - id: c-164325
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vytautas teigė, jog pati Klaipėda priklausanti
     Žemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
@@ -1268,6 +1282,8 @@ saugoti Dubysos upyną.
     - t-180754
 
 - id: c-164326
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
     spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
@@ -1303,6 +1319,9 @@ saugoti Dubysos upyną.
     - t-180751
 
 - id: c-164327
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1380 metų vasario mėn. jis jau vienas
     pats padarė su Livonijos magistru Vilhelmu von Vrymersheimu
@@ -1321,6 +1340,8 @@ saugoti Dubysos upyną.
     - t-180756
 
 - id: c-164328
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
     gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
@@ -1343,6 +1364,8 @@ saugoti Dubysos upyną.
     - t-180736
 
 - id: c-164332
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     liūnų ir Sargėnų kapinynus^101 , ir apie L _ietuvos X-XV a. kapinynų
     keramiką,_ (AkMD, t. 19, 1965, 41-57 p.). Iš Rudaičių ir Veliuonos
@@ -1362,6 +1385,8 @@ saugoti Dubysos upyną.
     - t-180760
 
 - id: c-164335
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau karalienė
     Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
@@ -1380,6 +1405,8 @@ saugoti Dubysos upyną.
     - t-180737
 
 - id: c-164336
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vėliau tą patį vykdė šioje
     teritorijoje ryčiau Dubysos, niokodamas
@@ -1402,6 +1429,8 @@ saugoti Dubysos upyną.
     - t-180746
 
 - id: c-164339
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Senoji pi­
     liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
@@ -1419,6 +1448,8 @@ saugoti Dubysos upyną.
     - t-180742
 
 - id: c-164340
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mažas upeliu­
     kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
@@ -1436,6 +1467,8 @@ saugoti Dubysos upyną.
     - t-180759
 
 - id: c-164341
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     100
 
@@ -1465,6 +1498,8 @@ saugoti Dubysos upyną.
     - t-194261
 
 - id: c-164343
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai rytiniame savo šone Lietuva
     vis daugiau įgijo žemių, reikėjo ir sostinei parinkti vietą labiau
@@ -1481,6 +1516,9 @@ saugoti Dubysos upyną.
     - t-180741
 
 - id: c-164345
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     O Torno taika že­
     maičių kraštas atiduotas Vytautui ir Jogailai tik iki jų gyvos
@@ -1498,6 +1536,8 @@ saugoti Dubysos upyną.
     - t-180747
 
 - id: c-168532
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sugrįžti nuo tikėjimo reikalų prie vals­
     tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
@@ -1522,6 +1562,8 @@ saugoti Dubysos upyną.
     - t-185171
 
 - id: c-168533
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi kryžiuočiai
     atmetė vieną po kitos visas
@@ -1555,6 +1597,8 @@ saugoti Dubysos upyną.
     - t-185172
 
 - id: c-177154
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto 1364 metais kryžiuočiai sudegino
     Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­

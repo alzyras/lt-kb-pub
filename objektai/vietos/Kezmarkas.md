@@ -78,6 +78,8 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
 ## Citatos
 
 - id: c-33887
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
     jingu pusbrolių priešų. Su juo tartis į Vengrijos pasienio miestą

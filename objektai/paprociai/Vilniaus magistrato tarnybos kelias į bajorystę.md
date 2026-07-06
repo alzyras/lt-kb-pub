@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83287
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O 1568 metų
     birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu

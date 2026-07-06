@@ -966,6 +966,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10308
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Kaipogi pats kūrėjų kūrėjas, išleisdamas kariauną į karę, laimino ją tokiu būdu: visų pirma
         pasimeldęs išvyturo raudoną vėliavą ir kareiviams padavė, paskui, nešiojamas po rindas, barstė, regis,
@@ -978,6 +980,8 @@ Nenurodyta
     - t-08355
 
 - id: c-10309
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
         sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
@@ -995,6 +999,8 @@ Nenurodyta
     - t-08356
 
 - id: c-10310
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
         perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
@@ -1009,6 +1015,9 @@ Nenurodyta
     - t-08357
 
 - id: c-14345
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Riteris su savo palydovais sudarydavo tam tikrą
     vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
@@ -1023,6 +1032,9 @@ Nenurodyta
     - t-12340
 
 - id: c-14349
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pabėgo ir kelios lenkų vėliavos, jų tarpe ir labai narsi šv.
     Jurgio vėliava.
@@ -1034,6 +1046,9 @@ Nenurodyta
     - t-12344
 
 - id: c-36751
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tada karalius lenkų kariuomenės ve­
     dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
@@ -1052,6 +1067,8 @@ Nenurodyta
     - t-176212
 
 - id: c-42581
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po valandos pagaliau į mūšį įsitraukė
     lenkų kavalerija. Pridengę jų kraštines
@@ -1069,6 +1086,8 @@ Nenurodyta
     - t-10167
 
 - id: c-42582
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     kariuomenę iš lenkų dešinės ir juos ap-
     supti. Lenkai patyrė didelį spaudimą tiek
@@ -1087,6 +1106,8 @@ Nenurodyta
     - t-176211
 
 - id: c-160234
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo lemtingu momentu Jungingenas į kautynes
     dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
@@ -1100,6 +1121,8 @@ Nenurodyta
     - t-176210
 
 - id: c-160235
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ordinas nesidavė greitai įveikiamas. Vienos laimėtos kautynės
     dar negalėjo sėkmingai išspręsti visų klausimų, juo labiau, kad
@@ -1115,6 +1138,9 @@ Nenurodyta
     - t-176213
 
 - id: c-160236
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila netrukus įsakė
     duoti ženklą mūšiui. Karaliui buvo parinkta saugi vieta,
@@ -1130,6 +1156,9 @@ Nenurodyta
     - t-12343
 
 - id: c-160237
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Karaliui buvo parinkta saugi vieta,
     iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
@@ -1146,6 +1175,8 @@ Nenurodyta
     - t-176214
 
 - id: c-160238
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Algirdo kariuomenė
     netrukus priartėjo prie Maskvos ir išsidėstė
@@ -1175,6 +1206,8 @@ Nenurodyta
     - t-10166
 
 - id: c-160239
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pradėti
     iš anksto numatyto apgaulingo atsitrau-
@@ -1195,6 +1228,8 @@ Nenurodyta
     - t-176216
 
 - id: c-160240
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
@@ -1208,6 +1243,8 @@ Nenurodyta
     - t-176206
 
 - id: c-160241
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jiems galėjo atrodyti, jog susilpnėjęs prie­
     šas pakriks. Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
@@ -1222,6 +1259,9 @@ Nenurodyta
     - t-176207
 
 - id: c-160245
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Riteriai kovose, bendrai, būdavo mažai varžomi,
     kiekvienas rūpindavosi savimi ir savo garbe. Kiekvienas rite­
@@ -1237,6 +1277,8 @@ Nenurodyta
     - t-176209
 
 - id: c-160246
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pagal istorinę tradiciją Vytautas
 
@@ -1257,6 +1299,8 @@ Nenurodyta
     - t-176215
 
 - id: c-167714
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Sąjungininkų eilės su­
     svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas. Kry­
@@ -1270,6 +1314,8 @@ Nenurodyta
     - t-184344
 
 - id: c-167963
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pagaliau herulai, dėl įvairių prie­
     žasčių atplėšti nuo savo krašto, daug kartų siaubė Ro­
@@ -1304,6 +1350,8 @@ Nenurodyta
     - t-184602
 
 - id: c-175297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kunigaikštis Danielius
     išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.

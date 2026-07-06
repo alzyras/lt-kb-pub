@@ -76,6 +76,8 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
 ## Citatos
 
 - id: c-40367
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     TRAKINIŲ KAUTYNĖS
     1945 m. birželio 27 d. Ukmergės apskr. Kurklių vlsč. Trakinių k. apylinkėse miške NKVD vidaus

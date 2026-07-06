@@ -124,6 +124,8 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 ## Citatos
 
 - id: c-83851
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trys į
     Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­

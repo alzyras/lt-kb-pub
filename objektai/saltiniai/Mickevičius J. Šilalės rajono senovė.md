@@ -64,6 +64,8 @@ Dusburgietis teigia, kad mickevičius J.
 ## Citatos
 
 - id: c-61811
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mickevičius J. Šilalės rajono senovė.— [Mašinraštis], 1968.
   statusas: verified

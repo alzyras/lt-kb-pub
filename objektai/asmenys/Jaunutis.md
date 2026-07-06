@@ -436,6 +436,9 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 ## Citatos
 
 - id: c-36348
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
     ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
@@ -449,6 +452,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-176436
 
 - id: c-160448
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
     bartas. Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs
@@ -463,6 +468,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-176439
 
 - id: c-160449
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kivirčai tarp brolių da­
     vė pradžią slaptoms, bet sumaniai parengtoms sutartims
@@ -482,6 +489,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-176435
 
 - id: c-160450
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ■  •  -
     25
@@ -505,6 +514,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-176438
 
 - id: c-168076
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visa tai jis aukojęs tėvynės labui. Užleidęs
     valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
@@ -527,6 +538,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-184715
 
 - id: c-168078
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Algirdas ar iš-
     Iš Ja u n u čio  a tim a m a
@@ -549,6 +562,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-184717
 
 - id: c-176116
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be kelių dukterų (kurių
     vieną buvo išleidęs už Kazimiero, lenkų valdovo, o
@@ -577,6 +592,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-193392
 
 - id: c-176539
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ## Puslapis 69
 
@@ -594,6 +611,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-193914
 
 - id: c-176540
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
     niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.

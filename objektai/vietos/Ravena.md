@@ -120,6 +120,8 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
 ## Citatos
 
 - id: c-175600
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau
     pirmojo padėtis buvo geresnė negu antrojo Pavijoje. Ra-
@@ -135,6 +137,8 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
     - t-192830
 
 - id: c-175601
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet jis, trokšdamas vienvaldystės ir kupi­
     nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų

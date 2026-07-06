@@ -195,6 +195,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169925
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pripetės šiaurinis, kai­
     rysis intakas. „Šiapus", matyti, reiškia takoskyrą tarp Jieseldos ir
@@ -213,6 +215,8 @@ Nenurodyta
     - t-186686
 
 - id: c-169926
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     „Šiapus", matyti, reiškia takoskyrą tarp Jieseldos ir
     Sčaros, Nemuno pietinio intako.

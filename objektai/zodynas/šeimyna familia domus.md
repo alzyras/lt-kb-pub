@@ -189,6 +189,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 ## Citatos
 
 - id: c-59450
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Štai todėl prūsai271, susirinkę visi kaip vienas,
     išsirinko tą patį Sventopelką savo vyresniuoju bei vadu ir, susitelkę petys į petį, užplūdo
@@ -211,6 +213,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - t-58819
 
 - id: c-59451
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 
@@ -227,6 +231,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - t-58821
 
 - id: c-59452
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
@@ -243,6 +249,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - t-58820
 
 - id: c-59453
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     246 D.— cum omni domo et familia sua. D. domus (namai) — tai šeimos nariai, o
     familia (šeimyna) — ūkyje dirbantys ne šeimos nariai, kurių šeimininkas buvęs feodalas,

@@ -74,6 +74,8 @@ Dusburgietis teigia, kad pierson.— Berlin, 1871.
 ## Citatos
 
 - id: c-61482
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prätorius M. Deliciae Prussicae oder Preussische Schaubühne/Im wörtlichen Auszuge
     aus dem Manuscript herausgegeben von Dr. W. Pierson.— Berlin, 1871.

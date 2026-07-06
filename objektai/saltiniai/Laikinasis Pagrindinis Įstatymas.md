@@ -125,6 +125,8 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
 ## Citatos
 
 - id: c-23814
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tam reikė-
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
@@ -146,6 +148,8 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
     - t-75458
 
 - id: c-73232
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl
     priimtas įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitu-

@@ -172,6 +172,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
 ## Citatos
 
 - id: c-175808
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Varšuvoje Mokslo bičiulių drau-
 
@@ -192,6 +194,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
     - t-002
 
 - id: c-175809
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be to,
     ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
@@ -208,6 +212,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
     - t-193040
 
 - id: c-175810
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sunku pasakyti, ar D. Poška, rašydamas šį straipsnį, turėjo
     omenyje kokį nors konkretų asmenį. Galbūt ir taip. Jam pui­
@@ -223,6 +229,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
     - t-193038
 
 - id: c-175811
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Manoma, kad tuo metu jau buvo parašyti
     S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai

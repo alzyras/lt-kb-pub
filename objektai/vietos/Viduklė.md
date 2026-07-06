@@ -120,6 +120,9 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 ## Citatos
 
 - id: c-37799
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten
     katalikų tikėjimą. Kaip jau matėme, 1416 metais Vytautas
@@ -137,6 +140,8 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     - t-69562
 
 - id: c-68865
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Viso Žemaičių krašto vardu pavardėmis surašyti
     31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­

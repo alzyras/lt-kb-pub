@@ -67,6 +67,8 @@ Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimen
 ## Citatos
 
 - id: c-41528
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mir. E. Sabeckio vadovaujama 300 karių
     grupė (dvi kuopos iš 7-ojo fusilierių re-

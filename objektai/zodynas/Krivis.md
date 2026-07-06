@@ -107,6 +107,8 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
 ## Citatos
 
 - id: c-175693
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visa tai leidžia padaryti teisingą
     išvadą, jog būtent šiose vietose buvo rezidencinės Reiksa,
@@ -125,6 +127,8 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
     - t-192923
 
 - id: c-177299
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Belichovo pilis, kilmingojo Jono
     buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-

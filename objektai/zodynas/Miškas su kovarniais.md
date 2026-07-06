@@ -82,6 +82,8 @@ Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes
 ## Citatos
 
 - id: c-172200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lydos apskrityje,
     prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­

@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172588
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
     ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­

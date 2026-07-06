@@ -79,6 +79,8 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
 ## Citatos
 
 - id: c-59380
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vildenbergas
       Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,

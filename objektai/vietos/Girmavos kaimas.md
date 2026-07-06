@@ -108,6 +108,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 ## Citatos
 
 - id: c-86291
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolių karą su sembais. Apie Girmavos valsčiaus nuniokojimą
 
@@ -126,6 +128,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - t-90457
 
 - id: c-86292
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
     aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,

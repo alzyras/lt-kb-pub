@@ -72,6 +72,8 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
 ## Citatos
 
 - id: c-82246
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bažny­
     čia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­

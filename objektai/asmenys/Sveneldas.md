@@ -72,6 +72,8 @@ Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiaja
 ## Citatos
 
 - id: c-173095
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rusios istorija liudija, kad 980 metais tą garbinimą įve­
     dė Kijeve Vladimiras Didysis, liepęs pastatyti ant kalno to dievo

@@ -150,6 +150,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-36716
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kariuomenė buvo labai gerai ginkluota;
     viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
@@ -165,6 +168,9 @@ Nenurodyta
     - t-35506
 
 - id: c-38206
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1428 metų vasarą jis surengė į Naugardą di­
     delį žygį, pritraukdamas į jį daug kunigaikščių ir kariuomenės

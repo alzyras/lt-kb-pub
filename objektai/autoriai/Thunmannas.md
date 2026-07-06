@@ -61,6 +61,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-177287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Į Vakarus nuo dešiniojo
     1 Thunmann. Untersuchungen über die Geschichte einiger nor­

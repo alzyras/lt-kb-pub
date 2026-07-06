@@ -78,6 +78,8 @@ Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chue
 ## Citatos
 
 - id: c-175751
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šie atradimai labiau padeda pateisinti nuomones, jog
     Ptolemėjo geninai iš tikrųjų buvo vadinamieji chueninai,

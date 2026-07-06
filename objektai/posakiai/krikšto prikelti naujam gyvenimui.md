@@ -109,6 +109,8 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 ## Citatos
 
 - id: c-59750
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
 

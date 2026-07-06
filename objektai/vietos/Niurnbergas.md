@@ -131,6 +131,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Citatos
 
 - id: c-49573
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
@@ -144,6 +146,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - t-47037
 
 - id: c-175963
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Imperatorius parašė Algirdui
     ir Kęstučiui laiškus, siūlydamas krikštytis. Abu kunigaikš-

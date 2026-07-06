@@ -308,6 +308,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 ## Citatos
 
 - id: c-33280
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     mezleva, roitinik, sviren, veldomy ir daug kitų), bet ir šnekamajai
     gudų kalbai. Artimiausieji rytų kaimynai dregovičiai (Beržūnės
@@ -326,6 +328,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - t-31222
 
 - id: c-171100
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kaip mums rodo vietos tyrimai, Stenderis lat­
     vių gramatikoje šiuo klausimu šiek tiek suklydo.
@@ -349,6 +353,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - t-188206
 
 - id: c-171101
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
@@ -368,6 +374,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - t-188207
 
 - id: c-175206
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Etimologinio
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
@@ -387,6 +395,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - t-192412
 
 - id: c-175207
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     331
 

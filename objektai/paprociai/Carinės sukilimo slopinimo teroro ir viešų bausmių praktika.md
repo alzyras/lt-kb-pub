@@ -271,6 +271,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73155
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sukilėlių būriai neturėjo jokių galimy-
     bių kontroliuoti didesnių teritorijų. Pavasarį paskirtas vyriausiuoju Lietu-
@@ -289,6 +291,8 @@ Nenurodyta
     - t-75352
 
 - id: c-73156
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors liepos mėn. Lenkijos sukilėlių vyriausybė į Lietu-
     vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas
@@ -304,6 +308,8 @@ Nenurodyta
     - t-75356
 
 - id: c-73158
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     nas Mackevičius. Į didesnius dalinius sukilėliai jau nesitelkė, vadovavosi
     partizaninio karo nedidelių antpuolių taktika.
@@ -318,6 +324,8 @@ Nenurodyta
     - t-75353
 
 - id: c-166695
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
     nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė

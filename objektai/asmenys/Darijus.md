@@ -327,6 +327,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 ## Citatos
 
 - id: c-174006
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kadangi priešo būriai buvo narsūs ir puikiai gink­
     luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
@@ -346,6 +348,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - t-191124
 
 - id: c-174008
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Herodotas
     prisimena buvus tokį miestą prie Juodosios jūros, kur
@@ -367,6 +371,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - t-191126
 
 - id: c-174009
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pats Herodotas, tą patį manydamas apie gelonus ir bu­
     dinus, teigia, jog jie turėję tvirtoves ir tokį nekilnojamąjį
@@ -382,6 +388,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - t-191127
 
 - id: c-174011
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šiandien ji vadinama Pečeros kalva, kuri stūk­
     so čia pat prie Dnepro, be užutekių, graži ir patogi gyny­
@@ -399,6 +407,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - t-191129
 
 - id: c-174826
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Galop išdidžiam monarchui buvo laimė persikelti
     su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
@@ -420,6 +430,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - t-191944
 
 - id: c-174827
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dar nebuvo tokių
     tyrinėjimų, ieškojimų, ir juos tenka palikti ateičiai. Juk

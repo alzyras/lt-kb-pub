@@ -61,6 +61,9 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
 ## Citatos
 
 - id: c-36671
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
     giškių Jono straipsnis. Be to, įdėta prof. Brenderio, prof. Putino-

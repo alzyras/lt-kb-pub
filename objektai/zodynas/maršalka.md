@@ -106,6 +106,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-69298
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Rūdavos mūšio paminklas.
     Žuvusiam maršalkai Schindekopui pamin-

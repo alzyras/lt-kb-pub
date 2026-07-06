@@ -108,6 +108,8 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
 ## Citatos
 
 - id: c-69354
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
     kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
@@ -123,6 +125,8 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
     - t-70303
 
 - id: c-166372
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Višniaveckis jį nu-
     sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-

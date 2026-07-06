@@ -693,6 +693,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Citatos
 
 - id: c-37864
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tada pats Naugarduko susirinkimas Cem­
     blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių
@@ -711,6 +714,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-122960
 
 - id: c-37865
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tos žinios kėlė Vytauto
     garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
@@ -731,6 +737,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-122963
 
 - id: c-46854
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
     Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
@@ -749,6 +757,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-122966
 
 - id: c-112447
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Otcem
     że jeho mnoho łaskasze i mukami pre-
@@ -782,6 +792,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-122962
 
 - id: c-112452
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kaip sąmokslas buvo
     ruošiamas, tikslių žinių neturime, tik žinome, kad tada nema-
@@ -804,6 +816,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-193255
 
 - id: c-112453
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kurį laiką Padauguvio giminės net mo-
     kėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII
@@ -819,6 +833,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-122970
 
 - id: c-112456
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš viso Mindaugo laikotarpyje po Saulės kautynių
     (1237-1263 m.) iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę
@@ -834,6 +850,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-122961
 
 - id: c-112459
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žr. Il priede išsamią žinią apie Lie- je, kur aiškiai pasakyta: ius Teutoni-
     tuvos didžiųjų kunigaikščių me- cum quod Magdeburiense dicitur denuo
@@ -864,6 +882,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-122971
 
 - id: c-168576
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kaip
     atlyginimą už išdavystę, prisiekdamas visomis švente­
@@ -888,6 +908,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-185215
 
 - id: c-170631
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     50
 
@@ -910,6 +932,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-187691
 
 - id: c-175988
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau amžinosios taikos
     jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.

@@ -128,6 +128,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
 ## Citatos
 
 - id: c-171810
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iškilmės“.
     O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
@@ -142,6 +144,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     - t-188921
 
 - id: c-171811
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šią vietą iki šiol
     vadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­

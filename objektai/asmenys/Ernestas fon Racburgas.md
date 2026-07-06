@@ -116,6 +116,8 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
 ## Citatos
 
 - id: c-167126
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ši mašina
     veikia naudojant

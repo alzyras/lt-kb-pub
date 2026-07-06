@@ -138,6 +138,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83151
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O taip, suprantama, krikščionis dalį jam ir palū­
     kanas sumokės, kokį būdą jis atras. Taip pat jeigu gaisro
@@ -163,6 +165,8 @@ Nenurodyta
     - t-87173
 
 - id: c-83152
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat jeigu koks
     krikščionis jėga savo užstatą išplėštų, arba jėgą panaudotų, į

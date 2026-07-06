@@ -73,6 +73,8 @@ Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo
 ## Citatos
 
 - id: c-84410
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad galėjo čia
     pirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia

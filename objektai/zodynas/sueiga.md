@@ -95,6 +95,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-168774
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Taigi verčiau sekite savo mokytojais graikais — ir jų
     čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­

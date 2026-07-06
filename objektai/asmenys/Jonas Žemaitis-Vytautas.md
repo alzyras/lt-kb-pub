@@ -188,6 +188,8 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 ## Citatos
 
 - id: c-21756
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sąjūdis ėmėsi vadovauti ir
     politinei, ir karinei pasipriešinimo
@@ -209,6 +211,8 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     - t-18997
 
 - id: c-21757
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Represinės instituci-
     jos, slopindamos parti-
@@ -235,6 +239,8 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     - t-18998
 
 - id: c-21758
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1953 m. pavasarį užverbuoti
     agentai išdavė J. Žemaitį-Vytautą

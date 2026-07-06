@@ -94,6 +94,8 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
 ## Citatos
 
 - id: c-21609
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
     gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-

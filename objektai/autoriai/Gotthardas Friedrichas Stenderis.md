@@ -177,6 +177,8 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
 ## Citatos
 
 - id: c-174421
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     111
 
@@ -206,6 +208,8 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
     - t-191539
 
 - id: c-174423
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     245
 
@@ -227,6 +231,8 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
     - t-191541
 
 - id: c-177273
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mongolų karvedžiai skubėjo
     užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­

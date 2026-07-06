@@ -132,6 +132,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60027
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -149,6 +151,8 @@ Nenurodyta
     - t-59396
 
 - id: c-60028
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Skatinami
     karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi

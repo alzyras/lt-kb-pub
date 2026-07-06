@@ -144,6 +144,8 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 ## Citatos
 
 - id: c-22150
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
     mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
@@ -160,6 +162,8 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
     - t-19415
 
 - id: c-166736
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taip birželio 17-ąją at-
     sirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė

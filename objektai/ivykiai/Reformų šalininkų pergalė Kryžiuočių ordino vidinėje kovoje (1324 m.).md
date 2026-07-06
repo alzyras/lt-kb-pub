@@ -145,6 +145,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63772
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apkaltintas erezija Tamplierių
     ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
@@ -168,6 +170,8 @@ Nenurodyta
     - t-62908
 
 - id: c-63773
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
     didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne

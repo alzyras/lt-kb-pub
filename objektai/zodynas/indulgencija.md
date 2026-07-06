@@ -82,6 +82,9 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
 ## Citatos
 
 - id: c-38735
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas vedė su juo labai plačią korespondenciją vi­
     sais svarbiausiais Lietuvos krikšto klausimais. Martynas V pa­

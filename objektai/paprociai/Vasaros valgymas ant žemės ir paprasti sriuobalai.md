@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09971
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
         plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš

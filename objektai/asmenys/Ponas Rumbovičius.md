@@ -74,6 +74,8 @@ Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokyt
 ## Citatos
 
 - id: c-173085
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis pastatas kilo tiesiog iš senovi­
     nio pastato griuvėsių16 17. Toji šventykla turėjo būti su kariniais

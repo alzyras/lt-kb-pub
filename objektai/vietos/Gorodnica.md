@@ -104,6 +104,8 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 ## Citatos
 
 - id: c-46499
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Taip antai,
     Šiauliuose buvo įsteigta

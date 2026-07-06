@@ -109,6 +109,8 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
 ## Citatos
 
 - id: c-61613
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Patikimesni atrodo bandymai ją
     lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
@@ -122,6 +124,8 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
     - t-60982
 
 - id: c-61614
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ivinskis Z. Gedimino pilis.—LE, 1940, t. 8, p. 1139—1141.
   statusas: verified

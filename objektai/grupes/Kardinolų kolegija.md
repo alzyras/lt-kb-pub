@@ -82,6 +82,8 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 ## Citatos
 
 - id: c-63328
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tris saulės spindulius ir kolegijos suskilimą
 

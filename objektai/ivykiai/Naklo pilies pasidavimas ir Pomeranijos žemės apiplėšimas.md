@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63732
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė
 

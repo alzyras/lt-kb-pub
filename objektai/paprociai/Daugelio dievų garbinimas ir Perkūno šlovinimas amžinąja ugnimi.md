@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169275
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuvių pagonybės ir antikinės stabmel­
     dystės jis netapatino ir neieškojo tarp jų panašumo. Iš Lietuvos

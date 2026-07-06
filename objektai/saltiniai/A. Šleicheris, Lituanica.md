@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-170970
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ypač T. Nar­
     buto kritika pasmarkėjo XIX a. pabaigoje, įsigalėjus pozity­

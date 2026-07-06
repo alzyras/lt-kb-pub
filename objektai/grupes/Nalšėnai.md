@@ -92,6 +92,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 ## Citatos
 
 - id: c-177375
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tada Vaišvilkas traukė prieš pagrindinius
     priešus. Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
@@ -107,6 +109,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - t-194993
 
 - id: c-177376
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jų vienas (Andrius) buvo tapęs įžymiu Tverės
     vyskupu^22 °.

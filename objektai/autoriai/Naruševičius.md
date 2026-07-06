@@ -118,6 +118,8 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
 ## Citatos
 
 - id: c-174469
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
     novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
@@ -138,6 +140,8 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
     - t-191587
 
 - id: c-174470
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dionyzas iš Charakso, imperatoriaus Oktaviano
     Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi

@@ -79,6 +79,8 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
 ## Citatos
 
 - id: c-177313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

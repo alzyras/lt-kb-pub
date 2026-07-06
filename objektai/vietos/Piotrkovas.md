@@ -342,6 +342,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
 ## Citatos
 
 - id: c-168598
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Š tai dėl to ir lenkai, ir lie­
     tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
@@ -370,6 +372,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
     - t-185237
 
 - id: c-168599
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Valstybėje kol kas svarbiausia buvo ranka ir
     žygiai, o ne liežuvis ir bemaž iš mokyklos išsinešti iš­
@@ -401,6 +405,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
     - t-185238
 
 - id: c-168600
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai dėl to sustiprėjo įtaka grupuotės, kuri
     siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą
@@ -418,6 +424,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
     - t-185239
 
 - id: c-168601
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tėvas manė,
     kad, įsitraukus sūnui į visokius reikalus, priblėsianti ir
@@ -436,6 +444,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
     - t-185240
 
 - id: c-171691
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Po trumpo
     miesto aprašymo ir žinutės apie Lietuvos seimą,
@@ -455,6 +465,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
     - t-188802
 
 - id: c-171692
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tais metais karaliui Žy­
     gimantui buvo daug darbų ir rūpesčių; mat, be ši­

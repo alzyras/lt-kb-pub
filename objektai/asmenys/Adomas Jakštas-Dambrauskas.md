@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-21542
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jau ne vienos šeimos kalbėjimas
     lietuviškai viešai, pamaldų lietuvių kalba reikalavimai bažnyčiose kėlė len-

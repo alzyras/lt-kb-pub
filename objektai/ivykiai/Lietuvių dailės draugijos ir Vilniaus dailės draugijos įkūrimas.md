@@ -129,6 +129,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-26622
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dailės ir vaizduojamojo me-
     no bei architektūros srityje taip
@@ -148,6 +150,8 @@ Nenurodyta
     - t-26397
 
 - id: c-166624
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Beje, abi jos buvo
     viena kitos kolektyviniai nariai.

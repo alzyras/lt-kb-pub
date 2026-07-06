@@ -75,6 +75,8 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
 ## Citatos
 
 - id: c-82191
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai didelis jo nuopelnas.
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­

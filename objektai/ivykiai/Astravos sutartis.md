@@ -241,6 +241,9 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 ## Citatos
 
 - id: c-14174
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vy­
     tautas dėkojo Jogailai ir Jadvygai už „suteiktas“ dovanas ir
@@ -262,6 +265,9 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-12398
 
 - id: c-15978
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo būdu Vytautas gavo iš Jo­
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
@@ -276,6 +282,9 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-12398
 
 - id: c-15979
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.
     Čia bebūdamas Jogaila, kaip tai aiškiai liudija Dlugošas ir kiti,
@@ -292,6 +301,8 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-12399
 
 - id: c-160212
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vy-
     tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
@@ -308,6 +319,8 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-176170
 
 - id: c-160214
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Astravos**
         **sutartis (1392 m.)**

@@ -75,6 +75,8 @@ Nerman, B.: Die Verbindungen zwischen Skandinavien und dem Ostbaltikum in der j�
 ## Citatos
 
 - id: c-32903
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1964, 63-82 p. — (”) _Šilutės raj., Vilkų Kampo kaimo « Kapų kalno »
     tyrinėjimai,_ AkMD, t. 34, 1970, 43-56 p. — (”) _Jurgaičių kapinyno VII-

@@ -92,6 +92,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 ## Citatos
 
 - id: c-75440
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
     tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar

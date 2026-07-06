@@ -108,6 +108,9 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
 ## Citatos
 
 - id: c-161973
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas dėl to net pasiskundė Vakarų Europos ku­
     nigaikščiams, kad Ordinas neleidžia pirkliams susisiekti su Lie­

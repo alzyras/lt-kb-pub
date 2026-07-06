@@ -217,6 +217,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 ## Citatos
 
 - id: c-11260
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
     pilies šturmą 1384 m.
@@ -228,6 +230,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
     - t-171552
 
 - id: c-43288
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Piksidomis (ma-
     žesnio kalibro pabūklais) daugelį jų karių
@@ -254,6 +258,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
     - t-171553
 
 - id: c-156051
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Augustiną, tai
     yra, rugpjūčio 28-ą, o priartėta prie

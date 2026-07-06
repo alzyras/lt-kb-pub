@@ -73,6 +73,8 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
 ## Citatos
 
 - id: c-174504
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
     ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių

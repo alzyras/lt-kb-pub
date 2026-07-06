@@ -81,6 +81,8 @@ Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## P
 ## Citatos
 
 - id: c-82839
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet Lietuvos valdymą perėmė karalius
     —  • —

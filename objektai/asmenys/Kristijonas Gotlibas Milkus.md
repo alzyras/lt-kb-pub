@@ -112,6 +112,8 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 ## Citatos
 
 - id: c-21835
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     III s k y r i u s
     Rusijos imperijos

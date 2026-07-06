@@ -146,6 +146,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172607
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Murgų, arba Tautų sambūrio, rūmai
     buvo pačioje toliausioje šiaurėje.
@@ -172,6 +174,8 @@ Nenurodyta
     - t-189724
 
 - id: c-172608
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
     suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­

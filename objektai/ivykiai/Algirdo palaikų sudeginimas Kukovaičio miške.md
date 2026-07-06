@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169929
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ’*  Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu
     prie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos

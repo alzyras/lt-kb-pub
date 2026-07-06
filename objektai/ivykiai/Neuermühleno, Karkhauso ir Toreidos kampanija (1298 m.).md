@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-28756
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bendrai veikdami, lietuviai ir rygiečiai 1298 m. pavasarį sude­
     gino prie Neuermühleno ordino sukrautą medžiagą, skirtą sustab­

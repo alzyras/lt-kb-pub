@@ -89,6 +89,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-38330
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Galima manyti, kad tokio
     samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis

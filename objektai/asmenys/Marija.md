@@ -162,6 +162,9 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 ## Citatos
 
 - id: c-38089
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
@@ -178,6 +181,8 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
     - t-35219
 
 - id: c-176579
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
     do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo

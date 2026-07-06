@@ -368,6 +368,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 ## Citatos
 
 - id: c-82683
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono brolijai priklausantiems,
     kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­
@@ -393,6 +395,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-86711
 
 - id: c-82684
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mir­
     damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
@@ -409,6 +413,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-86704
 
 - id: c-82685
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O tų knygų, kurias atiduodame jėzuitams, der­
     lius yra nemažas ir neprastas. Įpareigojame tėvus jėzuitus,
@@ -425,6 +431,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-86707
 
 - id: c-82686
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčios
     užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
@@ -442,6 +450,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-86705
 
 - id: c-82687
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     290
 
@@ -466,6 +476,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-86710
 
 - id: c-82688
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
     bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­
@@ -479,6 +491,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-86709
 
 - id: c-82689
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     285
 
@@ -502,6 +516,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-86708
 
 - id: c-82690
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai jų sąžinei griežtai
     pavedame. Klierikų mokymo reikalus ir vadovavimą kole­

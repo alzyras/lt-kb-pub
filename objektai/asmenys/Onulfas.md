@@ -76,6 +76,8 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 ## Citatos
 
 - id: c-174185
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet,
     kai tik Odoakras grįžo į Italiją, Frederikas vėl pasirodė

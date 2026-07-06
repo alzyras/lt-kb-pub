@@ -69,6 +69,8 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
 ## Citatos
 
 - id: c-82601
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     SIGISMUNDUS AUGUSTUS Rex.
     IL

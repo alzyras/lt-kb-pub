@@ -98,6 +98,8 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
 ## Citatos
 
 - id: c-170887
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sėkmingai iš­
     vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.

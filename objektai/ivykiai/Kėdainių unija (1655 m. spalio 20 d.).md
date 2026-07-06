@@ -155,6 +155,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43064
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     J. Radvila ir lauko etmonas
     V. Gosievskis 1655 m. pasirašė LDK pasidavimo Švedijai
@@ -176,6 +178,8 @@ Nenurodyta
     - t-80673
 
 - id: c-43066
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švedai visgi nevertino šios uni-
     jos ir jo lūkesčių nepateisino, J. Radvila negavo jokių

@@ -71,6 +71,8 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
 ## Citatos
 
 - id: c-45551
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     | XVII a. antrojoje pusėje tiek Lietuvos, tiek ir Lenkijos karinės pa-
     jėgos būdavo pavaldžios centrinei bei vietinei valdžiai ar priva-

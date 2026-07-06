@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169066
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl Vytautas ir ėmė raginti Jogailą neiš­
     sižadėti vilties ir pasirinkti naują gyvenimo draugę.

@@ -172,6 +172,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 ## Citatos
 
 - id: c-175143
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Baigiant šios antros srities aprašymą, negalima ne­
     paminėti jos padalijimo į dvi dalis; apie tai ne sykį rei­
@@ -195,6 +197,9 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - t-005
 
 - id: c-175144
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,
     anot Dlugošo, graudžiai apsiverkė^1 ) ir tuojau pasiuntė ki­

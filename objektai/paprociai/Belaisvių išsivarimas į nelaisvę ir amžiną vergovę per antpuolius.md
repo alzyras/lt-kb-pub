@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63400
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie daugybės Kulmenzės miestiečių žūtį
 
@@ -127,6 +129,8 @@ Nenurodyta
     - t-62669
 
 - id: c-63403
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po to priėjo Torunę ir sudegino
     ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę

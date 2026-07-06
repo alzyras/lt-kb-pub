@@ -78,6 +78,8 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
 ## Citatos
 
 - id: c-83664
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     133
 

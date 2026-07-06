@@ -102,6 +102,8 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 ## Citatos
 
 - id: c-09593
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
         dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių
@@ -117,6 +119,8 @@ Vartojamos formos: `strūnijo ar dailidavo`.
     - t-07660
 
 - id: c-09594
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys
         sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios

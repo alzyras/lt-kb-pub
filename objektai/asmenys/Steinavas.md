@@ -125,6 +125,8 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
 ## Citatos
 
 - id: c-60840
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     136 (131). Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 
@@ -139,6 +141,8 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
     - t-60208
 
 - id: c-167513
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Aismarių šiauriniame krante, per 5 km į vakarus nuo
 

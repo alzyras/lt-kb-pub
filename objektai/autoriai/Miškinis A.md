@@ -66,6 +66,8 @@ Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— L
 ## Citatos
 
 - id: c-87594
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     38), matyt, čia ir
     buvo Aukaimio pilis. Batakių dvaras atsirado XV a., o miestelis XVI a,— Lietuvos TSR

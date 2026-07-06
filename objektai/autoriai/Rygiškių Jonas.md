@@ -77,6 +77,9 @@ Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis įvairiomis te
 ## Citatos
 
 - id: c-36694
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     13. Rygiškių Jono redaguotos „PASAKĖČIOS”. Kalbos ir literatū­
     ros mokslui. Trečias papildytas dvigubai padidintas ir pataisytas leidi­

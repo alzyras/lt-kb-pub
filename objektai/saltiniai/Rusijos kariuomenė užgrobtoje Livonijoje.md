@@ -79,6 +79,8 @@ L XL Rusijos kariuomenė užgrobtoje Livonijoje.
 ## Citatos
 
 - id: c-45013
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     SuLinGerg Sey Georg Bveytein, AM, D. L XL
     Rusijos kariuomenė užgrobtoje Livonijoje. Vokiško

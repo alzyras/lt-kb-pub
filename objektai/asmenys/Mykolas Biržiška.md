@@ -82,6 +82,8 @@ Biržiška iš jos pasitraukė.
 ## Citatos
 
 - id: c-26060
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vokietijai ir Austrijai paskelbus siekį atkurti Lenkijos valstybę, lietuvių
     atstovai ėmė kelti Lietuvos klausimą. Vokiečiams modernizuojant anek-

@@ -116,6 +116,8 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 ## Citatos
 
 - id: c-70469
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tai bu-
     vo katalikiška ir tautiška organizacija, kuriai priklausė beveik
@@ -133,6 +135,8 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
     - t-72033
 
 - id: c-70470
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pirmoji lietuvių moksl-
     eivių organizacija, įsteigta 1911 m., buvo „Ateitis". Tai bu-

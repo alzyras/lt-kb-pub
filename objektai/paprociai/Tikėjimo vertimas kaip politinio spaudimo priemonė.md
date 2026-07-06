@@ -115,6 +115,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176689
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ogi Skir­
     gaila nėra mūsų 2 krikščionių tikėjimo, jis yra rusų
@@ -137,6 +139,8 @@ Nenurodyta
     - t-194076
 
 - id: c-176690
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
     Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau

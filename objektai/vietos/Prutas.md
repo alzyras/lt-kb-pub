@@ -133,6 +133,8 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 ## Citatos
 
 - id: c-80701
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     nec non cum omnibus Kmetb oni-
     bus, quae Bona quondam erant Siemion Ducis Bielski, om­

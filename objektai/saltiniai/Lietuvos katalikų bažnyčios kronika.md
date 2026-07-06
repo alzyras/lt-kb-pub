@@ -74,6 +74,8 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
 ## Citatos
 
 - id: c-23881
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
     tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet

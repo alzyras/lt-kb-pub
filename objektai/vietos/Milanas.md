@@ -102,6 +102,8 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
 ## Citatos
 
 - id: c-59338
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     107. Apie jo vainikavimą prie Milano
 

@@ -70,6 +70,8 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
 ## Citatos
 
 - id: c-173299
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Egiptiečiai ir graikai, romėnai, in­
     dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­

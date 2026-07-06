@@ -74,6 +74,8 @@ Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškai
 ## Citatos
 
 - id: c-173414
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     22 Vokiečių istorikas Henrikas Leo darbe, pavadintame „Marien­
     burgo glosos“ (Die Malbergische Glosse), teigia, kad žodžiai, vadinti

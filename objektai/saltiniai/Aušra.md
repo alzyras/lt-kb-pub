@@ -158,6 +158,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-34240
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     « Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai. »
     Šitaip išvertęs žinomą lotynišką humanistų posakį (Homines histo-
@@ -177,6 +179,8 @@ media_all_json: |-
     - t-179570
 
 - id: c-166749
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors po trejų metų „Aušra“ dėl
     vidinių idėjinių nesutarimų ir fi-

@@ -153,6 +153,8 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
 ## Citatos
 
 - id: c-21582
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -169,6 +171,8 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     - t-18809
 
 - id: c-21583
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visa tai – Mindaugo politikos rezulta-
     tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
@@ -185,6 +189,8 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     - t-18808
 
 - id: c-166916
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
     lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios

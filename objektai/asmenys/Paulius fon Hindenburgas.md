@@ -87,6 +87,8 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 ## Citatos
 
 - id: c-75373
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Besibrėžiantys naujos konsteliacijos kontūrai kėlė lietuvių susidomėji-
     mą, o kariaujančių pusių rezoliucijos lenkų klausimu suteikė galimybę

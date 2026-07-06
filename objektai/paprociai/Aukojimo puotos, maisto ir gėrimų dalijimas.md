@@ -79,6 +79,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172677
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Buvo ir tokių, kur
     ne bet kurį vyrą įleisdavo, ir jos vykdavo slapta*.

@@ -71,6 +71,8 @@ Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski.
 ## Citatos
 
 - id: c-177242
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Istorikas naudojosi ir lenkišku vertimu, dar
     1823 metais išspausdintu Vilniaus periodikoje (Mi­

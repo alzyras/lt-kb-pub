@@ -97,6 +97,8 @@ Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.
 ## Citatos
 
 - id: c-175584
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi pagal pa­
     našumų ir žemės gamtą galima geriau išdėstyti tas skitų

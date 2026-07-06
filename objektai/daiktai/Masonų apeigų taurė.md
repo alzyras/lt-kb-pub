@@ -193,6 +193,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170766
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visuomenės švietimo ir ugdymo uždaviniai buvo suformu­
     luoti masonų organizacijose. Lietuvos istorijos ir etnografijos

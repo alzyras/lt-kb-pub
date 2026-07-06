@@ -64,6 +64,8 @@ Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos
 ## Citatos
 
 - id: c-44978
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalys-
     i atl tei. Antroji priklauso Lietuvos Didžiajai Kunigaikštystei, pirmosios pagalbininkei ir sq-

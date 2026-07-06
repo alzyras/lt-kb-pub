@@ -156,6 +156,8 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 ## Citatos
 
 - id: c-03990
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos _proistorė_ yra jau
     plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.
@@ -171,6 +173,8 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - t-64645
 
 - id: c-03991
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1 (iki 1356 m.),
     Karaliaučius-Marburgas 1889-1969. (Pirmieji 2 tomai Aale-
@@ -186,6 +190,8 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - t-64642
 
 - id: c-03992
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Mulevičienė, I. : _Žiedžiamojo
     rato pasirodymo Lietuvos teritorijoje klausimu_ , AkMD, t. 36, 1971, 111-

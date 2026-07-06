@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75212
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos
     atgaivinimo aktas. „Šlovinga Lenkijos ir Lietuvos Konstitucija“ vėl sutei-

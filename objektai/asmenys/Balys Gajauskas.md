@@ -107,6 +107,8 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 ## Citatos
 
 - id: c-21617
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
@@ -125,6 +127,8 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
     - t-18846
 
 - id: c-166920
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taip
     demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-

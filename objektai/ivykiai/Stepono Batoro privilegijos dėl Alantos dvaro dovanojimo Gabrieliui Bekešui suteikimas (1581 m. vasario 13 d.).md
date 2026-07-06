@@ -225,6 +225,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82868
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir bus leista minėtam po­
     nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­
@@ -257,6 +259,8 @@ Nenurodyta
     - t-86891
 
 - id: c-82869
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     (Kopija iš originalo, esančio Radvilų archyve)
     Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­
@@ -288,6 +292,8 @@ Nenurodyta
     - t-86889
 
 - id: c-82870
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
     — • —

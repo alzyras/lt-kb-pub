@@ -78,6 +78,8 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
 ## Citatos
 
 - id: c-60971
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitokia sutartis nepatiko
     dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,

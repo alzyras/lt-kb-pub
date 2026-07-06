@@ -117,6 +117,9 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
 ## Citatos
 
 - id: c-14494
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl ir
     nenuostabu, kad žemaičiai savo vakarykščiams priešams

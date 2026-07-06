@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-43789
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po
     kelių dienų mūsų apylinkės pirmininkas

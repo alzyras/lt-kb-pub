@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169989
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     M  LDK raitininkas Teodoras Januševičlus buvo Lucko seniūnu
     ir Volynės žemės maršalu 1505— 1506 m. Tikslesnės datos nežino­

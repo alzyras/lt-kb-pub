@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63016
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
 

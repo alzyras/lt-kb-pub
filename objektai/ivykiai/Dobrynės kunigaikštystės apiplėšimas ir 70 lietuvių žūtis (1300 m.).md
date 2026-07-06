@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63560
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     paskos, broliai su savo kariuomene juos pasivijo, 70 nukovė ir išgelbėjo daug krikščionių,
     paimtų  į nelaisvę. 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės

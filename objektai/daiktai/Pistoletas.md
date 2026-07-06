@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42537
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš naujo pradėjęs švaistytis kardu, lenkas, matyt,
     atsipeikėjo ir atsiminė, kad jis dar turįs pistoletą. Tiesa, jo iki šiol ir

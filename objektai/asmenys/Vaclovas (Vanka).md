@@ -77,6 +77,8 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
 ## Citatos
 
 - id: c-61084
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
     Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus

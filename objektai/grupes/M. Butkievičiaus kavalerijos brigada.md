@@ -66,6 +66,8 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
 ## Citatos
 
 - id: c-44810
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     @ Lapkričio 17 d. gen. J. Baranovskio brigada atakuoja 2-ojo pėst. p. pozicijas
     ir po visą dieną trukusių atkaklių kautynių priverčia lietuvius iš Giedraičių

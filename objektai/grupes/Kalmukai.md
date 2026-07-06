@@ -72,6 +72,8 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
 ## Citatos
 
 - id: c-175753
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Už tokį neatsargumą jų
     krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis

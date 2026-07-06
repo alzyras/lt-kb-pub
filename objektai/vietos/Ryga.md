@@ -846,6 +846,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 ## Citatos
 
 - id: c-24449
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     (J. Kosako paveikslas).
     Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija
@@ -859,6 +861,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95159
 
 - id: c-24451
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju-
     siam Dauguvos upe per Rygą. Kai 1621 m. Ryga atiteko Šve-
@@ -871,6 +875,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95150
 
 - id: c-90122
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
@@ -888,6 +894,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95155
 
 - id: c-90123
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau sudarytoji sąjunga nenutrūko. Arkivysku-
     pas ir rygiečiai nedarė taikos su ordinu; nesijausdami esą vieni
@@ -904,6 +912,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95157
 
 - id: c-90124
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jau tų
     metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
@@ -931,6 +941,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95151
 
 - id: c-90125
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
     kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
@@ -947,6 +959,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95152
 
 - id: c-90127
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ryga tada buvo labai turtingas miestas. Per
     ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
@@ -961,6 +975,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95149
 
 - id: c-90129
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po ilgų derybų buvo
     sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui
@@ -981,6 +997,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95158
 
 - id: c-90130
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tad Vytautas čia labiau pareida­
     vo ir nuo geografinės valstybės būklės ir nuo politinių bei kul­
@@ -1002,6 +1021,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-95147
 
 - id: c-176853
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

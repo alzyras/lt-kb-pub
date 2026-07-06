@@ -163,6 +163,8 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
 ## Citatos
 
 - id: c-63896
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
 
@@ -187,6 +189,8 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
     - t-194324
 
 - id: c-63897
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
     pasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis

@@ -154,6 +154,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 ## Citatos
 
 - id: c-42861
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1948 m. sunkvežimio netoli Onuškio susprogdinimas su 19 vietinės įgulos
     karių. V. Voveris žuvo 1949 m. MGB užverbuotiems agentams K. Kubilinskui-
@@ -167,6 +169,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     - t-65910
 
 - id: c-42862
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     X GULBINIŠKIŲ KAUTYNĖS
 
@@ -181,6 +185,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     - t-65908
 
 - id: c-176237
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors partizaninis karas, kovojant vienų vieniems, ir pralaimėtas, jo
     reikšmė didelė. Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-

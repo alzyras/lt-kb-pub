@@ -75,6 +75,8 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
 ## Citatos
 
 - id: c-23613
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     kad žydai – nesutaikomas priešas, ir klaidingas patriotizmo supratimas.
     Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga

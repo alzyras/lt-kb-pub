@@ -242,6 +242,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 ## Citatos
 
 - id: c-76031
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Palestinoje,
     einant kryžiaus karams su turkais, krikščionims apsaugoti
@@ -259,6 +261,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-78934
 
 - id: c-76033
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vyskupui
     tuo būdu liko valdyti^2 /з krašto. Taip buvo pasidalytas jau už-
@@ -275,6 +279,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-78933
 
 - id: c-76034
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jersikos karalius
 
@@ -306,6 +312,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-78932
 
 - id: c-173719
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Si
     vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­

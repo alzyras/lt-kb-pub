@@ -68,6 +68,8 @@ J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltin�
 ## Citatos
 
 - id: c-173313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     5 Istorijos duomenų apie kitų tautų antspaudus ir herbus skaity­
     tojas ras Čackio veikale „Apie teises“ (t. I. -  P. 71. -  Prierašas nr. 347),

@@ -66,6 +66,8 @@ Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie e
 ## Citatos
 
 - id: c-176191
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Priėmę krikščionybę, jie liko jai ištiki­
     mi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė

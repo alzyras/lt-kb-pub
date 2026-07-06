@@ -207,6 +207,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172554
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Istoriniai padavimai skelbia, kad lie­
     tuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­
@@ -226,6 +228,8 @@ Nenurodyta
     - t-189671
 
 - id: c-172555
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis iš pradžių nu­
     ramindavo ligonį, tikindamas, kad jeigu dievai lėmę jam mir­
@@ -245,6 +249,8 @@ Nenurodyta
     - t-189672
 
 - id: c-172556
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     7. N uolatinė auka. Jos esmė buvo visados degančios ir
     niekad negęstančios ugnies kurstymas Praurimės, Kurko,
@@ -261,6 +267,8 @@ Nenurodyta
     - t-189673
 
 - id: c-177008
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     3. Dievo Perkūno šventykloje, senovės Romovėje, švento­
     jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­

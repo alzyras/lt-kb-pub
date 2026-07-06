@@ -70,6 +70,8 @@ Andrius Algimantaitls — iš tik r ų jų Andrius Jonaitis Alglmantaitls, Alš�
 ## Citatos
 
 - id: c-176710
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     * Andrius Algimantaitls — iš tik r ų jų Andrius Jonaitis Alglman-
     taitls, Alšėnų kunigaikščio Jono Algimantaičio sūnus. Po Skirgailos

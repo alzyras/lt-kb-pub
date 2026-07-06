@@ -669,6 +669,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32576
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^14) **SRP, II, 533 (Algirdas « cum suis boyaribus et Smyrdens »); 534-
     536 (Kęstučio dialogas su vyr. magistru).**
@@ -690,6 +692,8 @@ media_all_json: |-
     - t-99867
 
 - id: c-93817
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -711,6 +715,8 @@ media_all_json: |-
     - t-99869
 
 - id: c-93820
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
     neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
@@ -730,6 +736,8 @@ media_all_json: |-
     - t-99868
 
 - id: c-93821
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     J a r o-
     68
@@ -756,6 +764,8 @@ media_all_json: |-
     - t-99860
 
 - id: c-93822
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tais pačiais 1347 m. lietuvių karalius (rex)
     niokojo Ragainės ir Įsruties apylinkes, spa-
@@ -772,6 +782,8 @@ media_all_json: |-
     - t-99859
 
 - id: c-93824
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
     matome, yra tuščias plotas. Be to, ir čia parodytos kai kurios pilys buvo
@@ -792,6 +804,8 @@ media_all_json: |-
     - t-99866
 
 - id: c-93825
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
 
@@ -812,6 +826,8 @@ media_all_json: |-
     - t-99864
 
 - id: c-93826
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Vėluvos pilies puolimą
 
@@ -833,6 +849,8 @@ media_all_json: |-
     - t-194553
 
 - id: c-93827
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Priešiškuose lietuviams
     šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
@@ -850,6 +868,8 @@ media_all_json: |-
     - t-99862
 
 - id: c-168574
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip praėjo ir kiti metai, pakaitomis vieniems
     kitus puldinėjant. Prūsijos magistras, susilaukęs pa­
@@ -866,6 +886,8 @@ media_all_json: |-
     - t-185213
 
 - id: c-171762
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
     prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­

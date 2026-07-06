@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169157
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasibaigus vestuvių iškilmėms, valdovai
     iš visų jėgų įniko rengtis karui su kryžiuočiais. Vytau­

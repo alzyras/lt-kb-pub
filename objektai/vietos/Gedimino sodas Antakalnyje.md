@@ -69,6 +69,8 @@ Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro
 ## Citatos
 
 - id: c-171887
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet kai kas painioja šią patrauklią dievybę su deive Lie­
     tuva.

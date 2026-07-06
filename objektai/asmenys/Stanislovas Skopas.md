@@ -68,6 +68,8 @@ Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias 
 ## Citatos
 
 - id: c-83559
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat dešimtinė nuo visų garbin­
     gojo Stanislovo Skopo gėrybių, kurias tik turi minėtos Pa­

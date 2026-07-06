@@ -97,6 +97,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02804
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
     matome, yra tuščias plotas. Be to, ir čia parodytos kai kurios pilys buvo

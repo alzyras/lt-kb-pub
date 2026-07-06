@@ -64,6 +64,8 @@ Dusburgietis teigia, kad mažiulis V.
 ## Citatos
 
 - id: c-61806
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
   statusas: verified

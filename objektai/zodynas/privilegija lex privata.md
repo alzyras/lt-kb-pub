@@ -63,6 +63,8 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
 ## Citatos
 
 - id: c-69342
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ir kitose Europos valstybėse tada nedaug te-
     buvo bendrų įstatymų, bet kiekviena valstybės sritis, kiekviena

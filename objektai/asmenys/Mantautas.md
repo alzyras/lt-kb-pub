@@ -75,6 +75,8 @@ Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų
 ## Citatos
 
 - id: c-176901
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šioje sutartyje tarp kunigaikščių
     ir prelatų nurodyti: Černigovo ku­

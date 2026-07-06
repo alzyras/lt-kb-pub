@@ -71,6 +71,8 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
 ## Citatos
 
 - id: c-174311
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat yra įrodymų, jog alanai buvo susi­
     giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­

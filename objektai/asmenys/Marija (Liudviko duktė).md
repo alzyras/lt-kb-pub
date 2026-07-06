@@ -66,6 +66,9 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 ## Citatos
 
 - id: c-38087
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­

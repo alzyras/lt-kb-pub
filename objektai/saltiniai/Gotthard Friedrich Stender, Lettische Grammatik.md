@@ -118,6 +118,8 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
 ## Citatos
 
 - id: c-174627
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Trumpiausiai į tai atsakome pateikdami Kuršo pa­
     mokslininko ir latvių gramatikos autoriaus Stenderio žo­
@@ -138,6 +140,8 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
     - t-191745
 
 - id: c-177291
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mongolų karvedžiai skubėjo
     užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­

@@ -103,6 +103,8 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 ## Citatos
 
 - id: c-46396
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
     kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-

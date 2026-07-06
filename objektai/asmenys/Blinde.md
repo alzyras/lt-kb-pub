@@ -74,6 +74,8 @@ Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių k�
 ## Citatos
 
 - id: c-172969
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toliau klausinėjant, pavyko išgirsti pasakojimą
     apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­

@@ -74,6 +74,8 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
 ## Citatos
 
 - id: c-171947
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šitaip akylai sau­
     gomas, jas pagrobdavo lakedemoniečių pavyzdžiu; tai padaro

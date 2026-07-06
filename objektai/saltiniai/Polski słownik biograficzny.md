@@ -63,6 +63,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176774
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     '° Jonas Goštautas pirmą kartą kaip Vilniaus vaivada figūruo­
     ja 1443.11!.23 (Polski slownik blograficzny. t. VU/4, sąs. 34. p. 297).

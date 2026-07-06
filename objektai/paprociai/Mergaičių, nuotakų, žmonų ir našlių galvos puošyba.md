@@ -172,6 +172,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10019
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Išeiginiu drabužiu motriškųjų buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
         tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
@@ -192,6 +194,8 @@ Nenurodyta
     - t-67170
 
 - id: c-10020
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Lygia dalia motriškosios nenorėjo dar niekaip senovės nuometų nuo galvos savo mesti, noris kitą apdarą kaitė kaip tinkamos, todėl didžiai vėlai dar baltomis galvomis vadinos nuo savo baltų nuometų, ir kad vyrams nebtiko toks jų apdaras, jos vis jiems tarė: „Tai, mūsų nuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,
         nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
@@ -204,6 +208,8 @@ Nenurodyta
     - t-67168
 
 - id: c-176961
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Taip besitiekiant jaunasis siuntė
         jaunajai dovanas (taip nuotaką mergaitę po ūkvaizdžių pradeda vadinti) per savo bendrus savo

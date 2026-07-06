@@ -80,6 +80,8 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 ## Citatos
 
 - id: c-83707
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių
     atiteko Neliubovičiams.

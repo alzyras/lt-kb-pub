@@ -68,6 +68,8 @@ Dusburgietis teigia, kad olivos kronikoje — Kirsburg (SRP, 5, p. 600), Kirsber
 ## Citatos
 
 - id: c-61894
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kulmo miesto perkėlimą
 

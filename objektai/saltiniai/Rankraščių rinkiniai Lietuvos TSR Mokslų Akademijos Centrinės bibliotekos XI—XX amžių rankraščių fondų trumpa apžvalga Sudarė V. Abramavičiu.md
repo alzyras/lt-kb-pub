@@ -73,6 +73,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
 ## Citatos
 
 - id: c-61899
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX
     amžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963.

@@ -556,6 +556,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 ## Citatos
 
 - id: c-90133
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietu­
     vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
@@ -578,6 +580,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95167
 
 - id: c-90134
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik tada Švitrigaila
     energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
@@ -598,6 +602,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95160
 
 - id: c-90135
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo tarpu Lenkijoj laimėjo Za-
     moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
@@ -615,6 +621,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95163
 
 - id: c-90136
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Valdant Švitrigailai, Vilniaus miestietis
     Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
@@ -637,6 +645,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95162
 
 - id: c-90137
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
     desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
@@ -655,6 +665,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95161
 
 - id: c-90138
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Švit­
     rigailos dvaro maršalka buvo Mzu-
@@ -677,6 +689,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95166
 
 - id: c-90139
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pastarosios pergalės iš­
     garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
@@ -696,6 +710,9 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95168
 
 - id: c-90141
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Atvyko
     Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
@@ -717,6 +734,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-95164
 
 - id: c-168504
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau Vladislovas tuojau pat po
     pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
@@ -735,6 +754,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-185143
 
 - id: c-175530
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jūra dažnai išmeta gintarą, prikibusį prie
     supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-

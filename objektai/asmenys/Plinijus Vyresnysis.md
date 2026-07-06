@@ -480,6 +480,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 ## Citatos
 
 - id: c-173970
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     63
 
@@ -506,6 +508,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191088
 
 - id: c-173971
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     71
     Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
@@ -524,6 +528,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191089
 
 - id: c-173972
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -541,6 +547,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191090
 
 - id: c-173973
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pagaliau, papildydamas aprašymą, cituoju tą
     patį autorių: Welti, Hossii ir Karbony, — tai toliau į
@@ -556,6 +564,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191091
 
 - id: c-173974
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
@@ -576,6 +586,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191092
 
 - id: c-173975
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šio labai tikslaus istoriko
     ir garbingo senovės krašto tyrinėtojo nuomonė verstų mus
@@ -597,6 +609,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191093
 
 - id: c-173977
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -613,6 +627,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191095
 
 - id: c-173978
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kopija iš Karaliau­
     čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
@@ -638,6 +654,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191096
 
 - id: c-173979
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
@@ -659,6 +677,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - t-191097
 
 - id: c-174851
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

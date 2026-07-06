@@ -76,6 +76,8 @@ Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klo
 ## Citatos
 
 - id: c-174196
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nemažai jo randama ir pakrantėse Vyslos ir Daugu­
     vos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais

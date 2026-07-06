@@ -81,6 +81,8 @@ Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė s
 ## Citatos
 
 - id: c-170498
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE PEREKOPO TOTORIŲ SIAUTĖJIMĄ PO SLUCKO IR
     NAUGARDUKO KRAŠTUS, TAIP PAT APIE LIETUVOS IR

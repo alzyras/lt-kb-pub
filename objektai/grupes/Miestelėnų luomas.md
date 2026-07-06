@@ -154,6 +154,9 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 ## Citatos
 
 - id: c-35571
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas šioje srity padarė
     tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­
@@ -170,6 +173,9 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
     - t-34346
 
 - id: c-35572
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Miestelėnų luomo susikūrimui irgi Vytauto laikais buvo pa­
     dėti pagrindai, kai miestams buvo suteiktos pirmos savivaldy­
@@ -186,6 +192,9 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
     - t-34347
 
 - id: c-167607
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lietuva gi tuo
     atžvilgiu nebuvo labai laiminga. Vytautas šioje srity padarė

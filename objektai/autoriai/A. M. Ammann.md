@@ -77,6 +77,8 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
 ## Citatos
 
 - id: c-32877
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Plačiau MaŠ.**
     (^60) **PSRL, 17, 53 p.**

@@ -956,6 +956,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 ## Citatos
 
 - id: c-42931
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
     kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę
@@ -972,6 +974,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-66129
 
 - id: c-171225
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kadangi ir šioje yra nemažai pasi­
     savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
@@ -995,6 +999,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-188332
 
 - id: c-171227
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Labai sukrės­
     ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
@@ -1011,6 +1017,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-188334
 
 - id: c-171228
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
     nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų
@@ -1027,6 +1035,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-188335
 
 - id: c-171229
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šie dievaičiai atitinka Antikos Paną.
     Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
@@ -1041,6 +1051,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-188336
 
 - id: c-171232
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pamenu, jog skandinavų mitologijoje yra Iš­
     minties šaltinis, kuriame uosis Igdrasilis (arba Idrasibas) maiti­
@@ -1055,6 +1067,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-188339
 
 - id: c-171233
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apskritai reikia ma­
     nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
@@ -1074,6 +1088,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-188340
 
 - id: c-173502
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
     ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
@@ -1100,6 +1116,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-190619
 
 - id: c-175250
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Į tai atsi­
     žvelgus, nesunku padaryti prielaidą, jog tam tikri žmo­
@@ -1122,6 +1140,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-192456
 
 - id: c-175251
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Beje, vėliau nustatyta, kad vietinės prekės
     niekad nebuvo gabenamos šia upe aukštyn, bet tik jūros
@@ -1142,6 +1162,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-192457
 
 - id: c-175252
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat įvai­
     riai buvo vadinamos ir įlankos: Plinijus Rygos įlanką va­
@@ -1162,6 +1184,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-192458
 
 - id: c-175253
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Prie Rusnės, kiek
     žemiau Sancinės, dešinėje pakrantėje ir prie įlankos, yra
@@ -1186,6 +1210,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-192459
 
 - id: c-175254
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Istorikas, rašęs jau praėjus
     šio Kauno įkūrėjo amžiui, neįsigilinęs į istorines detales,
@@ -1203,6 +1229,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-192460
 
 - id: c-175887
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo metu pasauly geriausiai klestėjo Bizantijos imperija:
     ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.
@@ -1219,6 +1247,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-193128
 
 - id: c-176994
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
     tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
@@ -1237,6 +1267,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-194595
 
 - id: c-176995
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ją tebežino lietu­
     viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
@@ -1255,6 +1287,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-194596
 
 - id: c-176996
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O į klausimą, kada apsi­
     vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,
@@ -1271,6 +1305,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-194597
 
 - id: c-176997
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
     Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
@@ -1289,6 +1325,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-194598
 
 - id: c-176998
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės prūsų merginas, jeigu norė­
     davo jas vesti, turėdavo iš tėvų nusipirkti1.
@@ -1315,6 +1353,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-194599
 
 - id: c-176999
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Romėnai darydavo pakirptuves
     įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­

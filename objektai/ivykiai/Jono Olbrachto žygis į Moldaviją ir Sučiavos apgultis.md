@@ -226,6 +226,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169914
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O karalius Olbrachtas, pasiekęs Sučiavą ir prastovėjęs
     prie jos kelias dienasM , suprato, kad miestui nieko
@@ -256,6 +258,8 @@ Nenurodyta
     - t-186655
 
 - id: c-176492
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir pagal tą Trakų vaivados patarimą karalius
     davė etmono vietą kunigaikščiui Konstantinui2 5 .

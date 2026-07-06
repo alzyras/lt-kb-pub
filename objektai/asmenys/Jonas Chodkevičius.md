@@ -183,6 +183,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 ## Citatos
 
 - id: c-64668
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
     pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
@@ -195,6 +197,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     - t-63716
 
 - id: c-64669
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
     buvo galima surinkti. Greta didžiojo
@@ -222,6 +226,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     - t-63715
 
 - id: c-171438
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Romanas Sanguška kovojo kruvinus mū­
     šius su Rusija; įvyko taip, kad karalius, Piotrkovo

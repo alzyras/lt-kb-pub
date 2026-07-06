@@ -76,6 +76,8 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 ## Citatos
 
 - id: c-70095
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 1976; Millennium of Lithuania:
     Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009; H. Olszewski.

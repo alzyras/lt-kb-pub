@@ -188,6 +188,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63587
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
     bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
@@ -204,6 +206,8 @@ Nenurodyta
     - t-62789
 
 - id: c-63588
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
@@ -219,6 +223,8 @@ Nenurodyta
     - t-62788
 
 - id: c-63589
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
@@ -235,6 +241,8 @@ Nenurodyta
     - t-62788
 
 - id: c-167305
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikininkas teigia, kad
     pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas

@@ -97,6 +97,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 ## Citatos
 
 - id: c-03215
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pijarai daugiau rūpinosi pačiu mokslu ir praktiškojo
     gyvenimo reikalais. Ypač dėl to jie ir buvo pakviesti. Mat, švie-
@@ -113,6 +115,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - t-02978
 
 - id: c-03216
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
     atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų

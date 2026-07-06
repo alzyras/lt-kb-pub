@@ -231,6 +231,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Citatos
 
 - id: c-42969
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jų alga - trisdešimt livry už ketvirtį.“
 
@@ -256,6 +258,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-78531
 
 - id: c-42970
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Priėmusi nutarimą respubli-
     konų kariuomenė nužygiavo į Vilnių, kur
@@ -281,6 +285,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-78533
 
 - id: c-75802
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos
     vadų (Višniaveckio, Oginskio, Katilo, Radvilos, Pociejaus ir kt.). Jis
@@ -296,6 +302,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-78532
 
 - id: c-175891
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau Sapiegų priešų jėgos
     buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos

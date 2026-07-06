@@ -72,6 +72,8 @@ Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinyb
 ## Citatos
 
 - id: c-176163
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

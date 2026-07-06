@@ -75,6 +75,8 @@ Dusburgietis teigia, kad kurschat A.
 ## Citatos
 
 - id: c-61744
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
     litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.

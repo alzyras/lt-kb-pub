@@ -26,7 +26,7 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '17'
+media_total_count: '13'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png'
 media_primary_directness: 'direct'
@@ -34,11 +34,11 @@ media_primary_relation_type: 'portrait_of'
 media_primary_json: |-
   {"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"Damaged seal of Jogaila (King of Poland and Grand Duke of Lithuania) with a nearly completely intact Lithuanian Vytis ( Waykimas ), which was attached to a 7 March 1388 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1388-03-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2ef451aa41ee78af47e3e959","title":"Józef Simmler - Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" - MNK II-a-656 - National Museum Kraków.jpg","caption":"Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" title QS:P1476,en:\"Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" \" label QS:Len,\"Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" \" label QS:Lpl,\"Studium szaty Władysława Jagiełły do obrazu \"Przysięga królowej Jadwigi\"\"","creator":"Józef Simmler","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2021-01-13 23:08:44","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJ%C3%B3zef_Simmler_-_Study_of_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o%27s_Garment_to_the_Painting_%22The_Oath_of_Queen_Jadwiga%22_-_MNK_II-a-656_-_National_Museum_Krak%C3%B3w.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/J%C3%B3zef_Simmler_-_Study_of_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o%27s_Garment_to_the_Painting_%22The_Oath_of_Queen_Jadwiga%22_-_MNK_II-a-656_-_National_Museum_Krak%C3%B3w.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Royal seal of King Władysław II Jagiełło of Poland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fe976ca24cb004cd7045300f","title":"Pieczęć Akademii Krakowskiej z czasów Władysława Jagiełły.jpg","caption":"Seal of the Cracow (Kraków) University from the times of Władysław Jagiełło","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1917","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Piecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"The seal was made in 1377 or earlier.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386-05-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"Seal of Jogaila (the former King of Poland and Grand Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 30 January 1396 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1396-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 13 November 1414 document.","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1414-11-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-75b92b911930aeab95b8134c","title":"Danckers de Rij Sigismund Augustus 01.jpg","caption":"Imaginary portrait of Ladislas II Jagiello (Jogaila Algirdaitis), King of Poland (c. 1351/1362-1434) label QS:Lfr,\"Portrait de Sigismond Auguste.\" label QS:Lpl,\"Portret Zygmunta Augusta.\" label QS:Len,\"Portrait of Sigismund Augustus.\" label QS:Llt,\"Žygimanto Augusto portretas.\"","creator":"Peter Danckerts de Rij","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"circa 1643 date QS:P571,+1643-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADanckers_de_Rij_Sigismund_Augustus_01.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Danckers_de_Rij_Sigismund_Augustus_01.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7d17bd1e3cd4900e0c3a7fdb","title":"Danckers de Rij Sigismund Augustus.jpg","caption":"Imaginary portrait of Ladislas II Jagiello (Jogaila Algirdaitis), King of Poland (c. 1351/1362-1434) label QS:Lfr,\"Portrait de Sigismond Auguste.\" label QS:Lpl,\"Portret Zygmunta Augusta.\" label QS:Len,\"Portrait of Sigismund Augustus.\" label QS:Llt,\"Žygimanto Augusto portretas.\"","creator":"Peter Danckerts de Rij","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1643 date QS:P571,+1643-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADanckers_de_Rij_Sigismund_Augustus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/35/Danckers_de_Rij_Sigismund_Augustus.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c4d7220866921c2f47fb753d","title":"Danckers de Rij Sigismund Augustus.png","caption":"Imaginary portrait of Ladislas II Jagiello (Jogaila Algirdaitis), King of Poland (c. 1351/1362-1434) label QS:Lfr,\"Portrait de Sigismond Auguste.\" label QS:Lpl,\"Portret Zygmunta Augusta.\" label QS:Len,\"Portrait of Sigismund Augustus.\" label QS:Llt,\"Žygimanto Augusto portretas.\"","creator":"Peter Danckerts de Rij","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1643 date QS:P571,+1643-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADanckers_de_Rij_Sigismund_Augustus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Danckers_de_Rij_Sigismund_Augustus.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"Damaged seal of Jogaila (King of Poland and Grand Duke of Lithuania) with a nearly completely intact Lithuanian Vytis ( Waykimas ), which was attached to a 7 March 1388 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1388-03-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Royal seal of King Władysław II Jagiełło of Poland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fe976ca24cb004cd7045300f","title":"Pieczęć Akademii Krakowskiej z czasów Władysława Jagiełły.jpg","caption":"Seal of the Cracow (Kraków) University from the times of Władysław Jagiełło","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1917","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Piecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"The seal was made in 1377 or earlier.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386-05-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"Seal of Jogaila (the former King of Poland and Grand Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 30 January 1396 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1396-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 13 November 1414 document.","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1414-11-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"Damaged seal of Jogaila (King of Poland and Grand Duke of Lithuania) with a nearly completely intact Lithuanian Vytis ( Waykimas ), which was attached to a 7 March 1388 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1388-03-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2ef451aa41ee78af47e3e959","title":"Józef Simmler - Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" - MNK II-a-656 - National Museum Kraków.jpg","caption":"Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" title QS:P1476,en:\"Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" \" label QS:Len,\"Study of Władysław Jagiełło's Garment to the Painting \"The Oath of Queen Jadwiga\" \" label QS:Lpl,\"Studium szaty Władysława Jagiełły do obrazu \"Przysięga królowej Jadwigi\"\"","creator":"Józef Simmler","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2021-01-13 23:08:44","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJ%C3%B3zef_Simmler_-_Study_of_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o%27s_Garment_to_the_Painting_%22The_Oath_of_Queen_Jadwiga%22_-_MNK_II-a-656_-_National_Museum_Krak%C3%B3w.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/J%C3%B3zef_Simmler_-_Study_of_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o%27s_Garment_to_the_Painting_%22The_Oath_of_Queen_Jadwiga%22_-_MNK_II-a-656_-_National_Museum_Krak%C3%B3w.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Royal seal of King Władysław II Jagiełło of Poland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fe976ca24cb004cd7045300f","title":"Pieczęć Akademii Krakowskiej z czasów Władysława Jagiełły.jpg","caption":"Seal of the Cracow (Kraków) University from the times of Władysław Jagiełło","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1917","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Piecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"The seal was made in 1377 or earlier.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386-05-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"Seal of Jogaila (the former King of Poland and Grand Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 30 January 1396 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1396-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 13 November 1414 document.","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1414-11-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-75b92b911930aeab95b8134c","title":"Danckers de Rij Sigismund Augustus 01.jpg","caption":"Imaginary portrait of Ladislas II Jagiello (Jogaila Algirdaitis), King of Poland (c. 1351/1362-1434) label QS:Lfr,\"Portrait de Sigismond Auguste.\" label QS:Lpl,\"Portret Zygmunta Augusta.\" label QS:Len,\"Portrait of Sigismund Augustus.\" label QS:Llt,\"Žygimanto Augusto portretas.\"","creator":"Peter Danckerts de Rij","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"circa 1643 date QS:P571,+1643-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADanckers_de_Rij_Sigismund_Augustus_01.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Danckers_de_Rij_Sigismund_Augustus_01.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7d17bd1e3cd4900e0c3a7fdb","title":"Danckers de Rij Sigismund Augustus.jpg","caption":"Imaginary portrait of Ladislas II Jagiello (Jogaila Algirdaitis), King of Poland (c. 1351/1362-1434) label QS:Lfr,\"Portrait de Sigismond Auguste.\" label QS:Lpl,\"Portret Zygmunta Augusta.\" label QS:Len,\"Portrait of Sigismund Augustus.\" label QS:Llt,\"Žygimanto Augusto portretas.\"","creator":"Peter Danckerts de Rij","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1643 date QS:P571,+1643-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADanckers_de_Rij_Sigismund_Augustus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/35/Danckers_de_Rij_Sigismund_Augustus.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c4d7220866921c2f47fb753d","title":"Danckers de Rij Sigismund Augustus.png","caption":"Imaginary portrait of Ladislas II Jagiello (Jogaila Algirdaitis), King of Poland (c. 1351/1362-1434) label QS:Lfr,\"Portrait de Sigismond Auguste.\" label QS:Lpl,\"Portret Zygmunta Augusta.\" label QS:Len,\"Portrait of Sigismund Augustus.\" label QS:Llt,\"Žygimanto Augusto portretas.\"","creator":"Peter Danckerts de Rij","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1643 date QS:P571,+1643-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADanckers_de_Rij_Sigismund_Augustus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Danckers_de_Rij_Sigismund_Augustus.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"Damaged seal of Jogaila (King of Poland and Grand Duke of Lithuania) with a nearly completely intact Lithuanian Vytis ( Waykimas ), which was attached to a 7 March 1388 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1388-03-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Royal seal of King Władysław II Jagiełło of Poland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fe976ca24cb004cd7045300f","title":"Pieczęć Akademii Krakowskiej z czasów Władysława Jagiełły.jpg","caption":"Seal of the Cracow (Kraków) University from the times of Władysław Jagiełło","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1917","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Piecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"The seal was made in 1377 or earlier.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386-05-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"Seal of Jogaila (the former King of Poland and Grand Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 30 January 1396 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1396-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 13 November 1414 document.","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1414-11-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Jogaila (kunigaikštis, XIV–XV a.)
 
@@ -3719,6 +3719,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 ## Citatos
 
 - id: c-34193
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo tarpu Jogaila drauge su Olesnickiu atvyko į Vilnių.
     Kai Jogailai ėmė aiškėti, jog Vytautui mirus Lietuva teks vienam
@@ -3732,6 +3734,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184373
 
 - id: c-36349
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasimeldęs Jogaila, ne tik
     Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­
@@ -3748,6 +3753,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184264
 
 - id: c-36350
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila netrukus įsakė
     duoti ženklą mūšiui. Karaliui buvo parinkta saugi vieta,
@@ -3762,6 +3770,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184265
 
 - id: c-36351
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino
     kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti
@@ -3777,6 +3788,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184266
 
 - id: c-36360
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn. 5 d. Ost­
     rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
@@ -3792,6 +3806,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184268
 
 - id: c-36362
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl nenuostabu, kad po Torno taikos
     įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui
@@ -3814,6 +3831,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184269
 
 - id: c-36364
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1417 m.
     Jogaila vedė trečią žmoną. Dėl to iškilo konfliktas, nes kai kurie
@@ -3831,6 +3851,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184271
 
 - id: c-36365
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila niekad nebuvo visiškai nutraukęs santykių nei su
     Vytautu, nei su Lietuva—jis dažnai čia viešėdavo: ar tai pasita­
@@ -3845,6 +3868,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184272
 
 - id: c-166209
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Palikdamas
     Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
@@ -3862,6 +3887,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182813
 
 - id: c-166210
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tais
     81
@@ -3885,6 +3912,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182807
 
 - id: c-166212
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo metu pakitusi kaimyninės Lenki­
     jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
@@ -3915,6 +3944,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182811
 
 - id: c-166215
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Beprotiškai įniršęs, kaip sako
     Lietuvos istorikai3, užsipuolė karalių, užgauliai priekaištau­
@@ -3932,6 +3963,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182810
 
 - id: c-166216
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau įvykiai ir
     permainos klostėsi labai netikėtai; Vilniaus miestiečių luomui tvir­
@@ -3949,6 +3982,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182809
 
 - id: c-166217
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Siekiant didelės valdžios jam labiausiai trukdė se­
     nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­
@@ -3973,6 +4008,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182804
 
 - id: c-166218
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuomet, kai protai jau buvo
     nuteikti prieš didįjį kunigaikštį, karalius Vladislovas Jogaila,
@@ -3995,6 +4032,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182803
 
 - id: c-166222
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogailos siekius pata­
     rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­
@@ -4014,6 +4053,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182815
 
 - id: c-166223
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Con­
     cedimus ac darnus hanc libertatem, quod
@@ -4047,6 +4088,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-182812
 
 - id: c-166929
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Išeitis buvo 1385 m. sudaryta Krėvos
     sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
@@ -4062,6 +4105,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-183536
 
 - id: c-166930
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
     regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
@@ -4077,6 +4122,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-183537
 
 - id: c-166931
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
     valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
@@ -4097,6 +4144,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-183538
 
 - id: c-166932
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
     ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
@@ -4112,6 +4161,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-183539
 
 - id: c-166933
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško
     lemiamo mūšio, o Jogaila laukė pasiūlymo derėtis – jis tęsė laiką, klau-
@@ -4126,6 +4177,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-183540
 
 - id: c-166934
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žalgirio pergalė dar nepasiekta ideologiškai – Va-
     karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
@@ -4139,6 +4192,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-183541
 
 - id: c-166935
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šio karo
     pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
@@ -4156,6 +4211,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-183542
 
 - id: c-167648
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas Didysis, sulaukęs Makro Lietuvoje, pirmiausia
     pasistengė patraukti jį į savo pusę: jis gražiai Makrą priėmė,
@@ -4175,6 +4233,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184267
 
 - id: c-167649
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar dar tenka keletą žodžių pasakyti apie nesusiprati­
     mus, kilusius dėl naujų Jogailos vedybų ir Vytauto noro tapti
@@ -4195,6 +4256,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184270
 
 - id: c-167650
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
     ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­
@@ -4213,6 +4277,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184273
 
 - id: c-167651
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo lyg alyva į ugnį.
     Šitame laiške Jogaila atkalbinėjo Zigmantą nuo sumanymo ka­
@@ -4227,6 +4294,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184274
 
 - id: c-167652
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Visa tai tik rodo, kaip
     Vytautas atkakliai gynė visos Lietuvos interesus, reikalauda­
@@ -4245,6 +4315,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184275
 
 - id: c-167653
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Be to, Jogaila labai
     gerai suprato, kad laisva ir paveldima Lietuvos karalija
@@ -4262,6 +4335,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184276
 
 - id: c-167654
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vadinamas jis įvai­
     riose vietose skirtingais vardais, bet daugiausia žinomas sida­
@@ -4278,6 +4354,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184277
 
 - id: c-167655
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     O kai vėl kartą jo akyse
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
@@ -4295,6 +4374,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184278
 
 - id: c-167656
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai Jo­
     gaila grįžo iš Vitebsko, Kęstutis, skubiai parvykęs Lietuvon, or­
@@ -4310,6 +4392,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184279
 
 - id: c-167657
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Smulk­
     menos niekad nenustelbė jame didesniųjų uždavinių, o kartais
@@ -4327,6 +4412,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184280
 
 - id: c-168080
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visa tai jis aukojęs tėvynės labui. Užleidęs
     valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
@@ -4349,6 +4436,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184719
 
 - id: c-168081
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vieną šaukė Petru Pšon-
     Išd a v ik a s, išd a v ę s sa-
@@ -4374,6 +4463,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184720
 
 - id: c-168082
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
@@ -4396,6 +4487,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184721
 
 - id: c-168083
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ta­
     čiau šis senas karys ir vadas, pasikliaudamas savo rei­
@@ -4419,6 +4512,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184722
 
 - id: c-168084
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat nei geros savijautos,
     nei pasitikėjimo duotu žodžiu negali būti tada, kai,
@@ -4448,6 +4543,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184723
 
 - id: c-168085
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Galop visi vieningai nutarė paskelb­
     ti karaliene Jadvygą, karaliaus Liudviko jaunesniąją
@@ -4484,6 +4581,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184724
 
 - id: c-168086
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tą pačią dieną
     jis asmeniškai pasveikino karalienę, kitą dieną per
@@ -4504,6 +4603,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184725
 
 - id: c-168087
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tad Švitrigaila, būdamas tikras, jog ru­
     sai jam pasiduos, tyliai pa-
@@ -4536,6 +4637,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184726
 
 - id: c-168088
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto radosi ir tokių, kurie, norėdami nu­
     malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
@@ -4552,6 +4655,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184727
 
 - id: c-168089
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuva juto baisią maisto sto­
     ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
@@ -4571,6 +4676,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184728
 
 - id: c-168090
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gal vengdamas aiškaus atsakymo į kry­
     žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
@@ -4593,6 +4700,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184729
 
 - id: c-168091
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai pasidavė Bobrovnikai
     ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
@@ -4609,6 +4718,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184730
 
 - id: c-168092
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­
     mojo ranka į visokius nemalonumus, kurių ši santuoka
@@ -4628,6 +4739,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184731
 
 - id: c-168093
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iš tiesų didingi su­
     manymai, ir daugelis jiems
@@ -4657,6 +4770,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184732
 
 - id: c-168094
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautui išėjus, senatas kuo rimčiau­
     siai paaiškino karaliui, kad, pritardamas pavojingiems ir
@@ -4680,6 +4795,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184733
 
 - id: c-168095
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip jis kalbėjo viešai, tuo
     tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
@@ -4702,6 +4819,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184734
 
 - id: c-168096
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip pakalbėjęs, jis įniko
     426
@@ -4723,6 +4842,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184735
 
 - id: c-168097
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jų raginamas Jogaila neilgai priešinosi,
     nes ir jam Boleslovas buvo neapsakomai įkyrėjęs. Štai
@@ -4739,6 +4860,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-184736
 
 - id: c-171431
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -4757,6 +4880,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-188542
 
 - id: c-171432
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     1.
     Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
@@ -4771,6 +4896,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-188543
 
 - id: c-171433
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasakiau „stebuklingu būdu“, kadangi apaš­
     tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
@@ -4792,6 +4919,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-188544
 
 - id: c-171434
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
     želio 21 dieną2.
@@ -4810,6 +4939,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-188545
 
 - id: c-171435
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tas, apie kurį čia kalbama,
     buvo vienuolis kamaldulis, skleidęs tikėjimą pagal katalikų bažny­
@@ -4828,6 +4959,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-188546
 
 - id: c-176117
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vėliau, susi­
     kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
@@ -4845,6 +4978,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193393
 
 - id: c-176118
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     A p sk rita i n e o ru  to k iam
     v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
@@ -4862,6 +4997,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193394
 
 - id: c-176541
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Penktas— Konstantinas l0 , jo da­
     lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
@@ -4881,6 +5018,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193916
 
 - id: c-176542
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
     do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
@@ -4903,6 +5042,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193917
 
 - id: c-176543
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tas Vaidila turėjo di­
     delę galią pas didįjį kunigaikštį Jogailą.
@@ -4919,6 +5060,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193918
 
 - id: c-176544
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Vėliau karalius Jogaila atsiuntė iš Lenkijos žymiau­
     sius ponus, kurie paėmę kunigaikštytę Sofiją parvežė
@@ -4936,6 +5079,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193919
 
 - id: c-176545
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     108
 
@@ -4963,6 +5108,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193920
 
 - id: c-176546
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir mes su mūsų tėvu stovėjome ant vieno kalno,
     o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
@@ -4979,6 +5126,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193921
 
 - id: c-176547
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir
     šitaip mus prie to privedė vienas neištikimas mūsų pa­
@@ -5000,6 +5149,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193922
 
 - id: c-176548
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir Danijos
     karalius didžiai šlovino ir daugeliu dovanų apdovanojo
@@ -5015,6 +5166,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193923
 
 - id: c-176549
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     25717 Lietui
 
@@ -5033,6 +5186,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193924
 
 - id: c-176550
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Parašytas, veikiausiai, pačiam  Vytautui diktuojant,
     kryžiuočių vadovybės reikalavimu. Skunde dėstomos priežastys, dėl
@@ -5047,6 +5202,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-193925
 
 - id: c-176827
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1836
 
@@ -5088,6 +5245,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-194228
 
 - id: c-177105
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
     problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­

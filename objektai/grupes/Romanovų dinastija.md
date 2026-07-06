@@ -168,6 +168,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ## Citatos
 
 - id: c-31250
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šituo atžvilgiu XV amž. gale
     Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
@@ -190,6 +192,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     - t-001
 
 - id: c-31251
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^32) ĮVADAS
     Ir tolimesnė epocha turi abiejų tautų istorijoje paraleles. Kai
@@ -209,6 +213,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     - t-66062
 
 - id: c-66378
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     O
     kai jos gelbėti išsiruošė patsai karalius Zigmantas su didesnėmis

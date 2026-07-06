@@ -86,6 +86,8 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
 ## Citatos
 
 - id: c-45368
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sužinoję apie Naujojo Kauno statybą,
     Ordino magistras su kariuomene 1363 m.

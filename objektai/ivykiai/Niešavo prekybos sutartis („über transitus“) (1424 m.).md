@@ -133,6 +133,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37041
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tiktai po Melno taikos, prasidėjus geriems Vytauto
     santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
@@ -151,6 +154,9 @@ Nenurodyta
     - t-35870
 
 - id: c-38321
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia aktu, pavadintu „über transitus“
     (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,

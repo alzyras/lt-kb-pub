@@ -80,6 +80,8 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
 ## Citatos
 
 - id: c-60896
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     263 (256). Apie vieną brolį
 

@@ -117,6 +117,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22228
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tokia
     politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.

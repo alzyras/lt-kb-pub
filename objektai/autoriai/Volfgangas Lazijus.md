@@ -124,6 +124,8 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
 ## Citatos
 
 - id: c-174543
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Gal būtų pra­
     dingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu
@@ -140,6 +142,8 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
     - t-191661
 
 - id: c-174544
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Volfgangas Lazius (1514—1565), istoriografas ir geografas,, pir­
     masis paskelbė šią heruliškąją maldą „Tėve mūsų“. Dauguma to

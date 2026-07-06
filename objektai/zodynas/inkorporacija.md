@@ -130,6 +130,8 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 ## Citatos
 
 - id: c-32651
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lyginant įvairius laiko tekstus, kur vengrų
     kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo,

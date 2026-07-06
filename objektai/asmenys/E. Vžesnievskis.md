@@ -69,6 +69,8 @@ Vžesnievskis, S.
 ## Citatos
 
 - id: c-44322
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 

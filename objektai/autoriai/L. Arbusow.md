@@ -82,6 +82,8 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
 ## Citatos
 
 - id: c-30664
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^8) **SRP, I, 155 p.**
     (^9) **L. Arbusow :** **_Römischer Arbeitsbericht_** **(Acta Universitatis Latviensis)

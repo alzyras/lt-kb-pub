@@ -229,6 +229,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 ## Citatos
 
 - id: c-24617
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Idėja skynėsi kelią ne tik Europo-
     je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje
@@ -241,6 +243,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     - t-77710
 
 - id: c-24618
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
     sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
@@ -266,6 +270,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     - t-77712
 
 - id: c-24619
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lenkijos prezidento Bronislovo Komo-
     rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
@@ -286,6 +292,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     - t-77711
 
 - id: c-75044
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst. lietu-
     vių, kurie laisvi ir nevaržomi kūrė savo spaudą, draugijas ir organizaci-

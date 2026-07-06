@@ -112,6 +112,8 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
 ## Citatos
 
 - id: c-173223
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
     mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
@@ -127,6 +129,8 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
     - t-190340
 
 - id: c-173224
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kiti dar randa dievą Patrimpą (Potrimp) -  val­
     dantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos

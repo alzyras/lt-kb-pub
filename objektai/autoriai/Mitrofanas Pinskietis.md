@@ -91,6 +91,8 @@ Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. �
 ## Citatos
 
 - id: c-173325
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­

@@ -67,6 +67,8 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 ## Citatos
 
 - id: c-176003
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jį iškasė savo lėšomis hetmonas
     Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio

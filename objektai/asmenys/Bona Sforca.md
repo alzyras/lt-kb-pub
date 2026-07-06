@@ -139,6 +139,8 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 ## Citatos
 
 - id: c-157462
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
     kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo
@@ -153,6 +155,8 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - t-173127
 
 - id: c-157464
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
     cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat

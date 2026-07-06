@@ -325,6 +325,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 ## Citatos
 
 - id: c-67875
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
@@ -345,6 +347,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-68237
 
 - id: c-67876
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai pradėjo temti,
     penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių
@@ -361,6 +365,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-68235
 
 - id: c-67877
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vykstant kovoms prie
     Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele
@@ -377,6 +383,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-68236
 
 - id: c-67878
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
       529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
@@ -397,6 +405,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-68239
 
 - id: c-67879
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
 
@@ -414,6 +424,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-68234
 
 - id: c-67880
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kolainių pilies užpuolimą
 
@@ -430,6 +442,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-68238
 
 - id: c-167757
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kadangi Nemunas strateginiu atžvilgiu buvo
     svarbus tolimesnei kovai, ordinas, pasistatęs savo pilis Ragainėje

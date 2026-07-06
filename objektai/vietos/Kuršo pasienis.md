@@ -104,6 +104,8 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
 ## Citatos
 
 - id: c-02767
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tada Kuršėnuose
     įvyko paskutinis vadų pa-
@@ -124,6 +126,8 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
     - t-02529
 
 - id: c-175943
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Krašto
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai

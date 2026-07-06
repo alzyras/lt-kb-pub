@@ -119,6 +119,8 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
 ## Citatos
 
 - id: c-168798
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mažai
     tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito,
@@ -142,6 +144,8 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
     - t-185437
 
 - id: c-176067
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.

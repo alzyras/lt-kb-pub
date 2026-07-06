@@ -69,6 +69,8 @@ Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijo
 ## Citatos
 
 - id: c-94031
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ant jo grabo « sulaužęs _»_
     savo plunksną, atskiros tolimesnės lietuvių tautos istorijos Narbu­

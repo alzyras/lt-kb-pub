@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63253
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     31. Apie šventųjų Edmundo, Stanislovo ir Petro kanonizavimą
 

@@ -102,6 +102,8 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 ## Citatos
 
 - id: c-76191
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
 

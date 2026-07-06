@@ -80,6 +80,8 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
 ## Citatos
 
 - id: c-01254
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Čia dar reikia paminėti ir lietuviškų kalendorių lei-
     dėją, žemaičių bajorą Lauryną Ivinskį (1808—1881 m.).

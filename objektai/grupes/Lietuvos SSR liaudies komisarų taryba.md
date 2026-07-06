@@ -142,6 +142,8 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
 ## Citatos
 
 - id: c-22580
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
     prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
@@ -163,6 +165,8 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
     - t-45087
 
 - id: c-48004
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dabar jau sujudo ir lietuviai JAV.
     Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-

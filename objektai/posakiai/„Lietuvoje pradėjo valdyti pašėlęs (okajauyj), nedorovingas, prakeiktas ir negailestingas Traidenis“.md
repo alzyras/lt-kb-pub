@@ -137,6 +137,8 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 ## Citatos
 
 - id: c-169747
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal
     Ipatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)

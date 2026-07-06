@@ -107,6 +107,8 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 ## Citatos
 
 - id: c-167456
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
 

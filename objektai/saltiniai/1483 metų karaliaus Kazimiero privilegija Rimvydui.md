@@ -91,6 +91,8 @@ Narbutas teigia radęs 1483 m. karaliaus Kazimiero privilegiją, rašytą rusų 
 ## Citatos
 
 - id: c-170964
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Murgų, arba Tautų sambūrio, rūmai
     buvo pačioje toliausioje šiaurėje.

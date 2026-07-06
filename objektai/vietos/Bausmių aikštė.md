@@ -64,6 +64,8 @@ Aikštė, kur bausti nusikaltėliai.
 ## Citatos
 
 - id: c-82150
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     22. Aikštė, kur bausti nusikaltėliai.
     23. Kelias į Medininkų pilį ir Ašmenos dvarą.

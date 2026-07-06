@@ -71,6 +71,8 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
 ## Citatos
 
 - id: c-173400
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.

@@ -73,6 +73,8 @@ Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos 
 ## Citatos
 
 - id: c-172183
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Gaila (Gajia)
     Anot liaudies padavimų, prie piktųjų būtybių giminės pri­

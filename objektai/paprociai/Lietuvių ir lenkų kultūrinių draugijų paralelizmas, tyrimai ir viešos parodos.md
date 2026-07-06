@@ -234,6 +234,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55165
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Abi draugijos daug dėmesio skyrė
     praeičiai, LDK paveldui, bet Lie-
@@ -253,6 +255,8 @@ Nenurodyta
     - t-54282
 
 - id: c-55166
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be to, etnografi-
     nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
@@ -272,6 +276,8 @@ Nenurodyta
     - t-54283
 
 - id: c-55167
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dailės ir vaizduojamojo me-
     no bei architektūros srityje taip

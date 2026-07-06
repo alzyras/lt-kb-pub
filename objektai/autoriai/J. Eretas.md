@@ -104,6 +104,8 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
 ## Citatos
 
 - id: c-30556
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     J. Eretas, Kazys Pakštas. Tautinio Šauklio Odisėja,
     XVI-384 psl., Roma 1970. 14 dol.
@@ -115,6 +117,8 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
     - t-30668
 
 - id: c-32960
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     8 dol.
     J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro

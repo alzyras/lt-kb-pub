@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-43190
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mums kovoje padėjo tik mūsų bud-
     rumas ir tai, kad gerai žinojome mišką -

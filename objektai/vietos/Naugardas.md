@@ -1297,6 +1297,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 ## Citatos
 
 - id: c-37564
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Sutvarkė reikalus su Smo­
     lensku, kuriame irgi paliko savo vietininkus. Tą padarė ir su
@@ -1310,6 +1313,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94775
 
 - id: c-37565
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
@@ -1328,6 +1334,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94769
 
 - id: c-37566
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
     sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
@@ -1346,6 +1355,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94780
 
 - id: c-37567
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas turėjo patrankų ir savo žygiuose į Pskovą
     (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
@@ -1362,6 +1374,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94779
 
 - id: c-89824
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
     taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
@@ -1387,6 +1401,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94766
 
 - id: c-89826
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
     ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
@@ -1414,6 +1430,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94767
 
 - id: c-89827
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
     tribucijomis. Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
@@ -1430,6 +1449,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94765
 
 - id: c-89828
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
     tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
@@ -1449,6 +1470,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94761
 
 - id: c-89829
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vy­
     tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
@@ -1469,6 +1493,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94774
 
 - id: c-89833
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kijeve ir apleisti tikinčiuosius. Livonijos Ordinas padarė
     prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu
@@ -1484,6 +1511,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94770
 
 - id: c-89834
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
@@ -1504,6 +1533,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94764
 
 - id: c-89836
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -1523,6 +1554,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94763
 
 - id: c-89839
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Išsi­
     laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
@@ -1544,6 +1577,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-94777
 
 - id: c-167684
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau
     šie, palyginti, dar nauji karo technikos pabūklai buvo tokie ne­
@@ -1559,6 +1595,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-184311
 
 - id: c-168421
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kaip
     atlyginimą už išdavystę, prisiekdamas visomis švente­
@@ -1583,6 +1621,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-185060
 
 - id: c-168422
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sako, jog skitai,
     laikydamiesi barbariškųjų papročių, šitaip sudarydavę
@@ -1609,6 +1649,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-185061
 
 - id: c-171662
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šį nu­
     siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
@@ -1626,6 +1668,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-188773
 
 - id: c-171663
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Net Vokietijoje,
     kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
@@ -1648,6 +1692,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-188774
 
 - id: c-171664
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
@@ -1667,6 +1713,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-188775
 
 - id: c-171665
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie juos senovės Graikijos
     geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­

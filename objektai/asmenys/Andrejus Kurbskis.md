@@ -132,6 +132,8 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
 ## Citatos
 
 - id: c-169391
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sutiko ir priėmė
     maskvėnus pataurininkis Mikalojus Kiška, stalininkas
@@ -157,6 +159,8 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
     - t-186030
 
 - id: c-169392
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuvos istorija
     -737

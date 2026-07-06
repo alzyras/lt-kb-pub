@@ -70,6 +70,8 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
 ## Citatos
 
 - id: c-59771
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šie dievo
     tarnai, kaip moko apaštalas, gyveno nelyginant merdėdami didžiai kantrūs sielvartuose,

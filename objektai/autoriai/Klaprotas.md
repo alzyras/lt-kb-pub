@@ -123,6 +123,8 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 ## Citatos
 
 - id: c-174510
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Juk šiandien negalima nieko įro­
     dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
@@ -147,6 +149,8 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
     - t-191628
 
 - id: c-175317
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Wigancli Epis-
     copi Pomesatiiensis de Succino, alce et herbis iri Prussia

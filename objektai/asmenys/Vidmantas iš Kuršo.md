@@ -80,6 +80,8 @@ Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino 
 ## Citatos
 
 - id: c-173101
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
     Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės

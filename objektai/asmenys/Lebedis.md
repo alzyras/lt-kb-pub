@@ -82,6 +82,8 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 ## Citatos
 
 - id: c-83519
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Die 16 8 bris [spalio 16 dieną] 100 zl. pridėjau 7 flor.
     Die 1  10 bris [gruodžio 1 dieną] Lebedis liet. monetoms
@@ -96,6 +98,8 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
     - t-87541
 
 - id: c-83520
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, Lebedis mokėjo skolas lietuviškomis monetomis,
     pridėjau 69 flor., 4 gr., 9 den.

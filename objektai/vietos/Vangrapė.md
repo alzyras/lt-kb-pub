@@ -99,6 +99,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 ## Citatos
 
 - id: c-59280
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
     (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —
@@ -112,6 +114,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
     - t-58649
 
 - id: c-59281
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pritardami šiai nuomonei, broliai su kariuomene greitai patraukė į priekį, tačiau, jų
     nepaviję, sugalvojo grįžti atgal. Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391

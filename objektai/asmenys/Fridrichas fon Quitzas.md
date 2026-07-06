@@ -79,6 +79,8 @@ Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo n
 ## Citatos
 
 - id: c-83655
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     J a r o-
     68

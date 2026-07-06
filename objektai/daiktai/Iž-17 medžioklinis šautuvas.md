@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-41057
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vienas iš LR seimo
     rūmuose budėjusių savanorių šaunamųjų ginklų

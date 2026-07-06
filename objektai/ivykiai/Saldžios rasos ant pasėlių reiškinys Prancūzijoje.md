@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63112
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie saldžią rasą, užkritusią pasėlius
 

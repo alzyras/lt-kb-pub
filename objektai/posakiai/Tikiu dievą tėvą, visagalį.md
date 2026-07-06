@@ -68,6 +68,8 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
 ## Citatos
 
 - id: c-59793
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
     begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo

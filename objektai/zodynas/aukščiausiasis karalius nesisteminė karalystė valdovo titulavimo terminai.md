@@ -183,6 +183,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-97140
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     28
@@ -198,6 +200,8 @@ media_all_json: |-
     - t-104182
 
 - id: c-97141
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Suvokę, kad
     būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
@@ -216,6 +220,8 @@ media_all_json: |-
     - t-104181
 
 - id: c-166792
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Antra vertus, visi
     Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams

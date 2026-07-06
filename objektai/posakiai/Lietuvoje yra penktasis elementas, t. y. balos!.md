@@ -68,6 +68,8 @@ Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis el
 ## Citatos
 
 - id: c-174992
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     47 /P.
     123, 4 pastraipos

@@ -700,6 +700,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 ## Citatos
 
 - id: c-173165
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     T. Volianskio dėka senoji Lietu­
     vos istorija nušvito naujomis spalvomis. Poznanės kolekcio­
@@ -715,6 +717,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190282
 
 - id: c-173166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai barzdotas senis su žibintu rankoje. Sį priekaištą išsakė
     ponas Tadas Volianskis. Ir tai būtų galima priimti domėn: šiaurės tau­
@@ -727,6 +731,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190283
 
 - id: c-173167
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ponas Tadas Volianskis mato tą galvą su ragais, kurie iš užpakalio
     panašūs į erelį su nagais. Be to, dievas yra nuogas, taigi Santvaras yra
@@ -739,6 +745,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190284
 
 - id: c-173168
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.
     Ji buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems
@@ -751,6 +759,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190285
 
 - id: c-173169
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     401
 
@@ -771,6 +781,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190286
 
 - id: c-173170
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra
     tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
@@ -786,6 +798,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190287
 
 - id: c-173171
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antspaudą pri­
     dėjo Smilginis (Szmilgin) 1475 metais. Kaip pastebėjo ponas
@@ -800,6 +814,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190288
 
 - id: c-173172
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV lentelė, 31-asis piešinys. Iškilus lygiakraštis trikampis
     ant apskritimo, kurio dalyse raidės, panašios iš dalies į lotyniš­
@@ -819,6 +835,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190289
 
 - id: c-173173
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Informaciją apie užrašą T. Narbutas paėmė iš mi­
     nėto T. Volianskio laiško (Bidgoščius. 1844. I.
@@ -831,6 +849,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190290
 
 - id: c-173683
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tekstas buvo parengtas remiantis T. Vo-
     lianskio tyrinėjimais (Tadeusza Wolanskiego
@@ -845,6 +865,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190801
 
 - id: c-173684
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     T. Volianskio dėka
     senoji Lietuvos istorija nušvito naujomis spalvomis. Po­
@@ -860,6 +882,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190802
 
 - id: c-173685
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ponas Tadas Volianskis
     mato tą. galvą su ragais, kurie iš užpakalio panašūs į erelį su na­
@@ -876,6 +900,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190803
 
 - id: c-173686
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     94 /Ten
     pat,
@@ -898,6 +924,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190804
 
 - id: c-173687
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     182 /P.
     328,
@@ -919,6 +947,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190805
 
 - id: c-173688
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     183 /P.
     329,
@@ -938,6 +968,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - t-190806
 
 - id: c-173689
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     501
 

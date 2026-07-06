@@ -82,6 +82,8 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
 ## Citatos
 
 - id: c-23989
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Panašiai A. Smetona
     išrinktas prezidentu ir 1938 m. lapkričio 14 d. Kai Vokietijoje 1933 m.

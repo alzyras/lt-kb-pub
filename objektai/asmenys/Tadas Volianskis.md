@@ -568,6 +568,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 ## Citatos
 
 - id: c-172868
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žaibo strėlė spindi kartu su keletu kitų
     griaustinio akmenų. Ten esantį užrašą ponas Volianskis skaito Icaip
@@ -583,6 +585,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-189985
 
 - id: c-172869
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     29 Prilvico statulėlių rinkinyje, remiantis Maso (Masch) ir Vogeno
     (Wogen) informacija, dievukas, turintis užrašą „Szwaixtix“, neatitinka
@@ -598,6 +602,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-189986
 
 - id: c-172870
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kiti skaitė
     „ Sotwar“, rusiškai „ Sotworytel“, ir net nemanė jį esant pagonišką simbo­
@@ -612,6 +618,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-189987
 
 - id: c-172871
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.
     Ji buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems
@@ -624,6 +632,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-189988
 
 - id: c-172872
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     401
 
@@ -644,6 +654,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-189989
 
 - id: c-172873
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra
     tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
@@ -659,6 +671,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-189990
 
 - id: c-172874
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV lentelė, 32-asis piešinys. Lygiakraščiame šešiakampyje
     apskritimas, kuriame pavaizduotas kažkoks trišakis augalas;
@@ -678,6 +692,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-189991
 
 - id: c-173861
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tekstas, kuriuo T. Narbutas papildė paragrafą, rengdamas
     antrąjį LTI leidimą (PEĮ. — L. 55). Šios dainos vertimą į lenkų
@@ -694,6 +710,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-190979
 
 - id: c-173862
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     92
     92 /Ten pat/
@@ -718,6 +736,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-190980
 
 - id: c-173863
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ponas Tadas Volianskis
     mato tą. galvą su ragais, kurie iš užpakalio panašūs į erelį su na­
@@ -731,6 +751,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-190981
 
 - id: c-173864
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Moneta labai plona, labai apgadinta ir išliko
     lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
@@ -745,6 +767,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-190982
 
 - id: c-173865
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ten kitaip pa­
     vaizduotos figūros, ypač rankų pozicijos. Be to, pas Henenbergerj
@@ -761,6 +785,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - t-190983
 
 - id: c-173866
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų
     piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­

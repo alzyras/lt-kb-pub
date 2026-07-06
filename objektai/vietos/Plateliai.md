@@ -96,6 +96,8 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
 ## Citatos
 
 - id: c-171934
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Į medį sviesdavo papjautus gaidžius, statydavo
     ant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­

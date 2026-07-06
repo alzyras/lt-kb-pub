@@ -322,6 +322,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Citatos
 
 - id: c-04147
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tačiau epocha caro Petro Didžiojo,
     kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
@@ -340,6 +342,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-78949
 
 - id: c-41855
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Augusto II siekius rėmė ir dalis Švedijos kara-
     liaus Karolio x11 valdymu nepatenkintos
@@ -361,6 +365,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-78947
 
 - id: c-76043
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Karolis XII
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
@@ -378,6 +384,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-78950
 
 - id: c-76044
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau bajorija suprato,
     kad jai tik tada pasiseks sunaikinti Sapiegas ir įvykdyti savo
@@ -399,6 +407,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-78946
 
 - id: c-76045
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Todėl Augustas 11 nusprendė
     išvyti iš Livonijos švedus ir ją užvaldyti.
@@ -417,6 +427,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-78945
 
 - id: c-76047
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Karo pradžia. Kai Augustas II su Petru I padarė sutartį
     atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
@@ -432,6 +444,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-78943
 
 - id: c-76049
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ATR valdovu 1697 m. buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-
 

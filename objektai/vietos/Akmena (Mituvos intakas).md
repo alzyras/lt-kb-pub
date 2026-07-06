@@ -68,6 +68,8 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 ## Citatos
 
 - id: c-86145
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ašeradė)
       Akmena (Jūros intakas), u.

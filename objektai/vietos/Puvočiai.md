@@ -66,6 +66,8 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
 ## Citatos
 
 - id: c-43787
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Netikėtai atvyko mano adjutantas Gegutis. Jis pranešė liūdną naujieną: Puvočių
     kaime, poilsio metu netikėtai priešo užkluptas, žuvo Marcinkonių bataliono vadas Šernas

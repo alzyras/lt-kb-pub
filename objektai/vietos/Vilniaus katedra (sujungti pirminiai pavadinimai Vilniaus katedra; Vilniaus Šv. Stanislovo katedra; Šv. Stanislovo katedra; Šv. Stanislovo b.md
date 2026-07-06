@@ -717,6 +717,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
 ## Citatos
 
 - id: c-81780
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietuvos
     istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­
@@ -755,6 +757,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85811
 
 - id: c-81781
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Val erianus Episcopus Vilnen. manu propria.
     -- •
@@ -784,6 +788,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85798
 
 - id: c-81782
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
     pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
@@ -803,6 +809,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85812
 
 - id: c-81783
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
     raštus ir privilegijas, juos kruopščiai apsvarstę, pasitarę su
@@ -827,6 +835,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85809
 
 - id: c-81784
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     — • —
     275
@@ -849,6 +859,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85805
 
 - id: c-81785
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogaila taip pat
     nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
@@ -867,6 +879,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85799
 
 - id: c-81786
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
     Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
@@ -888,6 +902,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85806
 
 - id: c-81787
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
     pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
@@ -908,6 +924,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85804
 
 - id: c-81788
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau jaunasis karalius nejau­
     tė tokios netekties, kokios buvo vertos iš tiesų retos Elžbie­
@@ -934,6 +952,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85807
 
 - id: c-81789
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     287.
     12
@@ -951,6 +971,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85802
 
 - id: c-81790
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai kurias
     Žygimantų bibliotekos knygas dar
@@ -976,6 +998,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85808
 
 - id: c-81791
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
     rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
@@ -1011,6 +1035,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85800
 
 - id: c-81792
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
     čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi
@@ -1028,6 +1054,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85810
 
 - id: c-81793
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1 9 1
 
@@ -1047,6 +1075,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-85803
 
 - id: c-81794
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
     bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus

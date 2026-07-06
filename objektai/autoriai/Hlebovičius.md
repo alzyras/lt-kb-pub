@@ -73,6 +73,8 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
 ## Citatos
 
 - id: c-176912
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didelė dalis gyventojų žuvo per kautynes prie Žemuti­
     nės pilies, o kiti, netekę prieglobsčio ir mieste, ir

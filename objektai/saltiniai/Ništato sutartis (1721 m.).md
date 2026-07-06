@@ -113,6 +113,8 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 ## Citatos
 
 - id: c-45010
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Laimėjusi karą,
     Rusija labai sustiprino savo regionines pozicijas, o prieš karą dar

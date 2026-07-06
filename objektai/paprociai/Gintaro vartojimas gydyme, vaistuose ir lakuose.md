@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175790
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lengvumas ir žinomos
     cheminės savybės liepia priskirti jį sakų klasei; patrintas

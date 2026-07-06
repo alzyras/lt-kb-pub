@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83221
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat jeigu žydas paimtų iš krikščionies užstatą ir
     per visus metus laikytų, o tas užstatas tų pinigų nesiektų,

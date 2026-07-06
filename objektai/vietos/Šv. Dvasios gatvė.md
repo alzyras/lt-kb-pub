@@ -64,6 +64,8 @@ Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.
 ## Citatos
 
 - id: c-82258
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat minėti prie­
     glaudos namai privalo turėti du įėjimus, tai yra, vieną iš tos

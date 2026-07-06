@@ -123,6 +123,8 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
 ## Citatos
 
 - id: c-45556
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
     J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai
@@ -141,6 +143,8 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     - t-42524
 
 - id: c-45557
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšyje, pirmiausia jo pradžioje, kaip pa-
     žymi kronikininkas Vygandas, lietuviai

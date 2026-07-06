@@ -160,6 +160,8 @@ Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį, gavo apsaugą ir išvyko
 ## Citatos
 
 - id: c-169360
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Toje pačioje vietoje pa­
     garbiai užkasus pelenus, pastatė nelyginant atminimo
@@ -178,6 +180,8 @@ Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį, gavo apsaugą ir išvyko
     - t-185999
 
 - id: c-169361
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
@@ -201,6 +205,8 @@ Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį, gavo apsaugą ir išvyko
     - t-186000
 
 - id: c-174082
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš
     mums žinomų originalių istorikų pirmasis, Lietuvą pa­

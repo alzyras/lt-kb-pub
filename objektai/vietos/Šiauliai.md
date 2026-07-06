@@ -296,6 +296,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 ## Citatos
 
 - id: c-12723
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Spalio 5 d. plk. Virgoličiaus
     rinktinė iš Kuršėnų per-
@@ -312,6 +314,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-182783
 
 - id: c-44078
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmoji kovų fazė: Vilniaus
 
@@ -330,6 +334,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-182785
 
 - id: c-166193
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš
     įvairių šaltinių žinoma, kad po plėšimo
@@ -347,6 +353,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-182786
 
 - id: c-175990
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pajutę susitelkusią lietuvių ka-
     riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
@@ -361,6 +369,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-193258
 
 - id: c-176434
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
     vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-

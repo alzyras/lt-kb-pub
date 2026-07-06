@@ -178,6 +178,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 ## Citatos
 
 - id: c-171804
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje
@@ -197,6 +199,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
     - t-188915
 
 - id: c-171805
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tautos
     šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
@@ -214,6 +218,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
     - t-188916
 
 - id: c-171806
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kadangi šiam aiškinimui nieko negali-
     m . 03

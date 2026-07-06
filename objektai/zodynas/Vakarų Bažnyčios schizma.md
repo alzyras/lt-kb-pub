@@ -153,6 +153,9 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
 ## Citatos
 
 - id: c-14677
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam
     laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules,
@@ -170,6 +173,9 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
     - t-70055
 
 - id: c-14678
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šituo pat laiku Lietuvai pasitaikė gera proga pasirodyti
     Vakarų Europai su sėkmingai vykdomu krikšto darbu, nes

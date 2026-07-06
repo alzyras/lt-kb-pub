@@ -96,6 +96,8 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
 ## Citatos
 
 - id: c-169473
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     1527 m e ta i
     L ietu vių

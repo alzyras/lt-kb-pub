@@ -68,6 +68,8 @@ Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvas
 ## Citatos
 
 - id: c-176020
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vieni žmonės, ypač žy-
     mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-

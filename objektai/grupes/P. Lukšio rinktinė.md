@@ -127,6 +127,8 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
 ## Citatos
 
 - id: c-44828
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     J. Paliūnas-Rytas
     tapo Maironio rinktinės vadu,
@@ -147,6 +149,8 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
     - t-41108
 
 - id: c-44829
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jungtinė Kęstučio apygarda (ku-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir

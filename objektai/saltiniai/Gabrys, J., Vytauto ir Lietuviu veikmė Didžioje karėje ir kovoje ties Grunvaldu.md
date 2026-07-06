@@ -74,6 +74,9 @@ Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunval
 ## Citatos
 
 - id: c-38406
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tilžė, 1923.
     Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje

@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169916
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Moldavijos vaivada leidosi atgalios, o karalius Olb­
     rachtas tuo metu sirgo, jo kariuomenė, apimta gilaus

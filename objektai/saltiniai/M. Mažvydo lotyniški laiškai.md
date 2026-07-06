@@ -72,6 +72,8 @@ Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragne
 ## Citatos
 
 - id: c-61783
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
     Pirmoji.., p. 251, 257).

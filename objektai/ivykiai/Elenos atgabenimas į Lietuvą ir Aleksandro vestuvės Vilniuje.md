@@ -193,6 +193,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169909
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir parvežė ją į Vilniaus miestą
     dvi savaitės prieš Užgavėnes.
@@ -215,6 +217,8 @@ Nenurodyta
     - t-186645
 
 - id: c-169910
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Paskui atėjo septyni tūkstančiai tretieji metai nuo
     pasaulio sutvėrimo, o nuo Kristaus gimimo tūkstantis

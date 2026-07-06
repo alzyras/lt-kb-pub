@@ -115,6 +115,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 ## Citatos
 
 - id: c-32808
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai
     naudinga linkme sutvarkyti rytų Bažnyčios reikalų^61. Mirus Kijevo
@@ -131,6 +133,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     - t-30394
 
 - id: c-177119
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pirmiau­
     sia tvirtinu, kad kryžius senų senovėje beveik visoms tautoms,

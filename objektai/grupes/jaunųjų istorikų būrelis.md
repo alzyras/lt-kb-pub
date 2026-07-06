@@ -79,6 +79,8 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
 ## Citatos
 
 - id: c-33367
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
     dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji

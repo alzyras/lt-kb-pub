@@ -73,6 +73,8 @@ Narbuto mitologiniame aiškinime daugiskaita „Juodi“ („Johdi“) reiškia 
 ## Citatos
 
 - id: c-172467
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Juodas (Johds)
     Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­

@@ -81,6 +81,8 @@ Michelbertas (AkMD, t.
 ## Citatos
 
 - id: c-33059
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     liūnų ir Sargėnų kapinynus^101 , ir apie L _ietuvos X-XV a. kapinynų
     keramiką,_ (AkMD, t. 19, 1965, 41-57 p.). Iš Rudaičių ir Veliuonos

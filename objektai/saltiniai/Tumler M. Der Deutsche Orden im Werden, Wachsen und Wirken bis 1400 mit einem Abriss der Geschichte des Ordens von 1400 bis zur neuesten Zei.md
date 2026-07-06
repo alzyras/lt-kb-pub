@@ -74,6 +74,8 @@ Dusburgietis teigia, kad tumler M.
 ## Citatos
 
 - id: c-61960
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tumler M. Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400 mit einem
     Abriss der Geschichte des Ordens von 1400 bis zur neuesten Zeit.— Wien, 1954.

@@ -82,6 +82,8 @@ Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su
 ## Citatos
 
 - id: c-168674
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kas
     liko gyvas, prisidėjo prie Jerim Berdžioas kaip, nukirtus

@@ -69,6 +69,8 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
 ## Citatos
 
 - id: c-75168
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Skelbta, kad
     sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą

@@ -158,6 +158,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22939
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bolševikų diktatūra
     SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
@@ -180,6 +182,8 @@ Nenurodyta
     - t-45334
 
 - id: c-48202
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O čia dar po kie-
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės

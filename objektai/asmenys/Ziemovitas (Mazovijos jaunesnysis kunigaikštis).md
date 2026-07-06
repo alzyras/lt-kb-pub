@@ -74,6 +74,8 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 ## Citatos
 
 - id: c-83871
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia, krašto reikalus
     įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­

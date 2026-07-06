@@ -58,6 +58,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 ## Citatos
 
 - id: c-59349
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     103. Apie tai, kaip hospitaljerai užėmė Rodo salą
 

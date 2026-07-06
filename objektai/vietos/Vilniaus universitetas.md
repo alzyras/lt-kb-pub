@@ -197,6 +197,8 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
 ## Citatos
 
 - id: c-24583
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
     dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
@@ -212,6 +214,8 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - t-77456
 
 - id: c-24584
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jėzuitiškojo Vilniaus universi-
     teto reiškiniai darė poveikį visai Europai – tai pasakytina apie teologijos,
@@ -233,6 +237,8 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - t-77457
 
 - id: c-24585
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be to, reikia neužmirš-
     ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
@@ -250,6 +256,8 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - t-77458
 
 - id: c-74847
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiauriausias katali-
     kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų

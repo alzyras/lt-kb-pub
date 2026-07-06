@@ -293,6 +293,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 ## Citatos
 
 - id: c-60538
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Štai dėl to broliai, šitai matydami  ir dėl to būgštaudami, ryžosi verčiau žūti kovoje,
     nei regėti šitokias nelaimes, užgriuvusias jų tautą bei šventuosius. Vienas jų, būtent
@@ -312,6 +314,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     - t-59909
 
 - id: c-60539
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po to patraukė iki
     pelkės, vardu Renzenas279, kur naktį ilsėjosi. Apie tai sužinoję, Kulmo pilies broliai pasekė
@@ -330,6 +334,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     - t-59905
 
 - id: c-60540
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Jį
     pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
@@ -346,6 +352,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     - t-59907
 
 - id: c-60541
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
     vyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,
@@ -367,6 +375,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     - t-59908
 
 - id: c-167438
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     kad jos relikvijas nusineštumėte  į Prūsijos žemę, o ten jas užlaikytumėte didesnėje
     pagarboje nei čia“. Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
@@ -383,6 +393,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     - t-59906
 
 - id: c-167439
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop jo nedorybė užrūstino
     dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi

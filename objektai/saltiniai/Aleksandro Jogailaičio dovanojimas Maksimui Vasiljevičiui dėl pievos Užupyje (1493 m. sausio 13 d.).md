@@ -145,6 +145,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84275
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -178,6 +180,8 @@ media_all_json: |-
     - t-88297
 
 - id: c-84276
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiame laiške po parašais yra penki antspaudai.
     356

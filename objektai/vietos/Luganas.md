@@ -77,6 +77,8 @@ Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje).
 ## Citatos
 
 - id: c-02810
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl
     Nemuno atidarymo Kopenhagoje. Kadangi Klaipėdos konvenci-

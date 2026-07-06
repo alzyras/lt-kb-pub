@@ -74,6 +74,8 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
 ## Citatos
 
 - id: c-45269
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Į nelaisvę pateko
     brigados ir Gardino pulko

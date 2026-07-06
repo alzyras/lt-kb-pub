@@ -97,6 +97,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-90744
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmas toks susivažiavimas įvyko tų metų pavasarį Smo­
     lenske. Metraščiai aprašinėja brangias dovanas, kurių iš vie­

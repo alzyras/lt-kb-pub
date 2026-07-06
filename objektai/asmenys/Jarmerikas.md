@@ -127,6 +127,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 ## Citatos
 
 - id: c-174066
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuomet ir danų karalius Helgė kariavo su sla­
     vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
@@ -142,6 +144,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
     - t-191184
 
 - id: c-174067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
     40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­

@@ -70,6 +70,8 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
 ## Citatos
 
 - id: c-171962
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iszskalbk man amzuliali.
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­

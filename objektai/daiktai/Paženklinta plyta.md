@@ -127,6 +127,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10268
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Tos plytos, sako minavotas raštininkas, po truputį buvusios jo amžiuje
         dar regimos nuo pietų pusės varpnyčios^799 katedros sienoje, kuri per pusę esanti permūravota,
@@ -143,6 +145,8 @@ Nenurodyta
     - t-08313
 
 - id: c-56405
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Ant tų rūmų buvęs apvalus
         bokštas, iš kurio kunigai saulės taką sekę dėl žinojimo pirmosios dienos mėnesio, ant kurios

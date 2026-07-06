@@ -77,6 +77,9 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 ## Citatos
 
 - id: c-38652
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kada Kryžiuočių Ordino maršalka
     Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­

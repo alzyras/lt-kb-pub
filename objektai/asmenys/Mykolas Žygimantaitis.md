@@ -152,6 +152,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
 ## Citatos
 
 - id: c-176697
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir jis ėmė la­
     bai bijoti, pabėgo į Brianską, į savo tolimiausią miestą.
@@ -168,6 +170,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
     - t-194084
 
 - id: c-176698
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
     riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.
@@ -183,6 +187,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
     - t-194085
 
 - id: c-176699
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Jų  buvo apie 15 tūkstančių.
     1 1  Mykolas (.,MykoIiukas"| — paskutinis žinomas Kęstučio gimi­
@@ -196,6 +202,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
     - t-194086
 
 - id: c-176700
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 3  J . Dlugošas (Dzieje. VI, p. 56) nurodo, kad Mykolas 2ygi-
     mantaitis buvo užėmęs Starodubą ir Sevcrsko Naugardą; kitų pilių

@@ -152,6 +152,8 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 ## Citatos
 
 - id: c-22625
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai masiškiausia
     antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-
@@ -175,6 +177,8 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     - t-74750
 
 - id: c-72770
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pogrindis laikėsi neginkluotos rezistencijos taktikos: vykdyta
     JAV lietuviai, surinkę aukas ir nupirkę JAV kariuomenei

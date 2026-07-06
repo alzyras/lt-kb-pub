@@ -141,6 +141,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tokį teiginį pailiustruoti galėtų keletas
     laiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­
@@ -158,6 +160,8 @@ Nenurodyta
     - t-192048
 
 - id: c-174918
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Korespondentas — Lydos bajorų mokyklos
     vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­

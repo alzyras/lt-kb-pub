@@ -101,6 +101,8 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
 ## Citatos
 
 - id: c-84439
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gynėjai iškėlė vėliavas su kryžiais, kaip
     ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­

@@ -68,6 +68,8 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
 ## Citatos
 
 - id: c-32818
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     XIV
     amž. gale ordino teritorialinis išsiplėtimas artėjo į pačią viršūnę.

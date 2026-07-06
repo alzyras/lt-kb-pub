@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23044
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dar geresni rezultatai pasiekti Europos
     krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m. Lietu-

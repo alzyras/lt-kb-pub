@@ -77,6 +77,8 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
 ## Citatos
 
 - id: c-174329
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuo tarpu Stegutas tikriausiai žu­
     vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­

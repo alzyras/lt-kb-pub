@@ -831,6 +831,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 ## Citatos
 
 - id: c-168595
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Valdingai pasi-
     keliais nuvesti iki sienos. Kaidanas, pasiuntiniams per
@@ -847,6 +849,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-185234
 
 - id: c-168596
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tiesa, kai buvę toliau
     nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
@@ -869,6 +873,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-185235
 
 - id: c-168597
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
     priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
@@ -885,6 +891,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-185236
 
 - id: c-170519
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O Treniota
     tuomet buvo Žemaičiuose.
@@ -899,6 +907,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-187571
 
 - id: c-171575
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kad Pavyslio, Padneprio senieji gyventojai
     ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
@@ -915,6 +925,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-188686
 
 - id: c-175411
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būtent dėl šių priežasčių įvairios
     pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
@@ -932,6 +944,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192641
 
 - id: c-175412
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Anksčiau jau minėjome, kad skitai
     yra kone seniausia Europos tauta, kurios atėjimas iš Azi­
@@ -948,6 +962,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192642
 
 - id: c-175413
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Galima tik daryti gana tikėtiną prielaidą, kuri remia­
     si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
@@ -968,6 +984,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192643
 
 - id: c-175414
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -985,6 +1003,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192644
 
 - id: c-175415
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi protėvius tau­
     tos, kurios istoriją nagrinėjame, toliau tyrinėti pradėsime
@@ -1007,6 +1027,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192645
 
 - id: c-175416
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kairioji Dnepro
     pakrantė sudaro lygumą, arba platų pavasario potvynių
@@ -1028,6 +1050,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192646
 
 - id: c-175417
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plytėjo ilga įlanka, arba
     kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
@@ -1053,6 +1077,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192647
 
 - id: c-175418
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     367
 
@@ -1074,6 +1100,8 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-192648
 
 - id: c-175419
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Paprastai jos būva netoli gyvenviečių
     arba joms tinkamose vietose.

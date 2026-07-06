@@ -84,6 +84,8 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
 ## Citatos
 
 - id: c-11404
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Arvydas Pociūnas (gimęs 1953 m.), baigė Vilniaus valstybinį uni-
     versitetą, istorijos specisalybę. Vytauto Didžiojo karo muziejaus

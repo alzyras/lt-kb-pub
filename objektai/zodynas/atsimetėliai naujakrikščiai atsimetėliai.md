@@ -112,6 +112,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 ## Citatos
 
 - id: c-59476
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
 
@@ -132,6 +134,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     - t-58845
 
 - id: c-59477
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
 

@@ -82,6 +82,8 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
 ## Citatos
 
 - id: c-169455
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Esą valachams visi keliai at­
     viri, Severinas plėšikaująs ir siaubiąs pasienį vienoje

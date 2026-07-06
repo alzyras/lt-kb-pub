@@ -70,6 +70,8 @@ Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs term
 ## Citatos
 
 - id: c-170507
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     M, M iechovita. (Трактат о  двух Сарматнях, p, 89)
     ulanais vadina visus Krymo totorius,

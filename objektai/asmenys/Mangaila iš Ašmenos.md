@@ -81,6 +81,8 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
 ## Citatos
 
 - id: c-83749
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:

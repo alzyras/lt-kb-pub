@@ -84,6 +84,8 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 ## Citatos
 
 - id: c-44248
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusų karvedys V. B. Seremetjevas (apie
 

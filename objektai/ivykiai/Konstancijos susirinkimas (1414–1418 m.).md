@@ -196,6 +196,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37010
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šituo pat laiku Lietuvai pasitaikė gera proga pasirodyti
     Vakarų Europai su sėkmingai vykdomu krikšto darbu, nes
@@ -218,6 +221,9 @@ Nenurodyta
     - t-50802
 
 - id: c-37012
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet Vytautas atėjo dar į pagalbą, pasiųsdamas susirinkimui
     gyvą Lietuvos apsikrikštijimo įrodymą — 60 žemaičių, bajorų
@@ -240,6 +246,9 @@ Nenurodyta
     - t-50804
 
 - id: c-37013
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žemaičių prašymas buvo patenkintas. Susirinkimas nuta­
     rė pasiųsti prašomus vyskupus Žemaičių vyskupijai įkurti. At­

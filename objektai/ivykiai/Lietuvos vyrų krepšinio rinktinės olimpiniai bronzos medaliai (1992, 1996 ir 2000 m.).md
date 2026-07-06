@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73080
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Paguodė pirmieji laimėjimai – disko
     metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-

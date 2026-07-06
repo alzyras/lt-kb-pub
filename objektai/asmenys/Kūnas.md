@@ -343,6 +343,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 ## Citatos
 
 - id: c-169495
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kūno, arba
     Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
@@ -359,6 +361,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     - t-186134
 
 - id: c-169496
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kokius jis nuveikė paminėtinus darbus,
     vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
@@ -375,6 +379,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     - t-186135
 
 - id: c-176576
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Vyriausias sūnus Barkus įkūrė mies­
     tą prie Jūros upės, ir to kunigaikščio vardas susijungė
@@ -399,6 +405,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     - t-193951
 
 - id: c-176577
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
     Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė

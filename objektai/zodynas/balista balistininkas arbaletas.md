@@ -111,6 +111,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 ## Citatos
 
 - id: c-59478
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     106 (101). Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
                                          lojaus kalvoje
@@ -128,6 +130,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
     - t-58847
 
 - id: c-59479
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop vieną dieną visi pakilo  į
     kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų

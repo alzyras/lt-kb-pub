@@ -125,6 +125,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55731
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dvasios bažnyčią stovin­
     čius33. Nepaprastas įvairaus maisto brangymetis 1547 me­

@@ -154,6 +154,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-13861
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo pereitą
     pavasarį. Pasitarę ir negirdėdami, kad kas rašytų kokį vei­
@@ -172,6 +175,9 @@ media_all_json: |-
     - t-67589
 
 - id: c-13862
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Apskritai šiuo savo darbu nepasižadame duoti mūsų vi­
     suomenei ką nauja ar originalu: mes labiausiai stengėmės jau
@@ -190,6 +196,9 @@ media_all_json: |-
     - t-67586
 
 - id: c-13863
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kartu taip pat norėtume padėti mūsų platesnei vi­
     suomenei pažinti tą didį Žmogų, kuri, tikime, šį darbą nuo­

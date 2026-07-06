@@ -120,6 +120,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-77317
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     K. Radvila savo netikėtais antpuo-
     liais kaustė rusų kariuomenės veiksmus, taip padė-
@@ -136,6 +138,8 @@ media_all_json: |-
     - t-80616
 
 - id: c-168325
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     V is dėlto  n ep a jė g ė  užim ti pilies, p astaty to s p ato g io je
     v ie to je  ir stiprios įgulos ginam os, n es b uvo užd rau d ęs

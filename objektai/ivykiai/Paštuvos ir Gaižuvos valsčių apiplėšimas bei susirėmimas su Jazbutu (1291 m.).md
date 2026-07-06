@@ -145,6 +145,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66940
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     246 (239). Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
 
@@ -163,6 +165,8 @@ Nenurodyta
     - t-66822
 
 - id: c-66941
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Begrįžtantį jį persekiojo lietuviai ir kelis kartus
     kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a. pradžioje jame buvusi atstatyta

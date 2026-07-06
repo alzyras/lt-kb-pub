@@ -145,6 +145,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62990
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie Martyną iš Golino ir jo nuostabią kovą
 
@@ -162,6 +164,8 @@ Nenurodyta
     - t-62391
 
 - id: c-167328
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prusai  jį
     taip siaubingai kapojo, taip žeidė, kad daugelyje vietų nuo jo kūno tiesiog karojo dideli

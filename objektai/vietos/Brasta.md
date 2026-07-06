@@ -1352,6 +1352,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 ## Citatos
 
 - id: c-24084
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
     dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
@@ -1364,6 +1366,9 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-183588
 
 - id: c-37306
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar Kęstučio padėtis žymiai pablogėjo. Netekęs Vilniaus
     ir Trakų ir neturėdamas saugios vietos, jis norėjo kreiptis į sa­
@@ -1382,6 +1387,9 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176980
 
 - id: c-37308
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
     bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
@@ -1403,6 +1411,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176963
 
 - id: c-46460
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Man-
     v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
@@ -1420,6 +1430,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176970
 
 - id: c-46461
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
@@ -1442,6 +1454,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176964
 
 - id: c-160895
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šis Statutas tarnavo išim­
     tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
@@ -1462,6 +1476,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176982
 
 - id: c-160897
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Man buvo ati­
     duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už
@@ -1485,6 +1501,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176979
 
 - id: c-160899
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     X, p. 112.
     I1l
@@ -1509,6 +1527,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176974
 
 - id: c-160902
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -1532,6 +1552,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176955
 
 - id: c-160903
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet Žygimantas, metų naštos prislėg­
     tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
@@ -1555,6 +1577,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176984
 
 - id: c-160904
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vėliau Radvila Juo-
     dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
@@ -1574,6 +1598,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176977
 
 - id: c-160905
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tame pačiame seime
     Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
@@ -1596,6 +1622,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176965
 
 - id: c-160906
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
     nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
@@ -1615,6 +1643,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176969
 
 - id: c-160908
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
     žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
@@ -1631,6 +1661,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176966
 
 - id: c-160910
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
     tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje
@@ -1649,6 +1681,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176976
 
 - id: c-160912
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po dešimtmečio čia pa-
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
@@ -1668,6 +1702,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176968
 
 - id: c-160913
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Slups-
     kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
@@ -1691,6 +1727,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176973
 
 - id: c-160914
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     dar per 40 tūkst. karių. LDK kariuomenė turėjo daug sunkumų su karo
     vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-
@@ -1706,6 +1744,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176985
 
 - id: c-160916
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Su­
     gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
@@ -1722,6 +1762,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-176960
 
 - id: c-170516
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Erdvilą įsi­
     rengė čionai sostinę ir ėmė vadintis Naugarduko di­
@@ -1738,6 +1780,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-187567
 
 - id: c-170517
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O kai prisiartina
     didysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­
@@ -1753,6 +1797,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-187568
 
 - id: c-175395
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
@@ -1771,6 +1817,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-192625
 
 - id: c-175922
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ateinančiais 1596 m. Brastoje
     buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai

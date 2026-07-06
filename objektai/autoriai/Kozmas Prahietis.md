@@ -74,6 +74,8 @@ Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios 
 ## Citatos
 
 - id: c-173318
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo

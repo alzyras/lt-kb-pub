@@ -80,6 +80,8 @@ Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsive
 ## Citatos
 
 - id: c-169518
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuviai ketino neti-
     239

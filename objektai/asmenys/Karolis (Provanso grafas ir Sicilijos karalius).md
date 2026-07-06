@@ -156,6 +156,8 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 ## Citatos
 
 - id: c-60672
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui
 
@@ -171,6 +173,8 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
     - t-60041
 
 - id: c-60673
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
                                 nesantuokinio sūnaus, mirtį
@@ -187,6 +191,8 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
     - t-60040
 
 - id: c-60674
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
 

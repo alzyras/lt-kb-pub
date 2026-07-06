@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60310
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai jis kartą, jau
     padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo

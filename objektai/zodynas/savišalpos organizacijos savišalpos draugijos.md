@@ -90,6 +90,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-69367
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Kitos organizacijos.** Be šių trijų Susivienijimų, J. Amerikos
     Valstybėse bus dar apie 2.000 įvairiausių smulkių lietuviš-
@@ -107,6 +109,8 @@ media_all_json: |-
     - t-70324
 
 - id: c-69368
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kultūrinė lietuvių būklė Argentinoje. Argentinoje lietu-
     viams organizuotis sąlygos buvo ramesnės, nes čia nebuvo emi-

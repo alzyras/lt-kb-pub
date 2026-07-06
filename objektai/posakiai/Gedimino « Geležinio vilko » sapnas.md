@@ -157,6 +157,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 ## Citatos
 
 - id: c-31431
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
     sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
@@ -178,6 +180,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-97292
 
 - id: c-91784
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Geležinio vilko legenda, be abejo, primena
     Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę
@@ -194,6 +198,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-97291
 
 - id: c-91785
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Valdovo sapne gir­
     dėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas

@@ -162,6 +162,8 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 ## Citatos
 
 - id: c-13625
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuvybės gynėjai,
     prašydami neskriausti lietuvių, visada rėmėsi ta jų ištikimybe
@@ -179,6 +181,8 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
     - t-11075
 
 - id: c-13626
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Į Prū-
     sijos parlamentą rinkimai buvo taip sutvarkyti, kad lietuviams
@@ -196,6 +200,8 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
     - t-11074
 
 - id: c-13628
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tai buvo 1832 m. pradėtas leisti
     misijų laikraštis „Nusidavimai apie Evangelijos

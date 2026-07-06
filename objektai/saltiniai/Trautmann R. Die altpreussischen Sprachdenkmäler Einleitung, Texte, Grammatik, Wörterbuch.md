@@ -68,6 +68,8 @@ Dusburgietis teigia, kad trautmann R.
 ## Citatos
 
 - id: c-61958
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,
     Wörterbuch.— Göttingen, 1910.

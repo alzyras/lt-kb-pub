@@ -111,6 +111,8 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 ## Citatos
 
 - id: c-59768
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po to broliai,
     pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi
@@ -125,6 +127,8 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
     - t-59136
 
 - id: c-167422
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Aukaimio valsčiaus nusiaubimą
 

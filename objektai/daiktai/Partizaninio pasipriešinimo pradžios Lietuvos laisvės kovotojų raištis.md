@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44670
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas
     Pietų Lietuvoje, GAM.

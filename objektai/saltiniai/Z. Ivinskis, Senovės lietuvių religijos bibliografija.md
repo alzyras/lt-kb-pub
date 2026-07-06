@@ -67,6 +67,8 @@ Dusburgietis teigia, kad apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 
 ## Citatos
 
 - id: c-62007
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
     Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,

@@ -223,6 +223,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82424
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet jeigu upei Vili­
     jos vardas buvo duotas Vilniaus gy­
@@ -249,6 +251,8 @@ media_all_json: |-
     - t-86445
 
 - id: c-82425
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anksčiau kitaip
     buvo vadinama arba turėjo ir kitą
@@ -273,6 +277,8 @@ media_all_json: |-
     - t-86448
 
 - id: c-82426
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau gali būti dar vie­
     nas Neries vardo kilmės šaltinis. Lat­
@@ -299,6 +305,8 @@ media_all_json: |-
     - t-86447
 
 - id: c-82427
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Studija apie Vilniaus
     atsiradimą.

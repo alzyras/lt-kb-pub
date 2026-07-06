@@ -329,6 +329,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 ## Citatos
 
 - id: c-58985
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
 
@@ -348,6 +350,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - t-58353
 
 - id: c-58986
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 
@@ -366,6 +370,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - t-58354
 
 - id: c-58987
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -384,6 +390,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - t-58355
 
 - id: c-58988
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį
 
@@ -410,6 +418,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - t-194541
 
 - id: c-58989
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     327 (320). Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -427,6 +437,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - t-58356
 
 - id: c-168407
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kitų metų pradžioje kryžiuočiai, pasinaudodami
     pergale, pasiuntė skirtingais keliais skirtingas kariau­

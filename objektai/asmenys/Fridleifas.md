@@ -81,6 +81,8 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
 ## Citatos
 
 - id: c-174150
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235

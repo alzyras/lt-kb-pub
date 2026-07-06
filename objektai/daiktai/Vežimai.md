@@ -208,6 +208,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05255
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
@@ -228,6 +230,9 @@ Nenurodyta
     - t-93003
 
 - id: c-14342
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar jie abu dar labiau suskato imtis konkrečių žygių ir rink­
     ti kariuomenę. Jogaila nuvyko Krokuvon ir įsakė šaukti ka­

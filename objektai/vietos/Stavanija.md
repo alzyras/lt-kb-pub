@@ -86,6 +86,8 @@ Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, r
 ## Citatos
 
 - id: c-175575
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ka­
     dangi Panerių gentys pūtė dūdas ant Neries krantų, ku­

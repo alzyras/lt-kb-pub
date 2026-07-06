@@ -68,6 +68,8 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
 ## Citatos
 
 - id: c-59798
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
     voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia

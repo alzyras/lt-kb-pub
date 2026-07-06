@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66938
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškil-
     mingai palaidotas. Jis buvo sudegintas ant laužo su visais Kęstu-

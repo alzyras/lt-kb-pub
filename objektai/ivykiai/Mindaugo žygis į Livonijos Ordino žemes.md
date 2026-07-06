@@ -92,6 +92,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-38320
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mindaugo jau turėta Lie­
     tuvoje jei ne aukščiausia valdžia, tai bent pirmaujanti reikšmė,

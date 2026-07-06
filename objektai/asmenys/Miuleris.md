@@ -68,6 +68,8 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
 ## Citatos
 
 - id: c-41591
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo metu kritinė situacija susidarė ties
     Aušros vartais. Plk. Miulerio vadovaujama

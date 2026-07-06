@@ -148,6 +148,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169089
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
     žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
@@ -180,6 +182,8 @@ Nenurodyta
     - t-185728
 
 - id: c-169090
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išžudę tuos, kurie netiko nei
     karui, nei darbui, galybę kitų kartu su visokeriopu

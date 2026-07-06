@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83093
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-

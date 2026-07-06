@@ -76,6 +76,8 @@ Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į k
 ## Citatos
 
 - id: c-23614
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reformacija tapo nauju lenkėjimo postūmiu. Radvila Juodasis
     1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-

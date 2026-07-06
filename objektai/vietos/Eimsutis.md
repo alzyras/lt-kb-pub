@@ -133,6 +133,8 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
 ## Citatos
 
 - id: c-59176
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Skomantas, matydamas, jog apsigavo, pasuko
 
@@ -157,6 +159,8 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
     - t-58544
 
 - id: c-59177
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sutrikę dėl jo mirties,
     pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,

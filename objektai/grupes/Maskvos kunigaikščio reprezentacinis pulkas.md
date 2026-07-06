@@ -62,6 +62,8 @@ Tuo metu, kai Gardine pasiuntiniai derėjosi dėl taikos, iš Seversko žemės �
 ## Citatos
 
 - id: c-176171
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
     taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­

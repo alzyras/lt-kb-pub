@@ -136,6 +136,8 @@ Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiver�
 ## Citatos
 
 - id: c-169487
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Grafas Verneris fon Hoinbergas ir
     Adolfas fon Vintimelis bei
@@ -166,6 +168,8 @@ Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiver�
     - t-186126
 
 - id: c-169488
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kol lietuviai šitaip siautėjo Lenkijoje,
     niekas jiems nepastojo kelio ir niekas nedrįso perse­

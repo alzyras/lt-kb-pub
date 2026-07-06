@@ -71,6 +71,9 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
 ## Citatos
 
 - id: c-38659
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Atkakli jo tėvo kova dėl gimtojo krašto turėjo žadinti ir
     Vytauto sieloje didelę tėvynės meilę — nors apie patriotizmą

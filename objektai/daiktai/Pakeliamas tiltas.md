@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60329
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė

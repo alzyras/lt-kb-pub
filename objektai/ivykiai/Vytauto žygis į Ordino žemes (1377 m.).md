@@ -169,6 +169,9 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 ## Citatos
 
 - id: c-14186
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Po kiek laiko kronikos vėl mini 1377 metų Vytauto žygį.
     Jis, tėvo pavedamas, surengė žygį, Algirdui dar gyvam tebe­
@@ -182,6 +185,9 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     - t-67000
 
 - id: c-14187
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kada Kryžiuočių Ordino maršalka
     Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
@@ -203,6 +209,9 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     - t-66999
 
 - id: c-14188
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1377 met. čia atėjusius riterius matome puolant ir patį Vytautą.
     Tai yra pirmas žinomas Vytauto savarankiškas pasirodymas ka­

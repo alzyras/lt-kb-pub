@@ -74,6 +74,8 @@ Juču jis sudarė rinkinį «Lietuvos inventoriai XVII amž. » (1962).
 ## Citatos
 
 - id: c-33639
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     K. Jablonskis ištisai sudarė 1 t. iš XVI-XVII amžių doku­
     mentų rinkinio « Lietuvos valstiečių ir miestelėnų ginčai su dvarų

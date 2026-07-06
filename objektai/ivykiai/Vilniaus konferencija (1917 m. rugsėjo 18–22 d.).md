@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02085
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tautinėms mažumoms turėjo būti laiduotos kultūrinės teisės.
     Kad okupacinė valdžia visgi nesutrukdytų politinio darbo, kon-

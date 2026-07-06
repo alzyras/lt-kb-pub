@@ -899,6 +899,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 ## Citatos
 
 - id: c-46363
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau jis leido Lietuvos bajorijai sudaryti lai-
     kinę savo valdžią.
@@ -914,6 +916,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187879
 
 - id: c-170855
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Prie tokių žmonių galima priskirti
     Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
@@ -931,6 +935,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187881
 
 - id: c-170856
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Juk Lietuvos istorija -  tai ne vien pagoniškas
     tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
@@ -949,6 +955,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187882
 
 - id: c-170862
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     To­
     kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­
@@ -972,6 +980,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187885
 
 - id: c-170863
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vaito,
     burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­
@@ -994,6 +1004,9 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187884
 
 - id: c-170864
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Viena to priežastis, žinoma, buvo unija su Lenkija, kur
     aukštesniosios šlėktos (ponų) reikšmė valstybės gyvenime jau
@@ -1013,6 +1026,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187874
 
 - id: c-170865
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O
     dėl to mums, valdovui, ir mūsų įpėdiniams jis pats ir jo
@@ -1033,6 +1048,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187886
 
 - id: c-170866
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šis Žygimanto galios išaugimas, matyt, bus lėmęs
     tai, kad greičiau atsiskleidė neigiami jo polinkiai: apiplėšus
@@ -1052,6 +1069,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187877
 
 - id: c-170867
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bajorijos atsiunčiamoms de-
     legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
@@ -1068,6 +1087,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187889
 
 - id: c-170868
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vytautas tam nesiprie-
     šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
@@ -1087,6 +1108,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187873
 
 - id: c-170869
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Baigdamas jį Žygimanto Augusto mirtimi
     (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
@@ -1107,6 +1130,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187888
 
 - id: c-170870
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     214
 
@@ -1133,6 +1158,9 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187887
 
 - id: c-170871
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jų vietą
     užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
@@ -1153,6 +1181,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-187878
 
 - id: c-171175
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Autorius pateikia iš­
     kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
@@ -1170,6 +1200,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-188281
 
 - id: c-171176
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
@@ -1187,6 +1219,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-188282
 
 - id: c-171177
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
     kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
@@ -1202,6 +1236,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-188283
 
 - id: c-171178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pa­
     vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
@@ -1222,6 +1258,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-188284
 
 - id: c-175870
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Maža to, per savo delegaciją jis pareikalavo, kad
     Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar ne-
@@ -1237,6 +1275,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-193110
 
 - id: c-175871
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vytautas dabar nebepabūgo sueiti su
     jais į atvirą kovą ir nė neketino išsižadėti karūnos; tačiau jo
@@ -1253,6 +1293,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-193111
 
 - id: c-175872
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Su jais išsikraustė ir Oginskis ir kiti Rusijos
     globos šalininkai.

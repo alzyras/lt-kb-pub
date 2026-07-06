@@ -104,6 +104,8 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
 ## Citatos
 
 - id: c-173225
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Eri-
     sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­
@@ -119,6 +121,8 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
     - t-190342
 
 - id: c-177073
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     371
 

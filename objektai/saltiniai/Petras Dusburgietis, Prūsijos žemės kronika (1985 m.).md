@@ -328,6 +328,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55964
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
     agresijos  į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
@@ -345,6 +347,8 @@ Nenurodyta
     - t-71035
 
 - id: c-55977
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
     sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
@@ -361,6 +365,8 @@ Nenurodyta
     - t-71039
 
 - id: c-55978
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dėl unikalių žinių apie vakarų baltų ir lietuvių politinę, socialinę, ūkio ir kultūros
     istoriją gausumo Petro iš Dusburgo kronika yra nepakeičiamai svarbi baltistikos,
@@ -377,6 +383,8 @@ Nenurodyta
     - t-71040
 
 - id: c-55980
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Įvade bandoma apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius,
     kronikos rankraščius, jų tyrinėjimus, autoriaus politinius  ir ideologinius tikslus,
@@ -393,6 +401,8 @@ Nenurodyta
     - t-71036
 
 - id: c-55981
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
@@ -413,6 +423,8 @@ Nenurodyta
     - t-71037
 
 - id: c-55982
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
     Torunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores

@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75222
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
     faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordi-

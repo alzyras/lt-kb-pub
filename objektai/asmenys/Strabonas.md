@@ -161,6 +161,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
 ## Citatos
 
 - id: c-174003
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš
     to Bazilija, arba šiandienė Semba, buvo vaizduojama čia
@@ -178,6 +180,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     - t-191121
 
 - id: c-174004
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -192,6 +196,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     - t-191122
 
 - id: c-174005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

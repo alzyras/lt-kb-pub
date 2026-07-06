@@ -247,6 +247,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23208
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau pergyvenusi
     didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
@@ -268,6 +270,8 @@ Nenurodyta
     - t-75268
 
 - id: c-23210
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Aplink
     AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie
@@ -286,6 +290,8 @@ Nenurodyta
     - t-75270
 
 - id: c-23211
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1991 m. sausio 13-ąją,
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
@@ -306,6 +312,8 @@ Nenurodyta
     - t-75266
 
 - id: c-73106
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
     245

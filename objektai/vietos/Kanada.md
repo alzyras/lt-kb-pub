@@ -168,6 +168,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 ## Citatos
 
 - id: c-67726
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
@@ -186,6 +188,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - t-68041
 
 - id: c-166990
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Baltijos valstybių ir Lenkijos pa-
     bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
@@ -199,6 +203,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - t-183598
 
 - id: c-171593
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mes gi apie tai nieko negalime pasakyti*.
     362

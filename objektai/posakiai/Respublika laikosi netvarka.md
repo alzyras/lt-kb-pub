@@ -78,6 +78,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-00255
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nie-
     kas nesirūpino perorganizuoti valstybės. Laisvės ideologai matė

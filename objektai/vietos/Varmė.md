@@ -435,6 +435,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-87133
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1514.
     374
@@ -466,6 +468,8 @@ media_all_json: |-
     - t-91429
 
 - id: c-87135
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Teutonų
     ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
@@ -486,6 +490,8 @@ media_all_json: |-
     - t-91428
 
 - id: c-87137
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -504,6 +510,8 @@ media_all_json: |-
     - t-91424
 
 - id: c-87139
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     I  KNYGA
     čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­

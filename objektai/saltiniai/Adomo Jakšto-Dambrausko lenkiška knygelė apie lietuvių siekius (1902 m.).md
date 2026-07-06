@@ -81,6 +81,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23720
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dvarininkai, gindamiesi nuo „litvomanijos“,
     vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai ne-

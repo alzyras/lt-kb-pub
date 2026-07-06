@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22926
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos

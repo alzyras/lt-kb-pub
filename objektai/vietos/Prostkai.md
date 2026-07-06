@@ -90,6 +90,8 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
 ## Citatos
 
 - id: c-40338
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšis
     Spalio 8 d. kariuomenės suartėjo ties

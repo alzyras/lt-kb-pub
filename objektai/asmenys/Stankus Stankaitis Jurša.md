@@ -61,6 +61,8 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
 ## Citatos
 
 - id: c-173127
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
     miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai

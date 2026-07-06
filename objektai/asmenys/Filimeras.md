@@ -191,6 +191,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 ## Citatos
 
 - id: c-173032
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -214,6 +216,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
     - t-190149
 
 - id: c-173736
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -233,6 +237,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
     - t-190854
 
 - id: c-173737
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Gerai žinoma gotų ir jų kraštiečių iš Skandinavijos įtaka
     minėtoms tautoms, — tai ne sykį įrodysime šiame vei­

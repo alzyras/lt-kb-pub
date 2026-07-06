@@ -133,6 +133,8 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 ## Citatos
 
 - id: c-83554
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VII, p. 262.'
     49
@@ -155,6 +157,8 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
     - t-87576
 
 - id: c-83555
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įdedame čia trumpą žinutę apie tą
     Snorro ir jo darbus. Snorro S t u r-

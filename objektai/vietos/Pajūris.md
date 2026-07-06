@@ -126,6 +126,8 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
 ## Citatos
 
 - id: c-171927
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rageziowan
     Kęsgailų giminės fetišas.

@@ -139,6 +139,8 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 ## Citatos
 
 - id: c-83577
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žr. IX priedą.
     72
@@ -165,6 +167,8 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
     - t-87598
 
 - id: c-83578
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tokie
     Kazimiero potvarkiai tikrai pagerino ištuštėjusios sostinės

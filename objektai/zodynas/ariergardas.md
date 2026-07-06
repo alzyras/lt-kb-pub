@@ -225,6 +225,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-168713
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Bendras sąjungininkų pralai­
     mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
@@ -249,6 +251,8 @@ media_all_json: |-
     - t-185352
 
 - id: c-168714
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pagraudės žemę nusiaubė, ne-
     N io k o ja m a  L ie tu v a  ir
@@ -275,6 +279,8 @@ media_all_json: |-
     - t-185353
 
 - id: c-168715
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Džiaugėsi Kęstutis, kad atsikeršijo, ir
     jau vedėsi iš Prūsijos karius, prisiplėšusius grobio, ta­
@@ -295,6 +301,8 @@ media_all_json: |-
     - t-185354
 
 - id: c-168716
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to nuvedė
     kariuomenę

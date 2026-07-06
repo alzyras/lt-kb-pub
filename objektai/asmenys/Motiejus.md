@@ -120,6 +120,9 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 ## Citatos
 
 - id: c-64873
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila su ašaromis akyse pasižadėjo išpildyti visus Vytauto
     prašymus ir, visa iš širdies atleisdamas, priminė jam susirūpin­

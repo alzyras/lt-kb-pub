@@ -76,6 +76,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02450
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     „Lietuvių Laikraštis",
     — pats pirmasis lietuviškas laikraštis spaudą atgavus.

@@ -94,6 +94,8 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
 ## Citatos
 
 - id: c-02486
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Juo buvo siūloma iš
     8 Rusijos gubernijų, ku-

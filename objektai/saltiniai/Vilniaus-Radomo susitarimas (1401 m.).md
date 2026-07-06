@@ -126,6 +126,8 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
 ## Citatos
 
 - id: c-67427
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po ilgų derybų, 1401 m. buvo pa-
     siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
@@ -144,6 +146,8 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
     - t-67579
 
 - id: c-67428
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuojau buvo iškeltas klau-
     simas aiškiau sunormuoti Vytauto būklę. Vytautas tam nesiprie-
@@ -161,6 +165,8 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
     - t-67577
 
 - id: c-67429
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vytauto ir Lietuvos bajorų
     dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-

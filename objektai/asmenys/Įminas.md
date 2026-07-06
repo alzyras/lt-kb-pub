@@ -69,6 +69,8 @@ Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai 
 ## Citatos
 
 - id: c-173106
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš Igelonaičių (Igelio palikuo­
     nių. -  R. J.), pusdievių vaikų, išliko tik vienas -  kunigaikštis

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62724
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     16. Apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą
 

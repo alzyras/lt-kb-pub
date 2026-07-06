@@ -66,6 +66,9 @@ Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Mald
 ## Citatos
 
 - id: c-38085
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Be to, šlėkta pasižadėjo jungtis prieš visus tuos, kurie tai elek­
     cijai pasipriešintų arba apskritai keltų neramumus krašte ar už

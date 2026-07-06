@@ -74,6 +74,8 @@ Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
 ## Citatos
 
 - id: c-168638
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
     tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­

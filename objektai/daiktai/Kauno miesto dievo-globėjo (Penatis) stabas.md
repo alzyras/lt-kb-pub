@@ -110,6 +110,8 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
 ## Citatos
 
 - id: c-174929
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš grafo Mykolo
     Kosakovskio, buvusio Lietuvos Didžiosios Kunigaikštystės lauko

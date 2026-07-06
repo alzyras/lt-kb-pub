@@ -138,6 +138,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22307
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Raštinėje sukurti ir kiti LDK raštijos pa-
     minklai – Statutai ir metraščiai, o pirmieji literatai, pavyzdžiui, Mykolas
@@ -156,6 +158,8 @@ Nenurodyta
     - t-19604
 
 - id: c-166692
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Plečiantis centrinės valdžios funkcijoms, pirmojoje XV  a. pusėje
     įsteigtos LDK kanclerio (kanceliarijos viršininko) pareigos, jam pavesta

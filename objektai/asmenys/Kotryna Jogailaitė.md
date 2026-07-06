@@ -187,6 +187,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 ## Citatos
 
 - id: c-83378
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     La­
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
@@ -203,6 +205,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
     - t-87399
 
 - id: c-83379
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
     me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip
@@ -242,6 +246,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
     - t-87401
 
 - id: c-83380
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat turime kai kurių mūsų dvarų, ir
     valdų, mums po kai kurių kilmingų asmenų ten pat, Lietu­

@@ -339,6 +339,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 ## Citatos
 
 - id: c-168699
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė
     teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
@@ -356,6 +358,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     - t-185338
 
 - id: c-168700
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų
@@ -389,6 +393,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     - t-185339
 
 - id: c-168701
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gurguolės, saugomos
     nedidelio būrio, lėtai slinko iš paskos. Kovos pradžia
@@ -410,6 +416,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     - t-185340
 
 - id: c-168702
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tiesa, karalius jį iškvietęs iš vietų, kur gyveno jo pro­
     tėviai, bet juk jam buvę paskirti dideli plotai už Ki­
@@ -428,6 +436,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     - t-185341
 
 - id: c-168703
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Netoliese, toje vietoje, kur Nemunas netrukdo rengti
     išpuolių, įvyko smarkios kautynės, visa apylinkė liko
@@ -447,6 +457,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     - t-185342
 
 - id: c-168704
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     PABAIGA
 

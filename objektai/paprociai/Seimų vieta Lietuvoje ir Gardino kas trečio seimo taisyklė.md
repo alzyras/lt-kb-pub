@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-47269
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu priimtas įstatymas, kad kas trečias sei-
     mas turi būti šaukiamas Lietuvoje, buvo vykdomas iki pat
@@ -128,6 +130,8 @@ Nenurodyta
     - t-67205
 
 - id: c-67214
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
     sienyje. Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš

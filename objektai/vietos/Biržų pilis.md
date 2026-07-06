@@ -87,6 +87,8 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
 ## Citatos
 
 - id: c-40400
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas
     dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)

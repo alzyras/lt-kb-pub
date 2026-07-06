@@ -73,6 +73,8 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
 ## Citatos
 
 - id: c-83748
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,

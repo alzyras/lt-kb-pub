@@ -327,6 +327,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 ## Citatos
 
 - id: c-81974
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
     vo disputais ir raštais spaudęs savo priešininkus, nekan­
@@ -345,6 +347,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-85999
 
 - id: c-81975
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
     KOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS,
@@ -369,6 +373,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-85998
 
 - id: c-81976
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
     Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
@@ -383,6 +389,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-85996
 
 - id: c-81977
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mes cituojame tik tuos, kuriuos
     matėme patys.
@@ -402,6 +410,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-85994
 
 - id: c-81978
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jų pastangos disputuoti su disidentais išties
     pelnė jiems vyskupo ir kapitulos prielankumą. Protasevi­
@@ -417,6 +427,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-85995
 
 - id: c-81979
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono brolijai priklausantiems,
     kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­
@@ -442,6 +454,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-85993
 
 - id: c-81980
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
     lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza

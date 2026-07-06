@@ -73,6 +73,8 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 ## Citatos
 
 - id: c-84056
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IX,
     p. 923, nurodo, kad buvo ugninės

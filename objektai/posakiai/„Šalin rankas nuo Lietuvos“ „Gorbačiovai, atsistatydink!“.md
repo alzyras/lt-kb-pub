@@ -82,6 +82,8 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
 ## Citatos
 
 - id: c-166908
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po 1991 m. sau-
     sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir

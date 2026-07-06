@@ -83,6 +83,8 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
 ## Citatos
 
 - id: c-176910
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šio karaliaus val­
     dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­

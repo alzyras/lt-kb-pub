@@ -199,6 +199,9 @@ Bodzanta Vladislovo vardu.
 ## Citatos
 
 - id: c-78732
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila su savo broliais, Vytautu, kaipo Gardino
     kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti
@@ -214,6 +217,8 @@ Bodzanta Vladislovo vardu.
     - t-82241
 
 - id: c-78733
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stanislovo katedra8. Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
@@ -235,6 +240,8 @@ Bodzanta Vladislovo vardu.
     - t-82242
 
 - id: c-168038
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to vasario 16 dieną, kuri
     paskirta šv. Valentinui, Gnez-

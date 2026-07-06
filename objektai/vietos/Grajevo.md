@@ -89,6 +89,9 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 ## Citatos
 
 - id: c-38497
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkija gavo Niešavo žemę su
     keliais sodžiais ir viena pilimi, o Lietuva — Žemaitiją ir Sūda­

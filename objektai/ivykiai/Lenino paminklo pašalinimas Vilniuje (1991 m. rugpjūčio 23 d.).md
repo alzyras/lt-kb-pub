@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-25401
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę
     tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo. Jauni įvai-

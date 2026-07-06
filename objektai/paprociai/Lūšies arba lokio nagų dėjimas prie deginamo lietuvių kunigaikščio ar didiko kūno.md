@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174983
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rankraš­
     tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:

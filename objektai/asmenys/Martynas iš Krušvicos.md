@@ -68,6 +68,8 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
 ## Citatos
 
 - id: c-61016
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
     staiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,

@@ -85,6 +85,8 @@ Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo
 ## Citatos
 
 - id: c-84022
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­

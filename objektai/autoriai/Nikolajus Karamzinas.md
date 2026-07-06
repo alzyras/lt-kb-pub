@@ -320,6 +320,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 ## Citatos
 
 - id: c-173190
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
     dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
@@ -334,6 +336,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     - t-190307
 
 - id: c-173191
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Trumpiau aiškinant žodžio Perkūnas kilmę iš lotynų
     kalbos, galima teigti, kad jis galėjo būti kilęs iš žodžio percute­
@@ -349,6 +353,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     - t-190308
 
 - id: c-173652
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -367,6 +373,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     - t-190770
 
 - id: c-173653
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dešiniojoje Dnep-
     1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
@@ -380,6 +388,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     - t-190771
 
 - id: c-173654
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     102
     Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų
@@ -397,6 +407,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     - t-190772
 
 - id: c-174780
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Manydami, kad mūsų skaity­
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),
@@ -418,6 +430,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     - t-191898
 
 - id: c-177282
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad jei laimin­
     gas atsitiktinumas leido užklydusiems su gotais į Rytus

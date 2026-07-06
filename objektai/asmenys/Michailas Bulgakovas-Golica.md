@@ -97,6 +97,8 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
 ## Citatos
 
 - id: c-76199
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po Oršos mūšio
     patekęs į nelaisvę, jis joje

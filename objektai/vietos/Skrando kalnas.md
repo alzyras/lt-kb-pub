@@ -93,6 +93,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 ## Citatos
 
 - id: c-59272
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     D.—in monte Scrandonis, Jer.— ûf Schrandinberge — vėliau Srangenbergo piliakalnis
     (HE, p. 146; GAO, p. 163) į pietvakarius nuo Parteinių.
@@ -104,6 +106,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     - t-58641
 
 - id: c-59273
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 

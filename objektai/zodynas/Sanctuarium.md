@@ -76,6 +76,8 @@ Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukš
 ## Citatos
 
 - id: c-82595
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
     mu prie jo, yra apie 160 namų ir dvaras. Pats miestelis dali­

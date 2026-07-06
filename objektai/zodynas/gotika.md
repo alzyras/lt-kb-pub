@@ -117,6 +117,8 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 ## Citatos
 
 - id: c-24840
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vertikalios gotikinių bažnyčių linijos ir ky-
     lantys į dangų bokštai simbolizavo žmogaus veržimąsi Dievo link. XIV a.
@@ -134,6 +136,8 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
     - t-22154
 
 - id: c-24841
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi išsiskyrė du ryškūs akme-
     nų ir plytų (raudonosios) gotikos regionai ir tipai. Į Lietuvą atėjo plytų

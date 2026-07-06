@@ -74,6 +74,8 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
 ## Citatos
 
 - id: c-174652
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     91
     Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­

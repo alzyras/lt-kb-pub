@@ -76,6 +76,8 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
 ## Citatos
 
 - id: c-60888
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     224 Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas
     iŠ Kverfurfo (mir. 1009), vienas pirmųjų misionierių, veikusių prūsų žemėse.

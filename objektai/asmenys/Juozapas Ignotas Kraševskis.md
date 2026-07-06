@@ -121,6 +121,8 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
 ## Citatos
 
 - id: c-172917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Oficialūs atgarsiai į T. Narbuto „Lietu­
     vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
@@ -137,6 +139,8 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
     - t-190034
 
 - id: c-172918
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tada aprengia drabužiais, pritinkančiais luomui ir ly­
     čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša

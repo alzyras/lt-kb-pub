@@ -1077,6 +1077,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 ## Citatos
 
 - id: c-25431
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
     areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
@@ -1093,6 +1095,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77974
 
 - id: c-75281
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
@@ -1114,6 +1118,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77969
 
 - id: c-75282
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nuo 1926 m. rudens opozicija Seime
     ir savo spaudoje vis dažniau pradėjo kalbėti apie komunizmo grėsmę Lie-
@@ -1139,6 +1145,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77973
 
 - id: c-75283
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
@@ -1156,6 +1164,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77968
 
 - id: c-75284
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
     ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
@@ -1177,6 +1187,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77980
 
 - id: c-75285
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atsitokėjusi
     kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
@@ -1196,6 +1208,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77965
 
 - id: c-75286
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Karinėje srityje
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
@@ -1214,6 +1228,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77971
 
 - id: c-75288
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
     būti demokratinė, parlamentinė.
@@ -1235,6 +1251,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77983
 
 - id: c-75289
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“. Tai rodė,
@@ -1251,6 +1269,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77967
 
 - id: c-75290
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be to, Vytautas įkūnijo kiekvienam
     lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
@@ -1271,6 +1291,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77966
 
 - id: c-75291
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
@@ -1285,6 +1307,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77979
 
 - id: c-75292
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
     Vilniaus Rau­donajai armijai, A. Voldemaro vyriausybė neturėjo ginkluo-
@@ -1300,6 +1324,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77985
 
 - id: c-75293
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dauguma kaltinamųjų sakė,
     kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
@@ -1324,6 +1350,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77981
 
 - id: c-75294
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daug žydų buvo laisvųjų profesijų
     darbuotojų – 42 proc. gydytojų, kiek mažiau advokatų, meno žmonių,
@@ -1345,6 +1373,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77976
 
 - id: c-75295
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tautininkai, susitarę su krikščionių demokratų bloku,
     vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruo-
@@ -1360,6 +1390,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77977
 
 - id: c-75296
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     161
@@ -1380,6 +1412,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77970
 
 - id: c-75297
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Konstitucija sergėjo valstybinį lietuvių
     kalbos statusą, pasisakė prieš mažumų menkinimą ir persekiojimą, ragi-
@@ -1400,6 +1434,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77978
 
 - id: c-75298
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
     žimas, nors ir dėl visai skirtingų priežasčių.
@@ -1417,6 +1453,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77972
 
 - id: c-75299
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
     tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
@@ -1438,6 +1476,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-77984
 
 - id: c-75300
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,

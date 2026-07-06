@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83164
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir tegu taip pat bus
     leista jam pačiam ir po jo visiems jo palikuonims tų'aukš-

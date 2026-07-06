@@ -83,6 +83,8 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
 ## Citatos
 
 - id: c-44545
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusų karvedys V. B. Seremetjevas (apie
 

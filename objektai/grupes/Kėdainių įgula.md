@@ -109,6 +109,8 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
 ## Citatos
 
 - id: c-75492
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Neturintys kovos patirties savanoriai, drą-
     sinami būrių vadų, nepakriko ir laikėsi.
@@ -127,6 +129,8 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
     - t-78194
 
 - id: c-75493
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tai pakėlė ūpą ir pasijutę stipresni, savano-
     riai vėl grįžo į Kėdainius, pasiryžę iš jų ne-

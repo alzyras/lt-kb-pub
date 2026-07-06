@@ -105,6 +105,8 @@ Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuv
 ## Citatos
 
 - id: c-176766
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mūsų išvados, susiklosčiusios ruošiant Bychovco
     kronikos vertimą į lietuvių kalbą, patvirtina spėjimus,
@@ -124,6 +126,8 @@ Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuv
     - t-194153
 
 - id: c-176767
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 5  Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios
     Vislos niekada nesiekė.

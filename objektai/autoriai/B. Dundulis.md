@@ -236,6 +236,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 ## Citatos
 
 - id: c-03976
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Drauge čia paliečiame, kaip vystėsi _Lietuvos isto­
     rijos mokslas_ jos aukštosiose mokyklose, ypač nepriklausomoje
@@ -253,6 +255,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - t-71509
 
 - id: c-03977
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     K. Sideravičius: _Nuo Durbės iki Žal­
     girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
@@ -268,6 +272,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - t-71508
 
 - id: c-70073
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.;** **_Deutsche Reichstags­
     akten_** **, hgg. D. Kerler, B, VII, 1878, 399 p. — Plg. B. Dundulis :** **_Lietuvos
@@ -283,6 +289,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - t-71511
 
 - id: c-70074
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Berlin 1914. — Dundulis, B. :
     _Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo
@@ -299,6 +307,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - t-71510
 
 - id: c-70077
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
     1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­
@@ -313,6 +323,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - t-71508
 
 - id: c-176504
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va­
     dovaujami, griežtai priešinosi lenkams, reikalaujantiem s pilnutinai

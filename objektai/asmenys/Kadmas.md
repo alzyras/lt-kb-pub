@@ -77,6 +77,8 @@ Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias s
 ## Citatos
 
 - id: c-173052
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,

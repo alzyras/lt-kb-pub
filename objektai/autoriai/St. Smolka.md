@@ -133,6 +133,8 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 ## Citatos
 
 - id: c-55079
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Prochaska, A. : _Upadek Kiejstuta_ , KH, t. 23, 1909, 493-
     506 p. — Semkowicz, Wb.: _Hanul, namiestnik wileński i jego ród_ , AW,
@@ -148,6 +150,8 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
     - t-54137
 
 - id: c-55080
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jeigu anksčiau stambesni vidaus nesutikimai
     (pvz., po Mindaugo ir Gedimino mirties) buvo sutvarkomi be jokio

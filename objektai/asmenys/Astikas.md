@@ -93,6 +93,8 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 ## Citatos
 
 - id: c-169543
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais. Manvydas susitarė su

@@ -72,6 +72,8 @@ Dusburgietis teigia, kad potkowski E.
 ## Citatos
 
 - id: c-61868
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm
     średniowieczny, Warszawa, 1977, s. 9— 106.

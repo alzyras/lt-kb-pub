@@ -99,6 +99,8 @@ Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vysk
 ## Citatos
 
 - id: c-169694
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo
     tarpu žodiškai pasiuntiniams įsakė kurstyti Vytautą vi­

@@ -116,6 +116,8 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 ## Citatos
 
 - id: c-44964
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     O šiandien įžvalgiausias 11 Pa-
     saulinio karo istorikas Markas Soloninas sako: negalima žudyti
@@ -138,6 +140,8 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
     - t-41469
 
 - id: c-44965
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taigi 1792 m. liepos 23-iosios situacija akivaizdžiai dramatiš-
     kumu primena Lietuvos visuomenei daugiau žinomą 1940 m. bir-

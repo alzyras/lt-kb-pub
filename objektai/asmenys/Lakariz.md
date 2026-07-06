@@ -83,6 +83,8 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
 ## Citatos
 
 - id: c-174319
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     84
 

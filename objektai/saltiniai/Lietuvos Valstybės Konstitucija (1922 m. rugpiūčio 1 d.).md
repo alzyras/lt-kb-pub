@@ -78,6 +78,8 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
 ## Citatos
 
 - id: c-67353
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Konstitucija. Galu-
     tinė konstitucija buvo

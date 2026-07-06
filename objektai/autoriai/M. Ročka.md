@@ -90,6 +90,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84009
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­
     nėms miestuose, vietovėse bei kaimuose, kur tik kuriam nors

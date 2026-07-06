@@ -138,6 +138,8 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
 ## Citatos
 
 - id: c-31941
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vy­
     tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
@@ -152,6 +154,8 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     - t-72796
 
 - id: c-46441
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Astravos**
         **sutartis (1392 m.)**

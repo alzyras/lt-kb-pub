@@ -953,6 +953,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16625
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tik drąsiausi ir nebebijantys teismų, areštų, kalėjimo
     ėjo į atvirą konfrontaciją su sovietų režimu. Kol kas jų buvo mažuma.
@@ -968,6 +970,8 @@ Nenurodyta
     - t-13469
 
 - id: c-16626
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LLL buvo paskutinė rezistencijos organizacija, kuri brežnevi-
     nės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią. So-
@@ -987,6 +991,8 @@ Nenurodyta
     - t-13470
 
 - id: c-16629
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
     temos keitimą, o tautiniu klausimu
@@ -1007,6 +1013,8 @@ Nenurodyta
     - t-13473
 
 - id: c-16631
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
     iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
@@ -1025,6 +1033,8 @@ Nenurodyta
     - t-26805
 
 - id: c-16632
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Spalio 21 dieną LKP CK pirmuoju sekre-
     toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
@@ -1045,6 +1055,8 @@ Nenurodyta
     - t-13476
 
 - id: c-16633
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
     kad LPS remia SSRS vadovybės pradėtas reformas.
@@ -1061,6 +1073,8 @@ Nenurodyta
     - t-13477
 
 - id: c-16634
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagaliau 1989 m. gruodį,
     veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
@@ -1082,6 +1096,8 @@ Nenurodyta
     - t-13478
 
 - id: c-16635
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nebeliko nė vienos politinės gijos, kuri
     galėtų laikyti Lietuvą pririštą prie SSRS.
@@ -1103,6 +1119,8 @@ Nenurodyta
     - t-26809
 
 - id: c-22559
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kritiškai mąstantys
     ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo
@@ -1121,6 +1139,8 @@ Nenurodyta
     - t-13471
 
 - id: c-22560
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Giedrius Reimeris, Algimantas
     Nasvytis)
@@ -1141,6 +1161,8 @@ Nenurodyta
     - t-13472
 
 - id: c-22561
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kadangi iniciatyvinę
     grupę sudarė visoje šalyje žinomi in-
@@ -1158,6 +1180,8 @@ Nenurodyta
     - t-13474
 
 - id: c-22564
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sąjūdžio ženklas su Gedimino stulpais
     (dail. Giedrius Reimeris, Algimantas
@@ -1176,6 +1200,8 @@ Nenurodyta
     - t-23309
 
 - id: c-22565
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tokie jaunimo muzikos koncertų žygiai per Lietuvą
     vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
@@ -1188,6 +1214,8 @@ Nenurodyta
     - t-23310
 
 - id: c-95022
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LPS tapo dar populiaresnis,
     kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
@@ -1205,6 +1233,8 @@ Nenurodyta
     - t-26804
 
 - id: c-95026
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     So-
     vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
@@ -1225,6 +1255,8 @@ Nenurodyta
     - t-26802
 
 - id: c-95027
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kol kas jų buvo mažuma.
     Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
@@ -1240,6 +1272,8 @@ Nenurodyta
     - t-26801
 
 - id: c-95029
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
@@ -1260,6 +1294,8 @@ Nenurodyta
     - t-26806
 
 - id: c-95030
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nuo šiol organi-
     zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
@@ -1278,6 +1314,8 @@ Nenurodyta
     - t-26807
 
 - id: c-166550
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietu-
     vos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat
@@ -1297,6 +1335,8 @@ Nenurodyta
     - t-26810
 
 - id: c-166551
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1976
     susikuria Helsinkio grupė.

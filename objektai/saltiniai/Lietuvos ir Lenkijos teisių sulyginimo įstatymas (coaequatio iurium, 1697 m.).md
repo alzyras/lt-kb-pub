@@ -77,6 +77,8 @@ Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūki
 ## Citatos
 
 - id: c-02469
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Buvo pa-
     leistas šūkis suvaržyti hetmono teisę iš vienos vietos į kitą

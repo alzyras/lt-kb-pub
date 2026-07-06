@@ -68,6 +68,8 @@ Draugijos narių leidžiamas humoristinis laikraštis Wiadomości brukowe (Grind
 ## Citatos
 
 - id: c-84486
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Draugijos narių leidžiamas
     humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),

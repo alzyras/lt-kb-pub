@@ -71,6 +71,8 @@ Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas i
 ## Citatos
 
 - id: c-173333
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vilniaus miesto senovinis herbas
     41 pav. Prūsų tautinė vėliava, vaizduojanti tris dievus -  Poklių,

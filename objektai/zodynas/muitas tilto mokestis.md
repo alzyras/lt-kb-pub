@@ -178,6 +178,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 ## Citatos
 
 - id: c-82406
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mes į jo vietą garbingąjį
     Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
@@ -215,6 +217,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     - t-86429
 
 - id: c-82407
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nuo
     šio muito arba mokesčio minėtam Ulrikui Hozijui leidome
@@ -237,6 +241,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     - t-86428
 
 - id: c-82408
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad tokiai prie­
     glaudai ir joje gyvenantiems vargšams mes karališkąja malo­

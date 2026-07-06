@@ -114,6 +114,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-05503
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Padėtis tačiau
     pamažu keitėsi Lietuvos nenaudai, kai Maskvos kunigaikščiai ėmė
@@ -133,6 +135,8 @@ media_all_json: |-
     - t-05384
 
 - id: c-05504
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^14) **SRP, II, 80 p. (« Omnis Russia ad Letwinos deberet simpliciter
     pertinere »).**

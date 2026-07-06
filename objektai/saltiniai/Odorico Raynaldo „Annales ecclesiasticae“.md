@@ -68,6 +68,8 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
 ## Citatos
 
 - id: c-173435
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kad nuramintume žmoniškumo gynėjus, turime
     16

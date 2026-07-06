@@ -72,6 +72,8 @@ Dusburgietis teigia, kad manteuffel T.
 ## Citatos
 
 - id: c-61788
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Manteuffel T. Papiestwo i cystersi ze szczególnym uwzględnieniem ich roli w  Polsce
     na przełomie XII i XIII w.— Warszawa, 1955.

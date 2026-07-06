@@ -74,6 +74,9 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
 ## Citatos
 
 - id: c-38142
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar tam „jaunam karaliui“ reikėjo paieškoti atitinkamo
     vyro. Nors ji ir buvo sužieduota dar kūdikystėj (4 metų) su

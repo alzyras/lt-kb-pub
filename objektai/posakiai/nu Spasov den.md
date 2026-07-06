@@ -76,6 +76,8 @@ Liturginiu kalendoriumi grindžiamas laiko nusakymas.
 ## Citatos
 
 - id: c-170077
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     3 3  Pagal Lietuvos metraščių TS nuorašus Švitrigailos kariuome­
     nė apgulė Trakus „nu Spasov den". t. y . VIII. 18.

@@ -80,6 +80,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177213
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
     nikininkai specialistai to neaprašo, tik priduria, kad senais lai­

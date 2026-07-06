@@ -227,6 +227,8 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
 ## Citatos
 
 - id: c-168825
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Staigiai ir be var­
     go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
@@ -255,6 +257,8 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
     - t-185464
 
 - id: c-168826
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuviai, kelerius metus vengę niokoti to­
     limesnius Mazovijos pakraščius, dabar, be kliūčių kaip
@@ -286,6 +290,8 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
     - t-185465
 
 - id: c-168827
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų

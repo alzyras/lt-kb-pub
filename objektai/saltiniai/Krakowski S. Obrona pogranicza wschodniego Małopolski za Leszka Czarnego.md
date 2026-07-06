@@ -66,6 +66,8 @@ Dusburgietis teigia, kad krakowski S.
 ## Citatos
 
 - id: c-61737
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Krakowski S. Obrona pogranicza wschodniego Małopolski za Leszka Czarnego.—
     Zeszyty naukowe Uniw. Łódzkiego. Seria 1: Nauki humanistyczno społeczne. Historia,

@@ -68,6 +68,8 @@ Kiaupa Z., Kiaupienė J., Kuncevičius A.
 ## Citatos
 
 - id: c-75390
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before
     1795 / [translated by Irena Zujienė ... [et al.]. Vilnius, 2000.

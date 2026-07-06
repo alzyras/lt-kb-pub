@@ -76,6 +76,8 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
 ## Citatos
 
 - id: c-174313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,

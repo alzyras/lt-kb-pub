@@ -80,6 +80,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09958
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Todėl šiandien dar jaunas žemaitis, jei
         negali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,

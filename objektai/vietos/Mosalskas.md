@@ -98,6 +98,8 @@ Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų 
 ## Citatos
 
 - id: c-170321
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     6 Serpeiskas — Smolensko žemės miestas (apie 200 km | ry­
     tus nuo Smolensko, dabar RTFSR Kalugos srities miestas), seniau

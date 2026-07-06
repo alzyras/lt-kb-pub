@@ -74,6 +74,8 @@ Narbutas Hypetres, arba Subdiales, vadina atviras antikos apeigų ir pasitarimų
 ## Citatos
 
 - id: c-172185
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šventasis raštas ne kartą mi­
     ni aukų kalnus.

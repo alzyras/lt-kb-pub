@@ -95,6 +95,8 @@ Janas Filipovičius cituojamoje Lietuvos Metrikos archyvo sąrašo ištraukoje v
 ## Citatos
 
 - id: c-82511
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet, kai totoriai didele
     *

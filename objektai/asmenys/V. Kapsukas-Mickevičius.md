@@ -70,6 +70,8 @@ Kapsukas-Mickevičius.
 ## Citatos
 
 - id: c-44548
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     rusų bei lietuvių kalbomis, pasveikino ir
     palydėjo „buržujų“ mušti pats „Lietuvos

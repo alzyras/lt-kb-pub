@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-28736
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą
     anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga

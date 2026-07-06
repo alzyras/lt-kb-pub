@@ -95,6 +95,9 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
 ## Citatos
 
 - id: c-37491
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Sąjungininkai sustojo ties Laubner ežeru. Čia
     karalius įsitaisė palapinę pamaldoms. Ir kai karalius ėjo mels­
@@ -109,6 +112,9 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
     - t-36349
 
 - id: c-167680
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Netrukus
     nusigiedrijo. Sąjungininkai sustojo ties Laubner ežeru. Čia

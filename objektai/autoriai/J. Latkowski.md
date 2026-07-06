@@ -93,6 +93,8 @@ Latkowski, Mendog król lit.
 ## Citatos
 
 - id: c-30574
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia
     gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­

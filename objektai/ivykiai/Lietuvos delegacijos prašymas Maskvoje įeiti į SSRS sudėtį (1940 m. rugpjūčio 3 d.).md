@@ -183,6 +183,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23025
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Buvo nacionalizuoti
     bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
@@ -199,6 +201,8 @@ Nenurodyta
     - t-183238
 
 - id: c-23026
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
     Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų

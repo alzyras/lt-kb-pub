@@ -251,6 +251,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 ## Citatos
 
 - id: c-83499
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Toks didžio­
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
@@ -310,6 +312,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - t-87520
 
 - id: c-83500
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
@@ -325,6 +329,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - t-87521
 
 - id: c-168074
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nieko nepešę, kara­
     liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
@@ -346,6 +352,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - t-184713
 
 - id: c-176538
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO
     VAŠIUEVlCi AUS KARĄ SU SAVO ŽENTU, LIETUVOS

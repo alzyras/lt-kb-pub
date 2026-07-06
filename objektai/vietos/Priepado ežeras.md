@@ -96,6 +96,8 @@ Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo įrengtas prie eže
 ## Citatos
 
 - id: c-45287
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ruošdamiesi šturmui iš
     suimtų partizanų rusai buvo surinkę pakankamai informa-

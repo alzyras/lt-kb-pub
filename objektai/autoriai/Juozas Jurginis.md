@@ -162,6 +162,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 ## Citatos
 
 - id: c-167829
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     BBK-63.3(2L)
     Vi-109
@@ -191,6 +193,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
     - t-186443
 
 - id: c-169795
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,

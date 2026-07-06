@@ -71,6 +71,8 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
 ## Citatos
 
 - id: c-174527
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš išlikusių žinių galima teigti, jog jie
     nepriklausę mongolams. Rusų ¡pulkininkas Herberis ap­

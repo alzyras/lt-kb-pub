@@ -152,6 +152,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169215
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Va­
     žis
@@ -184,6 +186,8 @@ Nenurodyta
     - t-185854
 
 - id: c-169216
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lenkijos reikalai kvietė karalių
     važiuoti iš Lietuvos, artėjo žiema, netinkamas laikas

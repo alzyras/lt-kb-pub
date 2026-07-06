@@ -112,6 +112,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-91756
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Žr. LE, t. 36, 384-385 p.**
     (^103) **Tuo tarpu apie grublėtąją keramiką Lietuvoje rašė Y. Daugudis

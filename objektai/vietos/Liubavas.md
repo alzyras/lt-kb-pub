@@ -67,6 +67,8 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
 ## Citatos
 
 - id: c-40308
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Užmaskavę pėdsakus |... Ih
     pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras. Tikėjom, jog rusams

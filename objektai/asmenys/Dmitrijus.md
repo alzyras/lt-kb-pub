@@ -95,6 +95,8 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 ## Citatos
 
 - id: c-44319
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Proga atsiimti Smolenską atsirado
     XVII a. pradžioje, kai mirus abiems Iva-

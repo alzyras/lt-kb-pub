@@ -77,6 +77,8 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
 ## Citatos
 
 - id: c-77384
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Maurikijaus ir jo draugų kankinių dieną patys
     lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).

@@ -75,6 +75,9 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
 ## Citatos
 
 - id: c-38567
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
     tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar

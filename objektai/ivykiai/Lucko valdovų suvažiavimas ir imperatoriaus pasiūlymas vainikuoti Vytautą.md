@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176675
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     6 Lietuvos m etraštis i!3
 

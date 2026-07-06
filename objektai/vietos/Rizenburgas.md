@@ -82,6 +82,8 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 ## Citatos
 
 - id: c-59348
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     61. Apie Rizenburgo pilies bei miesto pastatymą
 

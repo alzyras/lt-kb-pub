@@ -108,6 +108,8 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
 ## Citatos
 
 - id: c-61079
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
     mokinys bei pamokslininkų ordino vienuolis (Ptol. 22,18—20), vėliau popiežiaus Jono
@@ -124,6 +126,8 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
     - t-60447
 
 - id: c-167519
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Atsisakęs Regensburgo vyskupystės,  jis 18
     metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties

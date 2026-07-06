@@ -115,6 +115,8 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 ## Citatos
 
 - id: c-156446
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Patruliui priskirtas kulkosvaidis
     su 5 vokiečių kulkosvaidininkais ir dviem
@@ -131,6 +133,8 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     - t-172013
 
 - id: c-156447
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Raudonarmiečiai
     ėmė trauktis. Tačiau kitą akimirką į žval-

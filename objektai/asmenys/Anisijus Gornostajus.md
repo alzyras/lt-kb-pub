@@ -92,6 +92,8 @@ Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titu
 ## Citatos
 
 - id: c-169542
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to Lietuvos senate
     ilgokai tarėsi, ką daryti: ar

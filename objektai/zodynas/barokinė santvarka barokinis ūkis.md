@@ -107,6 +107,8 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 ## Citatos
 
 - id: c-166796
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
     tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė

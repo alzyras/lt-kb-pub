@@ -84,6 +84,8 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
 ## Citatos
 
 - id: c-83743
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Poznanė dar anksčiau už Krokuvą - 1253 metais,
     Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­

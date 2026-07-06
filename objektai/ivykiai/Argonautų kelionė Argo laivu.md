@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173921
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Prikso sūnus Argas pirmasis susiruošė į ke­
     lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,

@@ -98,6 +98,8 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 ## Citatos
 
 - id: c-82170
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
     aprimę, karalius savo sprendimu atleido Vilniaus gyvento­

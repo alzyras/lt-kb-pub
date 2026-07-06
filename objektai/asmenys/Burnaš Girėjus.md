@@ -82,6 +82,8 @@ Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Sim
 ## Citatos
 
 - id: c-169550
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mengli Girėjaus kariai, veda­
     mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­

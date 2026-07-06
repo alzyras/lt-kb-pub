@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177209
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Religija suteikdavo kriviams valdžią tam
     tikroje apygardoje, apskrityje arba vėliavoje; jam buvo paval­

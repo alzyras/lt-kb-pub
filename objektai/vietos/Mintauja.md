@@ -95,6 +95,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 ## Citatos
 
 - id: c-45218
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šios Sapiegų kariuomenės
     dalies gynyba neleido respubliko-

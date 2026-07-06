@@ -72,6 +72,8 @@ Medžiojnomis Narbutas vadina miško nimfas, globojusias tankmes ir, jo aiškini
 ## Citatos
 
 - id: c-172197
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Medziojna (Medziojna)
     Taip nuo žodžio Medžios -  tankus miškas vadinosi miško

@@ -78,6 +78,8 @@ Werminghoee, A.
 ## Citatos
 
 - id: c-33756
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (tas pat
     su papildymais : LASD, III, 1940, 315-319 p.). — Werminghoee, A. :

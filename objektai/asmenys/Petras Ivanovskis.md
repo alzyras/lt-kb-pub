@@ -88,6 +88,8 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
 ## Citatos
 
 - id: c-83805
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mačiau originalų raštą ar­
     ba pakvitavimą, rašytą karalienės

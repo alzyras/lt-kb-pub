@@ -86,6 +86,8 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 ## Citatos
 
 - id: c-59575
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
     tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau

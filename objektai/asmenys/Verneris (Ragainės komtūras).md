@@ -118,6 +118,8 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
 ## Citatos
 
 - id: c-61093
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vieną brolių karo laivą
 

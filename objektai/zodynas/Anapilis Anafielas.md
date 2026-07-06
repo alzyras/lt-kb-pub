@@ -69,6 +69,8 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
 ## Citatos
 
 - id: c-172162
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Padavimų apie pobūvio vietą po mirties būta tokių . Yra
     labai aukštas kalnas, stati neprieinama uola, vadinama Ana­

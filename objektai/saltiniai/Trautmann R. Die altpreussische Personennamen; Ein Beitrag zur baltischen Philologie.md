@@ -65,6 +65,8 @@ Dusburgietis teigia, kad trautmann R.
 ## Citatos
 
 - id: c-61957
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Trautmann  R.  Die  altpreussische Personennamen;  Ein  Beitrag  zur  baltischen
     Philologie.— Göttingen, 1925.

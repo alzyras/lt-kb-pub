@@ -383,6 +383,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 ## Citatos
 
 - id: c-163398
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
     Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,
@@ -395,6 +397,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-179741
 
 - id: c-163400
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Taigi šitaip dievas nubaudė
     savo tautą ir paniekino jos paveldą. Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
@@ -413,6 +417,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-179745
 
 - id: c-163402
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
     nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
@@ -435,6 +441,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-179740
 
 - id: c-163404
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
     feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
@@ -453,6 +461,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-179744
 
 - id: c-163406
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
     Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
@@ -478,6 +488,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-179743
 
 - id: c-163407
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     77. Apie Akono miesto sugriovimą
 
@@ -493,6 +505,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-179742
 
 - id: c-163408
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
                                                  trą

@@ -71,6 +71,8 @@ Po mūšio Kitą dieną po kautynių Mykolas Radvila Rudasis laiške savo pusbro
 ## Citatos
 
 - id: c-40844
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po mūšio
 

@@ -120,6 +120,8 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 ## Citatos
 
 - id: c-44450
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lenkija ir Lietuva
     buvo vaizduojamos kaip Europos forpostas
@@ -138,6 +140,8 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
     - t-40325
 
 - id: c-176418
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Danija paskelbė Norvegiją
     savo provincija.

@@ -910,6 +910,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 ## Citatos
 
 - id: c-170429
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
     tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
@@ -927,6 +929,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-187452
 
 - id: c-170430
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     nikos („rusiško metraščio") variantą tame pačiame
     Gardino-Volkovysko krašte, kunigaikščių Zaslavskių
@@ -947,6 +951,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-187451
 
 - id: c-171475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
@@ -962,6 +968,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188586
 
 - id: c-171476
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toje vietoje jai bu­
     vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
@@ -979,6 +987,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188587
 
 - id: c-171477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atnašaudavo alaus, duonos
     ir įvairių valgių, kuriuos padėdavo nakčiai po alyvų krūmais.
@@ -994,6 +1004,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188588
 
 - id: c-171479
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Gyvatė (Giwojte)
     Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
@@ -1010,6 +1022,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188590
 
 - id: c-171480
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
     medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
@@ -1022,6 +1036,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188591
 
 - id: c-171481
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Skulptorių ir dailininkų stoką atstojo vaiz­
     243
@@ -1039,6 +1055,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188592
 
 - id: c-171482
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviams buvo žinomas dievinamų asmenų stabų staty­
     mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
@@ -1052,6 +1070,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188593
 
 - id: c-171483
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Plačios lygumos, užliejamos dvie­
     jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
@@ -1066,6 +1086,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188594
 
 - id: c-171484
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Saulės tekėjimas buvo aukų atnašavimo
     laikas*.
@@ -1082,6 +1104,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188595
 
 - id: c-171485
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis ugnies krikštas, arba apsivalymas
     panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
@@ -1099,6 +1123,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188596
 
 - id: c-171486
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     402
 
@@ -1120,6 +1146,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-188597
 
 - id: c-173536
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -1143,6 +1171,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-190653
 
 - id: c-173805
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš visų spausdintų
     verčiausias yra vienas Strijkovskis**, po to — prūsų ir
@@ -1166,6 +1196,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-190923
 
 - id: c-173806
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Latvių, arba
     Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
@@ -1184,6 +1216,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-190924
 
 - id: c-173807
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mūsų kronikinin­
     kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
@@ -1202,6 +1236,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-190925
 
 - id: c-173808
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau esama sunku­
     mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
@@ -1227,6 +1263,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-190926
 
 - id: c-173809
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     115
     Strijkovskis savo amžiuje dar girdėjo apie likučius
@@ -1248,6 +1286,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - t-190927
 
 - id: c-177112
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
     pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­

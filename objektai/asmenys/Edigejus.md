@@ -91,6 +91,8 @@ Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, 
 ## Citatos
 
 - id: c-169559
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     399
 

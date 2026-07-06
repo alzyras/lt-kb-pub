@@ -75,6 +75,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01416
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).

@@ -151,6 +151,8 @@ Vilniaus miesto amatininkų cechas.
 ## Citatos
 
 - id: c-55902
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IV  KNYGA
     Steponas, Dievo malone Lenkijos karalius, didysis Lie­
@@ -178,6 +180,8 @@ Vilniaus miesto amatininkų cechas.
     - t-55092
 
 - id: c-55903
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visa tai darė
     negerbdamas privilegijų, leistų minėtam cechui, kaip visa

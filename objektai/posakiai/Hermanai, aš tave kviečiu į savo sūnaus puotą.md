@@ -89,6 +89,8 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 ## Citatos
 
 - id: c-59728
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     85 (82). Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
 

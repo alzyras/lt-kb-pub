@@ -161,6 +161,8 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
 ## Citatos
 
 - id: c-173178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
@@ -174,6 +176,8 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     - t-190295
 
 - id: c-173179
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
     kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
@@ -188,6 +192,8 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     - t-190296
 
 - id: c-173180
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Francua Žozefo Noelio (1751-1841), prancūzų po­
     litinio veikėjo ir mokslininko, veikalas (Noel Fran­

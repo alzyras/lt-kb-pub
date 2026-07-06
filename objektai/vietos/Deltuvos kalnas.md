@@ -69,6 +69,8 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
 ## Citatos
 
 - id: c-171875
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviams buvo žinomas dievinamų asmenų stabų staty­
     mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-

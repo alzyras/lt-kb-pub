@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02081
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     lyginti su kitų Rusijos sričių mokesčiais. Patsai Oginskis dėl to
     pasidarė populiariu bajorijos vadu. Jis pats tuo tarpu pradėjo

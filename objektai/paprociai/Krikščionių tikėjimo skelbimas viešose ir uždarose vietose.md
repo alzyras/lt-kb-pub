@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169237
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sugrįžęs iš Maskvos žygio, Algirdas, gal
     paskatintas nepaprastai žiauraus nusikaltimo, gal dėl

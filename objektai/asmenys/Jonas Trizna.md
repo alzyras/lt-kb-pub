@@ -73,6 +73,8 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
 ## Citatos
 
 - id: c-169476
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Netoliese, toje vietoje, kur Nemunas netrukdo rengti
     išpuolių, įvyko smarkios kautynės, visa apylinkė liko

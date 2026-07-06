@@ -116,6 +116,9 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
 ## Citatos
 
 - id: c-35536
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šie Vytauto nedraugingi žygiai Lenkijos atžvilgiu negalėjo
     nepasiekti Krokuvos ausų. Vytautą už tai pradėjo įtarinėti neiš­
@@ -130,6 +133,9 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
     - t-34311
 
 - id: c-167632
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo aiškus nepasitikėjimas Lenkija, ku­
     riai buvo Vilniaus aktu pažadėta kunigaikštienės dalis po jos

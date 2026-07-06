@@ -248,6 +248,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šią
     liesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus
@@ -268,6 +270,8 @@ Nenurodyta
     - t-191012
 
 - id: c-173895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kai didysis kunigaikštis Jaroslavas užkariavo Červenės
     slavus, o ypač po savo žygio į Lenkiją, — jo metu jis
@@ -293,6 +297,8 @@ Nenurodyta
     - t-191013
 
 - id: c-173896
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tas pats Jaroslavas 1041
     metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
@@ -312,6 +318,8 @@ Nenurodyta
     - t-191014
 
 - id: c-174751
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad

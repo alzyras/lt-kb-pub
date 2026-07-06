@@ -277,6 +277,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 ## Citatos
 
 - id: c-64412
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tas prane-
     šimas yra išlikęs iki mūsų laikų.
@@ -293,6 +295,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - t-63357
 
 - id: c-171375
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Paga­
     liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
@@ -312,6 +316,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - t-188485
 
 - id: c-171376
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
     iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
@@ -330,6 +336,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - t-188486
 
 - id: c-173701
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Aprašinėdamas
     prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
@@ -348,6 +356,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - t-190819
 
 - id: c-173702
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Daugiausiai dėmesio vertas šios
     provincijos prekybinis miestas Trusas prie Drūsinės eže­
@@ -365,6 +375,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - t-190820
 
 - id: c-174793
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia irgi nestigo ponų, turėjusių savaran­
     kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;

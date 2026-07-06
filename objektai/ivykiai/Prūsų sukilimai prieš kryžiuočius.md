@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02020
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Daug kryžiuočių jos tuomet išžudė, daug or-
     dino pilių išgriovė; nepajėgė išgriauti tik pačių stipriųjų pilių.

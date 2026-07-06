@@ -75,6 +75,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Citatos
 
 - id: c-83897
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­
     kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie

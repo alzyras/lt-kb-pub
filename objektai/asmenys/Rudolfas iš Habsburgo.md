@@ -140,6 +140,8 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 ## Citatos
 
 - id: c-60829
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     55. Apie Rudolfo išrinkimą Romos karaliumi
 
@@ -154,6 +156,8 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
     - t-60198
 
 - id: c-60830
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių
 

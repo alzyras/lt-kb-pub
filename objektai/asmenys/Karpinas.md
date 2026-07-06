@@ -87,6 +87,8 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
 ## Citatos
 
 - id: c-174310
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čingischano va­
     dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­

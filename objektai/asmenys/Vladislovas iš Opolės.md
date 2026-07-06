@@ -136,6 +136,9 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
 ## Citatos
 
 - id: c-36545
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
     klausančias jo suverenitetui ir būdamas valdovas savo vasalo
@@ -150,6 +153,9 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
     - t-93549
 
 - id: c-88886
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tą žemę Kazimieras III buvo atidavęs
     Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
@@ -165,6 +171,9 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
     - t-93547
 
 - id: c-88887
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Be šito Lenkijai atsirado dar naujas pavojus. Tas pats
     Vladislovas iš Opolės buvo pasiūlęs Vengrų karaliui, Mozūrijos,

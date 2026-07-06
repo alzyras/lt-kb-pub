@@ -70,6 +70,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-38370
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tik kai kurie lietuviai, mo­
     kėjusieji kalbėti rusiškai, galėjo be vertėjų pagalbos mažiau ar

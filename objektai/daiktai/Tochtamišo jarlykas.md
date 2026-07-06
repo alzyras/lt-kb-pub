@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31010
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1393.
     V.20 d. jis siuntė Jogailai savo garsųjį «jarlyką » (raštą), kviesda­

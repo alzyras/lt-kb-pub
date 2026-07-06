@@ -597,6 +597,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 ## Citatos
 
 - id: c-107349
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     151 (146). Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
 
@@ -613,6 +615,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-116517
 
 - id: c-107350
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
     artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
@@ -631,6 +635,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-116519
 
 - id: c-107351
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
 
@@ -648,6 +654,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-116518
 
 - id: c-107352
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
 
@@ -668,6 +676,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-116520
 
 - id: c-107353
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -686,6 +696,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-116516
 
 - id: c-171688
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
@@ -704,6 +716,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-188799
 
 - id: c-171689
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šie sakė, kad aukštieji dievai užsiundę tas
     piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
@@ -720,6 +734,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-188800
 
 - id: c-175485
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     257
     Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
@@ -734,6 +750,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-192715
 
 - id: c-175486
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia buvo senovinės Grevožės,
     Probuto ir kitos pilys. Rytuose ji ribojosi su Pagude ir
@@ -749,6 +767,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-192716
 
 - id: c-175487
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Atėjus kryžiuočiams, visos šios tvirtovės ir
     pilys visame Kulme ir Lubavoje buvo visiškai sunaikin­
@@ -768,6 +788,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-192717
 
 - id: c-175488
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
     vietinis Krivis.

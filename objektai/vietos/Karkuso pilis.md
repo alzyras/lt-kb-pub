@@ -118,6 +118,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 ## Citatos
 
 - id: c-59196
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
     Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
@@ -130,6 +132,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     - t-58564
 
 - id: c-59197
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos

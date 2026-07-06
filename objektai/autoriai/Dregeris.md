@@ -103,6 +103,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 ## Citatos
 
 - id: c-174519
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Aiškiausiai apie tai kalba
     Sambijos vyskupo Henriko sutartis, paminėta Dregerio*
@@ -119,6 +121,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
     - t-191637
 
 - id: c-174520
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Beje, šiandien nelengva atrasti
     visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.

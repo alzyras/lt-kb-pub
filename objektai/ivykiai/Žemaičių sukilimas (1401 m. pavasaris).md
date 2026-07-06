@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31404
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pabėgusieji, kurių buvo skaičiuojama apie
     keturis tūkstančius, nebuvo grąžinti, o pačiuose Žemaičiuose 1401

@@ -115,6 +115,8 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
 ## Citatos
 
 - id: c-30577
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     O paskui atsirado ne mažiau kritikų (pvz., I. Danilavičins, Ign.
     Kraševskis). Jų tarpe buvo ir S. Daukantas. Iš lietuvių istorikų
@@ -129,6 +131,8 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
     - t-30688
 
 - id: c-32974
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vijukas Kojalavičius ir XVIII amž. A. Schlö-
     zeris.**

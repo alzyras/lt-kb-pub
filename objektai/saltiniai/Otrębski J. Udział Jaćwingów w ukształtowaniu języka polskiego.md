@@ -72,6 +72,8 @@ Dusburgietis teigia, kad otrębski J.
 ## Citatos
 
 - id: c-61840
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego.— ABS, Białystok,
     1964, 1, s. 207—216.

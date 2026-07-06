@@ -157,6 +157,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-04987
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pažymėjimas,
     kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
@@ -177,6 +179,8 @@ Nenurodyta
     - t-47770
 
 - id: c-04988
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1040 m. Jaroslavo karo žygis į Lietuvą yra kaip tik
     įrodymas, kad tuo metu lietuviai nepripažino Kijevo viršenybės.

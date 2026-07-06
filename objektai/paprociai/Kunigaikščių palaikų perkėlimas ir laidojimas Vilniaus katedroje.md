@@ -147,6 +147,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83192
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1440 metų balandį Žygimantas sąmokslininkų
     buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
@@ -166,6 +168,8 @@ Nenurodyta
     - t-87214
 
 - id: c-83193
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     226
 

@@ -73,6 +73,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-77407
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 225, „IŠ NKVD RAPORTO*, [orpanmunpie Boiicka CCCP. 1945-1950, MockBa, 1975. (SSRS
     pasienio kariuomenė. 1945-1950, Maskva, 1975).

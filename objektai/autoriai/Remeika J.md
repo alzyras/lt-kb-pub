@@ -100,6 +100,8 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
 ## Citatos
 
 - id: c-87574
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     pirmoje pusėje kalne išlikusį pylimą žmonės vadino
     pilimi, pilate. Padavimuose minimas Rambyno kunigaikštis Skraudopus (Hennenberger
@@ -114,6 +116,8 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
     - t-91933
 
 - id: c-87575
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     99), liaudyje
     žinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno

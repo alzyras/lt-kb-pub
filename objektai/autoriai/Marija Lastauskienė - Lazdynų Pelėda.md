@@ -58,6 +58,9 @@ Marija Lastauskienė - Lazdynų Pelėda.
 ## Citatos
 
 - id: c-36104
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     28. Marija Lastauskienė - Lazdynų Pelėda. RADYBOS.
     Nepaprastai intriguojanti apysaka, su Liūdo Giros ižanga, ku­

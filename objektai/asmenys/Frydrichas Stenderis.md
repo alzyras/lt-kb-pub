@@ -323,6 +323,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 ## Citatos
 
 - id: c-172875
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
     dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
@@ -347,6 +349,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - t-189992
 
 - id: c-172876
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -364,6 +368,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - t-189993
 
 - id: c-172877
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -378,6 +384,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - t-189994
 
 - id: c-172878
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pušaitis (Puschajtis)
     Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
@@ -396,6 +404,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - t-189995
 
 - id: c-172879
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jiems nusilenkdavo pats Pušaitis, prašydamas
     kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
@@ -412,6 +422,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - t-189996
 
 - id: c-172881
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai tam tikri žyniai; jie kerėjimo formulė­
     mis ir kitomis apgavikiškomis išmonėmis patarinėja įvairiais
@@ -427,6 +439,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - t-189998
 
 - id: c-177098
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šito liekanas pastebime lietuvių mitologijoje. Tiesa,
     kronikininkai, aprašinėjantys lietuvių genties tautų religiją, ko­

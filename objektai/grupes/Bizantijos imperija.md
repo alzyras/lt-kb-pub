@@ -72,6 +72,8 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
 ## Citatos
 
 - id: c-01527
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu jie pasiekė ir
     aisčių gyvenamus kraštus ir čia pajūriuose pristeigė savo ko-

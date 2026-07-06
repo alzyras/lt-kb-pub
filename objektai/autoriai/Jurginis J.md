@@ -143,6 +143,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 ## Citatos
 
 - id: c-65327
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
     šeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.
@@ -162,6 +164,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
     - t-64662
 
 - id: c-65329
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
     J., Pagonybės..., p. 107).
@@ -173,6 +177,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
     - t-64667
 
 - id: c-65330
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
     Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,

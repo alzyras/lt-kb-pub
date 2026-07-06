@@ -131,6 +131,8 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 ## Citatos
 
 - id: c-82723
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1822. Mamoničių namai sto­
     vėjo, rodos, toje vietoje, kur dabar Sle-
@@ -147,6 +149,8 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
     - t-86746
 
 - id: c-82724
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Parašai: Vice-
     Cancellarius Leo Sapieha, Stanislaus

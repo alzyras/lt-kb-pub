@@ -83,6 +83,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 ## Citatos
 
 - id: c-83729
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar prieš įžengiant karaliui Steponui į sostą, Lie­
     tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­

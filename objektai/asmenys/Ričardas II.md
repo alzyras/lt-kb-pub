@@ -131,6 +131,8 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 ## Citatos
 
 - id: c-83549
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas Derbio grafas, būdamas kara­
     liaus priešininkų pusėje, išvyko iš
@@ -151,6 +153,8 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
     - t-87571
 
 - id: c-83550
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Strijkovskis apsirinka nurody­
     damas, esą Lankasteris, Anglijos ka­

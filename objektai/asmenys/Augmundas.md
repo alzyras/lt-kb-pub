@@ -79,6 +79,8 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
 ## Citatos
 
 - id: c-174252
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,

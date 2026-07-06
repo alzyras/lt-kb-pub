@@ -100,6 +100,8 @@ Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 met
 ## Citatos
 
 - id: c-84497
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Per pirmąjį
     gaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­

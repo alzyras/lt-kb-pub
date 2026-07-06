@@ -108,6 +108,8 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
 ## Citatos
 
 - id: c-33477
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
     ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
@@ -126,6 +128,8 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
     - t-31549
 
 - id: c-167729
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Latvių ten atliktas asimiliacijos
     faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių

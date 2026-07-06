@@ -195,6 +195,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37071
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Katalikybei sustiprinti kartu su žmonių krikštijimu buvo
     statomos ir bažnyčios. Be esančių jau Vilniuje nuo seniau šv.
@@ -212,6 +215,9 @@ Nenurodyta
     - t-176177
 
 - id: c-37072
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tad
     kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
@@ -231,6 +237,8 @@ Nenurodyta
     - t-176181
 
 - id: c-160218
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Su Mindaugo žuvimu pradingus « Lietuvos vyskupijai », Jogai­
     los senelio įkurtoje sostinėje 1387.II.17 d. buvo duota pradžia nau­

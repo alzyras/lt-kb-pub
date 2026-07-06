@@ -139,6 +139,8 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 ## Citatos
 
 - id: c-82148
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     142
 
@@ -162,6 +164,8 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
     - t-86169
 
 - id: c-168285
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šiek tiek užgaišęs Lietu­
     voje, kur tvarkė visokius reikalus, pats taip pat leidosi

@@ -101,6 +101,8 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
 ## Citatos
 
 - id: c-82609
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     III KNYGA
     Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui

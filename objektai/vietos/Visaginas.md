@@ -83,6 +83,8 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
 ## Citatos
 
 - id: c-18369
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
     naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas

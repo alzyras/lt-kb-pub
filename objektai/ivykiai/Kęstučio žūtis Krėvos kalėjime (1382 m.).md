@@ -91,6 +91,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-88371
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kiek Jogaila buvo prie jos prisidėjęs, sunku nustatyti, bet
     jo kaltė dar padidėja akivaizdoje to fakto, kad ir Kęstučio žmo­

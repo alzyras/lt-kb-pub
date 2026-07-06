@@ -76,6 +76,8 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
 ## Citatos
 
 - id: c-60985
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
     Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio

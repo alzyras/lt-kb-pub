@@ -73,6 +73,8 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
 ## Citatos
 
 - id: c-174360
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi 535 metais, kai samdyta
     svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė

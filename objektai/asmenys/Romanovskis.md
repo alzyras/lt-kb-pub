@@ -87,6 +87,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-174342
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nuo pernelyg ilgo buvimo žemėje jie
     labai nukentėjo, todėl vos pavyko surankioti jų nuolaužas.

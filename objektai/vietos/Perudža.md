@@ -126,6 +126,8 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 ## Citatos
 
 - id: c-59244
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
 
@@ -146,6 +148,8 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
     - t-58612
 
 - id: c-59245
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     25. Apie šventos Elžbietos kanonizavimą
 

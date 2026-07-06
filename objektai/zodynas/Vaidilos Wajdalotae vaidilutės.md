@@ -70,6 +70,8 @@ Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nu
 ## Citatos
 
 - id: c-172226
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto
     reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos

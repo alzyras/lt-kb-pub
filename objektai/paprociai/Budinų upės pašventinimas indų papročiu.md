@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-175800
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadinasi, tokiu pat būdu ten pateko ir
     masagetai4.

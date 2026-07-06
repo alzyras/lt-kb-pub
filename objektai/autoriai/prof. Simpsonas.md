@@ -82,6 +82,8 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
 ## Citatos
 
 - id: c-01409
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
     čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-

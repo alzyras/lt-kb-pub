@@ -59,6 +59,8 @@ Manvydo dvaras.
 ## Citatos
 
 - id: c-176877
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     6. Manvydo dvaras.
     7. Šv. Kryžiaus bažnyčia.

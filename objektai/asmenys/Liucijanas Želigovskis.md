@@ -81,6 +81,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 ## Citatos
 
 - id: c-21857
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ši trijų dalių Lietuvos sampra-
     ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,

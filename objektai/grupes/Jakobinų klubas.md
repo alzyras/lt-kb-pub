@@ -71,6 +71,8 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
 ## Citatos
 
 - id: c-22422
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos

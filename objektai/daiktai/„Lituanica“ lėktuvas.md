@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-25732
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu

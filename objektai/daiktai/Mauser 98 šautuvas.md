@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44669
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Atskirojo Marijampolės bataliono
     kariai, dalyvavę durtuvų kautynėse

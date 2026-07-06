@@ -108,6 +108,8 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 ## Citatos
 
 - id: c-84010
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Plg. Witichind I. 639.
     c)
@@ -128,6 +130,8 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
     - t-88032
 
 - id: c-176803
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
     b)

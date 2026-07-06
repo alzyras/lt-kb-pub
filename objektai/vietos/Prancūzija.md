@@ -836,6 +836,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 ## Citatos
 
 - id: c-24411
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lenkų ir lietuvių delegacijoms atvažiavus į Pa-
     ryžių, pats Henrikas ir
@@ -865,6 +867,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112068
 
 - id: c-103539
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
@@ -884,6 +888,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112076
 
 - id: c-103540
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sąjūdis ėmėsi vadovauti ir
     politinei, ir karinei pasipriešinimo
@@ -906,6 +912,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112078
 
 - id: c-103541
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytauto rūpesčiu žemaičiai Karaliaučiuje
     sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
@@ -928,6 +936,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112073
 
 - id: c-103543
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
     kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
@@ -949,6 +959,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112063
 
 - id: c-103545
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
     m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
@@ -962,6 +974,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112077
 
 - id: c-103548
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tokia pirmoji pasaulyje buvo priimta JAV – 1783 m. konstitucija.
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
@@ -980,6 +994,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112074
 
 - id: c-103549
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
     cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
@@ -997,6 +1013,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112071
 
 - id: c-103550
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Turėdami savo rankose uostų kontrolę,
     sukilėliai tikėjosi palaikyti nuolatinius
@@ -1018,6 +1036,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112070
 
 - id: c-103552
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
     Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
@@ -1032,6 +1052,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-112066
 
 - id: c-166469
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Šiaip, kas norėdavo gauti aukštesniojo ir
 

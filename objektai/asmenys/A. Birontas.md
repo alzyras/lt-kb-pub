@@ -67,6 +67,8 @@ Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-
 ## Citatos
 
 - id: c-44246
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dubysos upės. Karin. A. Bironto vadovau-
     jama šešių Žemaitijos komendantūrų rink-

@@ -97,6 +97,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-174589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
     jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
@@ -110,6 +112,8 @@ media_all_json: |-
     - t-191707
 
 - id: c-177290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Egiptiečiai žinojo jį Sacal vardu2; Pli-
     1 Kotzebue. Preuss. alt. Gesch. B. I. S. 22.

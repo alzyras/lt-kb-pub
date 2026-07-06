@@ -79,6 +79,8 @@ Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie
 ## Citatos
 
 - id: c-174343
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šie buvo Padneprės
     emporiumų graikų kolonistai, susigiminiavę su skitais ir

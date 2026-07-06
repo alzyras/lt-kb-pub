@@ -144,6 +144,8 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 ## Citatos
 
 - id: c-42601
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dešiniąją koloną sudarė 1-ojo pės-
     tininkų pulko du batalionai, raitųjų
@@ -159,6 +161,8 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - t-78159
 
 - id: c-75466
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Batalionui buvo įsakyta užimti svarbią
     Turmanto geležinkelio stotį. Tos dienos
@@ -182,6 +186,8 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - t-78158
 
 - id: c-75467
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo tarpu 1-asis pėstininkų pulkas puo-
     limą pradėjo naktį iš 23 į 24 d. palei Zarasų

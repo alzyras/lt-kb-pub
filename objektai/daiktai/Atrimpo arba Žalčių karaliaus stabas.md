@@ -116,6 +116,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172538
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dievo Atrimpo stabas buvo žaltys, susivyniojęs j spiralę.
     Žiūrėk II lentelės 7-ąjį piešinį. Jis stovėjo Romovės šventyk­
@@ -129,6 +131,8 @@ Nenurodyta
     - t-189655
 
 - id: c-177010
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pat kronikos liudija, jog šio dievo stabas, spirale susi­
     raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū­

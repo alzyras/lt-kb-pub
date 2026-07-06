@@ -80,6 +80,8 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
 ## Citatos
 
 - id: c-169396
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     L ietuvos isto rija
     481

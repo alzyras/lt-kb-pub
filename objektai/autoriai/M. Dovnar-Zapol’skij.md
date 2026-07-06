@@ -73,6 +73,8 @@ Dovnar - Zapol’skij, Maskva 1899.
 ## Citatos
 
 - id: c-29455
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     ALRG = Akty Litovsko - Russkogo gosudarstva, sąs. 1 (1390-1529),
     išl. M. F. Dovnar - Zapol’skij, Maskva 1899.

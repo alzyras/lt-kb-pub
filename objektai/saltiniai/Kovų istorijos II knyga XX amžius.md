@@ -73,6 +73,8 @@ Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
 ## Citatos
 
 - id: c-45001
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     KARAS PO KARO
 

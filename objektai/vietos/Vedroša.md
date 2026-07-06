@@ -225,6 +225,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-168610
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žymiausi luomų vadovai, garsūs pareigomis ir
     didžiomis privilegijomis, nuskubėjo pas Ostrogiškį. Kai
@@ -248,6 +250,8 @@ media_all_json: |-
     - t-193440
 
 - id: c-168611
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl ir pamanė,
     jog maskvėnai įprastu būdu dedasi esą stipresni nei iš
@@ -268,6 +272,8 @@ media_all_json: |-
     - t-193441
 
 - id: c-168612
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vargais negalais abi pusės sutarė dėl šešerių
     metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
@@ -287,6 +293,8 @@ media_all_json: |-
     - t-193442
 
 - id: c-176156
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl Jonui Sapiegai, val­
     dančiam karaliaus vardu Vi-

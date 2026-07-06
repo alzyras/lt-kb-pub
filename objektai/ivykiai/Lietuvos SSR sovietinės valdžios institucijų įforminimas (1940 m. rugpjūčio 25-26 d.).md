@@ -141,6 +141,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23018
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
     prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
@@ -161,6 +163,8 @@ Nenurodyta
     - t-20283
 
 - id: c-23019
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
     žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:

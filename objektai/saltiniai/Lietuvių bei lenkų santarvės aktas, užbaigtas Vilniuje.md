@@ -89,6 +89,8 @@ Aleksandras pasirūpino Vilniuje užbaigti lietuvių bei lenkų santarvės aktą
 ## Citatos
 
 - id: c-169697
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl ir buvo pasiųsti į Piotrkovą Vil­
     niaus vyskupas Vaitiekus Taboras, maršalas Jonas Za-

@@ -60,6 +60,8 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
 ## Citatos
 
 - id: c-64890
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Mirė savo mėgiamajame Knišine, Palenkėje. Jam tada dar te-
     buvo tik 52 m., tačiau jis jau buvo visiškai pasenęs, silpnas

@@ -74,6 +74,8 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
 ## Citatos
 
 - id: c-24703
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagrindinės Konstitucijos nuostatos skelbė,
     kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,

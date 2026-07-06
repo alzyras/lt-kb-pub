@@ -241,6 +241,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-78439
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lelevelis buvo ne tik labai populiarus
     dėstytojas, bet jis yra daręs įtakos ir kitiems jaunesniems istorijos
@@ -258,6 +260,8 @@ media_all_json: |-
     - t-81908
 
 - id: c-78440
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
@@ -275,6 +279,8 @@ media_all_json: |-
     - t-81910
 
 - id: c-78441
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kita vertus, pirmoje
     dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
@@ -294,6 +300,8 @@ media_all_json: |-
     - t-81909
 
 - id: c-171294
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -312,6 +320,8 @@ media_all_json: |-
     - t-188404
 
 - id: c-177057
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.

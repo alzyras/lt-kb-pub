@@ -87,6 +87,8 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
 ## Citatos
 
 - id: c-167407
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ilgainiui
     brolis Heinemanas užsikrėtė raupsais, o netrukus brolis Fridrichas nukrito nuo žirgo

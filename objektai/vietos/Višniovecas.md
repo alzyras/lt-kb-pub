@@ -79,6 +79,8 @@ Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus
 ## Citatos
 
 - id: c-168681
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.

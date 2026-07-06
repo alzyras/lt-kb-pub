@@ -224,6 +224,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 ## Citatos
 
 - id: c-169297
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išklausė
     dangus varguolio maldų. Mengli Girėjaus kariai, veda­
@@ -239,6 +241,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     - t-185936
 
 - id: c-169298
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lie­
     tuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,
@@ -257,6 +261,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     - t-185937
 
 - id: c-169299
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pra­
     sidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,
@@ -278,6 +284,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     - t-185938
 
 - id: c-169300
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Skitas Mengli Girėjus, pakviestas už
     mokamą atlyginimą į šį karo žygį, įsikūrė su kariais

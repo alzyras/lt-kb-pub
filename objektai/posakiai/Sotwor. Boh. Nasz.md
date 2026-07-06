@@ -111,6 +111,8 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
 ## Citatos
 
 - id: c-172456
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     249
 
@@ -128,6 +130,8 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
     - t-189568
 
 - id: c-172457
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau­
     giausia buvo plonų monetų, visos vienodo antspaudo; dviejų

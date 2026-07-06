@@ -80,6 +80,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-173293
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai rusų istorijos ir literatūros paminklas (orig.:
     „Степенная книга“). Knygą metropolito Maka­

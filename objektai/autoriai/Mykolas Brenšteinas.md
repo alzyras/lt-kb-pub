@@ -70,6 +70,9 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
 ## Citatos
 
 - id: c-36105
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­
     mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau

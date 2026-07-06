@@ -68,6 +68,8 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
 ## Citatos
 
 - id: c-18371
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
     mą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-

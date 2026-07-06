@@ -72,6 +72,9 @@ Lietuva ir toliau buvo laikoma inkorporuota į Len­ kiją, bet faktiška padėt
 ## Citatos
 
 - id: c-38388
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nors paskutiniąja sutartim Krėvės aktas ir nebuvo pa­
     keistas, t. y. Lietuva ir toliau buvo laikoma inkorporuota į Len­

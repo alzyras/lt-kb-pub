@@ -69,6 +69,8 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
 ## Citatos
 
 - id: c-59745
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pastarojo
     pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio

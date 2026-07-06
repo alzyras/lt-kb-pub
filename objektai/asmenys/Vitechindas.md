@@ -75,6 +75,8 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
 ## Citatos
 
 - id: c-174365
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Hartknochas2 pa­
     teikia žinių, jog prie Baltijos jūros amžių amžiais buvo

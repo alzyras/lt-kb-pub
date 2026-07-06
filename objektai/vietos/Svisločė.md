@@ -76,6 +76,8 @@ Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radov
 ## Citatos
 
 - id: c-175671
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     138
 

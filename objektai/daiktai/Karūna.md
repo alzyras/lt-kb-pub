@@ -582,6 +582,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169996
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     *  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų
     mitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­
@@ -597,6 +599,9 @@ Nenurodyta
     - t-186819
 
 - id: c-169997
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kitus Jogailos pa­
     lydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­
@@ -614,6 +619,8 @@ Nenurodyta
     - t-186813
 
 - id: c-169999
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
@@ -629,6 +636,8 @@ Nenurodyta
     - t-186816
 
 - id: c-170000
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1  Vytautas susirgo 1430 m. tarp spalio 18 ir 21 d., vykdamas
     su Jogaila j Trakus; kaip J. Dlugošas nurodo - nukrito nuo žirgo.
@@ -646,6 +655,8 @@ Nenurodyta
     - t-186818
 
 - id: c-170001
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors nebus nė vieno kunigaikščio,
     kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
@@ -663,6 +674,9 @@ Nenurodyta
     - t-186814
 
 - id: c-170002
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo tarpu atvyko į Vilnių ir lenkų dele­
     gacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
@@ -677,6 +691,8 @@ Nenurodyta
     - t-12301
 
 - id: c-170003
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gerbti ir garbinti
     Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
@@ -691,6 +707,9 @@ Nenurodyta
     - t-186815
 
 - id: c-170005
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­
     kis, kažin keno naudai būtų pasibaigęs.
@@ -707,6 +726,8 @@ Nenurodyta
     - t-186821
 
 - id: c-177369
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dar labiau lietuvio dėmesį nuo seno traukia garsas ir
     darbai kito valdovo. Visu savo veikimu jis reiškėsi kaip didis kara­

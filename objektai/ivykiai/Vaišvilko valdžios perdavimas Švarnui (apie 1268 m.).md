@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-28775
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     _Vaišvilkas_ tačiau Lietuvoje tevaldė trimetį (1264-1267). Uoliai
     remdamas rytų krikščionybės vystymąsi Lietuvoje, savo valstybės

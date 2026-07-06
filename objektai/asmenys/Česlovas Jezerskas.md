@@ -119,6 +119,8 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 ## Citatos
 
 - id: c-42359
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
@@ -131,6 +133,8 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
     - t-79245
 
 - id: c-76306
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     sausio įvykių ir rugpjūčio pučo metu
 

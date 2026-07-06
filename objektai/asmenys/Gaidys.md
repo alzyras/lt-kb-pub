@@ -69,6 +69,8 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
 ## Citatos
 
 - id: c-41916
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Partizanai pasiruošė ginklus. Gaidys ir Viesulas turėjo tik pistalietus. Gi atsargusis Tig-
     ras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulkosvaidžiu. Jis buvo vienintelė

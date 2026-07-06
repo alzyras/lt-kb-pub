@@ -149,6 +149,8 @@ Polonka, dabar Polonečka, yra kaimas prie Dviejos upės. Dvieja įvardijama kai
 ## Citatos
 
 - id: c-170337
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ostašino ir kelių kitų vietovių pam inėji­
     mas žemiau rodo. kad LDK kariuom enė žygiavo iš N augarduko j
@@ -170,6 +172,8 @@ Polonka, dabar Polonečka, yra kaimas prie Dviejos upės. Dvieja įvardijama kai
     - t-187296
 
 - id: c-170589
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     LDK kariuom enė žygiavo i Klecką, palikdama Ciriną
     po dešinei.

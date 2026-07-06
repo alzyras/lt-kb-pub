@@ -87,6 +87,8 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
 ## Citatos
 
 - id: c-168665
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į
     seimą, kuriame karalius pareikalavo, kad liautųsi pa­

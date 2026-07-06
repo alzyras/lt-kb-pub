@@ -458,6 +458,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 ## Citatos
 
 - id: c-32971
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Stanevičius apreiškė sveiką ir kritišką nusista­
     tymą link kai kurių abejotinos vertės šaltinių^40. Pvz., Stanevičius
@@ -475,6 +477,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-30684
 
 - id: c-171305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
@@ -488,6 +492,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188415
 
 - id: c-171306
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     324
 
@@ -505,6 +511,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188416
 
 - id: c-171307
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šitos pačios maldos, matyt, vers­
     tos iš eiliuotos giesmės, pradžią Lasickis pateikia tokią: „Tu
@@ -536,6 +544,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188417
 
 - id: c-171308
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Papjumenė (Papiumene)
     Pjūties šventė. Ji švenčiama liepos mėnesį, pradėjus rugiap­
@@ -551,6 +561,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188418
 
 - id: c-171309
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žemdirbių šventė baigiasi vėly­
     vą naktį vaišėmis, muzika, dainomis. Tačiau senovėje, be šito
@@ -571,6 +583,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188419
 
 - id: c-171310
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vaižgantas mums bus maloningas, nes Baniutė, mū­
     sų kaimo gražiausia mergelė, be rikto išstovėjo ant vienos ko­
@@ -585,6 +599,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188420
 
 - id: c-171311
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai visiškai primena Antikos žmonių
     Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
@@ -602,6 +618,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188421
 
 - id: c-171312
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Istorikas turėjo omenyje Jono Lasickio (Pasieki, La-
     sicius, 1533 ar 1534 -  po 1599) traktatą „Apie že­
@@ -627,6 +645,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - t-188422
 
 - id: c-171313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Istorikas naudojosi ir lenkišku vertimu, dar
     1823 metais išspausdintu Vilniaus periodikoje (Mi­

@@ -282,6 +282,9 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 ## Citatos
 
 - id: c-38637
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kai jų žval­
     gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­
@@ -298,6 +301,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - t-36567
 
 - id: c-171719
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     „Taip pat šiaurėje
     2
@@ -312,6 +317,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - t-188830
 
 - id: c-175522
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visų pirma čia Vitlandija minima atski­
     rai greta Sambijos. Sis skirtumas yra esminis dalykas;
@@ -328,6 +335,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - t-192752
 
 - id: c-175523
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau senovės amžiais
     žemėlapiuose Sambija atrodė visiškai kitaip, ypač jos jūros
@@ -348,6 +357,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - t-192753
 
 - id: c-177148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be to, įrodymas, skatinantis sutikti, kad Dusburgietis tu­
     rėjo neklystamų žinių apie dalykus, dėstomus tame skyriuje, o
@@ -369,6 +380,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - t-194752
 
 - id: c-177333
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Hugas Grocijus, tyręs budinu ko­
     lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs

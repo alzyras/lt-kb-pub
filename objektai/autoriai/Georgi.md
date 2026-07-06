@@ -70,6 +70,8 @@ Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Ka
 ## Citatos
 
 - id: c-173306
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.

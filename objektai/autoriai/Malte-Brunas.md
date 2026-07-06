@@ -157,6 +157,8 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
 ## Citatos
 
 - id: c-173324
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kijevo Plikasis kalnas garsėjo 1
     1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­
@@ -173,6 +175,8 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
     - t-190441
 
 - id: c-173640
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     91
     Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
@@ -192,6 +196,8 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
     - t-190758
 
 - id: c-173641
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     180
     Išliko gal pats tinkamiausias Baltijos pavadinimas,

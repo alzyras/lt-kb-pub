@@ -76,6 +76,8 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 ## Citatos
 
 - id: c-03467
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Vilniaus vyskupystės įkūrimas.** Pats krikštas dar nieko ne-
     reiškė: be bažnyčių ir katalikų dvasininkų kraštas ir toliau galėjo

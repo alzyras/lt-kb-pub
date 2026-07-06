@@ -76,6 +76,8 @@ Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius apli
 ## Citatos
 
 - id: c-170638
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
     dievo gailestingumą, o Korano giminė — neapsakomą

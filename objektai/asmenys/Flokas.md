@@ -76,6 +76,8 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
 ## Citatos
 
 - id: c-174279
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šio nenaudėlio sukaupti ant Anapilio kalno tur­
     tai atiteko Danijos karaliui ir padėjo rengiant karo žy­

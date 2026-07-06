@@ -99,6 +99,8 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
 ## Citatos
 
 - id: c-03301
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Gyvuliai, augalai, ežerai, kalnai, girios, miškai ir
     atskiri medžiai, - žodžiu, visa gamta buvo pilna dievybių.
@@ -115,6 +117,8 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
     - t-03063
 
 - id: c-166355
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet buvo dievybių, ir nieko bendro neturinčių su gamta ir
     jos reiškiniais. Jų tarpe bene žymiausios buvo laumės, arba

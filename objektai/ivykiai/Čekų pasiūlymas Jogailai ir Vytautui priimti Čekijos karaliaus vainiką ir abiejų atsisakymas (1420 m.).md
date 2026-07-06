@@ -203,6 +203,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169036
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai paaiškėjo,
     kad imperatoriaus sprendimai nesiremia teisingumu,
@@ -240,6 +242,8 @@ Nenurodyta
     - t-185675
 
 - id: c-169037
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jogaila,
     ilgai neužlaikyda-
@@ -261,6 +265,8 @@ Nenurodyta
     - t-185676
 
 - id: c-169038
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Prisi­
     jungus šioms tautoms, taip išaugsiančios valstybės

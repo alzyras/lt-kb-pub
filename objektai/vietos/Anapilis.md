@@ -76,6 +76,8 @@ Narbutas pasakoja, kad ant Anapilio kalno sukaupti Vizino turtai atiteko Danijos
 ## Citatos
 
 - id: c-175604
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Narsusis Starkateras, tai sužino­
     jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė

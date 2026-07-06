@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-72127
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu tautiškas darbas
     žengia pirmyn. Šiuo metu Latvijos lietuviai turi 16 įvairių orga-

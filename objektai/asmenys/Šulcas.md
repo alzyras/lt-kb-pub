@@ -71,6 +71,8 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
 ## Citatos
 
 - id: c-173134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Petro vienuolyno vietoje, stovė­
     jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­

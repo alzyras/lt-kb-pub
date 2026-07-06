@@ -130,6 +130,9 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 ## Citatos
 
 - id: c-14562
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ne tiktai
     tikėjimu, bet ir protu suprantąs tos tiesos tikrumą, jog kiekvie­
@@ -149,6 +152,9 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     - t-67274
 
 - id: c-14563
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mirė tikrai mūsų tautos
     garbė.
@@ -160,6 +166,9 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     - t-67274
 
 - id: c-37140
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jei jis negerai suprantąs tą tiesą, prašo pamo­
     kyti, nes esąs pasiruošęs išpildyti visus Katalikų Bažnyčios

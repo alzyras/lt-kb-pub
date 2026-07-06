@@ -74,6 +74,8 @@ Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie ga
 ## Citatos
 
 - id: c-82211
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pasiligojusi Vytauto žmona Julijona bu­
     vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­

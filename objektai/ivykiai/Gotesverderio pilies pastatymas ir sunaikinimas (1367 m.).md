@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169063
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat kryžiuočiai, nusiaubę arčiau Prūsijos esan­
     čius kaimus bei laukus ir pavertę juos dykromis, sten­

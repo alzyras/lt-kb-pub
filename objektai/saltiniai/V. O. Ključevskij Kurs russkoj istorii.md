@@ -77,6 +77,8 @@ Ključevskij : Kurs russkoj istorii, I, Maskva 1956, 30-45 p.
 ## Citatos
 
 - id: c-33729
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagrindinėmis Lietuvos upėmis per šimtmečius
     į Vakarus (Prusus) buvo išgabenta ir daug miško (medžių) ir kito­

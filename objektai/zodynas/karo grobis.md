@@ -67,6 +67,8 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
 ## Citatos
 
 - id: c-176453
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio baigtis buvo
     nulemta. Netrukus sąjungininkai užėmė

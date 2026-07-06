@@ -120,6 +120,8 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
 ## Citatos
 
 - id: c-175595
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat
     ir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­
@@ -139,6 +141,8 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
     - t-192825
 
 - id: c-175596
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau Nestoras IX amžiuje žinojo šį taip
     vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie

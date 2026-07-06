@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-33387
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     VI). Gerdenis pralaimėjo ir tik
     su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267

@@ -167,6 +167,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23951
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
     ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
@@ -185,6 +187,8 @@ media_all_json: |-
     - t-67530
 
 - id: c-67400
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
     iki 20 000. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
@@ -203,6 +207,8 @@ media_all_json: |-
     - t-67531
 
 - id: c-166775
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
     jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir

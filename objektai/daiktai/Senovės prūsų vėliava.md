@@ -127,6 +127,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172596
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak kitų
     tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu
@@ -143,6 +145,8 @@ Nenurodyta
     - t-189713
 
 - id: c-172597
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
     senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios

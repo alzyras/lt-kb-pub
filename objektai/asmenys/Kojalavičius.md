@@ -128,6 +128,8 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
 ## Citatos
 
 - id: c-172964
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vadinasi, bu­
     vo tik Jupiteris, turėjęs antrąją ypatybę*.
@@ -143,6 +145,8 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
     - t-190081
 
 - id: c-172965
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­

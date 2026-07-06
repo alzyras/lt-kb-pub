@@ -64,6 +64,8 @@ Dusburgietis teigia, kad trautmann R.
 ## Citatos
 
 - id: c-61956
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Trautmann R. Baltisch-slavisches Wörterbuch.— Göttingen, 1923.
   statusas: verified

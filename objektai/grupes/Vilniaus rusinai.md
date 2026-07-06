@@ -84,6 +84,8 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 ## Citatos
 
 - id: c-82754
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiaip ar taip,
     bet jokio persekiojimo miesto gyventojai dėl šito niekada ne­

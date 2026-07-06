@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-84469
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kulkos minimos švininės, geležinės ir akmeninės. Dauge­
     liui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę

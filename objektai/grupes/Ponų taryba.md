@@ -641,6 +641,9 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 ## Citatos
 
 - id: c-36928
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.
     pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
@@ -656,6 +659,9 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-72609
 
 - id: c-36929
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkų ponų
     taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
@@ -672,6 +678,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-72615
 
 - id: c-46391
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, jis pasižadėjo, nepasita-
     ręs su taryba, nebedalinti niekam valstybinių vietų. Taryboje
@@ -691,6 +699,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-72608
 
 - id: c-46393
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vieni žemes gaudavo amžinai,
     kiti — iki savo ar vaikų gyvos galvos, o dar kiti — iki norėjo
@@ -707,6 +717,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-72614
 
 - id: c-71012
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dabar
     didysis kunigaikštis pasižadėjo, nepasitaręs su taryba, nebe-
@@ -724,6 +736,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-72616
 
 - id: c-71013
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu tarybos sudėtis pasidarė
     pastovi, tik neaiškios pasiliko jos valdžios (kompetencijos) ribos.
@@ -741,6 +755,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-72613
 
 - id: c-71014
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet į senatą nepateko dalis
     didžiojo kunigaikščio tarybos narių — jo dvaro aukštieji digni-
@@ -757,6 +773,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-72612
 
 - id: c-170674
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir jis sutiko važiuoti
     su jais ir be lenkų ponų sutikimo nusileido iš Sando-
@@ -776,6 +794,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-187735
 
 - id: c-170675
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
     tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
@@ -806,6 +826,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-187736
 
 - id: c-170677
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     “  Konflikto priežastis buvo ne tik A. Drošdšos ir Iljiničiaus
     byla, bet ir politiniai nesutarimai — J . Zaberezinskio ir kitų LDK
@@ -821,6 +843,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-187738
 
 - id: c-170678
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     4 T  Iš Jono Zaberezinskio buvo atim ta n e  tik Trakų vaivados,
     bet laikinai ir krašto m aršalo vieta. Be to, jis drauge su Vilniaus
@@ -837,6 +861,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-187739
 
 - id: c-170679
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     87 Aleksandro 1492.VHI.6 privilegija Lietuvos leodalams, pra­
     plečiam i LDK Ponų Tarybos teises, nustatė, kad didžiojo kunigaikš­
@@ -852,6 +878,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-187740
 
 - id: c-176488
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
     taus gimimo tūkstantis keturi šimtai devyniasdešimt

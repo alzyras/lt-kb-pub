@@ -115,6 +115,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 ## Citatos
 
 - id: c-02950
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Čia buvo kuriami visi poli-
     tiniai planai, iš čia ėjo derybos su užsieniu, čia lankydavosi arba
@@ -131,6 +133,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     - t-02712
 
 - id: c-171706
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     MITOLOGIJOS PABAIGA. 13
     13

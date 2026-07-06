@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22281
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
     reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,

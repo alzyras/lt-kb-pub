@@ -83,6 +83,8 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
 ## Citatos
 
 - id: c-82856
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
     raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­

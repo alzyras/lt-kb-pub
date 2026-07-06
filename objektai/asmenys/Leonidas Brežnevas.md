@@ -79,6 +79,8 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
 ## Citatos
 
 - id: c-21856
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     (63 proc.)) uoliai laikė
     valdžios monopolį, totalitarinis valdymo pobūdis išliko: visi privalomai tu-

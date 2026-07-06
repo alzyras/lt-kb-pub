@@ -90,6 +90,8 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
 ## Citatos
 
 - id: c-175038
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau, skirstant tautas į šias grupes, dėmesys kreipiamas ne tik
     į veido bruožus, bet ir į lingvistinius bei istorinius skirtumus, kurie,

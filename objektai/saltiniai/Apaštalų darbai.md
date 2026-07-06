@@ -68,6 +68,8 @@ Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6
 ## Citatos
 
 - id: c-61678
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie didingus ženklus
     „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė

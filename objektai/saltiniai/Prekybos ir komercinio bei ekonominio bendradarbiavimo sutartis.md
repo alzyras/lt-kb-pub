@@ -75,6 +75,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23937
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     ES) griežtai pasmerkė
     jėgos naudojimą Baltijos šalyse. 1992 m. Lietuva ir ES pasirašė Prekybos

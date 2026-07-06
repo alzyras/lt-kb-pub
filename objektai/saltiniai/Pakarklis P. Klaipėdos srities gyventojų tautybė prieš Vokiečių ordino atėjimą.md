@@ -74,6 +74,8 @@ Dusburgietis teigia, kad pakarklis P.
 ## Citatos
 
 - id: c-61842
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
     žinynas, 1933, t. 25, Nr. 101, p. 171—185.

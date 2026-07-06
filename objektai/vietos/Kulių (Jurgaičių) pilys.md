@@ -87,6 +87,8 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
 ## Citatos
 
 - id: c-45155
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
 

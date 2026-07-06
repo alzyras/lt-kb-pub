@@ -237,6 +237,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 ## Citatos
 
 - id: c-170876
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     P. 273* -  Išnaša, kuria autorius papildė paragrafą, rengda­
     mas antrąjį LTI leidimą (PEĮ. -  L. 164). Šią infor­
@@ -255,6 +257,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     - t-187895
 
 - id: c-170877
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Svar­
     bu, kad tik vaizduotės ir dirbtinumo gangrena nesunaikintų
@@ -272,6 +276,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     - t-187896
 
 - id: c-170878
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tik neaišku, koks buvo rezul­
     tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
@@ -287,6 +293,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     - t-187897
 
 - id: c-173729
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     (Medicinos
     daktaro

@@ -551,6 +551,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 ## Citatos
 
 - id: c-31031
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal rusų met­
     raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos
@@ -568,6 +570,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187437
 
 - id: c-42637
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1325 m. Aukso orda surengė puolimą
     prieš Lietuvą: „caras Uzbekas pasiuntė ku-
@@ -584,6 +588,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187447
 
 - id: c-42638
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kryžiuočių ordinui, remiamam kryži-
     ninkų, nuo 1328 m. atnaujinus Lietuvos
@@ -602,6 +608,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187444
 
 - id: c-170420
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
     patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
@@ -621,6 +629,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187442
 
 - id: c-170421
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     “  M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­
     sandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso
@@ -637,6 +647,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187443
 
 - id: c-170422
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^6) PRATARMĖ
     vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
@@ -654,6 +666,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187439
 
 - id: c-170423
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gedimino žygis, mūšis prie Irpenės ir
     Kijevo užėmimas istoriografijoje datuotas
@@ -676,6 +690,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187438
 
 - id: c-170424
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
     pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus
@@ -696,6 +712,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187445
 
 - id: c-170425
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Paprastai perimama ir žlu-
     gusios imperijos administracinė struktūra bei kultūros paveldas.
@@ -713,6 +731,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-187436
 
 - id: c-176473
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     BK Perekopo orda vadinami Krymo chanato
     totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių
@@ -733,6 +753,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - t-193829
 
 - id: c-176474
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ** Achmatas (Achmetas) — Aukso ordos chanas (1459—1481),
     Kazimiero Jogailaičio sųjungininkas, paskutini kartų 1480 m. žygiu

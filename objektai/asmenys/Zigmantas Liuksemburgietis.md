@@ -445,6 +445,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 ## Citatos
 
 - id: c-36622
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
     tus. Jis pabijojo, kad Vytautas nepradėtų Čekijoje uoliai šei­
@@ -460,6 +463,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176872
 
 - id: c-36625
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
     da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
@@ -480,6 +486,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176871
 
 - id: c-36627
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Abi
     pusės išvažinėjo labai susierzinusios ir išsiskubino su skundais
@@ -496,6 +505,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176874
 
 - id: c-36631
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Zigmantas dažnai klausinėja
     Vytautą apie karūnacijos terminą ir skatina jį negaišt. Jis rū­
@@ -512,6 +524,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176877
 
 - id: c-160823
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
     po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
@@ -530,6 +545,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176882
 
 - id: c-160824
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kryžiuočiai vis dar nenorėjo pripažinti savo pra­
     laimėjimo Konstancijos susirinkime ir visokeriopais būdais sten­
@@ -546,6 +564,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176873
 
 - id: c-160825
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Atsitiko taip.
     Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
@@ -566,6 +587,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176876
 
 - id: c-160829
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kaip tik tuo laiku
     Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
@@ -584,6 +608,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-176875
 
 - id: c-167670
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
     to raktus ir pavedė karo vadovybę.
@@ -598,6 +625,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-184297
 
 - id: c-173887
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
     gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­

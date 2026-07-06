@@ -78,6 +78,8 @@ Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio o
 ## Citatos
 
 - id: c-22640
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo
     1988 m. išvažiavo sportuoti į užsienio klubus. Tačiau 1991 m. vasarą

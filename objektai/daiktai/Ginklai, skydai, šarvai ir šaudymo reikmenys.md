@@ -389,6 +389,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82962
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
     turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­
@@ -419,6 +421,8 @@ Nenurodyta
     - t-86987
 
 - id: c-82963
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
     vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
@@ -443,6 +447,8 @@ Nenurodyta
     - t-86984
 
 - id: c-82964
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Plg. Witichind I. 639.
     c)
@@ -463,6 +469,8 @@ Nenurodyta
     - t-86983
 
 - id: c-82965
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     37
     Vygandas  savo kronikoje, p. 298,
@@ -503,6 +511,8 @@ Nenurodyta
     - t-86985
 
 - id: c-82966
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 328
 
@@ -531,6 +541,8 @@ Nenurodyta
     - t-86986
 
 - id: c-82967
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gaisro atveju kiekvienas miestie­
     tis privalėjo skubėti prie ugnies, o burmistrai - vadovauti ge­
@@ -552,6 +564,8 @@ Nenurodyta
     - t-86989
 
 - id: c-82968
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
     dinęs ginklus ir pilis) tik Lietuvos provincijoje. Čia tektų pri­

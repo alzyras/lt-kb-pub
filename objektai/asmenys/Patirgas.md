@@ -87,6 +87,9 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
 ## Citatos
 
 - id: c-36484
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kęstutis, matyt, buvo buvęs du kartu
     vedęs. Pirmoji Kęstučio žmona mums nežinoma, ir turėjo būti

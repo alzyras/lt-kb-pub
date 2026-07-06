@@ -164,6 +164,8 @@ Volyniečių žygiavimas į Naugarduką ėjo per Pinsko pelkes link Sčaros. Sč
 ## Citatos
 
 - id: c-170368
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     „Šiapus", matyti, reiškia takoskyrą tarp Jieseldos ir
     Sčaros, Nemuno pietinio intako.
@@ -185,6 +187,8 @@ Volyniečių žygiavimas į Naugarduką ėjo per Pinsko pelkes link Sčaros. Sč
     - t-187348
 
 - id: c-170369
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     24.
     s Jieselda (rus. Jasiolda) — BTSR upė. Pripetės šiaurinis, kai­

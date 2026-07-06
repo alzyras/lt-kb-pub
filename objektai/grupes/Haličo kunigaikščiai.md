@@ -130,6 +130,8 @@ Politinė ir karinė kunigaikščių grupė.
 ## Citatos
 
 - id: c-55887
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ĮVADAS
     denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;

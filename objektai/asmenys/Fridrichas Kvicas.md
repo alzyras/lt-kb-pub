@@ -273,6 +273,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 ## Citatos
 
 - id: c-60590
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     329 (322). Apie Bisenės pilies sudeginimą 1316 metais
 
@@ -290,6 +292,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
     - t-59957
 
 - id: c-60591
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolio Fridricho Kvico žūtį bei Vėluvos valsčiaus nusiaubimą 1323 me­
                                                    tais
@@ -332,6 +336,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
     - t-59959
 
 - id: c-60592
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
 
@@ -351,6 +357,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
     - t-59960
 
 - id: c-167450
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie 55 lietuvių žūtį 1319 metais
 

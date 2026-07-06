@@ -72,6 +72,8 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
 ## Citatos
 
 - id: c-172188
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sis religinis paminklas primena, kaip senovės lietuviai įamži­
     no apgailėtinai pažeistą vaišingumą.

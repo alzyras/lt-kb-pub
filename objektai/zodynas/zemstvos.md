@@ -90,6 +90,8 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
 ## Citatos
 
 - id: c-75135
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva po 1905-ųjų – kultūrinė kova
     Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-

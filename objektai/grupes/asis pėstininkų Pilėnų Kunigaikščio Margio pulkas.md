@@ -105,6 +105,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-77338
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1 batalionas irgi
     buvo nuvestas pailsėti pievoj.“ |
@@ -122,6 +124,8 @@ media_all_json: |-
     - t-80639
 
 - id: c-77339
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Batalionas, [...], ankstyvą popietį pasiekė Aukštadvario miestelį ir
     išsirikiavo prieš 6 pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.

@@ -186,6 +186,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169039
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasiun­
     tinybei vadovavo Petras Miškovskis, Lenčicos vaiva­
@@ -215,6 +217,8 @@ Nenurodyta
     - t-185678
 
 - id: c-169040
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išvykstantiems pasiuntiniams buvo
     nurodyta, kad amžina taika galinti būti sudaryta, jei­
@@ -243,6 +247,8 @@ Nenurodyta
     - t-185679
 
 - id: c-169041
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Derantis dėl Livonijos, var­
     gais negalais pavyko pasiekti, kad Naugardo ir Psko­

@@ -183,6 +183,8 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
 ## Citatos
 
 - id: c-81995
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tą Fi-
     lipovo namą kunigaikščio Kristupo
@@ -207,6 +209,8 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
     - t-86016
 
 - id: c-81996
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kardinolas Radvila
     dalyje, vadinamoje Goštautų mūru,
@@ -229,6 +233,8 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
     - t-86017
 
 - id: c-81997
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčią, visą mū­
     rinį. O Jurgio brolis, kunigaikštis Mi­

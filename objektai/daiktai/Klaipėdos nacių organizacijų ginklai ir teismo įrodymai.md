@@ -120,6 +120,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22253
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą. Lietuvos valdžia
     kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškė-
@@ -135,6 +137,8 @@ Nenurodyta
     - t-19542
 
 - id: c-22254
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Procesą stebėjo daugybė žurnalistų
     iš Vakarų Europos. Jie galėjo plačiai susipažinti su nacių teroristiniais ir

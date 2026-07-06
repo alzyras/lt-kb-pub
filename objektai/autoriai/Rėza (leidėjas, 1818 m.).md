@@ -288,6 +288,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 ## Citatos
 
 - id: c-13629
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu parapijos paveldėjamuoju keliu
     einančios iš tėvų į vaikus. Todėl, esą, negalima parinkti nė tin-
@@ -304,6 +306,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - t-11077
 
 - id: c-171360
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iškiliojoje pusėje panaši žymė kaip III
     lentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­
@@ -321,6 +325,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - t-188470
 
 - id: c-171361
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Praėjusius metus žy­
     mėdavo mazgeliais, įpjovomis arba ženklais šventyklose,
@@ -338,6 +344,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - t-188471
 
 - id: c-171362
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -361,6 +369,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - t-188472
 
 - id: c-173673
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     O tai, kad jose būta ne vien pasakų, kas dieną įti­
     kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
@@ -384,6 +394,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - t-190791
 
 - id: c-177069
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lasickis šiame pavadinime klaidingai įžiūri
     dievą.

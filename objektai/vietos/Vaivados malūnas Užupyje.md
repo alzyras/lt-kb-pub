@@ -125,6 +125,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82089
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -143,6 +145,8 @@ media_all_json: |-
     - t-86111
 
 - id: c-82090
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Teodoras Sku­
     minas, LDK iždininkas.

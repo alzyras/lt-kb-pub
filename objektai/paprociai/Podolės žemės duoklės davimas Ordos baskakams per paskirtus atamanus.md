@@ -78,6 +78,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12305
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Podolės žemės tėvonys bei paveldėtojai“.
     Podolėje veikė jų paskirti atamanai, kurie

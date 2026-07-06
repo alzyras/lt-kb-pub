@@ -149,6 +149,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83120
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     „Pageidautume, - rašo toliau, - savo krašte tu­
     rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
@@ -184,6 +186,8 @@ Nenurodyta
     - t-87142
 
 - id: c-83121
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau jie sako, jog tai daro dėl to,
     kad nori apginti krikščionis!

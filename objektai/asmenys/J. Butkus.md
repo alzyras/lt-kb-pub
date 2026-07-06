@@ -70,6 +70,8 @@ Butkaus vadovaujamą 200 karių rinktinę. Butkaus vadovaujamas Marijampolės ba
 ## Citatos
 
 - id: c-41952
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kariuomenės štabo virši-
     ninkas P. Liatukas vasario

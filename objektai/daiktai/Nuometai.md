@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10266
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Vieni dar žemaičiai sekė senovės būdą, ir
         taip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir

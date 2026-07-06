@@ -73,6 +73,8 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
 ## Citatos
 
 - id: c-44999
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos
     kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.

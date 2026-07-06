@@ -170,6 +170,8 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
 ## Citatos
 
 - id: c-175110
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Antra ver­
     tus, suvokdamas istoriko pasirinkto tikslo sudėtingumą,
@@ -189,6 +191,8 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
     - t-192295
 
 - id: c-175111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi skaitome: „Aš
     nerašau lietuvių tautos istorijos, nes neįstengčiau susi­

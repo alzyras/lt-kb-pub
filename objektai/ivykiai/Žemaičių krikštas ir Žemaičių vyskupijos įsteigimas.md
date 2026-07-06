@@ -223,6 +223,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169898
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas
     atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
@@ -253,6 +255,8 @@ Nenurodyta
     - t-186621
 
 - id: c-169899
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
     nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
@@ -270,6 +274,8 @@ Nenurodyta
     - t-186617
 
 - id: c-169900
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai
     padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-

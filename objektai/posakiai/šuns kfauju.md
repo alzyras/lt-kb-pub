@@ -142,6 +142,8 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
 ## Citatos
 
 - id: c-170071
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Smo­
     lensko sukilimo aprašyme.
@@ -164,6 +166,8 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     - t-186885
 
 - id: c-170072
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Miestiečiai,
     jei kur minimi, tai perimtame iš Trumpojo sąvado

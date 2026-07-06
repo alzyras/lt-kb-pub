@@ -396,6 +396,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 ## Citatos
 
 - id: c-43377
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Plk. Z. Sierakauskas parengė sukilė-
     lių kovos planą. Buvo numatyta apjungti
@@ -413,6 +415,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-181496
 
 - id: c-43379
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ORiebiniai
 
@@ -427,6 +431,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-181498
 
 - id: c-165040
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Netrukus nenumatyti įvykiai pri-
     vertė koreguoti planus. Po nepavykusio
@@ -446,6 +452,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-181497
 
 - id: c-165041
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
     kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
@@ -468,6 +476,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-181499
 
 - id: c-168299
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautas, ligi šiol laikęs savo kariuomenę
     Rusioje žiemos stovykloje, negalėjo su keliais būriais,
@@ -496,6 +506,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-184938
 
 - id: c-171567
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
     sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
@@ -516,6 +528,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-188678
 
 - id: c-171568
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
     lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­

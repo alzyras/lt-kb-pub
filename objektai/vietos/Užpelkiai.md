@@ -105,6 +105,8 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 ## Citatos
 
 - id: c-45388
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1949 m. rugpjūčio 10 d. iš Kęstučio apy-
     gardos atvyko Prisikėlimo apygardos

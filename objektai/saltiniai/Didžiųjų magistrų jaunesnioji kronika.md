@@ -137,6 +137,8 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 ## Citatos
 
 - id: c-61582
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),
     kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,
@@ -149,6 +151,8 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     - t-60952
 
 - id: c-61583
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Didžiųjų
     magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch  ir
@@ -164,6 +168,8 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     - t-60950
 
 - id: c-61584
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
     žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose

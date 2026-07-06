@@ -65,6 +65,8 @@ Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiu
 ## Citatos
 
 - id: c-176452
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kariai užtaisinėja
     šautuvus po salvės.

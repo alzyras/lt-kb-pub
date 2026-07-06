@@ -174,6 +174,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 ## Citatos
 
 - id: c-169664
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     V y ta u ta s
     a tid u o d a
@@ -204,6 +206,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
     - t-186303
 
 - id: c-176101
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nors, atlyginant skriaudas, kurias
     jie gana dažnai patiria iš krikščionių, kunigaikščiai lei­
@@ -234,6 +238,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
     - t-193376
 
 - id: c-176102
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Abiejų tautų priešai būsią
     bendri, bet kuriame kare jos viena kitai teiksiančios

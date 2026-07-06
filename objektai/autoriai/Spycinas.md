@@ -86,6 +86,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33146
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Smolka St. 51, 52, 273, 279, 293,
     310, 318

@@ -160,6 +160,8 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
 ## Citatos
 
 - id: c-55430
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kavars­
     kas nuo Ukmergės nutolęs per 4 my­
@@ -177,6 +179,8 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
     - t-85927
 
 - id: c-81908
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O tuo laiku verti geradarybės ir naudingi tar­
     nai kiekvienoje gerai tvarkomoje valstybėje būna remiami

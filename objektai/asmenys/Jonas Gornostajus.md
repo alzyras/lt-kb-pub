@@ -161,6 +161,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 ## Citatos
 
 - id: c-169408
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vasilijus pri­
     mygtinai reikalavo, kad ka­
@@ -187,6 +189,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
     - t-186047
 
 - id: c-169409
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be to, paprašė atsilyginti už skriaudas, pada­
     rytas Severino Norvedo, ir leisti laisvai keliauti per
@@ -205,6 +209,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
     - t-186048
 
 - id: c-169410
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,
     be kita ko, maldaudamas, kad karalius įsakytų Gleba­

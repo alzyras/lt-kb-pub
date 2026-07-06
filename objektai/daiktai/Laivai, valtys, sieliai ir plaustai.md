@@ -373,6 +373,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82969
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Man vis dėlto atrodo,
     kad įvykis, aprašytas Petro Olai
@@ -400,6 +402,8 @@ Nenurodyta
     - t-86991
 
 - id: c-82970
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -421,6 +425,8 @@ Nenurodyta
     - t-86990
 
 - id: c-82971
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Energingas Garteno (Gar­
     dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,
@@ -480,6 +486,8 @@ Nenurodyta
     - t-86994
 
 - id: c-82972
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
     tuoj po Romos valstybės žlugimo,
@@ -511,6 +519,8 @@ Nenurodyta
     - t-86992
 
 - id: c-82974
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     7
 
@@ -534,6 +544,8 @@ Nenurodyta
     - t-86993
 
 - id: c-176791
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     5
     Žodį Vilija, jeigu jo kilmės imtume

@@ -170,6 +170,8 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
 ## Citatos
 
 - id: c-172902
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Enciklopedinės žinios, šviesus protas, publicistiniai
     sugebėjimai, darbštumas -  tai bruožai, kurie buvo būdingi pra­
@@ -188,6 +190,8 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
     - t-190019
 
 - id: c-172903
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pieši­
     nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
@@ -202,6 +206,8 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
     - t-190020
 
 - id: c-172904
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     506
 

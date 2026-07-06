@@ -104,6 +104,8 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
 ## Citatos
 
 - id: c-172124
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Patelas (Patelo)
     Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
@@ -119,6 +121,8 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
     - t-189236
 
 - id: c-172125
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,
     ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­

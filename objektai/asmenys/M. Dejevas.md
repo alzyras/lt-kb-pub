@@ -145,6 +145,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 ## Citatos
 
 - id: c-42108
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gen. ltn. B. Knorringas, norėdamas ap-
     eiti lietuvių įtvirtinimus, pasiuntė kelis
@@ -164,6 +166,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     - t-40313
 
 - id: c-42110
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Besitraukiantį priešą iš apdegusių pastatų
     apšaudė ir Užupio gyventojai. Šios ata-
@@ -176,6 +180,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     - t-40311
 
 - id: c-44439
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     J. Mejeno
     divizija buvo priversta palikti

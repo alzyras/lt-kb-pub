@@ -72,6 +72,8 @@ Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose
 ## Citatos
 
 - id: c-171803
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,

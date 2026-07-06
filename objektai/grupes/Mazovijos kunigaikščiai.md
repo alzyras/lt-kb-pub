@@ -358,6 +358,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 ## Citatos
 
 - id: c-82713
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vytautas, vienintelio
     troškimo apimtas, sukviečia pas save įžymiausius šiaurės
@@ -386,6 +388,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-86735
 
 - id: c-82714
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pagaliau kodėl Ge­
     diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų
@@ -405,6 +409,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-86736
 
 - id: c-82715
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Niekur nevaliojome rasti Ma­
     zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­
@@ -434,6 +440,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-86734
 
 - id: c-170670
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     * Mykolo Žygimantaičlo Ir Palenkės (Drohičino) žemės klausi­
     mas Kazimiero valdymo pradžioje BK supainiotas,
@@ -450,6 +458,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-187731
 
 - id: c-175227
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad Danielius, palikęs Neb-
     rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
@@ -473,6 +483,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-192433
 
 - id: c-175228
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dėl to jis pradėjo derėtis su Kujavijos Kazimie­
     ru, pagaliau po ilgo delsimo sudarė taikos sutartį su

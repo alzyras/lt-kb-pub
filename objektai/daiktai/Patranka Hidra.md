@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-40992
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Patrankos laibgalis dekoruotas Hidra (drakonu), o drūtgalis - karūna, Vyčiu ir Gediminaičių stulpais bei užrašu
     „SIGISMVNDVS AVGVST. REX POLO MAG. DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564).

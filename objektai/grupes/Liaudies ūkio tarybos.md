@@ -79,6 +79,8 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
 ## Citatos
 
 - id: c-22522
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1953 m. ministerijos buvo stambinamos – kelios jungiamos į vieną, įvai-
     rūs komitetai ir valdybos naikinami, o jų funkcijos perduodamos minis-

@@ -162,6 +162,8 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
 ## Citatos
 
 - id: c-171815
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.
@@ -182,6 +184,8 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
     - t-188926
 
 - id: c-171816
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ant to kalno augo die­
     vams skirta giraitė, o joje stovėjo Kukovaičio stabas. Ten ir
@@ -195,6 +199,8 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
     - t-188927
 
 - id: c-171817
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai liudija Strijkovskis. Ant
     Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­

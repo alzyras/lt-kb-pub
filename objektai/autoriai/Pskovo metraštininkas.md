@@ -81,6 +81,8 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
 ## Citatos
 
 - id: c-84060
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tais
     81

@@ -132,6 +132,8 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
 ## Citatos
 
 - id: c-44470
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tačiau
     sukilėlių tikėjimas pergale ėmė blėsti.
@@ -161,6 +163,8 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
     - t-40364
 
 - id: c-44471
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jų spaudžiamas vyriau-
     siasis Lenkijos ir LDK sukilėlių vadas Tadas

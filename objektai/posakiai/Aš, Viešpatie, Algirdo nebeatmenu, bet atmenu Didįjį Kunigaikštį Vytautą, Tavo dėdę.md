@@ -73,6 +73,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-90730
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
     nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­

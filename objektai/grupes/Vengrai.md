@@ -330,6 +330,9 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 ## Citatos
 
 - id: c-66561
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas tuo buvo labai užgautas. Jogailos
     paskutinioji žmona Zofija stengėsi gražiais žodžiais jį per­
@@ -347,6 +350,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     - t-66255
 
 - id: c-66562
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie dievo kerštą
 
@@ -371,6 +376,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     - t-66254
 
 - id: c-167945
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi tėvas karštai
     reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
@@ -388,6 +395,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     - t-184584
 
 - id: c-167946
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
     dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
@@ -402,6 +411,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     - t-184585
 
 - id: c-167947
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,

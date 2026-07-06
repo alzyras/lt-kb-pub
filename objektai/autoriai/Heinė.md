@@ -74,6 +74,8 @@ Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo gra
 ## Citatos
 
 - id: c-173308
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ši auka turi labai žilos senovės bruožų -  dar iš tų
     barbarybės laikų, kai nugalėtojai surydavo karo belaisvius. Hei-

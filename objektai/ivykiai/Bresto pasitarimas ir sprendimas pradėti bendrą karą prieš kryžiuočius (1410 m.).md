@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169058
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Apskritai nieko gera
     nebuvo padaryta taikai sustiprinti tuo metu, kol taip

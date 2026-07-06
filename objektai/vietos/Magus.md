@@ -82,6 +82,8 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 ## Citatos
 
 - id: c-33938
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-
     Idrisi (1100-66 m.), kuris, gyvendamas Sicilijos Rogero II dvare,

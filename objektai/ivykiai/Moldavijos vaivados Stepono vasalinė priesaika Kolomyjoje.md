@@ -190,6 +190,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169967
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 3  Kolomyja — dabar Ukrainos TSR Ivano Franko sr. miestas
     (prie Pruto upės, apie 160 km j pietryčius nuo Lvovo). Lenkijos
@@ -214,6 +216,8 @@ Nenurodyta
     - t-186764
 
 - id: c-169968
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ”  Vaivada Steponas perdavė karaliui Kazimierui didele Sil­
     kine valiavę su Moldavijos herbu, o jo  palydovai suguldė an t ic-

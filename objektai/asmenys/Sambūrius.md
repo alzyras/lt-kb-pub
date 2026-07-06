@@ -75,6 +75,8 @@ Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit S
 ## Citatos
 
 - id: c-173000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
     (pagal Tadą Volianskį)

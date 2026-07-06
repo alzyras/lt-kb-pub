@@ -141,6 +141,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63809
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
@@ -155,6 +157,8 @@ Nenurodyta
     - t-62933
 
 - id: c-63810
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
     m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310

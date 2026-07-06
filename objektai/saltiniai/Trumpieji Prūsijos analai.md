@@ -90,6 +90,8 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 ## Citatos
 
 - id: c-61959
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi
       87 Пашуто В. T. Борьба прусского народа..., с. 63—65; to paties, Образование...,

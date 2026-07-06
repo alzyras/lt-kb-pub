@@ -82,6 +82,8 @@ Vytautas apkrikštijo visą Užnerio žemę.
 ## Citatos
 
 - id: c-170385
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas
     atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­

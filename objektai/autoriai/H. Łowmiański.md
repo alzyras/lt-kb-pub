@@ -67,6 +67,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32941
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
     link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­

@@ -67,6 +67,8 @@ Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne pri
 ## Citatos
 
 - id: c-21671
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Akcija pradėta laiku: Vakaruose
     vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-

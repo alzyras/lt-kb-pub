@@ -81,6 +81,8 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
 ## Citatos
 
 - id: c-23866
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
     iki 20 000. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija

@@ -295,6 +295,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 ## Citatos
 
 - id: c-59023
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
     pietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,
@@ -311,6 +313,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-58392
 
 - id: c-59024
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
@@ -326,6 +330,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-58393
 
 - id: c-59025
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tačiau negalime nepaminėti ir to, kad
     brolis Konradas iš Lichtenhageno, Brandenburgo komtūras,  jį pralenkė, pasukdamas
@@ -345,6 +351,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-58394
 
 - id: c-59026
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
 
@@ -364,6 +372,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-58391
 
 - id: c-167574
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
@@ -378,6 +388,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-184189
 
 - id: c-168437
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kitų metų pradžioje kryžiuočiai, pasinaudodami
     pergale, pasiuntė skirtingais keliais skirtingas kariau­

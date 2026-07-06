@@ -78,6 +78,8 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
 ## Citatos
 
 - id: c-83551
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     PIRMAS SKYRIUS
     ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž. kun. Mstis­

@@ -116,6 +116,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 ## Citatos
 
 - id: c-172960
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai ir buvo toji šventykla, vėliau paversta svirnu,
     tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
@@ -137,6 +139,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
     - t-190077
 
 - id: c-175373
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kalba ir apie S. Laurinavičių,
     „kuris mirė sulaukęs beveik devyniasdešimties metų, beveik prieš

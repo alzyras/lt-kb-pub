@@ -78,6 +78,8 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
 ## Citatos
 
 - id: c-33753
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     —
     Penkauskas Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_

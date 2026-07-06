@@ -82,6 +82,8 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 ## Citatos
 
 - id: c-175622
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­

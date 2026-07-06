@@ -86,6 +86,8 @@ Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo
 ## Citatos
 
 - id: c-172463
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šaltinis
     yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­

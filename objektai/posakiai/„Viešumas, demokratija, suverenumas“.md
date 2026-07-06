@@ -73,6 +73,8 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 ## Citatos
 
 - id: c-75176
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pradiniame etape Sąjūdis iš es-
     mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-

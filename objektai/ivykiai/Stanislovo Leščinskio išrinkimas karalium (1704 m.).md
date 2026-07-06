@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02044
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl visuotinio sukilimo
     prieš švedus, kaip 1656 m.,

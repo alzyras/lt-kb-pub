@@ -108,6 +108,8 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 ## Citatos
 
 - id: c-44706
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš kautynes
 
@@ -128,6 +130,8 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     - t-40818
 
 - id: c-44707
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     @ Spalio 21 d. lenkų kavalerija apeina lietuvių pozicijas ir
     Širvintų apylinkėse paima į nelaisvę gen. Itn. S. Nastopką

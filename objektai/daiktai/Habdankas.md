@@ -129,6 +129,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170046
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1521. p. 248) nemini.
     1 1  Habdankas (lenkiškai Abdank arba Awdaniec) — senovinis
@@ -144,6 +146,8 @@ Nenurodyta
     - t-186863
 
 - id: c-170047
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     IS  Istorija apie Davainos ir jo belaisvės vedybas žinoma tik
     iš BK.

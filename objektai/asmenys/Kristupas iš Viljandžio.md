@@ -86,6 +86,8 @@ Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių i
 ## Citatos
 
 - id: c-169590
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jeigu Mask­
     vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą

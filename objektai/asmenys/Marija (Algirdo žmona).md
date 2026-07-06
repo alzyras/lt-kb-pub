@@ -155,6 +155,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83524
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žr. V\lre- tis buvęs Kęstudo karių suduptas.
     26
@@ -177,6 +179,8 @@ media_all_json: |-
     - t-87545
 
 - id: c-83525
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bemaž tuo metu Vilniuje gerokai
     25

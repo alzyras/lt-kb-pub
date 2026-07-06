@@ -83,6 +83,8 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
 ## Citatos
 
 - id: c-33098
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Obolenskij,
     M. : _Jarlyk kana Zolotoj Ordy Tochtamyša k pol’skomu korolju Jogaily

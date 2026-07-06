@@ -90,6 +90,8 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
 ## Citatos
 
 - id: c-82253
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
     visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­

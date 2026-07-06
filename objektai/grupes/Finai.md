@@ -82,6 +82,8 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
 ## Citatos
 
 - id: c-175738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Siek tiek labiau venedų reika­
     lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­

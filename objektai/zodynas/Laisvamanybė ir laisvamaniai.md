@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00276
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jį sukūrė tie veikėjai, kurie buvo susigrupavę apie
     dr. J. Šliūpą ir buvo nepatenkinti pirmojo Susivienijimo kata-
@@ -130,6 +132,8 @@ Nenurodyta
     - t-10883
 
 - id: c-00277
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet šis Susivienijimas buvo toks pat ne-
     vieningas, kaip ir pati dr. J. Šliūpo veikla. Dr. Šliūpas visą

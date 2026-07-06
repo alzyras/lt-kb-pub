@@ -67,6 +67,8 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
 ## Citatos
 
 - id: c-177249
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O kuo senesnes kalbas imama nagrinėti, tuo ryškesnė ma­
     toma jų giminystė, tai yra kuo kuri tauta senesnė, tuo jos kal­

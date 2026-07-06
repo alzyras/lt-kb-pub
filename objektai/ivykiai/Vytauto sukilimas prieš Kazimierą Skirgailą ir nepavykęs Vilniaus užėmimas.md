@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169149
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Maištas prasidėjo verži-
     P ab a n d ęs u žim ti V ii-

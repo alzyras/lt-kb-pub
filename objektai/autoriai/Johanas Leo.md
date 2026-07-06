@@ -70,6 +70,8 @@ Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmas
 ## Citatos
 
 - id: c-177238
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad

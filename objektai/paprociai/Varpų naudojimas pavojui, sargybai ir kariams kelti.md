@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172696
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Gumbinės (Gumbin) miestas nuo
     tokio varpo gavęs pavadinimą.
@@ -141,6 +143,8 @@ Nenurodyta
     - t-189813
 
 - id: c-177036
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviškai šis žo­
     dis paraidžiui reiškia varpą, perkeltine prasme -  žadinimą.

@@ -81,6 +81,8 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 ## Citatos
 
 - id: c-55066
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,
     1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der

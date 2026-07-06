@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172762
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai tik kas numirdavęs, to
     šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­

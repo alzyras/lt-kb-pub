@@ -79,6 +79,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-171922
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nematyti jokio užrašo.
     1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­

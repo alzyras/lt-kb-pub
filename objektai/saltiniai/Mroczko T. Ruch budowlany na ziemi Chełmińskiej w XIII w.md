@@ -65,6 +65,8 @@ Dusburgietis teigia, kad mroczko T.
 ## Citatos
 
 - id: c-61818
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mroczko T. Ruch budowlany na ziemi Chełmińskiej w XIII w.— Sztuka i ideologia XIII
     wieku, Wrocław—Warszawa— Kraków—Gdańsk, 1974, s. 281—332.

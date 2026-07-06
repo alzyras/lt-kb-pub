@@ -121,6 +121,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67151
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Viskas, žinoma, buvo
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
@@ -139,6 +141,8 @@ Nenurodyta
     - t-67125
 
 - id: c-67153
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Iš okupuoto Vil-
     niaus instruktuojama ir pinigais aprūpinama, ta organizacija varė

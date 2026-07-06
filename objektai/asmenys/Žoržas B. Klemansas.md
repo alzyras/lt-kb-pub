@@ -72,6 +72,8 @@ Prancūzija Žoržo B.
 ## Citatos
 
 - id: c-75382
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pralaimėjusi karą Vokietija tam ener-
     gingai nesipriešino, manydama sumažinti sąjungininkų intrigas. Versalio

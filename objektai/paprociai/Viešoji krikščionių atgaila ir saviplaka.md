@@ -151,6 +151,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63488
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     4. Apie viešąją krikščionių atgailą
 
@@ -169,6 +171,8 @@ Nenurodyta
     - t-62724
 
 - id: c-63489
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai
     savo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis
@@ -187,6 +191,8 @@ Nenurodyta
     - t-62724
 
 - id: c-63490
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai dar buvo pasaulietis, jis
     kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė

@@ -149,6 +149,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55156
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Paprastai perimama ir žlu-
     gusios imperijos administracinė struktūra bei kultūros paveldas.
@@ -166,6 +168,8 @@ Nenurodyta
     - t-54267
 
 - id: c-166706
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
     golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors

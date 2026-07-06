@@ -78,6 +78,8 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
 ## Citatos
 
 - id: c-174381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Todėl viskas prasidėjo nuo Siaurės, nes prie
     pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat

@@ -156,6 +156,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169010
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iš tiesų Treniota vėles­
     nėms kartoms tapo žinomas daugiau dėl to, kad nusi­
@@ -189,6 +191,8 @@ Nenurodyta
     - t-185649
 
 - id: c-169011
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Koks žiaurus būtų buvęs krikščionims, jei­
     gu dievai jį būtų laikę gyvą, geriausiai jis parodė

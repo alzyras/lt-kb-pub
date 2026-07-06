@@ -134,6 +134,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169223
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­
     mojo ranka į visokius nemalonumus, kurių ši santuoka
@@ -153,6 +155,8 @@ Nenurodyta
     - t-185862
 
 - id: c-169224
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Galbūt atkakliu ne­
     pritarimu ir būtų privertęs

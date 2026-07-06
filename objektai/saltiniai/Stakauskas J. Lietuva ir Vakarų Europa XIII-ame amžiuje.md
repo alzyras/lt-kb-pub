@@ -71,6 +71,8 @@ Dusburgietis teigia, kad stakauskas J.
 ## Citatos
 
 - id: c-61928
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934.
   statusas: verified

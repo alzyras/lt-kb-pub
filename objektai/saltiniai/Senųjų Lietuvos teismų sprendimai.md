@@ -79,6 +79,8 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
 ## Citatos
 
 - id: c-173443
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Arntas (Arndt) 17 pa-
     teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­

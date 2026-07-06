@@ -72,6 +72,9 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
 ## Citatos
 
 - id: c-14541
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė
     Vak. Europoje, kad tai yra labai pavojingas katalikams valdo­

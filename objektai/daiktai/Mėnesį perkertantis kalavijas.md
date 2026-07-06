@@ -134,6 +134,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172529
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mėnuo viens vaikštinėjo,
     Aušrinę pamylėjo.
@@ -155,6 +157,8 @@ Nenurodyta
     - t-189646
 
 - id: c-177016
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mėnuo (Menuo*)
     Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­

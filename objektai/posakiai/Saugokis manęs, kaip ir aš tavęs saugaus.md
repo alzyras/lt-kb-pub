@@ -92,6 +92,9 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
 ## Citatos
 
 - id: c-37141
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas, kaskart labiau įsikarš­
     čiuodamas, ėmė nebesislėpti su savo planais, kad jis norįs atgau­

@@ -88,6 +88,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83659
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
     29 to Augusto 1543 metais, numirė Vil-

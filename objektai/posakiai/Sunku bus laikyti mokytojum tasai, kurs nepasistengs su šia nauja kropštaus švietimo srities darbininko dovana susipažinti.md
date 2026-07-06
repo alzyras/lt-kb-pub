@@ -57,6 +57,9 @@ Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su �
 ## Citatos
 
 - id: c-37143
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     „Mokyklos ir Gyvenimo“ š. m. 2 Nr. mokytojas J. Lazauskas ra­
     šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su šia

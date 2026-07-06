@@ -141,6 +141,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37001
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tų visų faktų akivaiz­
     doje, Vytautas visų pirma pasistengė susitaikinti su Ordinu, kad
@@ -163,6 +166,9 @@ Nenurodyta
     - t-95956
 
 - id: c-37002
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Iškilmingas tos sutarties ratifikavimas (patvir­
     tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­

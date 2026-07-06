@@ -83,6 +83,8 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
 ## Citatos
 
 - id: c-61850
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
     apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,

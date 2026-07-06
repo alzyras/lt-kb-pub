@@ -237,6 +237,8 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
 ## Citatos
 
 - id: c-59424
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
     Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,
@@ -258,6 +260,8 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - t-58793
 
 - id: c-59425
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X a.— Bruzi, Burūs. Pruzze, Pruze ir
     pan. (MPKP, 1, p. 13—14). XII—XIII a. istoriniuose aktuose vardas dar nenusistovėjęs:
@@ -275,6 +279,8 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - t-58795
 
 - id: c-59426
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsų, Prūsijos vardo kilmė nėra aiški. Tuo klausimu skelbta įvairių hipotezių (žr.
     Kujot S. Dzieje..., p. 409; Фасмер M. Этимологический..., т. 3, с. 389; Fraenkel E.
@@ -288,6 +294,8 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - t-58792
 
 - id: c-59427
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
     (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
@@ -304,6 +312,8 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - t-58796
 
 - id: c-59428
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     М. Pretorijus gretino pruota, pruntu, prussu,  t. y. siejo su protas (Prätorius M.
     Deliciae..., p. 5—6). Šią mintį palaikė kiti, tarp jų Vydūnas (Vydūnas., Sieben Hundert

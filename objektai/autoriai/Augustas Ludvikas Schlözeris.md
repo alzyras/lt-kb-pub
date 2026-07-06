@@ -138,6 +138,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 ## Citatos
 
 - id: c-03973
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Europoje paskleistą me­
     džiagą apie Lietuvą, patiekė susistemintą ir, palyginti, kritiškai.
@@ -155,6 +157,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
     - t-71506
 
 - id: c-30456
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
     Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos

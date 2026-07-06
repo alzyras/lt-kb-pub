@@ -74,6 +74,8 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
 ## Citatos
 
 - id: c-177322
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     126
 

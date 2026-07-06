@@ -62,6 +62,8 @@ Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ū
 ## Citatos
 
 - id: c-172149
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo

@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169919
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Sugrįžo, padarę Lenkijos žemei daug žalos.
     54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO

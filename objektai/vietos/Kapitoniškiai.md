@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33863
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^76) ĮVADAS
     pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai

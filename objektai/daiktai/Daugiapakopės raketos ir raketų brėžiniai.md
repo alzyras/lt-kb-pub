@@ -155,6 +155,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22225
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Baroko
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
@@ -174,6 +176,8 @@ Nenurodyta
     - t-75315
 
 - id: c-22226
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius

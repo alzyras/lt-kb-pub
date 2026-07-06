@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23531
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl Kryžių kalnas, esantis 12 km į šiaurę
     nuo Šiaulių miesto, dėl kryžių gausos tapo plačiai žinomas ne tik Lietu-

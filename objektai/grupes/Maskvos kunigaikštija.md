@@ -273,6 +273,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 ## Citatos
 
 - id: c-36914
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taigi Maskvos kunigaikštija buvo apsupta žemių,
     tuo ar kitu būdu pripažinusių Vytauto autoritetą. Ji pati vadina
@@ -290,6 +293,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-92727
 
 - id: c-36915
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kad ir po didelių pastangų, bet į gyvenimo galą
     jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
@@ -308,6 +314,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-92731
 
 - id: c-36916
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Rusų kronikos aiškina, kad
     su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
@@ -327,6 +336,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-92732
 
 - id: c-88231
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Al­
     girdo užkariautųjų Rusijos kraštų plotą Vytautas buvo jau per­
@@ -344,6 +356,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-92728
 
 - id: c-88232
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas
     padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­
@@ -362,6 +377,9 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-92729
 
 - id: c-88233
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip pat Tveriaus kunigaikštis, turėjęs savo že­
     mes Maskvos kairėje, su Vytautu buvo užmezgęs taikius santy­

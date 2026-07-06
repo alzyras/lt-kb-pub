@@ -68,6 +68,8 @@ Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsuptie
 ## Citatos
 
 - id: c-176344
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tikriausiai Europoje tuo metu nebuvo
     priešiškesnių dviejų šalių kaip Lenkija ir Lietuva.

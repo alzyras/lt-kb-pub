@@ -68,6 +68,8 @@ Straubergs, K.
 ## Citatos
 
 - id: c-33000
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Straubergs, K. : _Latvju sakrālā
     pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga

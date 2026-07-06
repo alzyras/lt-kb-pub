@@ -77,6 +77,8 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
 ## Citatos
 
 - id: c-75460
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Puoselėta nemažai gražių Baltoskandijos idėjų ir planų, tačiau ben-
     dradarbiavimas su Skandinavijos šalimis neišsiplėtė. Likę vieniši lietuviai

@@ -167,6 +167,8 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
 ## Citatos
 
 - id: c-169347
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po kelių dienų apgulos, sutikęs smarkų pasi­
     priešinimą, griebėsi kito sumanymo. Mat tuo metu
@@ -188,6 +190,8 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     - t-185986
 
 - id: c-169348
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nieko nepešęs
     klasta, metė savo sumanymus ir, aplinkybių verčiamas,
@@ -216,6 +220,8 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     - t-185987
 
 - id: c-169349
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai dėl to sustiprėjo įtaka grupuotės, kuri
     siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą

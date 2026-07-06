@@ -72,6 +72,8 @@ Dusburgietis teigia, kad szacherska S.
 ## Citatos
 
 - id: c-61936
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960.
       [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,

@@ -87,6 +87,8 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
 ## Citatos
 
 - id: c-84458
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karaliaus Žygimanto Senojo privilegija prieš eretikus,
     duota Vilniaus vyskupui, 1542 metais

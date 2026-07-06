@@ -74,6 +74,8 @@ Anušauskas A.
 ## Citatos
 
 - id: c-20701
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012.
   citata_rodoma: "Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012."

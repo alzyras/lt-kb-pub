@@ -95,6 +95,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-93879
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     238, 248, 250, 256, 257, 272, 275**
     **_Knygų Lentyna_** **17

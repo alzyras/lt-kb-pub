@@ -79,6 +79,8 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 ## Citatos
 
 - id: c-61015
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo
     tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo

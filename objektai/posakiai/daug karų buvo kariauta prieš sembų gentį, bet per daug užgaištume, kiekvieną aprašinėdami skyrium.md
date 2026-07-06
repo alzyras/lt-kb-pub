@@ -124,6 +124,8 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 ## Citatos
 
 - id: c-85522
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
     į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
@@ -141,6 +143,8 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
     - t-89580
 
 - id: c-85523
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
     reikšmę. Pažymėjęs, kad kovų su pagudėnais „niekas nestengtų nė tiksliai aprašyti, nė

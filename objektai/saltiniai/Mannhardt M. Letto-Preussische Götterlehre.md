@@ -65,6 +65,8 @@ Dusburgietis teigia, kad mannhardt M.
 ## Citatos
 
 - id: c-61787
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
       Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.

@@ -143,6 +143,9 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 ## Citatos
 
 - id: c-35576
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Po jo atsiliepė ir Vienos
     universiteto profesoriai, pakviesti Zigmanto pareiškti savo
@@ -159,6 +162,9 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     - t-34352
 
 - id: c-35577
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vienos profesoriai aiškino, kad į tai mokslininkai įvairiai atsa­
     kinėja; vieni, kad popiežius, kiti, kad arcivyskupas arba vys­
@@ -174,6 +180,9 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     - t-34351
 
 - id: c-167610
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Priėmus tą nuomonę, kad konsekracija yra būti­
     na, iškyla vėl neaiškumas, kas turi teisę suteikti konsekraciją?

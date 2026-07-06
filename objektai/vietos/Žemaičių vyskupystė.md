@@ -83,6 +83,8 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 ## Citatos
 
 - id: c-03177
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tai buvo savotiškas mokestis.
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-

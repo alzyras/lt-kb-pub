@@ -74,6 +74,8 @@ Chabanier : Les Tatars Lithuaniens.
 ## Citatos
 
 - id: c-32957
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Zajączkowski, AW,
     t. 13, 1938, 303-306p.) ; J.** Chabanier **:** **_Les Tatars Lithuaniens. Aperęus hi-

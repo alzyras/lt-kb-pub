@@ -162,6 +162,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Citatos
 
 - id: c-32322
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
     (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
@@ -173,6 +175,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-68918
 
 - id: c-68373
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Augusto III val-
     dymo gale Rusiją valdė carienė Elžbieta, o jos mirties nekantriai
@@ -190,6 +194,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-68917
 
 - id: c-166463
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet Augusto III
     karaliavimo gale partijų kovose persvara jau aiškiai linko į Čarto-

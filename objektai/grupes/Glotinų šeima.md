@@ -74,6 +74,8 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
 ## Citatos
 
 - id: c-175752
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nėra abejonių, kad ir ji dalijosi į
     plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms

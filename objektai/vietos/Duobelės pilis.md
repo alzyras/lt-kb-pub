@@ -69,6 +69,8 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 ## Citatos
 
 - id: c-45085
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi:
     „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų

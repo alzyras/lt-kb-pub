@@ -187,6 +187,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173903
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
     mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
@@ -204,6 +206,8 @@ Nenurodyta
     - t-191021
 
 - id: c-173904
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     O kalbėdami apie
     Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
@@ -230,6 +234,8 @@ Nenurodyta
     - t-191022
 
 - id: c-173905
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pagaliau kurui kaip
     malkas vartojamą gintarą, kurio senovės Sembos gyven­

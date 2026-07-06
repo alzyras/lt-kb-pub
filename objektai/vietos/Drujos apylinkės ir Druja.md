@@ -123,6 +123,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-171878
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš istorijos žinoma, kad senovės prūsai turėjo
     Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­
@@ -139,6 +141,8 @@ media_all_json: |-
     - t-188989
 
 - id: c-171879
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Figūros ant
     tos lentos stovėjo nusigręžusios viena nuo kitos; žemiau pečių

@@ -151,6 +151,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83186
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     28
     Das Cromehus arba Kromhus - senuo­
@@ -186,6 +188,8 @@ Nenurodyta
     - t-87207
 
 - id: c-167209
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
     kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei

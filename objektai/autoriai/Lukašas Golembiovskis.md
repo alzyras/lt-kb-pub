@@ -78,6 +78,8 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
 ## Citatos
 
 - id: c-84054
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
     dinęs ginklus ir pilis) tik Lietuvos provincijoje. Čia tektų pri­

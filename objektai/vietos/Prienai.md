@@ -405,6 +405,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 ## Citatos
 
 - id: c-43760
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ‘ tikslu perėjus per Nemuną
     pulti Vilkaviškio kryptimi
@@ -424,6 +426,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-69034
 
 - id: c-43761
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     173
 
@@ -479,6 +483,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-69032
 
 - id: c-43763
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
     Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta.
@@ -490,6 +496,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-69030
 
 - id: c-167187
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Atgarsis apie šią
     pergalę plačiai pasklido po visą Lietuvą,
@@ -542,6 +550,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-183802
 
 - id: c-167188
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tigras, nieko nelaukdamas, truktelėjo iš savo kulkosvaidžio.
 
@@ -555,6 +565,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-183803
 
 - id: c-171695
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Už Tilžės, žemiau Vingio (Winge) dvaro, prie
     Sancinės, kur Nemunas išsišakoja į dvi atšakas -  Giliją ir Rus­
@@ -573,6 +585,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-188806
 
 - id: c-171696
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­

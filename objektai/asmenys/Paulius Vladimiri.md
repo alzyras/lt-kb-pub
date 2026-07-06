@@ -103,6 +103,9 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
 ## Citatos
 
 - id: c-38110
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jonas XXIII panaikino visas Ordino privilegijas
     ir teises kariauti Lietuvą. Paulius Vladimiri išleido dar raš­
@@ -118,6 +121,9 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
     - t-35262
 
 - id: c-38111
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mikalojaus
     ir Breslavo vysk. Jono. Kartu su jais vyko taip pat žymus

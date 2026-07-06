@@ -80,6 +80,8 @@ Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas
 ## Citatos
 
 - id: c-45018
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kai buvo užimti Lietuvos radijo ir te-
     levizijos pastatai, radijo laidų rengimas ir

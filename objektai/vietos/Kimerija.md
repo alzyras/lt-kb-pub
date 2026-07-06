@@ -112,6 +112,8 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 ## Citatos
 
 - id: c-10412
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
         pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
@@ -125,6 +127,8 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
     - t-07969
 
 - id: c-10413
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
         Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj

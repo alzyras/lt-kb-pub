@@ -752,6 +752,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Citatos
 
 - id: c-85190
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     198  D.— Scalowia, in qua Scalowite, Jer.— Schalowen. Teritorija abipus Nemuno
     žemupio — rytuose maždaug  iki  Viešvilės, vakaruose  iki Atmatos, šiaurėje siekė
@@ -765,6 +767,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89223
 
 - id: c-85191
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
     žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
@@ -779,6 +783,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89215
 
 - id: c-85192
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Labguvos pilies sunaikinimą
 
@@ -802,6 +808,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-194362
 
 - id: c-85193
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -827,6 +835,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89217
 
 - id: c-85194
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
 
@@ -847,6 +857,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89224
 
 - id: c-85195
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
 
@@ -863,6 +875,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89214
 
 - id: c-85196
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Skalvos žemės nusiaubimą
 
@@ -883,6 +897,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89213
 
 - id: c-85197
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kol kas nepakankamai aiški baltiškųjų galindų  ir
     Sasnos sričių genezė. Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
@@ -897,6 +913,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89218
 
 - id: c-85198
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo apleista Skalvos žemė
 
@@ -917,6 +935,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-194363
 
 - id: c-85199
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
     Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
@@ -934,6 +954,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89218
 
 - id: c-85201
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
@@ -948,6 +970,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89217
 
 - id: c-85204
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
     priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad
@@ -962,6 +986,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89211
 
 - id: c-85205
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Archeologijos duomenys rodo, jog skalvių gentinė kultūra buvusi ryški (ypač Nemuno
     ir Jūros santakos rajone) nuo mūsų eros pradžios (LAA, 3, p. 10, 17—18 ir žemėlapiai
@@ -975,6 +1001,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-89220
 
 - id: c-175249
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bū-
     lent tokiuose kraštuose radome daugiau negu tikėjomės

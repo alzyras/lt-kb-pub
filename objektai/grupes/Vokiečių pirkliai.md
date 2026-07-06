@@ -73,6 +73,8 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
 ## Citatos
 
 - id: c-82814
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar duodame žinoti, Jūsų Prakilnybe Malonusis
     Pone Magistrė, ir apie tai, kad (de Vörste) Vytautas vokiečių pir­

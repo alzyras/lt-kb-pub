@@ -368,6 +368,8 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
 ## Citatos
 
 - id: c-81895
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Revelis [Talinas] už savo
     atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
@@ -385,6 +387,8 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-85919
 
 - id: c-81896
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     12
 
@@ -421,6 +425,8 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-85917
 
 - id: c-81897
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Warsz.
     rašo, kad jo laikais buvę „Vytauto
@@ -456,6 +462,8 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-85916
 
 - id: c-81898
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visi
     kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
@@ -475,6 +483,8 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-85918
 
 - id: c-81899
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
     tuoj po Romos valstybės žlugimo,
@@ -506,6 +516,8 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-85915
 
 - id: c-81900
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
@@ -530,6 +542,8 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-85914
 
 - id: c-81901
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­
     liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir

@@ -112,6 +112,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33736
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _O litewskich rodach
     bojarskich zbratanych z szlachtą polską w Horodle_ , Miesięcznik Heral­
@@ -128,6 +130,8 @@ media_all_json: |-
     - t-31960
 
 - id: c-33737
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     I-II, III-
     IV, Warszawa 1969, su S. M. Kuczyńskio įvadu, 5-75 p. — Šapoka,

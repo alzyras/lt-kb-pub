@@ -294,6 +294,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 ## Citatos
 
 - id: c-173997
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Skitai gintarą
     vadino
@@ -312,6 +314,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - t-191115
 
 - id: c-173999
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia pakalbėsime apie kai
     kurias detales, palikdami išvadas daryti skaitytojui. Be
@@ -329,6 +333,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - t-191117
 
 - id: c-174000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visa tai išliko Prūsijoje. Jie
     nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
@@ -345,6 +351,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - t-191118
 
 - id: c-174001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
@@ -360,6 +368,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - t-191119
 
 - id: c-174002
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
@@ -381,6 +391,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - t-191120
 
 - id: c-174824
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Europą ir Afriką kartu jie vadino Europa, o
     Siaurės reikšmė buvo siejama anaiptol ne su šiauriniais

@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83019
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai sukėlė nesiliaujančius vaidus
     tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­

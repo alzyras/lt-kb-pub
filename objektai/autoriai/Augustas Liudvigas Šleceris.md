@@ -165,6 +165,8 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 ## Citatos
 
 - id: c-167818
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vieną knygą jis
     skyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —
@@ -183,6 +185,8 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
     - t-184465
 
 - id: c-173574
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
@@ -198,6 +202,8 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
     - t-190692
 
 - id: c-173575
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

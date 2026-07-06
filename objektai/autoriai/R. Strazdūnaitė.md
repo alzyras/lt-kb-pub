@@ -77,6 +77,8 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
 ## Citatos
 
 - id: c-33116
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^80) ĮVADAS
     vickis (IstV, t. 7, 1965, 161-165 p.). R. Strazdūnaitė:

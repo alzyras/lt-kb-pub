@@ -88,6 +88,8 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 ## Citatos
 
 - id: c-01333
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     siryžo, kad ir maišto keliu, išvaduoti savo kraštą iš Rusų jungo.
     Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir

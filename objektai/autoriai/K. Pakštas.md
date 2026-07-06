@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32997
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Moora, H. : _O drevnej territorii uaselenija baltij-
     skich piemen,_ Sovetskaja Archeologija, t. 2, 1958, 9-33 p. — Ochmań­

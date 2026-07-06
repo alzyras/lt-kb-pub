@@ -73,6 +73,8 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
 ## Citatos
 
 - id: c-172395
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak mūsų šiaurės is­
     torijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių

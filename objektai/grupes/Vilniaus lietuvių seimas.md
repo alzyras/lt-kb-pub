@@ -179,6 +179,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-168799
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atvyko į jį prieš Velykas gausybė žmonių. Visi
     luomai sutartinai ir karštai
@@ -197,6 +199,8 @@ media_all_json: |-
     - t-185438
 
 - id: c-168800
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
     karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
@@ -224,6 +228,8 @@ media_all_json: |-
     - t-185439
 
 - id: c-168801
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius, g erai žinodamas, kiek rū­
     pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,

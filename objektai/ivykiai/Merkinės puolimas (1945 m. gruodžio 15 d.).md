@@ -310,6 +310,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43086
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš mūšį
     1945 m. gruodžio 5 d. prie Mardasavo
@@ -333,6 +335,8 @@ Nenurodyta
     - t-66780
 
 - id: c-43089
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ryšininkas Juozas Jakavonis rado Merkiu
     ant ledo lyties plaukiančią žuvusių par-
@@ -362,6 +366,8 @@ Nenurodyta
     - t-66775
 
 - id: c-43090
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šis dar prieš Antrąjį pasaulinį karą į Vokietijos
     kariuomenės ginkluotę priimtas kulkosvaidis
@@ -388,6 +394,8 @@ Nenurodyta
     - t-66776
 
 - id: c-167067
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1945 metų gruodžio 15 dieną 11 val.
 

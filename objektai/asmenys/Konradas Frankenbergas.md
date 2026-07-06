@@ -77,6 +77,8 @@ Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir p
 ## Citatos
 
 - id: c-169589
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytau­
     tas, gal dėl senų nuoskaudų

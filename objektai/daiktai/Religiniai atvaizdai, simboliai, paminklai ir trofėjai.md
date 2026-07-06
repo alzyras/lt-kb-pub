@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172626
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dėl to buvo išrasti atvaizdai, sim­
     boliai, paminklai, trofėjai. Jie, pažymėti tikėjimo ženklu, susi­

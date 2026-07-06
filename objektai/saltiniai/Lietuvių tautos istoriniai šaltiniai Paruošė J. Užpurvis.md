@@ -76,6 +76,8 @@ Dusburgietis teigia, kad lietuvių tautos istoriniai šaltiniai / Paruošė J.
 ## Citatos
 
 - id: c-61769
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvių tautos istoriniai šaltiniai / Paruošė J. Užpurvis — T. 1—2 —Klaipėda, 1938—
     1939.

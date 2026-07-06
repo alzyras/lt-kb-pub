@@ -78,6 +78,8 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 ## Citatos
 
 - id: c-171027
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vietoj senosios feodalinės vals­
     tybės suvokimo formavosi naujos tautinės valstybės sampra­

@@ -178,6 +178,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84014
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     62
     Kaip seniau totoriai garsėjo santū­
@@ -205,6 +207,8 @@ media_all_json: |-
     - t-88037
 
 - id: c-84015
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     79
     Kijevo kunigaikštystė ir Podolė,
@@ -232,6 +236,8 @@ media_all_json: |-
     - t-88036
 
 - id: c-84017
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilnius,
     1966, p. 39.

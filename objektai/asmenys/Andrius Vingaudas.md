@@ -169,6 +169,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 ## Citatos
 
 - id: c-169357
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Konradas Celneris, ne-
     J o g a ilo s broliu A n d -
@@ -195,6 +197,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     - t-185996
 
 - id: c-169358
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kad ateityje nesirastų dėl kokio men­
     ko nesutarimo naujų dingsčių karui, jie sutarė, jog nuo
@@ -218,6 +222,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     - t-185997
 
 - id: c-169359
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Linkusį į maištus ir su kryžiuočių pagalba
     siekusį valdžios Andrių Jogaila pirmaisiais savo vieš­

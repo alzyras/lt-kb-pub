@@ -153,6 +153,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169917
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Aleksandras išstovėjo Braclave
     nemaža laiko ir atstatė Braclavo miestą; visi žmonės,

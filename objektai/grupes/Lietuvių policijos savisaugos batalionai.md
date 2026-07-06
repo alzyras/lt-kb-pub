@@ -105,6 +105,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-22538
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Per kelis kitus mėnesius naciai už-
     suko baisų žydų bendruomenių šaudymą Lietuvos provincijoje. Paprastai
@@ -123,6 +125,8 @@ media_all_json: |-
     - t-19814
 
 - id: c-22539
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Buvo
     išgelbėti ar išgyveno apie 8 000, dar apie 8–9000 liko gyvi, nes spėjo pa-

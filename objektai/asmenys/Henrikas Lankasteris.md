@@ -203,6 +203,8 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 ## Citatos
 
 - id: c-83407
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Miechovita, Strijkovskis
     ir K o j e 1 a v i č i u s klysta sakyda­
@@ -241,6 +243,8 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - t-87430
 
 - id: c-83408
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kol šis kunigaikštis stengėsi pelnyti
     šlovę savo karo žygdarbiais, Ričar­
@@ -266,6 +270,8 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - t-87429
 
 - id: c-83409
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Strijkovskis apsirinka nurody­
     damas, esą Lankasteris, Anglijos ka­

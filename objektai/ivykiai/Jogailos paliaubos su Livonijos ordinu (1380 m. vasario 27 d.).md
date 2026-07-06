@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31322
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jogailos padėtis
     buvo pasidariusi sunki dėl vyriausiojo Algirdaičio Andriaus suki­

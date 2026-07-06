@@ -127,6 +127,8 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
 ## Citatos
 
 - id: c-169526
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat prieš keletą mėnesių labai turtingi
     ir kilmingi kunigaikščiai Belskiai, Boratinskiai ir Voro-
@@ -154,6 +156,8 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
     - t-186165
 
 - id: c-169527
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sutelkę jėgas, visi kartu užpuolė
     Brianską ir dėl rusų klastingos išdavystės be vargo

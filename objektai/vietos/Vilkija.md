@@ -268,6 +268,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-39988
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
     ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie
@@ -284,6 +286,8 @@ media_all_json: |-
     - t-38183
 
 - id: c-171738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
     tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
@@ -298,6 +302,8 @@ media_all_json: |-
     - t-188849
 
 - id: c-171739
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senė, vadinama Upine, tomis apei­
     gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
@@ -312,6 +318,8 @@ media_all_json: |-
     - t-188850
 
 - id: c-175542
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ten jie išlipo ir VI amžiaus pirmojoje pusėje pasistūmėjo
     dešiniau iki Elbės vidurupio ir iš dalies net iki Oderio.
@@ -327,6 +335,8 @@ media_all_json: |-
     - t-192772
 
 - id: c-175543
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Veltui kai kurie istorijos tyrinėtojai šį pavadini­
     mą kildina iš slavų žodžio Wilk, nes lotynų kronikose

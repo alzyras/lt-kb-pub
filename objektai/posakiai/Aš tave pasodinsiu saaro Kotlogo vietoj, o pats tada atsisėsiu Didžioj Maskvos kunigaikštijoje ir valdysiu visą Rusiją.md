@@ -69,6 +69,9 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 ## Citatos
 
 - id: c-38351
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas
     padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­

@@ -74,6 +74,8 @@ Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai a
 ## Citatos
 
 - id: c-173122
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     100
 

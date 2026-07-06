@@ -138,6 +138,9 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 ## Citatos
 
 - id: c-36516
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­
     remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
@@ -157,6 +160,8 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     - t-64172
 
 - id: c-65000
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Toje pietinėje valstybės dalyje buvo padaryta ir kitų žymių
     atmainų. Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
@@ -170,6 +175,8 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     - t-64171
 
 - id: c-65001
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
     Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet

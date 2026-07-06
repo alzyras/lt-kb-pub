@@ -80,6 +80,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23700
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1941 m. rudenį Lietuvos miestų ir miestelių centrai ištuštėjo, o žydų
     namuose įsikūrė įstaigos arba apsigyveno nauji šeimininkai, naciai iš-

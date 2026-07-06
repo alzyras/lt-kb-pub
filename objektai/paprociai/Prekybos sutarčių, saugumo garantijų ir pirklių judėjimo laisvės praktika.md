@@ -165,6 +165,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83124
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     8
     Iki mūsų laikų Slaptajame Karaliau­
@@ -205,6 +207,8 @@ Nenurodyta
     - t-87146
 
 - id: c-83125
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
     patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų

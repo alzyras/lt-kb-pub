@@ -73,6 +73,8 @@ Dusburgietis teigia, kad kulikauskas P.
 ## Citatos
 
 - id: c-61741
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kulikauskas P. Sudargo piliakalniai.—Lietuvos TSR aukštųjų mokyklų mokslo darbai:
     Istorija, V., 1975, 15(2), p. 105 124.

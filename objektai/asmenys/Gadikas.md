@@ -95,6 +95,8 @@ Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drau
 ## Citatos
 
 - id: c-167451
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vienos Notangos dalies nuniokojimą
 

@@ -71,6 +71,8 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 ## Citatos
 
 - id: c-61110
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis
     pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva,

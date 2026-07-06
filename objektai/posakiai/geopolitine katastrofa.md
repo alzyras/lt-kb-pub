@@ -72,6 +72,8 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
 ## Citatos
 
 - id: c-26575
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva principingai laikosi nuostatos, kad Rusija,
     kaip SSRS teisių ir pareigų perėmėja, turi atlyginti Lietuvai nuostolius,

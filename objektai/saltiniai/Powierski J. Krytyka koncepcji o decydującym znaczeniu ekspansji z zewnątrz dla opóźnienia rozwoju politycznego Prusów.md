@@ -73,6 +73,8 @@ Dusburgietis teigia, kad powierski J.
 ## Citatos
 
 - id: c-61873
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
     opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,

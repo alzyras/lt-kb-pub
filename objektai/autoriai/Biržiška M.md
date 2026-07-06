@@ -66,6 +66,8 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
 ## Citatos
 
 - id: c-87586
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ragaina — miškų deivė
     (Lasickis J., Apie žemaičių..., p. 20, 40(47); Dundulienė P., Medžiai.., p. 99), liaudyje

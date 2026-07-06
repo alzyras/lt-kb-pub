@@ -68,6 +68,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-90741
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     turėjo visus savo pažadus dokumentu patvirtinti. Todėl 1384
     metų sausio mėn. pabaigoje mes matome jį Karaliaučiuje, kur

@@ -69,6 +69,8 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 ## Citatos
 
 - id: c-41867
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Po kaštanais mes persiskyrėme į dvi grupes po šešiolika vyrų. Pirmoji grupė, vadovau-
     jama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls

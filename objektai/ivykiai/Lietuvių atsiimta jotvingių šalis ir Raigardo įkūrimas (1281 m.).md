@@ -153,6 +153,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169101
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai
     dabar Narimantas su Traideniu pirmą kartą susirūpino
@@ -180,6 +182,8 @@ Nenurodyta
     - t-185740
 
 - id: c-169102
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išlikę jotvingiai, iš seno ne­
     kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė

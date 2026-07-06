@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75257
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Aukščiausias Kauno pastatas iš gelžbetonio
     plokščių pagal architekto Karolio Reisono (Kārlis Reisons) projektą išaugo

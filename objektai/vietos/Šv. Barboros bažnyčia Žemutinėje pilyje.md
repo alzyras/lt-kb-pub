@@ -72,6 +72,8 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
 ## Citatos
 
 - id: c-82255
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dažnas Žygimanto Augusto, jo
     palydos, svetimšalių pasiuntinių ir didikų buvojimas Vil­

@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172820
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tačiau senieji liau­
     dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,

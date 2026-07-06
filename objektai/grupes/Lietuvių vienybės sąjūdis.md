@@ -111,6 +111,8 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 ## Citatos
 
 - id: c-72679
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pogrindis laikėsi neginkluotos rezistencijos taktikos: vykdyta
     JAV lietuviai, surinkę aukas ir nupirkę JAV kariuomenei

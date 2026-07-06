@@ -76,6 +76,8 @@ Kuczyński, S.
 ## Citatos
 
 - id: c-29275
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Kuczyński, S. M. : _Antymoskiewska inicjatywa
     Litwy w drugiej połowie XIV wieku,_ Warszawa 1936. — (”) _Ziemie

@@ -204,6 +204,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 ## Citatos
 
 - id: c-169428
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
@@ -225,6 +227,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - t-193506
 
 - id: c-169429
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to jis su savo kariais pasuko kita
     kryptimi: staiga puolė Medrabą, kurios gynėjai daug
@@ -251,6 +255,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - t-193507
 
 - id: c-169430
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytenis, neturėdamas pa­
     kankamai jėgų priešui at-

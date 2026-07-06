@@ -66,6 +66,8 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
 ## Citatos
 
 - id: c-33188
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
     čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo

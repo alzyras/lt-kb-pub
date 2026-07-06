@@ -264,6 +264,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83039
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
     bet tik sutikus nors vienai pastariesiems priklausančiai šei­
@@ -317,6 +319,8 @@ Nenurodyta
     - t-87060
 
 - id: c-83040
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
     gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
@@ -370,6 +374,8 @@ Nenurodyta
     - t-87062
 
 - id: c-83041
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet to negalime dovanoti die­
     vobaimingiems Vilniaus miestie­

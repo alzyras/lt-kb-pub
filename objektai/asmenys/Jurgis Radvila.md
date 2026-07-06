@@ -769,6 +769,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 ## Citatos
 
 - id: c-42038
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvių pašauktinių ba-
     jorų susirinko ne mažiau kaip 8000 karių.
@@ -791,6 +793,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103054
 
 - id: c-96256
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
     metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
@@ -815,6 +819,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103049
 
 - id: c-96257
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šven­
     tasis ekumeninis Tridento Sinodas nusprendė, kad norint
@@ -849,6 +855,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103045
 
 - id: c-96260
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ketvirtasis mūšio etapas. (XVI a.
     tapyto paveikslo „Oršos mūšis“
@@ -878,6 +886,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103044
 
 - id: c-96262
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     70
     Detali Kardinalijos istorija yra tokia:
@@ -902,6 +912,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103037
 
 - id: c-96263
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
     rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­
@@ -930,6 +942,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103051
 
 - id: c-96264
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Neapsiribodamas pavyzdžio verta savo
     labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
@@ -959,6 +973,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103050
 
 - id: c-96267
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos pajėgos
     Lietuvos kariuomenę sudarė Lietuvos ka-
@@ -979,6 +995,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103052
 
 - id: c-96268
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Marijos Magdalenos baž­
     nyčios, po dešine ranka Skapo gatvėje
@@ -1002,6 +1020,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103040
 
 - id: c-96270
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     192
 
@@ -1034,6 +1054,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-194229
 
 - id: c-96272
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 314
 
@@ -1054,6 +1076,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103046
 
 - id: c-96273
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
     Juos rėmė ir daug kitų atverstų didikų, o ypač dievobaimingoji
@@ -1068,6 +1092,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-103041
 
 - id: c-168108
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Čeliadninas kaip ir anksčiau tebestovėjo su pa­
     grindinėmis jėgomis toje pačioje vietoje. Sverčovskis,

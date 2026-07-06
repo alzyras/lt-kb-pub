@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62822
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     107. Apie jo vainikavimą prie Milano
 

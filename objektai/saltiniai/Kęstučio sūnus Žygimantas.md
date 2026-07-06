@@ -63,6 +63,8 @@ Kęstučio sūnus Žygimantas.
 ## Citatos
 
 - id: c-176781
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Šležas  P. Kęstučio sūnus Žygimantas. — Šviesos keliai, 1933.
     Nr. 7, p. 424—430.

@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75268
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis
     Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų ben-

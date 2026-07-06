@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60345
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     101. Apie švento Ruprechto stebuklus Karaliaučiuje
 

@@ -75,6 +75,8 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 ## Citatos
 
 - id: c-59574
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikos idėjinė reikšmė ir mokslinė svarba
 

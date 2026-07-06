@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66807
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, jis yra įkūręs Amerikos Lietuvių Ka-
     talikų Federaciją, kuri jungia visas katalikiškąsias Ame-

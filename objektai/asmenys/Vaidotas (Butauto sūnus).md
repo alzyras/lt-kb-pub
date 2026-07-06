@@ -99,6 +99,9 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 ## Citatos
 
 - id: c-166123
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuvykęs Vakarų Europon buvo Romos cieso­
     riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369

@@ -81,6 +81,8 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 ## Citatos
 
 - id: c-82783
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
     su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­

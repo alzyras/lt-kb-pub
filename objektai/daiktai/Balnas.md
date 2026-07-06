@@ -110,6 +110,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10239
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš
         vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus

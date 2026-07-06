@@ -176,6 +176,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172785
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
     žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
@@ -198,6 +200,8 @@ Nenurodyta
     - t-189902
 
 - id: c-172786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Miškelių garbinimas buvo taip sureikšmintas, kad juose
     jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
@@ -219,6 +223,8 @@ Nenurodyta
     - t-189903
 
 - id: c-177039
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     263
 

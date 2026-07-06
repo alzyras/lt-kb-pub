@@ -67,6 +67,8 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
 ## Citatos
 
 - id: c-61363
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     A. Mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский
     А. Ф., О надровском жреце..., с. 246—259). Tokiai nuomonei kartais pritariama (Ivinskis

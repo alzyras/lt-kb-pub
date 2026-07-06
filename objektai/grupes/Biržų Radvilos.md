@@ -84,6 +84,8 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
 ## Citatos
 
 - id: c-70473
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tų galingųjų šeimų
     atvirtimas buvo didelė parama katalikybei. Radvilos Juodojo

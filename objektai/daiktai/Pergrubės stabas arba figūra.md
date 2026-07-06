@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172621
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
     vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­

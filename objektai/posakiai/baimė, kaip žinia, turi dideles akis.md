@@ -76,6 +76,8 @@ Kojelavičius posakiu „baimė turi dideles akis“ aiškino karaliaus nerimą 
 ## Citatos
 
 - id: c-168835
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pirmąją sekančių metų dieną padaugėjo karaliui ir
     įpėdinių, nes gimė Žygimantas16, ir rūpesčių, nes neži­

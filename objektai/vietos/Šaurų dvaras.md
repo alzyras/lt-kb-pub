@@ -135,6 +135,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 ## Citatos
 
 - id: c-171049
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vi­
     suomenės akyse jis tapo LTI autoriumi.
@@ -151,6 +153,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
     - t-188163
 
 - id: c-171052
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
     tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­

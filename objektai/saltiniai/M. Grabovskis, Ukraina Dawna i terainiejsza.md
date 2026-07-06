@@ -76,6 +76,8 @@ M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto 
 ## Citatos
 
 - id: c-174675
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ponas Adomas Kirkoras kasinėjo Lydos apskri­
     tyje, prie Ogrodnikų kaimo, greta iždui priklausančio Ka­

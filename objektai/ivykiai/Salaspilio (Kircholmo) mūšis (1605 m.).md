@@ -470,6 +470,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11901
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pasinaudodamas laikina ramybe, Karolis
     Chodkevičius pasakė kalbą, padrąsino ir
@@ -487,6 +489,8 @@ Nenurodyta
     - t-10279
 
 - id: c-11902
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     @ J.K. Chodkevičius, pastebėjęs, kad švedų
     pėstininkų rikiuotė prarado darnumą,
@@ -509,6 +513,8 @@ Nenurodyta
     - t-10281
 
 - id: c-11903
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     [9] Švedų kavalerija pradeda netvarkingai
     trauktis ir lipti ant savo pėstininkų, tai su-
@@ -526,6 +532,8 @@ Nenurodyta
     - t-10278
 
 - id: c-11905
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rotmistrų J. P. Sapiegos ir T. Dambra-
     vos kavalerija susikovė su švedų kairiojo
@@ -550,6 +558,8 @@ Nenurodyta
     - t-10285
 
 - id: c-43116
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Karolis Chodkevičius pastebėjo, kad
     švedai išsirikiavo ant aukšto upelio kranto,
@@ -573,6 +583,8 @@ Nenurodyta
     - t-186375
 
 - id: c-43117
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ® Švedų gvardijos kavaleriją pasitinka
     T. Lackio husarai ir ryžtingu puolimu nu-
@@ -588,6 +600,8 @@ Nenurodyta
     - t-10282
 
 - id: c-43118
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prasidėjo žiau-
     rios besitraukiančio priešo kapotynés.
@@ -607,6 +621,8 @@ Nenurodyta
     - t-10280
 
 - id: c-169735
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -624,6 +640,8 @@ Nenurodyta
     - t-186373
 
 - id: c-169736
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
@@ -638,6 +656,8 @@ Nenurodyta
     - t-186374
 
 - id: c-176406
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Besitraukiantys švedų pėstininkai bandė
     slėptis Salaspilio (Kircholmo) bažnyčioje.

@@ -69,6 +69,8 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 ## Citatos
 
 - id: c-61072
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     138 (133). Apie 3 brolių ir 40 vyrų nužudymą
 

@@ -118,6 +118,8 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
 ## Citatos
 
 - id: c-44360
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
     Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
@@ -141,6 +143,8 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
     - t-40159
 
 - id: c-44361
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     K. Dragunevičiaus vadovaujama
     vidurinioji vora privalėjo pulti bolševi-

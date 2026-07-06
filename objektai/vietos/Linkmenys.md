@@ -78,6 +78,8 @@ Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių.
 ## Citatos
 
 - id: c-170310
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Livonijos kariuome­
     nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­

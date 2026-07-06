@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67157
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tik ketvirtą dieną vyskupo Bžostausko ir Višniaveckių rūpesčių jie
     buvo palaidoti.
@@ -123,6 +125,8 @@ Nenurodyta
     - t-67133
 
 - id: c-67158
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
     Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-

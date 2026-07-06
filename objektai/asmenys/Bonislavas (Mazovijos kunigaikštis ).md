@@ -87,6 +87,8 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 ## Citatos
 
 - id: c-83618
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­
     kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­

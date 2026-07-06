@@ -105,6 +105,8 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
 ## Citatos
 
 - id: c-21841
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Laikinu lietuvių vienišumu Vokiečių ordino vadovybė netruko pasinau-
     doti. Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
@@ -120,6 +122,8 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
     - t-19083
 
 - id: c-166950
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
     nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus

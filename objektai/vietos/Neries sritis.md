@@ -85,6 +85,9 @@ Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vo
 ## Citatos
 
 - id: c-38586
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuo to laiko per visą savo gyvenimą, iki pat žilos senatvės,
     Kęstutis turėjo nepaliaujamai kariauti su tariamaisiais Lietuvos

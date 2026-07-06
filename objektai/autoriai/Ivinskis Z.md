@@ -88,6 +88,8 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
 ## Citatos
 
 - id: c-87573
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Sventopelko karą su Teutonų ordino broliais
      1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo

@@ -97,6 +97,8 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 ## Citatos
 
 - id: c-55089
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos partizanų vadų
     suvažiavimas. Minaičių kaimas

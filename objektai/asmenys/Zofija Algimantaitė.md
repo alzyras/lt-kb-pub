@@ -84,6 +84,9 @@ ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos kar
 ## Citatos
 
 - id: c-36001
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nors Jogaila ir vedė jo pripirštą Alšėnų kunig. Zofi-
 

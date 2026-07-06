@@ -184,6 +184,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66721
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitaip broliai ir maldininkai sugrįžo namo,
     parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško
@@ -207,6 +209,8 @@ Nenurodyta
     - t-66509
 
 - id: c-66722
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
     sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui

@@ -163,6 +163,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 ## Citatos
 
 - id: c-32454
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Paskutinis Gedimino laiškas (1325.VI.2)
     yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir
@@ -175,6 +177,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     - t-80185
 
 - id: c-43895
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Suomijos įlanka, „ 5
 
@@ -191,6 +195,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     - t-80186
 
 - id: c-77038
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jėzuitai tuojau ėmė steigti visam krašte kolegijas. Tuo-
 

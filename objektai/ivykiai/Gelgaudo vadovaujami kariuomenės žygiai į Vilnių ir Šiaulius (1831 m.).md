@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66754
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Emilija Pliaterytė,
     herojiška sukilėlių vadė, gavusi
@@ -126,6 +128,8 @@ Nenurodyta
     - t-66549
 
 - id: c-66756
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik
     Dembinskio rinktinė (apie 3.500 karių). Rusai tuo tarpu atga-

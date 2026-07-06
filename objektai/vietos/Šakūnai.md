@@ -70,6 +70,8 @@ Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnu
 ## Citatos
 
 - id: c-171990
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
     medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,

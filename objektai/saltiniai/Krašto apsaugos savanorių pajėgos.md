@@ -71,6 +71,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-41709
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 255, „UŽDUOTIS“, Krašto apsaugos savanorių pajėgos, Vilnius, 2001, p. 9.
   statusas: verified

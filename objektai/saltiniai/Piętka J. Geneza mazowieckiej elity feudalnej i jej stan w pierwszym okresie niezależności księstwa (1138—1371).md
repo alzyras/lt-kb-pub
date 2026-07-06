@@ -76,6 +76,8 @@ Dusburgietis teigia, kad piętka J.
 ## Citatos
 
 - id: c-61860
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Piętka  J. Geneza mazowieckiej  elity feudalnej   i  jej stan w pierwszym okresie
     niezależności księstwa (1138—1371).— Rocznik mazowiecki, Warszawa, 1979, t. 7, s.

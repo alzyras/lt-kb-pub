@@ -132,6 +132,8 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 ## Citatos
 
 - id: c-175723
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šioms tolimos senovės epo­
     choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
@@ -150,6 +152,8 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
     - t-192953
 
 - id: c-175724
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nuo neatmenamų
     laikų kolchai buvo laikomi neapsakomai turtingais ir iš­

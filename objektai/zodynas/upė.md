@@ -127,6 +127,8 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 ## Citatos
 
 - id: c-175077
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat yra senovės geogra­
     fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
@@ -147,6 +149,8 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
     - t-192230
 
 - id: c-175352
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Žodis Upe lietu­
     vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių

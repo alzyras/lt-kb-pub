@@ -271,6 +271,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 ## Citatos
 
 - id: c-24050
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Prie jų dar prisidėjo Austrijos Juozapas II. Susižavėjęs švie-
     čiamąja literatūra, jis darė reformas, viską, net Bažnyčią, pajungda-
@@ -284,6 +286,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     - t-182996
 
 - id: c-165561
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Abu rusų valdovai stengėsi savo
     valstybę stiprinti vakarinio kaimyno sąskaiton. Nuo «nebylių

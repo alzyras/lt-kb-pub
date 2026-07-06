@@ -87,6 +87,8 @@ Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią anal
 ## Citatos
 
 - id: c-166582
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     J. K. Glaubi-
     cas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo –

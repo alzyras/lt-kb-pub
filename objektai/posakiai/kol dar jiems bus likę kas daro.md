@@ -75,6 +75,8 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 ## Citatos
 
 - id: c-59749
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie karą su skalviais. Apie įvykius prieš šį karą
 

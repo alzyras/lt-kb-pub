@@ -75,6 +75,8 @@ Bėgdami iš mūšio lauko, daug skitų įklimpo į Cepros upės dumblą ir ten 
 ## Citatos
 
 - id: c-168644
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Skitai, ietigalių vėliavėles palaikę
     galybe karo vėliavų, pamanė, jog atžygiuoja nauja ka­

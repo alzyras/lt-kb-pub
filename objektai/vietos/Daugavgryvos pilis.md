@@ -76,6 +76,8 @@ Kai ordinui pa­ vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pi
 ## Citatos
 
 - id: c-28222
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai ordinui pa­
     vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pilį,

@@ -69,6 +69,8 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
 ## Citatos
 
 - id: c-59566
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
     jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas

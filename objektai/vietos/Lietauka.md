@@ -176,6 +176,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16570
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
     apie VII a. Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
@@ -192,6 +194,8 @@ Nenurodyta
     - t-46894
 
 - id: c-16571
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tradiciškai manoma, kad Lietuvos valstybės bran-
     duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
@@ -207,6 +211,8 @@ Nenurodyta
     - t-46891
 
 - id: c-49437
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
     lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo

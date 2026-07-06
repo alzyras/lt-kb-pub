@@ -64,6 +64,8 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
 ## Citatos
 
 - id: c-174337
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai pasakoja Amia-
     nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­

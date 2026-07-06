@@ -290,6 +290,9 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 ## Citatos
 
 - id: c-37464
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Europos visuomenė labai juo
     domėjosi ir į Konstancijos miestą (dabart. Šveicarijoje), kur bu­
@@ -307,6 +310,9 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-36321
 
 - id: c-37466
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia susitaikino ir Vytautas su Jogaila,
     nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu
@@ -324,6 +330,9 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-36323
 
 - id: c-38525
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinu
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
@@ -344,6 +353,9 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-36322
 
 - id: c-167677
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kadangi jis
     turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti
@@ -362,6 +374,9 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-184304
 
 - id: c-167678
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Už tai Jogaila ant jo smarkiai supyko,
     lenkų bajorai pasistengė jį nuraminti, už ką Vytautas, žinoma,

@@ -67,6 +67,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24385
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vokietijoje išvežti dirbo apie 60 000
     Lietuvos gyventojų.

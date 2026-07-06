@@ -73,6 +73,8 @@ Nuo tol joks namas negalėjo būti statomas be miesto tarybos žinios ir be virv
 ## Citatos
 
 - id: c-82605
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau karo bei gresiančio priešų užpuolimo
     atveju visi tarnautojai ir gyventojai paklusdavo vaivados ar­

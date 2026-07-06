@@ -126,6 +126,8 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
 ## Citatos
 
 - id: c-171857
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -149,6 +151,8 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
     - t-188968
 
 - id: c-175515
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Il­
     gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,

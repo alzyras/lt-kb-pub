@@ -66,6 +66,8 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
 ## Citatos
 
 - id: c-03198
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visos lietuvių kilmės kiltys anais senovės laikais bendro vardo
     gal nė neturėjo, o kad ir turėjo, tai vis tiek jis mums šiandien nebe-

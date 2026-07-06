@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172831
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Veliona (Wellona)
     Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­

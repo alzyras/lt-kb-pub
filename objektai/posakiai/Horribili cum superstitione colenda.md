@@ -75,6 +75,8 @@ Narbutas nurodo, kad vyskupo Petro rankraštyje lietuviai esą garbino deivę Le
 ## Citatos
 
 - id: c-172466
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vyskupo Petro rankraštyje yra duomenų, kad lietuviai gar­
     bino deivę Lellia Menelia su didžiuliu prietaringumu, horribili

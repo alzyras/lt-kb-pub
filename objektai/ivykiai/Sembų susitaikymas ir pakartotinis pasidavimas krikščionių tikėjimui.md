@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63126
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     109 (104). Apie brolių ir sembų susitaikymą
 

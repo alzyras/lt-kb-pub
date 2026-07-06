@@ -123,6 +123,9 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 ## Citatos
 
 - id: c-38495
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą
     auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
@@ -142,6 +145,9 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
     - t-36246
 
 - id: c-38496
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vokiečių Ordinas, pabijojęs tokios naujos lietuvių lenkų są­
     jungos, pašalino magistrą Henriką von Plaueną, karštą greito

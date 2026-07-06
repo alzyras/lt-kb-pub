@@ -146,6 +146,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169143
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sugrįžti nuo tikėjimo reikalų prie vals­
     tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
@@ -170,6 +172,8 @@ Nenurodyta
     - t-185782
 
 - id: c-169144
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasibai­
     gus susitikimui, karalius kurį laiką pasiliko Veliuono­

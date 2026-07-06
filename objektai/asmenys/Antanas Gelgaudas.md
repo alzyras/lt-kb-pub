@@ -155,6 +155,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 ## Citatos
 
 - id: c-21585
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bendros sukilimo vado-
     vybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities
@@ -173,6 +175,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - t-63475
 
 - id: c-41825
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos sukilėliams į pa-
     galbą atvyko nedideli
@@ -193,6 +197,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - t-63477
 
 - id: c-41826
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     XIX a. pirmoji pusė k
 

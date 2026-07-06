@@ -129,6 +129,8 @@ Data: 1795 m.
 ## Citatos
 
 - id: c-170973
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sis judėjimas su­
     stiprino domėjimąsi kalbotyra ir tiesiog pagimdė etnologijos

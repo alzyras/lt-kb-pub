@@ -124,6 +124,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66886
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     negalėdamas atsispirti didelei jungtinei jėgai, didysis magistras
     Russdorfas paprašė taikos. Ji buvo pasirašyta 1422.IX.27 d. lenkų
@@ -136,6 +138,8 @@ Nenurodyta
     - t-66700
 
 - id: c-66887
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
     siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,

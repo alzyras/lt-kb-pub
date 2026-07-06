@@ -109,6 +109,9 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 ## Citatos
 
 - id: c-89066
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip buvo kolonizuojama ir Žemaitija ir ki­
     ti kraštai. Kai kas mano, kad naujose žemėse žmonės buvo
@@ -124,6 +127,8 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     - t-93758
 
 - id: c-89071
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Z. Augusto laikai Lietuvoje** buvo labai reikšmingi. Jo laikais
     įvyko ne tik persivertimas iš užplūdusio protestantizmo atgal į ka-

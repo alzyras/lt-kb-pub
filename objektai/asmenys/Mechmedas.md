@@ -74,6 +74,8 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
 ## Citatos
 
 - id: c-169508
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Rytų imperijos gyventojai,
     pavergti turkų, maldavo Va­

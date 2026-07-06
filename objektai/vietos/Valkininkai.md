@@ -154,6 +154,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 ## Citatos
 
 - id: c-43959
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1700 m. lapkričio 19-24 d. Valki-
     ninkuose vyko respublikonų bajorijos
@@ -178,6 +180,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
     - t-181533
 
 - id: c-165069
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šie pabūklai
     mūšio.

@@ -77,6 +77,8 @@ Bagdanavičius, V.
 ## Citatos
 
 - id: c-33164
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Drauge čia paliečiame, kaip vystėsi _Lietuvos isto­
     rijos mokslas_ jos aukštosiose mokyklose, ypač nepriklausomoje

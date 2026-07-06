@@ -3899,6 +3899,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 ## Citatos
 
 - id: c-32281
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Yra paaiškėję, kad pradinė
     Mindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios
@@ -3912,6 +3914,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180379
 
 - id: c-32284
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie
     Nemuno. Lietuvai atėjo pačios sunkiausios dienos, kokių ji iki tol
@@ -3924,6 +3928,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180373
 
 - id: c-32289
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ordinas turėjo tuojau
     paimti vakarinį Sūduvos ruožą ir Žemaičių dalį — į vakarus nuo
@@ -3939,6 +3945,9 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180356
 
 - id: c-163963
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
     truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
@@ -3957,6 +3966,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180355
 
 - id: c-163966
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tokia
     gynimosi linija su mažais protarpiais ėjo nuo Rietavo miškų. Ji
@@ -3973,6 +3984,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180371
 
 - id: c-163967
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visa tai vyko žiemos pabaigo­
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
@@ -3990,6 +4003,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180347
 
 - id: c-163968
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dabar pilis stovi be stogo, be langų ir vis labiau
     nyksta.
@@ -4009,6 +4024,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180369
 
 - id: c-163969
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didysis magistras, vis dar
     laikydamasis ankstesnių ketinimų atimti Vilnių iš Vytauto,
@@ -4025,6 +4042,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180370
 
 - id: c-163970
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Derybose Lietuvos delegacija reikalavo
     nustatyti laikiną demarkacijos liniją, pasi-
@@ -4045,6 +4064,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180399
 
 - id: c-163971
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikininkas šioje dalyje (kartais,
     beje, ir anksčiau), neturėdamas tikslesnių įvykių datų, pasakojimą grindžia geografiniu
@@ -4060,6 +4081,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180374
 
 - id: c-163972
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IX).
     100
@@ -4086,6 +4109,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180344
 
 - id: c-163974
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių
     kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi
@@ -4104,6 +4129,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180398
 
 - id: c-163975
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [Be to, no­
     rėdami, kad minėtos palaimintųjų
@@ -4133,6 +4160,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180352
 
 - id: c-163976
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
@@ -4153,6 +4182,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180383
 
 - id: c-163978
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Napoleono kariuomenės kėlimasis per Nemuną žygyje į Rusiją
     1812 m. Dail. Jean-Baptiste Madou, 1827 m.
@@ -4164,6 +4195,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180358
 
 - id: c-163979
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Viena iš girių, esanti prie
     pat Rūdninkų, ir dabar tebevadinama Królewski ogród, lietu­
@@ -4186,6 +4219,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180368
 
 - id: c-163980
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vakaruose siena su kry-
     žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-
@@ -4203,6 +4238,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180363
 
 - id: c-163981
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Grįždami jie sudegino
     dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
@@ -4218,6 +4255,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180394
 
 - id: c-163982
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iki šiol labiausiai paplitusi versija buvo
     Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
@@ -4234,6 +4273,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180378
 
 - id: c-163983
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vysla — tai upė, atitekanti nuo
     Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
@@ -4249,6 +4290,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180381
 
 - id: c-163985
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trečią kartą šis papilys bu­
     vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
@@ -4275,6 +4318,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180406
 
 - id: c-163986
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgietis Nemuną vadina Memela (plg. 1243 m. flumen Memele — PUB, 1, 1, Nr.
     143), o Klaipėdos pilį — Memelburgk.
@@ -4288,6 +4333,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180409
 
 - id: c-163987
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
     įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
@@ -4304,6 +4351,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180389
 
 - id: c-163989
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vygandas ir
     Lindenblattas, kronikininkai,
@@ -4329,6 +4378,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180390
 
 - id: c-163992
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
@@ -4347,6 +4398,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180360
 
 - id: c-163993
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
     čioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir
@@ -4366,6 +4419,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180384
 
 - id: c-163994
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     M. Balinskis, lyg ir pri­
     simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
@@ -4385,6 +4440,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180392
 
 - id: c-163995
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
 
@@ -4400,6 +4457,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180351
 
 - id: c-163996
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     KOVA DĖL NEPRIKLAUSOMYBĖS
     Lietuvos planai: nuo autonomijos
@@ -4428,6 +4487,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180350
 
 - id: c-163997
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lie­
     tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
@@ -4446,6 +4507,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180340
 
 - id: c-164000
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ordino įgaliotiniai, vadovaujami maršalo M. Küchmeisterio,
     labiausiai stengėsi susiaurinti laikinai atiduodamų Žemaičių plotą.
@@ -4462,6 +4525,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180342
 
 - id: c-164001
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
     žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
@@ -4476,6 +4541,9 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180341
 
 - id: c-164002
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
     karo buvo prijungti prie Lietuvos. Vytautas, norėdamas geriau
@@ -4495,6 +4563,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180395
 
 - id: c-164003
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie šio laivo sudeginimą 1313 metais
 
@@ -4519,6 +4589,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180372
 
 - id: c-164004
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Čia Vytautas pakartoja ankstesnių Lie-
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
@@ -4534,6 +4606,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180357
 
 - id: c-164005
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     37).
 
@@ -4550,6 +4624,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180377
 
 - id: c-164007
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Senosios kro-
     nikos mini daug ordino puolimų į Žemaičius ir Aukštaičius,
@@ -4568,6 +4644,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180365
 
 - id: c-164009
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -4590,6 +4668,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180405
 
 - id: c-164011
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ant pilkapio nuo neatme­
     namų laikų visada būdavo statomas kryžius. Mažas upeliu­
@@ -4609,6 +4689,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180353
 
 - id: c-164017
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tad jie
     stengėsi dešiniajame Nemuno žemupio krante (nuo Nevėžio) sau
@@ -4626,6 +4708,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180397
 
 - id: c-164018
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
     ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
@@ -4646,6 +4730,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180362
 
 - id: c-164019
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pilis buvusi pastatyta aukštame Nemuno krante (žr. D. III, 182). 1289 m. toje vietoje
     Ordinas pastatė pirmąją Ragainės pilį (žr. D. III, 235; HE, p. 126; С V, t. 34, p. 106—
@@ -4658,6 +4744,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180404
 
 - id: c-164026
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
     Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
@@ -4675,6 +4763,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180359
 
 - id: c-164027
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1410 m. liepos pradžioje LDK kariuomenė prie Vyslos susijungė su
     Lenkijos kariuomene. Tačiau išvedus visą kariuomenę iš Lietuvos, liko
@@ -4691,6 +4781,9 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180376
 
 - id: c-164028
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kada Kryžiuočių Ordino maršalka
     Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
@@ -4713,6 +4806,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-180361
 
 - id: c-167761
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tik po dviejų dešimtmečių, jau
     Vytautui esant ordino globoje, 1384 vasarą Kauno vietoje buvo
@@ -4728,6 +4823,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-184393
 
 - id: c-168427
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Valdęs
     valstybę
@@ -4752,6 +4849,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-185066
 
 - id: c-168428
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kūno, arba
     Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
@@ -4768,6 +4867,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-185067
 
 - id: c-168429
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Taigi kai lietuviai įrudenėjus buvo užsi­
     ėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai
@@ -4799,6 +4900,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-185068
 
 - id: c-168430
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ka­
     riuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-
@@ -4818,6 +4921,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-185069
 
 - id: c-168431
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
@@ -4838,6 +4943,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-185070
 
 - id: c-168432
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
     stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
@@ -4861,6 +4968,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-185071
 
 - id: c-168433
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo metu ten
     susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
@@ -4878,6 +4987,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-185072
 
 - id: c-170572
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O Grigorijus buvo šven­
     tasis, kokio iki jo nėra buvę ir daugiau nebebus.
@@ -4894,6 +5005,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-187625
 
 - id: c-171667
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Man sakė, kad Karaliaučiuje
     buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
@@ -4915,6 +5028,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188778
 
 - id: c-171668
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
     me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
@@ -4932,6 +5047,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188779
 
 - id: c-171669
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Skaityk žemiau atitinkamus straipsnius.
     Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
@@ -4945,6 +5062,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188780
 
 - id: c-171670
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
@@ -4963,6 +5082,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188781
 
 - id: c-171671
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
     tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
@@ -4977,6 +5098,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188782
 
 - id: c-171672
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Siek tiek pasistūmėję upe
     aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
@@ -4996,6 +5119,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188783
 
 - id: c-171673
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Si ket­
     virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
@@ -5014,6 +5139,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188784
 
 - id: c-171674
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
     dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
@@ -5036,6 +5163,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188785
 
 - id: c-171675
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju­
     dėjimą, norėdami padalyti laiką į atkarpas, bet kadangi su jų
@@ -5056,6 +5185,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188786
 
 - id: c-171676
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pas mus, remiantis kitu šaltiniu
     tikriausiai iš kitos Lietuvos dalies, aptiktas ankstesnis pastebėji­
@@ -5071,6 +5202,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188787
 
 - id: c-171677
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
@@ -5089,6 +5222,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188788
 
 - id: c-171678
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Musa dieniszku mausu dod mums szoden, unpedod muns
     musu paradus, ka mes pedodam musum paradukam; un ne wed
@@ -5111,6 +5246,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-188789
 
 - id: c-173538
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     452
 
@@ -5128,6 +5265,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-190655
 
 - id: c-173539
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pastatomas bokštas, turintis varpą, reika­
     lingą bažnytinėms apeigoms. Tokiu pačiu būdu buvo pastatyti ir
@@ -5144,6 +5283,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-190656
 
 - id: c-175474
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Keliaudami Dnąpro keliu šiek tiek aukštyn, šiandienio
     Lojovo, arba Lojovo Grodeko, apylinkėse turėjo užeiti pir­
@@ -5161,6 +5302,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-192704
 
 - id: c-175475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dionyzas iš Charakso, imperatoriaus Oktaviano
     Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
@@ -5178,6 +5321,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-192705
 
 - id: c-175476
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -5196,6 +5341,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-192706
 
 - id: c-175477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tam tikrą
     šios žemės dalį skandinavai vadino Reithgothland. Sis
@@ -5211,6 +5358,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-192707
 
 - id: c-175478
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nekyla abejonių, jog priešistoriniais taikais egzistavo
     vilkų, Wilkow, tauta, kurios vardas buvo įvairiai iškrai­
@@ -5230,6 +5379,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-192708
 
 - id: c-175479
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad pakalbėkime apie kiekvieną sritį atskirai.
     245
@@ -5248,6 +5399,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-192709
 
 - id: c-175480
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šios uolienų nuolaužos ne visur vienodai nuklojo
     žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­

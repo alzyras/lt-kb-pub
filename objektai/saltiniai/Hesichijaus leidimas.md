@@ -77,6 +77,8 @@ Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėto
 ## Citatos
 
 - id: c-174659
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,

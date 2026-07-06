@@ -77,6 +77,8 @@ Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo 
 ## Citatos
 
 - id: c-174391
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     68
 

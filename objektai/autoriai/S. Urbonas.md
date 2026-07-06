@@ -74,6 +74,8 @@ Urbonas.
 ## Citatos
 
 - id: c-22190
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius,
     2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J. Galkus.

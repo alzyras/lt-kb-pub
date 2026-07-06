@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-34144
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Danville, III., JAV). 1966 ir 1967 m. bibliogr. išleista kolektyvų dviem
     sąsiuv. kaip** **_Užsienio Lietuvių Spaudos Metraštis,_** **Čikaga 1967, 1968.

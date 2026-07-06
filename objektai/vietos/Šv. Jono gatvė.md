@@ -77,6 +77,8 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
 ## Citatos
 
 - id: c-82261
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono Kolegijos Vaistinės kronika
     1546. Žygimanto Augusto laikais to mūrinio namo vie­

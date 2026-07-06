@@ -69,6 +69,8 @@ Ir jis davė jiems kitą chaną, vardu Devlet-Berdi 9 .
 ## Citatos
 
 - id: c-176743
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     186
 

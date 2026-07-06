@@ -61,6 +61,8 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
 ## Citatos
 
 - id: c-177174
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
     takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­

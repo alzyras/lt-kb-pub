@@ -170,6 +170,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 ## Citatos
 
 - id: c-87412
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo palikta Vizenburgo pilis
 
@@ -191,6 +193,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     - t-91761
 
 - id: c-167600
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 

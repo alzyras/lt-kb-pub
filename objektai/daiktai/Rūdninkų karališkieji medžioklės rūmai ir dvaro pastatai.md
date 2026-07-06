@@ -143,6 +143,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82982
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Per pusantros mylios nuo Rūdninkų Men-
     dzižečės* link stūksojo nuostabiai gražus šilas, Žgviždos
@@ -164,6 +166,8 @@ Nenurodyta
     - t-87003
 
 - id: c-82983
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vis dėlto esama vieno gana nemažo
     iš plytų ir akmens sumūryto pastato pamatų griuvėsių. Čia

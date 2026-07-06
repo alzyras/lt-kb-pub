@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62926
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kulmenzės miesto apgulą
 

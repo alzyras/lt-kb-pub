@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170737
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
     įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-
@@ -120,6 +122,8 @@ Nenurodyta
     - t-187795
 
 - id: c-170738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     14 Daukantas S. Raštai. -  T. 1/ Tekstą parengė B. Vanagienė. Su­
     darė, įvadą ir paaiškinimus parašė V. Merkys. -  V, 1976. -  P. 81-99,

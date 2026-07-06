@@ -71,6 +71,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-38288
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Naugardiečiai atsakė,
     kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais

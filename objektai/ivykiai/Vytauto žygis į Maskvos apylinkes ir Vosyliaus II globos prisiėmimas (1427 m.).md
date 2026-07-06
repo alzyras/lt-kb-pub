@@ -135,6 +135,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37090
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Daug didesnį žygį sekančiais metais surengė Vytautas į
     Maskvos apylinkes. Ten jis žygiavo, norėdamas suvaldyti ne­
@@ -152,6 +155,9 @@ Nenurodyta
     - t-35919
 
 - id: c-38332
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet dar Minske jį sutiko
     duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo

@@ -67,6 +67,8 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Citatos
 
 - id: c-62013
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Zajączkowski S. Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV
     w.— Kwartalnik historyczny Lwów, 1929, 43, t. 1, p. 217—228.

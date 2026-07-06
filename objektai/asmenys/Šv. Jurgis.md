@@ -67,6 +67,8 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
 ## Citatos
 
 - id: c-174376
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
     kokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis

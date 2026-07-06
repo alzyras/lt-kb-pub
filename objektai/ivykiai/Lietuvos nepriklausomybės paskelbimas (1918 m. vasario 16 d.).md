@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01968
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kairioji dalis atsisakė dėtis
     prie kompromiso ir išstojo iš Tarybos. Bet ir likusioji Tarybos

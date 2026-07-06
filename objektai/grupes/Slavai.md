@@ -1710,6 +1710,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 ## Citatos
 
 - id: c-22744
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **1. Aisčių kiltys ir jų gyvenamosios vietos istorinių laikų pradžioje**
         Pirmosios mus pasiekusios istorinės žinios liudija aisčius jau
@@ -1726,6 +1728,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-89225
 
 - id: c-42934
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ix a.
     į slavų užvaldytas žemes atklydę skandinavai variagai čia įkūrė
@@ -1744,6 +1748,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-89228
 
 - id: c-85208
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Manoma, kad jei
     ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
@@ -1764,6 +1770,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-89230
 
 - id: c-85209
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     I tūkstantmetyje po Kr. baltų genčių apgyvendintas
     arealas driekėsi nuo Vyslos iki Dniepro ir Okos baseinų rytuose. Vėliau,
@@ -1779,6 +1787,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-89227
 
 - id: c-166326
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kurdamas savo
     imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
@@ -1793,6 +1803,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-182923
 
 - id: c-171236
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rusios istorija liudija, kad 980 metais tą garbinimą įve­
     dė Kijeve Vladimiras Didysis, liepęs pastatyti ant kalno to dievo
@@ -1811,6 +1823,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188343
 
 - id: c-171237
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ypač
     jis buvo gerbtinas kaip žemdirbių dievas.
@@ -1828,6 +1842,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188344
 
 - id: c-171239
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Stenderis, tuose savo latvių mitologijos straipsniuo­
     se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
@@ -1846,6 +1862,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188346
 
 - id: c-171240
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Skaityk straipsnį „Šventės“.
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
@@ -1862,6 +1880,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188347
 
 - id: c-171241
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Įskaitomi už­
     rašai rusiškomis raidėmis: Poklus, Nijota.
@@ -1878,6 +1898,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188348
 
 - id: c-171242
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     28
     Slavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­
@@ -1893,6 +1915,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188349
 
 - id: c-171243
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikoje buvo taip pat milžinas Alkijonas (Alcyon). Pas slavus
     būta įsivaizdavimo apie milžiną, nešantį ant pečių mažesnio ūgio
@@ -1907,6 +1931,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188350
 
 - id: c-171244
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žemaičiai
     manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
@@ -1926,6 +1952,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188351
 
 - id: c-171246
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Todėl seno­
     vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
@@ -1948,6 +1976,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188353
 
 - id: c-171247
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasakojimas apie stebuklingus medžius
     mini uosį.
@@ -1966,6 +1996,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-188354
 
 - id: c-173503
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš tiesų merginos šlovė ir garsas priklauso nuo to, kaip ji
     sugebės dailiau improvizuoti savo ikivestuvines dainas, o kitų
@@ -1983,6 +2015,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-190620
 
 - id: c-173504
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Moterys dar kartą dainuoja graudžią dai­
     ną, beveik tokią pat kaip anksčiau, lėkštę su alaus puodeliu
@@ -2004,6 +2038,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-190621
 
 - id: c-173505
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visose tautose,
     ratu supančiose Lietuvą, pastebime daugiau ištvirkimo, palai­
@@ -2024,6 +2060,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-190622
 
 - id: c-175260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Trum­
     piau tariant, slavų, kaip ir kitų kaimyninių tautų, istorija
@@ -2049,6 +2087,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192466
 
 - id: c-175261
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi
     budinai turėtų būti protėviai dviejų tautų, kurios šian­
@@ -2071,6 +2111,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192467
 
 - id: c-175262
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Beje, vėliau nustatyta, kad vietinės prekės
     niekad nebuvo gabenamos šia upe aukštyn, bet tik jūros
@@ -2091,6 +2133,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192468
 
 - id: c-175263
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
@@ -2110,6 +2154,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192469
 
 - id: c-175264
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip mes taip pat nedve­
     jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
@@ -2131,6 +2177,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192470
 
 - id: c-175265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     217
 
@@ -2152,6 +2200,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192471
 
 - id: c-175266
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     230
 
@@ -2175,6 +2225,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192472
 
 - id: c-175267
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuomet ir danų karalius Helgė kariavo su sla­
     vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
@@ -2193,6 +2245,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192473
 
 - id: c-175268
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Be to, reikia manyti, jog šį bendrą tautų lizdą svetima
     gentis dalijo nemažą laiko tarpą, nes latvių tarmė labai
@@ -2213,6 +2267,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192474
 
 - id: c-175269
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     V amžiaus pabaigoje šiuose kraštuose jau plačiai driekėsi
     slavų gyvenamosios vietovės po vandalų ir longobardi}
@@ -2234,6 +2290,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-192475
 
 - id: c-177000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
     Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
@@ -2249,6 +2307,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-194601
 
 - id: c-177001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Net Vokietijoje,
     kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,

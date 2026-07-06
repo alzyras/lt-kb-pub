@@ -68,6 +68,8 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
 ## Citatos
 
 - id: c-44957
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Netrukus
     miško link pradėjo važiuoti tanketės, sunk-

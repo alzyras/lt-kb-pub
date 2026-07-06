@@ -97,6 +97,8 @@ Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
 ## Citatos
 
 - id: c-170977
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     nesiremia gyvąja tradicija (tautosakine, etnografine medžia­
     ga), archeologiniais radiniais, lietuvių mitologijos faktų beato­

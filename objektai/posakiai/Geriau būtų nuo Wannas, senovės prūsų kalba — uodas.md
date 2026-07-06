@@ -68,6 +68,8 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
 ## Citatos
 
 - id: c-175013
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tekstas, be jokios abejonės, atsirado jau
     po nekartą minėtos P. Safaržyko publikaci­

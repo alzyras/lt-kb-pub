@@ -99,6 +99,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-01322
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Universitetui sukėlus susidomėjimą Lietuvos senove, iš-
     kilo gausi lenkų romantiškoji literatūra, kuri beveik visas temas

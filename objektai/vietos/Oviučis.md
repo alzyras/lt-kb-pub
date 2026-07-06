@@ -110,6 +110,8 @@ Vytautas paėmė Oviučio miestą.
 ## Citatos
 
 - id: c-170328
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tais pačiais metais", pavasariop, didysis kunigaikš­
     tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
@@ -126,6 +128,8 @@ Vytautas paėmė Oviučio miestą.
     - t-187283
 
 - id: c-170574
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O kunigaikštis
     Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­

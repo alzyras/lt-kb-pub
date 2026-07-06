@@ -129,6 +129,8 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 ## Citatos
 
 - id: c-22194
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992.
     Senn A. E. Bundanti Lietuva. Vilnius, 1992.
@@ -141,6 +143,8 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
     - t-64848
 
 - id: c-166737
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics. The Years of the First Republic, 1918–1940. New York, 1997.

@@ -72,6 +72,8 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
 ## Citatos
 
 - id: c-172192
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­
     mis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,

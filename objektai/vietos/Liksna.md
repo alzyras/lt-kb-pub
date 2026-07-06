@@ -128,6 +128,8 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 ## Citatos
 
 - id: c-82002
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
@@ -143,6 +145,8 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
     - t-86024
 
 - id: c-82003
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     164
 

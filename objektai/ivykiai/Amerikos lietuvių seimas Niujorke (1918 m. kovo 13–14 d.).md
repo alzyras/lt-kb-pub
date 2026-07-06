@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01809
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tą
     darbą įvairios srovės organizavo skyrium, o 1918 metų pradžioj

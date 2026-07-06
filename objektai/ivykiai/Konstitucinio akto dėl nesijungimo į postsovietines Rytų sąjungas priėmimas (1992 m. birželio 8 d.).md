@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22966
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagrindinė kliūtis –
     skirtingos abiejų valstybių užsienio politikos geopolitinės orientacijos ir

@@ -75,6 +75,8 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
 ## Citatos
 
 - id: c-60932
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolį Harimaną, Prūsijos magistrą
 

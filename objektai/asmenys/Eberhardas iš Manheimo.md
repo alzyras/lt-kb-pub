@@ -87,6 +87,8 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ## Citatos
 
 - id: c-60902
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     16. Apie Rygos miesto sugriovimą
 

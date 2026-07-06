@@ -245,6 +245,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 ## Citatos
 
 - id: c-85906
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
@@ -267,6 +269,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-90002
 
 - id: c-85907
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     523 Apie Pagudėje ir Bartoje rengiamą sukilimą prieš Ordiną Dusburgietis kalba kaip
     apie 1286 m. įvykį. Kadangi sukilimo rengimas čia siejamas su Ragainės pilies statyba,
@@ -287,6 +291,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-90003
 
 - id: c-168178
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tegu su kariais netikėtai pasirodąs, iš pa­
     čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
@@ -304,6 +310,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-184817
 
 - id: c-168179
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iš kryžiuo­
     čių jie gavo vos dvidešimt riterių, labai narsių ir stip­

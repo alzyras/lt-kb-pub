@@ -158,6 +158,8 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
 ## Citatos
 
 - id: c-26745
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kovos veiksmai su raudonaisiais
     baigėsi jų išstūmimu iš Lietuvos 1919 m. vasarą, rudenį sumušta ir keista
@@ -178,6 +180,8 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - t-75621
 
 - id: c-73342
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš jų paimtas karo grobis svariai papildė
     Lietuvos kariuomenės ginkluotę.

@@ -112,6 +112,8 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 ## Citatos
 
 - id: c-44442
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Etmonas, pama-
     tęs, kad jo kariuomenė supama,
@@ -132,6 +134,8 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
     - t-40316
 
 - id: c-44443
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kartu su juo pasitraukė
     iždininkas B. P. Sapiega ir marša-

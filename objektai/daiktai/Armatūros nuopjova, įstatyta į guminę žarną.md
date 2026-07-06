@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44638
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 252, Armatūros nuopjova, įstatyta į guminę žarną. 1991 m., VDKM, Artūro Užgalio nuotr.
     p. 252, Armatūros nuopjovos. 1991 m., VDKM, Artūro Užgalio nuotr.

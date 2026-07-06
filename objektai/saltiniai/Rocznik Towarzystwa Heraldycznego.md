@@ -68,6 +68,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176783
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     7  1443— 1447 m. Lietuvos didžiojo kunigaikščio rūm ų maršalas
     buvo Vaitkus (Wojtko), Jono Goštauto sūnus (Rocznik Towarzystwa

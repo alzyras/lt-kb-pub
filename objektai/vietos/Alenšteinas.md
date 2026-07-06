@@ -101,6 +101,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-37285
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
     nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­

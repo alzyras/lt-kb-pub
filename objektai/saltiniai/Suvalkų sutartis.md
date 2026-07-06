@@ -124,6 +124,8 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
 ## Citatos
 
 - id: c-11270
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Asmeniniam Lenkijos prezidento Juzefo Pilsudskio
     draugui L. Želigovskiui buvo pavesta slapta užduotis.
@@ -139,6 +141,8 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
     - t-10546
 
 - id: c-75994
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     LIETUVOS
     RESPUBLIKA

@@ -584,6 +584,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 ## Citatos
 
 - id: c-32448
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ordinas turėjo tuojau
     paimti vakarinį Sūduvos ruožą ir Žemaičių dalį — į vakarus nuo
@@ -599,6 +601,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-175424
 
 - id: c-159549
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Sūduvių
     gyvento vakarinio ploto dalis atiteko ordinui. Bet Melno sutartimi
@@ -617,6 +621,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-175425
 
 - id: c-159550
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     145). Dab. Suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių)
     teritorijos plačiąja prasme dalis.
@@ -628,6 +634,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-175422
 
 - id: c-159553
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -646,6 +654,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-175421
 
 - id: c-159555
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tad jie
     stengėsi dešiniajame Nemuno žemupio krante (nuo Nevėžio) sau
@@ -663,6 +673,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-175427
 
 - id: c-159557
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
     siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,
@@ -678,6 +690,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-175428
 
 - id: c-175532
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     137
     Jotvingių likučiai. Jotvingių gyventojų likučiai arba iš­
@@ -692,6 +706,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-192762
 
 - id: c-175533
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sūduva turėjo gana
     daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
@@ -714,6 +730,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-192763
 
 - id: c-175534
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Siaurinė
     siena, rodos, buvo Pisos upė, atitekėjusi iš rytų į vakarus,

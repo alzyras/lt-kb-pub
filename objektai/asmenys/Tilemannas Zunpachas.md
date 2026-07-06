@@ -71,6 +71,8 @@ Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpach
 ## Citatos
 
 - id: c-83847
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     22 dienas tęsėsi
     apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­

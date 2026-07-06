@@ -73,6 +73,8 @@ Didikai Naugarduke pasiuntė sučiupti belaisvio, kad sužinotų, kur buvo chana
 ## Citatos
 
 - id: c-170499
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Totoriai pamatė tai ir suprato, kad žmonės seka juos
     ir nori su jais mūšio, ir jų būriai pradėjo grįžti iš už

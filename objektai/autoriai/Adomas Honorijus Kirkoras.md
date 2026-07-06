@@ -145,6 +145,8 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 ## Citatos
 
 - id: c-55561
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
@@ -163,6 +165,8 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
     - t-81882
 
 - id: c-78419
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Balinskis rėmė lietuvių, baltarusių švietėjų pa­
     stangas paversti liaudies ugdymą sudėtine visuomeniųių per­

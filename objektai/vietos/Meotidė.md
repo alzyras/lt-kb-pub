@@ -79,6 +79,8 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
 ## Citatos
 
 - id: c-175654
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jų kraštas derlingas, turtingas tankių miškų, o
     didžiausiame miške yra pelkėtas, nendrėmis apaugęs

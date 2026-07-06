@@ -220,6 +220,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170101
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Bychovco kronikoje dėstoma Lietuvos istorija —
     tai politinė valstybės istorija, didžiųjų ir vasalinių ku­
@@ -242,6 +244,8 @@ Nenurodyta
     - t-186926
 
 - id: c-170102
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     By­
     chovco kronika aiškiai gina XV a. antrosios pusės —

@@ -86,6 +86,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-22823
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
     šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-

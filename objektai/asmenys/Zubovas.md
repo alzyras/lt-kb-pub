@@ -72,6 +72,8 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
 ## Citatos
 
 - id: c-83874
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po to ji perėjo Olendzkių nuosavybėn, jie
     čia gyveno apie 30 metų. Pagaliau kunigaikštis Zubovas, ku­

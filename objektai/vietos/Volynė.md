@@ -542,6 +542,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 ## Citatos
 
 - id: c-59288
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
@@ -561,6 +563,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-58656
 
 - id: c-59289
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
     m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
@@ -575,6 +579,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-58657
 
 - id: c-168567
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
@@ -594,6 +600,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-185206
 
 - id: c-168568
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kęstutis mė­
     gino sutrukdyti, tačiau, du
@@ -622,6 +630,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-185207
 
 - id: c-168569
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atvykęs į Lenkiją, jis sukvie-
     Išsiskiisto Lucko su-
@@ -644,6 +654,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-185208
 
 - id: c-168570
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitai įvyko gal dėl to, kad per vėlai
     buvo gauta žinia apie pavojų, o gal todėl, kad tų že­
@@ -660,6 +672,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-185209
 
 - id: c-168571
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į
     seimą, kuriame karalius pareikalavo, kad liautųsi pa­
@@ -682,6 +696,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-185210
 
 - id: c-170627
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Važiuodamas per Rūdininkų girią7 , jis toje
     girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
@@ -704,6 +720,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-187686
 
 - id: c-170628
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
     pelkėje prigėrė; taip daug totorių ir jų arklių buvo

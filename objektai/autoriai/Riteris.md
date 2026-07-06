@@ -104,6 +104,8 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
 ## Citatos
 
 - id: c-173286
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvių liaudies rugiapjūtės dainose yra po­
     sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
@@ -123,6 +125,8 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
     - t-190403
 
 - id: c-173672
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
     (Vorhalle der europäischer Völkergesch. S. 153, 154, 266).

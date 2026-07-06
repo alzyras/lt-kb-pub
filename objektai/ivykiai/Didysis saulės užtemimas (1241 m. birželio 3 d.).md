@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62737
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie didįjį saulės užtemimą
 

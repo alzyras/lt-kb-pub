@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169103
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasinaudoję ta proga, surengė žygį lietuviai ir
     žemaičiai, gal patys šitai sugalvoję ar prisiminę senas

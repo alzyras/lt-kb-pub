@@ -81,6 +81,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-34024
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Poli­
     tinis interesas apsprendė jo žygius. 1392 m. birželio gale, apsimes­

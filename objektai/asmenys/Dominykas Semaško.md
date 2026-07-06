@@ -127,6 +127,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 ## Citatos
 
 - id: c-64546
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
     dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
@@ -151,6 +153,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - t-63539
 
 - id: c-64547
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvai pripažinta teritorija buvo gana
     artima 1795 m. teritorijai. Tačiau už tai A. Jofė paprašė karinės sąjungos

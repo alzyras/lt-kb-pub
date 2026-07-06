@@ -160,6 +160,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-85344
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kadangi sukilimo rengimas čia siejamas su Ragainės pilies statyba,
     datuojama * 1289 m. (žr. D. III, 235), sukilimą prūsai galėjo rengti 1289 m.
@@ -183,6 +185,8 @@ Nenurodyta
     - t-89388
 
 - id: c-85346
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos

@@ -159,6 +159,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
 ## Citatos
 
 - id: c-172029
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis istori­
     nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­
@@ -179,6 +181,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
     - t-189141
 
 - id: c-172030
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
@@ -196,6 +200,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
     - t-189142
 
 - id: c-172031
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Slaptos
     dievo Atlaibo šventyklos buvo Trakuose ir Vilniuje, ir po abiem

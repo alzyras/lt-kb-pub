@@ -96,6 +96,8 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
 ## Citatos
 
 - id: c-75180
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Parašytas ir išleistas tiems lai-
     kams novatoriškas elementorius

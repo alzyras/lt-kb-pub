@@ -79,6 +79,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83777
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1452
     metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­

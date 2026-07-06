@@ -72,6 +72,8 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
 ## Citatos
 
 - id: c-171942
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak vietos padavimų, jis buvo
     laikomas šventu. Priėjo, vaizdingoje vietoje, yra kaimas, vadi­

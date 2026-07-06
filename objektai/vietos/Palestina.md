@@ -110,6 +110,8 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 ## Citatos
 
 - id: c-166458
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dažnai jis pats nuvykdavo į Vokietiją ir atsiveždavo
     būrius karių ir riterių, kurie jam padėjo ne tik saugoti esančias

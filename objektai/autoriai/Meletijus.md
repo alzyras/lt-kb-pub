@@ -165,6 +165,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
 ## Citatos
 
 - id: c-173221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     -  Frankfurt und Leip­
     zig, 1684*.
@@ -183,6 +185,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     - t-190338
 
 - id: c-173222
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -199,6 +203,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     - t-190339
 
 - id: c-177065
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Per­
     sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš

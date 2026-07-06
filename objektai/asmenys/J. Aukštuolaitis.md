@@ -93,6 +93,8 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 ## Citatos
 
 - id: c-44356
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Nesklandumai
     rijos baterija (100 savanorių, 2 patrankos), 1 proc. lietuvių), telkė rezervus, Pirmojo pavyzdžio Raudonosios armijos pajė-

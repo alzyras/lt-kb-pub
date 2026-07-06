@@ -75,6 +75,8 @@ Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupū�
 ## Citatos
 
 - id: c-173111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­
     šų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-

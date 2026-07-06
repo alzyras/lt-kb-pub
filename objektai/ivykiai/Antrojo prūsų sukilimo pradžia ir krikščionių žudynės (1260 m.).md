@@ -181,6 +181,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66684
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie didelį krikščionių kraujo praliejimą
 
@@ -204,6 +206,8 @@ Nenurodyta
     - t-194377
 
 - id: c-66685
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie antrąją prūsų atskalūnybę, kuri truko 15 metų
 

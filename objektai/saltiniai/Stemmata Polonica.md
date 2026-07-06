@@ -132,6 +132,8 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
 ## Citatos
 
 - id: c-67410
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi Abiejų Tautų Respublika:
     •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
@@ -165,6 +167,8 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
     - t-67545
 
 - id: c-67411
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gedimino stulpai ir Jogailos kryžius iš herbyno
     „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.

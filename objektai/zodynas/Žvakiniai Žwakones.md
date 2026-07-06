@@ -73,6 +73,8 @@ Narbutas žvakinius (Žwakones) aprašo kaip pranašautojus, kurie liedavosi žv
 ## Citatos
 
 - id: c-172240
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie juos
     buvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti

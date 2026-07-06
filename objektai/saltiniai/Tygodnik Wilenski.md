@@ -169,6 +169,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 ## Citatos
 
 - id: c-173377
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Luka-
     nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
@@ -188,6 +190,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
     - t-190494
 
 - id: c-173714
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
     1 Leidinyje „Tygodnik Wilenski“ (1817. T. IV. P. 59—64, 78—
@@ -202,6 +206,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
     - t-190832
 
 - id: c-173715
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tokia surinkta pradinės Kijevo istorijos medžiaga, ku­
     ria remdamasis, išmanantis istoriją ir turintis noro galės

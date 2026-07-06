@@ -71,6 +71,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176397
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1925 m. Klaipėdos krašto gyventojų surašy-
     mo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000

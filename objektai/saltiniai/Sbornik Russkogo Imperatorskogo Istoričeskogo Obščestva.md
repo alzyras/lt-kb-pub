@@ -78,6 +78,8 @@ SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva, St.
 ## Citatos
 
 - id: c-29948
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva,
     St. Petersburgas. Iš 148 rinkinio tomų čia panaudota : t. 35

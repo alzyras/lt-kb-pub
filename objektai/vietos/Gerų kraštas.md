@@ -139,6 +139,8 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
 ## Citatos
 
 - id: c-175589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1810 me­
     tais kaip inžinierius, įpareigotas parinkti tinkamą tvirto­
@@ -162,6 +164,8 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
     - t-192819
 
 - id: c-175590
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Herodotas rašo (IV knyga), kad prie Molocho van­
     denų arba, kaip mano kiti, kažkur aukščiau kairiojo Dnep­

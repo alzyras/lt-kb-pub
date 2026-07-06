@@ -74,6 +74,8 @@ Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaik
 ## Citatos
 
 - id: c-168619
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kol karalius su pagrindinėmis kariuomenės jėgomis
     traukė į priekį, Vladimiro

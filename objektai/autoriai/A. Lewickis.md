@@ -81,6 +81,8 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
 ## Citatos
 
 - id: c-32876
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vertingas yra taip pat jo XVI amž.
     pirmos pusės Lietuvos žemėlapis (1928). Čia reikia paminėti ir

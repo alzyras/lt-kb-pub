@@ -72,6 +72,8 @@ Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvo
 ## Citatos
 
 - id: c-170377
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
     nius, kad suieškojęs nubaustų kaltininkus bei atlygintų

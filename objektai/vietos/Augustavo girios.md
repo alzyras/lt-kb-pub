@@ -74,6 +74,8 @@ Daugelis kronikų aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedž
 ## Citatos
 
 - id: c-33792
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kovose jis yra parodęs daug vikrumo. Daugelis kronikų
     aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedžiodamas,

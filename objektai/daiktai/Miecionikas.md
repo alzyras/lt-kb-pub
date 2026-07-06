@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172614
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė
     kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas

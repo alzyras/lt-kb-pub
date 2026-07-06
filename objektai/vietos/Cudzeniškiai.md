@@ -92,6 +92,8 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 ## Citatos
 
 - id: c-82042
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
     Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis

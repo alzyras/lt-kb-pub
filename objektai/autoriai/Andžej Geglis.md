@@ -240,6 +240,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 ## Citatos
 
 - id: c-42390
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p- 139, „XVIII A. LINIJINĖ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
   statusas: verified
@@ -250,6 +252,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - t-71501
 
 - id: c-42391
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 157, „PAKEITIMAI KARYBOJE XIX A. PRADŽIOJE“, Andžej Geglis, dail. Andžej Geglis.
     p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis.
@@ -262,6 +266,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - t-71497
 
 - id: c-42392
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     NEPRIKLAUSOMYBĖS KOVOS
     P. 172, „XX A. PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis,
@@ -274,6 +280,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - t-71499
 
 - id: c-42393
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 179, „ŠAUTUVŲ RAIDA XX A. PRADŽIOJE“, Andžej Gėglis.
   statusas: verified
@@ -284,6 +292,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - t-71498
 
 - id: c-42395
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 228, „PUSIAU AUTOMATINIAI ŠAUTUVAI“, Andžej Geglis, Karolis Zikaras.
     p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.
@@ -299,6 +309,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - t-71502
 
 - id: c-42396
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS
 

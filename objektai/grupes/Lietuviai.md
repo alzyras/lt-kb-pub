@@ -13796,6 +13796,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 ## Citatos
 
 - id: c-00365
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bendras
     turįs būti gynimasis nuo priešų ir bendri seimai, bet juose turį būti
@@ -13812,6 +13814,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-10785
 
 - id: c-21416
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasidalinę mažais būre­
     liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
@@ -13826,6 +13831,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179277
 
 - id: c-31191
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal Dusbur­
     gą, jiems talkos siuntę ir lietuviai, ir iki Mindaugo nužudymo yra
@@ -13841,6 +13848,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179323
 
 - id: c-31192
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
     ranką. Lietuviai vėl stipriai pradėjo pulti Livonijos kryžiuočius ir
@@ -13854,6 +13863,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179324
 
 - id: c-34225
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai kurie
     tyrinėtojai, išeidami iš amžių bėgyje susidariusio vienalytiško latvių
@@ -13874,6 +13885,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179244
 
 - id: c-34226
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Artimiausieji rytų kaimynai dregovičiai (Beržūnės
     baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
@@ -13895,6 +13908,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179292
 
 - id: c-34227
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal Dlugošo kroniką,
     lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»
@@ -13913,6 +13928,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179335
 
 - id: c-34228
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
@@ -13927,6 +13944,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179229
 
 - id: c-36883
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
     netoli Gilgenburgo, lietuviai užpuolė tą miestelį ir jį paėmė.
@@ -13940,6 +13960,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179345
 
 - id: c-36885
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkų ponų
     taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
@@ -13956,6 +13979,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179328
 
 - id: c-162912
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
     nebuvo tikslus šaltinių atžvilgiu. Jis neparodė ir žymesnio kritiš­
@@ -13971,6 +13996,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179252
 
 - id: c-162913
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
     (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
@@ -13983,6 +14010,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179218
 
 - id: c-162916
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
 
@@ -13998,6 +14027,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179295
 
 - id: c-162917
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė
     ekonominė sritis. Atėję iš ryškią individualią alodinę nuosavybės struk-
@@ -14017,6 +14048,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179231
 
 - id: c-162918
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
@@ -14033,6 +14066,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179259
 
 - id: c-162920
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Artinosi ir kitas ne­
     susipratimas.
@@ -14051,6 +14087,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179273
 
 - id: c-162922
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet šis ginčas,
     kaip matėme, pavyko taikiai likviduoti. Artinosi ir kitas ne­
@@ -14067,6 +14106,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179338
 
 - id: c-162923
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
@@ -14091,6 +14132,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179290
 
 - id: c-162924
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
     Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
@@ -14110,6 +14153,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179344
 
 - id: c-162925
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
     bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
@@ -14133,6 +14178,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179307
 
 - id: c-162926
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
     Ordino riterių kirstas pagoniškai Lietuvai. Juk kai per Jogai­
@@ -14151,6 +14198,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179266
 
 - id: c-162927
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė be-
     raštės visuomenės savimonė. Didieji kunigaikščiai, reikšdami teritorines
@@ -14168,6 +14217,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179238
 
 - id: c-162928
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Maskvos pavojus lietuviams ne-
     leido rinktis sau atskiro valdovo, tad noromis nenoromis jie turė-
@@ -14184,6 +14235,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-10785
 
 - id: c-162929
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
     voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
@@ -14202,6 +14255,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179286
 
 - id: c-162930
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dalis pralaimėju­
     siųjų kartu su pačiu didžiuoju kunigaikščiu užsidarė Vise­
@@ -14220,6 +14275,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179317
 
 - id: c-162931
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
 
@@ -14238,6 +14295,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179339
 
 - id: c-162932
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
     bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
@@ -14253,6 +14312,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179225
 
 - id: c-162933
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
     nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
@@ -14274,6 +14335,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179308
 
 - id: c-162935
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     286 (279). Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
 
@@ -14291,6 +14354,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179296
 
 - id: c-162936
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
 
@@ -14310,6 +14375,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179265
 
 - id: c-162938
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
     pradinis kūrimasis. Palei Vilnios upę esančios gyvenvietės
@@ -14327,6 +14394,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179311
 
 - id: c-162940
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai reiškia:
     „Žemaitijos žemė yra ir visada bu­
@@ -14358,6 +14427,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179276
 
 - id: c-162942
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Su trigubai di­
     desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
@@ -14373,6 +14444,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179298
 
 - id: c-162943
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Sembos žemės nusiaubimą
 
@@ -14391,6 +14464,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179309
 
 - id: c-162944
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Istorikai nurodo, kad Vy­
     tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
@@ -14409,6 +14485,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179277
 
 - id: c-162946
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Salzbachą su keliais tūkstančiais kariuomenės;
     prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
@@ -14426,6 +14505,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179274
 
 - id: c-162947
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviai kūrė ateities planus nuo Lietuvos autonomijos iki LDK
     atkūrimo, netgi iki senosios Lenkijos ir Lietuvos Valstybės – Abiejų Tau-
@@ -14445,6 +14526,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179294
 
 - id: c-162949
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
     gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
@@ -14467,6 +14550,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179269
 
 - id: c-162950
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia tuo metu
     lyg tyčia nelaimingas Jadvygos laiškas, sujaudinęs jį ir jo ba­
@@ -14486,6 +14572,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179221
 
 - id: c-162954
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
     su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
@@ -14504,6 +14592,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-194327
 
 - id: c-162955
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
 
@@ -14526,6 +14616,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179220
 
 - id: c-162956
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
     kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
@@ -14549,6 +14641,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179223
 
 - id: c-162958
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
 
@@ -14586,6 +14680,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179305
 
 - id: c-162959
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
     nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
@@ -14604,6 +14700,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179279
 
 - id: c-162962
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nepriklausomybės metais aiškiai nubrėžti Lietuvos valstybės kontūrai
     ir nusakytas tautinių vertybių turinys. Lietuvos jaunoji karta, augusi ir
@@ -14623,6 +14721,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179232
 
 - id: c-162963
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
     kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
@@ -14641,6 +14741,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179313
 
 - id: c-162964
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
 
@@ -14665,6 +14767,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179310
 
 - id: c-162966
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gynėjai iškėlė vėliavas su kryžiais, kaip
     ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­
@@ -14721,6 +14825,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179346
 
 - id: c-162967
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Grįžkime dar prie vieno kovos epizodo ir paskui vėl kalbė­
     sime apie tolimesnį priešo vijimą.
@@ -14739,6 +14846,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179275
 
 - id: c-162968
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
     kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
@@ -14759,6 +14868,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-194330
 
 - id: c-162969
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tad ir tautinė lietuvių kultūra būtų buvusi labiau išsaugota.
     Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių. Nuo
@@ -14774,6 +14885,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179280
 
 - id: c-162971
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
     patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
@@ -14794,6 +14907,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179220
 
 - id: c-162972
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     apeiti Vilniaus temą. Lietuviai federacijos
     principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepa-
@@ -14811,6 +14926,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179271
 
 - id: c-162973
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
     kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
@@ -14829,6 +14946,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179295
 
 - id: c-162974
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lietuviai ir lenkai, norėdami
     labiau nukreipti nuo savęs dėmesį, įsakė savo kariuomenių bū­
@@ -14846,6 +14966,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179330
 
 - id: c-162977
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bizantijos šaltiniai apie jokį lietuvių taikumą ne-
     užsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“. Net dinastinės
@@ -14863,6 +14985,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179270
 
 - id: c-162980
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Item terras po­
     nunt desertas, ut patet in Samigallia et in aliis multis. Sed
@@ -14884,6 +15008,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179333
 
 - id: c-162981
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Konferencijoje dominavo
     kunigai – 66, valstiečiai – 65 ir inteligentai – 59.
@@ -14906,6 +15032,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179217
 
 - id: c-162982
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
     tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
@@ -14923,6 +15051,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179306
 
 - id: c-162983
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­
     ską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­
@@ -14939,6 +15070,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179343
 
 - id: c-162984
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo
     pačiu metu Ordino jėgos, kaip anksčiau minėjome, buvo iš­
@@ -14957,6 +15091,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-010
 
 - id: c-162986
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O
     šeštosios dienos rytą buvo pradėtas pagrindinis puolimas iš
@@ -14974,6 +15110,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179240
 
 - id: c-162988
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
@@ -14985,6 +15123,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179318
 
 - id: c-162990
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
                                        Kuršių nerijoje
@@ -15007,6 +15147,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179220
 
 - id: c-162994
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ragainės pilies užpuolimą
 
@@ -15025,6 +15167,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179299
 
 - id: c-162995
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie šio laivo sudeginimą 1313 metais
 
@@ -15051,6 +15195,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-194331
 
 - id: c-162996
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Trečios žmonos vardas buvęs Ju­
     lijona.
@@ -15077,6 +15224,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179251
 
 - id: c-162997
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau-
     giausia nusipelniusių asmenybių. Mindaugas sukūrė didžiausią ankstyvo-
@@ -15094,6 +15243,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179242
 
 - id: c-162998
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kryžiuočių riteriai buvo nustebinti
     Vytauto žmonos rūbų brangumu, taip pat ir visų Vytauto ba­
@@ -15110,6 +15262,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179258
 
 - id: c-163000
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie beveik penkių šimtų lietuvių žūtį
 
@@ -15127,6 +15281,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179284
 
 - id: c-163001
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     277 (270). Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
 
@@ -15143,6 +15299,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179255
 
 - id: c-163002
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
@@ -15158,6 +15316,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179289
 
 - id: c-163003
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Sembos žemės nusiaubimą
 
@@ -15182,6 +15342,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-194329
 
 - id: c-163004
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos kariams per ilgą kurti įvairių laikotarpių Lietuvos kario įvaizdį. Stengtasi pateikti
     Lietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-
@@ -15201,6 +15363,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179236
 
 - id: c-163006
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     66, p. 948.
     Anglų riteriai, ne kartą draugėj su
@@ -15227,6 +15391,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179326
 
 - id: c-163007
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     321 (314). Dar apie tą patį
 
@@ -15247,6 +15413,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179284
 
 - id: c-163009
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ta-
     čiau pirmasis visuotinis Rusijos
@@ -15270,6 +15438,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179304
 
 - id: c-163011
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nepriklausomybės karta
     Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
@@ -15287,6 +15457,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179247
 
 - id: c-163012
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tarė­
     jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
@@ -15320,6 +15492,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179222
 
 - id: c-163014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
     vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
@@ -15341,6 +15515,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179285
 
 - id: c-163015
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Laikinai jis buvo užvaldęs Drogičiną ir daug kartų
     plėšė Vladimirą.
@@ -15355,6 +15531,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179316
 
 - id: c-163018
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 
@@ -15378,6 +15556,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179284
 
 - id: c-163019
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Grindžiama
     mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
@@ -15395,6 +15575,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179293
 
 - id: c-163020
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Bisenės pilies sudeginimą 1316 metais
 
@@ -15413,6 +15595,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179282
 
 - id: c-163022
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     vyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė,
     nors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės
@@ -15434,6 +15618,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179340
 
 - id: c-163023
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -15454,6 +15640,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179226
 
 - id: c-163024
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai
     šūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad
@@ -15473,6 +15661,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179241
 
 - id: c-163026
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai pakviestieji atvyko ir jiems buvo per­
     skaityti laiškai, jie pareiškė: jeigu viskas, kas juose rašoma,
@@ -15512,6 +15702,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179215
 
 - id: c-163028
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po pergalės jie
     aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
@@ -15528,6 +15720,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179220
 
 - id: c-163029
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
     padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų
@@ -15543,6 +15737,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179228
 
 - id: c-163030
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop vieną dieną visi pakilo  į
     kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
@@ -15564,6 +15760,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-194328
 
 - id: c-163034
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
 
@@ -15578,6 +15776,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179243
 
 - id: c-163035
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ta­
     čiau nevalia nuginčyti teisingų išvadų, jog naujoji sostinė
@@ -15594,6 +15794,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179302
 
 - id: c-163038
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Abi šios gentys, artėdamos viena prie kitos, stūmė iš
     13
@@ -15621,6 +15823,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179283
 
 - id: c-163039
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O Oberosto karinis kolonijinis režimas plėšė vals-
     tiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolė-
@@ -15640,6 +15844,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179342
 
 - id: c-163041
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dabar tam buvo pats geriau­
     sias laikas, nes jo galybė buvo aukštai iškilusi. Čia tuo metu
@@ -15657,6 +15864,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179277
 
 - id: c-163042
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
     žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
@@ -15678,6 +15887,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179250
 
 - id: c-163044
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVII–XVIII  a. formavosi ir bendra Abiejų Tautų Respublikos kaip
     Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenki-
@@ -15697,6 +15908,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179315
 
 - id: c-163045
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vienos Sembos dalies nusiaubimą
 
@@ -15716,6 +15929,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179301
 
 - id: c-163047
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Et nihilominus opi-
     do quodam munito Dobryn vulgariter
@@ -15749,6 +15964,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179254
 
 - id: c-163048
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
     ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
@@ -15764,6 +15981,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179220
 
 - id: c-163053
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -15780,6 +15999,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179284
 
 - id: c-163054
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsai ir Lietuva
 
@@ -15799,6 +16020,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179278
 
 - id: c-167272
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį
 
@@ -15819,6 +16042,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-179216
 
 - id: c-167606
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     13) ėmė žygiuoti Gilgenburgo link.
     Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
@@ -15831,6 +16057,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184221
 
 - id: c-167902
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Galop nugalėję lietuviai išvijo barbarus iš
     stovyklos: galybė priešų krito mūšyje, kur kas dau­
@@ -15859,6 +16087,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184541
 
 - id: c-167903
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vie­
     nui vienas tebuvo kelias išbristi iš netikėtų bėdų ir
@@ -15886,6 +16116,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184542
 
 - id: c-167904
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau ir lietuviai, sulaužę sutartį, gavo tinkamą
     atlygį už šią piktadarybę: apie tą patį laiką Poleksija,
@@ -15916,6 +16148,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184543
 
 - id: c-167905
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
@@ -15935,6 +16169,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184544
 
 - id: c-167906
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ši nelaimė siautėjo ir Prūsijoje bei Kurše.
     Vasarai įpusėjus, lietuviai galop sulaukė ramybės ir
@@ -15951,6 +16187,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184545
 
 - id: c-167907
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žinoma, visada
     pavojinga telktis priešą į pa­
@@ -15979,6 +16217,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184546
 
 - id: c-167909
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi iš užpakalio buvo jūra,
     vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
@@ -15998,6 +16238,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184548
 
 - id: c-167910
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pridarė ten lietuviai daug siaubingų šventvagysčių
     krikščionių šventyklose, bjauriai išniekino šventuosius
@@ -16028,6 +16270,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184549
 
 - id: c-167911
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atkaklus ir kruvinas mūšis užvirė, kai
     susidūrė ištisi būriai, kai iš arti imta kovoti kalavi­
@@ -16052,6 +16296,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184550
 
 - id: c-167912
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
@@ -16075,6 +16321,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184551
 
 - id: c-167913
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuviai visų
     pirma reikalavo iš naujo surašyti Jogailos sudarytą su­
@@ -16106,6 +16354,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184552
 
 - id: c-167914
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vėliau, susi­
     kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
@@ -16123,6 +16373,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184553
 
 - id: c-167915
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
     lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­
@@ -16140,6 +16392,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184554
 
 - id: c-167916
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Aleksandras Šich Achmetą priėmė su didele
     pagarba ir pasisodino dešinėje. Vienas kitam pareiškę
@@ -16166,6 +16420,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-184555
 
 - id: c-170655
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Matydami, kad jų didžiuosius etmonus ištiko nelai­
     mė, karalius Jogaila ir didysis kunigaikštis Vytautas
@@ -16186,6 +16442,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-187716
 
 - id: c-170656
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir nebenu­
     ėję likusių lig Vilniaus septynių mylių7 , apsistojo Aš­
@@ -16202,6 +16460,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-187717
 
 - id: c-171145
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     61
 
@@ -16219,6 +16479,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188251
 
 - id: c-171146
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ypač aš stengiausi, nieko nepraleisdamas, aprašyti visa,
     ką paliko rašytosios istorijos, ką atskleidė senovės mokslinin­
@@ -16237,6 +16499,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188252
 
 - id: c-171147
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Štai kokia yra tikra
     ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
@@ -16255,6 +16519,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188253
 
 - id: c-171148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Išnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­
     stebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­
@@ -16281,6 +16547,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188254
 
 - id: c-171149
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šitą dievą žmogus pripažino
     aukščiausiu visos gamtos viešpačiu ir davė jam Perkūno var­
@@ -16298,6 +16566,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188255
 
 - id: c-171150
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Henriko Latvio kronikos prierašuose, arba pastabose, ku­
     rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
@@ -16315,6 +16585,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188256
 
 - id: c-171151
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai garbino jį tam tikru būdu: jis turėjo savo auku­
     rus, stabus, šventyklas, žynius, vaidilutes. Plačiau apie tas smul­
@@ -16331,6 +16603,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188257
 
 - id: c-171152
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš padavimų apie graikų dievus žinome, kad garsus prana­
     šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
@@ -16351,6 +16625,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188258
 
 - id: c-171153
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visos lietuvių genties tautos turėjo savo dainius, panašius
     į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
@@ -16366,6 +16642,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188259
 
 - id: c-171154
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Že­
     maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,
@@ -16385,6 +16663,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188260
 
 - id: c-171155
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kuni­
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
@@ -16399,6 +16679,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188261
 
 - id: c-171156
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
     juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis
@@ -16415,6 +16697,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188262
 
 - id: c-171157
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     127
 
@@ -16431,6 +16715,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188263
 
 - id: c-171158
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Murgų, arba Tautų sambūrio, rūmai
     buvo pačioje toliausioje šiaurėje.
@@ -16457,6 +16743,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188264
 
 - id: c-171159
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
     tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
@@ -16477,6 +16765,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188265
 
 - id: c-171160
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Strijkovskis, kuris visus dievus vaišina gaidiena, sako, kad
     Krūminei aukodavo kapotą gaidieną, norėdami išjos išprašyti
@@ -16493,6 +16783,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188266
 
 - id: c-171162
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV skyrius
     D A N G A U S  K Ū N Ų  D IE V IN IM A S
@@ -16517,6 +16809,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188268
 
 - id: c-171163
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tegu mitologai sako ką nori apie senovės egiptiečių religi­
     ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
@@ -16534,6 +16828,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188269
 
 - id: c-171164
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     185
 
@@ -16553,6 +16849,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188270
 
 - id: c-171165
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuomet kiekvieną būty­
     bę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta. Iki
@@ -16568,6 +16866,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188271
 
 - id: c-171166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
     tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
@@ -16589,6 +16889,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188272
 
 - id: c-171167
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuo aspektu žvelgdami į lietuvių religiją, į gana aukštą
     tautos senovinės civilizacijos laipsnį, tobulą mitologiją, kalbą,
@@ -16607,6 +16909,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188273
 
 - id: c-171168
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
     kuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų
@@ -16622,6 +16926,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188274
 
 - id: c-171169
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Paimtą iš Erazmo Stelos faktą
     Hartknochas pagrindžia savo pastebėjimais15.
@@ -16637,6 +16943,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188275
 
 - id: c-171170
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai žuvusius tėvynės gynėjus didvyrius vadindavo
     Runketojas (kentėtojais? -  R.J.). Yra vietovių, šventų dėl jų
@@ -16653,6 +16961,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188276
 
 - id: c-171171
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     224
 
@@ -16674,6 +16984,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188277
 
 - id: c-171172
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš to, ką apie tą ugnį
     dar žinome iš istorikų, reikia pripažinti teisinga nuomonę, kad
@@ -16692,6 +17004,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188278
 
 - id: c-171173
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -16715,6 +17029,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188279
 
 - id: c-171174
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
     krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
@@ -16731,6 +17047,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-188280
 
 - id: c-173454
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     229
 
@@ -16754,6 +17072,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190571
 
 - id: c-173455
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pat Žaslių, Zarasų ežerai ir nemaža kitų.
     Apskritai lietuvių mitologija visus ežerus manė esant glo­
@@ -16770,6 +17090,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190572
 
 - id: c-173456
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šios meilės vaisius buvo dvejetas įpėdinių.
     Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­
@@ -16785,6 +17107,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190573
 
 - id: c-173457
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šventųjų medžių puoši­
     mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
@@ -16801,6 +17125,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190574
 
 - id: c-173458
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Anot aiškaus Strijkovskio liudijimo, tas
     medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
@@ -16818,6 +17144,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190575
 
 - id: c-173459
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     235
 
@@ -16835,6 +17163,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190576
 
 - id: c-173460
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
     rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
@@ -16852,6 +17182,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190577
 
 - id: c-173461
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kunigai, stovėdami ant pa­
     kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
@@ -16867,6 +17199,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190578
 
 - id: c-173462
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
@@ -16886,6 +17220,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190579
 
 - id: c-173463
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie tai 1836 metais man rašė vienas iš
     tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
@@ -16900,6 +17236,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190580
 
 - id: c-173464
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Gaila, kad Siuco kronikos leidėjas nepridėjo tų monetų
     piešinių, kurių, matyt, būta rankraštyje. Vis dėlto reikėtų sutik­
@@ -16916,6 +17254,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190581
 
 - id: c-173465
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
@@ -16938,6 +17278,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190582
 
 - id: c-173466
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
     tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
@@ -16953,6 +17295,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190583
 
 - id: c-173467
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     262
 
@@ -16978,6 +17322,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190584
 
 - id: c-173469
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Plačiau rašo apie Vilniaus įkūrimą; tie dalykai šiaip žino­
     mi, ir tame aprašyme nieko naujo nėra; toliau tęsia pasakoji­
@@ -17002,6 +17348,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190586
 
 - id: c-173470
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Val­
     dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
@@ -17017,6 +17365,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190587
 
 - id: c-173471
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pagyvenęs su atgaila, netru­
     kus pasimirė kaip krikščionis14.
@@ -17035,6 +17385,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190588
 
 - id: c-173472
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Alanai, senieji kai ku­
     rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
@@ -17061,6 +17413,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190589
 
 - id: c-173473
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
     ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
@@ -17076,6 +17430,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190590
 
 - id: c-173474
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
     kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
@@ -17093,6 +17449,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190591
 
 - id: c-173475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikos žmonės duodavo dvejopas
     priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam
@@ -17115,6 +17473,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190592
 
 - id: c-173476
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės prūsų papročiu prisiekian­
     tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
@@ -17131,6 +17491,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190593
 
 - id: c-173477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai nuo seniausių amžių dalijo laiką į valandas
     (lYahmda) , o jos skirstytos į dienos ir nakties. Buvo 12 dienos
@@ -17144,6 +17506,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190594
 
 - id: c-173478
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sis bei tas išliko vien kaimo
     žmonių papročiuose, įpročiuose, prietaruose, kerėjimuose ir
@@ -17164,6 +17528,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190595
 
 - id: c-173479
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės prūsų merginas, jeigu norė­
     davo jas vesti, turėdavo iš tėvų nusipirkti1.
@@ -17190,6 +17556,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190596
 
 - id: c-173480
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mat visa, kas galė­
     jo prisidėti prie moters apkalbėjimo, kad ji esanti nesantūri,
@@ -17213,6 +17581,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190597
 
 - id: c-173481
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ypač slavai, mėgs­
     tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­
@@ -17232,6 +17602,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190598
 
 - id: c-173482
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Išskaičiuoja visą velionio turtą, kiek­
     vieną kartą sušukdami: „Kodėl numirei?“ Laidotuvių giesmės,
@@ -17248,6 +17620,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190599
 
 - id: c-173483
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai kada tarnai, arkliai, šunys, saka­
     lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant
@@ -17269,6 +17643,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190600
 
 - id: c-173484
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuo po­
     žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
@@ -17284,6 +17660,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190601
 
 - id: c-173485
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Svarbiausia mirusių vėlių klajojimo priežastis -  smurtinė
     mirtis ir palaidojimas nesilaikant laidojimo apeigų. Romėnai
@@ -17298,6 +17676,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190602
 
 - id: c-173486
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
     rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
@@ -17318,6 +17698,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190603
 
 - id: c-173487
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai
     buvo atpildas dorovingiesiems; priešingai, nedorųjų ir nusi­
@@ -17343,6 +17725,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190604
 
 - id: c-173488
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toliau autorius pa­
     sakoja, kad šie Rytų bažnyčios atskalūnai, nuo seno gyvenan­
@@ -17367,6 +17751,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190605
 
 - id: c-173489
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toliau autorius pateikia kai kurių lietuvių mitologijos sri-
     393
@@ -17395,6 +17781,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190606
 
 - id: c-173490
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Užrašas virš akmenų galvų -  runomis'*.
     Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
@@ -17411,6 +17799,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190607
 
 - id: c-173491
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pa­
     vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
@@ -17431,6 +17821,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190608
 
 - id: c-173492
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
     radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
@@ -17448,6 +17840,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190609
 
 - id: c-173493
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     V priedas
     A pie Biarmijos raidyną
@@ -17468,6 +17862,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190610
 
 - id: c-173494
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     439
 
@@ -17487,6 +17883,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190611
 
 - id: c-173495
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės lietuvių kalba iš Čemberleno; imta iš Ksavero Bo­
     gušo (p. 109):
@@ -17506,6 +17904,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190612
 
 - id: c-173496
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     30
     30
@@ -17527,6 +17927,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-190613
 
 - id: c-175216
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kuo la­
     biau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­
@@ -17543,6 +17945,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192422
 
 - id: c-175217
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Reda Griškaitė
 
@@ -17584,6 +17988,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192423
 
 - id: c-175218
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mes pasisakome už pono Kepeno požiū-
     2. T. Narbutas
@@ -17609,6 +18015,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192424
 
 - id: c-175219
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Labai svarbių hidrografinių pokyčių
     nuo Palangos iki Sembos pakrančių įvyko rašytinės isto­
@@ -17630,6 +18038,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192425
 
 - id: c-175220
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tą patį, bet kiek aiškiau minėjo Stra-
     bonas savo septintojoje knygoje. Taip mes taip pat nedve­
@@ -17646,6 +18056,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192426
 
 - id: c-175221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Senovės tyrinėtojai ne­
     abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
@@ -17667,6 +18079,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192427
 
 - id: c-175222
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadinasi, pirmasis
     su neapdorota medžiaga dirbęs žmogus ir visas jo milži­
@@ -17687,6 +18101,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192428
 
 - id: c-175223
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Heimkringla
     Saga.
@@ -17722,6 +18138,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192429
 
 - id: c-175224
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     244
     Sritys, arba pagrindinės lietuvių krašto žemės. Šią te­
@@ -17740,6 +18158,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192430
 
 - id: c-175225
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Todėl, mano nuomone, reikėtų
     skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
@@ -17756,6 +18176,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192431
 
 - id: c-175226
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
     Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
@@ -17773,6 +18195,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-192432
 
 - id: c-175867
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Toks žygis paprastai trukdavo ne ilgiau, kaip
     savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
@@ -17790,6 +18214,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-193107
 
 - id: c-175868
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tad kiekvieną, kurs
     norėtų mane pavergti, aš laikyčiau tironu, o ne savo viešpačiu".
@@ -17806,6 +18232,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-193108
 
 - id: c-176044
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai po šio smūgio Lietuva šiek tiek atsiga­
     vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
@@ -17826,6 +18254,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-193316
 
 - id: c-176229
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
     ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
@@ -17842,6 +18272,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-193549
 
 - id: c-176972
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     III skyrius
     M A Ž E S N I E J I  DIEVAI,
@@ -17863,6 +18295,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-194572
 
 - id: c-176973
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lydos apskrityje,
     prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­

@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-177237
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toji šventykla turėjo būti su kariniais
     įtvirtinimais, nes senoviniuose XVI amžiaus dokumentuose mi­

@@ -87,6 +87,8 @@ Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus g
 ## Citatos
 
 - id: c-171957
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Niech twoja Neris (a) i bogam oznami,
     Pod ktorych wladzą są morskie zamęty,

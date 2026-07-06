@@ -774,6 +774,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83358
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors iš kailio nėrėsi imperatorius Zigmantas ir di-
     Jurgis Lengvenaitis (vert. past.).
@@ -820,6 +822,8 @@ media_all_json: |-
     - t-87381
 
 - id: c-83359
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčią, Vladislovo Jogailos
     lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
@@ -846,6 +850,8 @@ media_all_json: |-
     - t-87382
 
 - id: c-83360
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tikrai
     tikėtina, jog vardas tautos, įsikūru­
@@ -884,6 +890,8 @@ media_all_json: |-
     - t-87383
 
 - id: c-83361
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kai ten išaiškėjo, kad, užuot
     aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
@@ -903,6 +911,8 @@ media_all_json: |-
     - t-87379
 
 - id: c-83362
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
@@ -923,6 +933,8 @@ media_all_json: |-
     - t-87380
 
 - id: c-176131
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ten jie nusprendė visomis jėgomis pradėti bendrą
     karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
@@ -949,6 +961,8 @@ media_all_json: |-
     - t-193409
 
 - id: c-176132
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
     buvo reikalingos išsaugoti su Zigmantu ir Vaclovu
@@ -968,6 +982,8 @@ media_all_json: |-
     - t-193410
 
 - id: c-176133
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Imperatorius dė­
     josi nuliūdęs, nes esą nelau­
@@ -990,6 +1006,8 @@ media_all_json: |-
     - t-193411
 
 - id: c-176134
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atvykęs į Lenkiją, jis sukvie-
     Išsiskiisto Lucko su-
@@ -1012,6 +1030,8 @@ media_all_json: |-
     - t-193412
 
 - id: c-176135
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dangus galįs paliudyti,
     kad jis nejaučiąs širdyje nepalankumo nei karaliui, nei
@@ -1044,6 +1064,8 @@ media_all_json: |-
     - t-193413
 
 - id: c-176136
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Laiške štai kas buvo rašoma: ,,Be rei­
     kalo Vytautas abejoja, ar imperatorius turi galią be po-
@@ -1075,6 +1097,8 @@ media_all_json: |-
     - t-193414
 
 - id: c-176644
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     4  Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne
     Jogaila, o  Vokietijos imperatorius Zigmantas. Pirmų kaitų jis siūlė
@@ -1091,6 +1115,8 @@ media_all_json: |-
     - t-194019
 
 - id: c-176842
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:

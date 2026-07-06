@@ -77,6 +77,8 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
 ## Citatos
 
 - id: c-45513
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     suvažiavimas, priėmęs „Valkininkų nuta-
     rimą“, kuriuo buvo įkurta LDK bajorijos

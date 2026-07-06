@@ -93,6 +93,8 @@ Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo toli
 ## Citatos
 
 - id: c-176729
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir jis ėmė la­
     bai bijoti, pabėgo į Brianską, į savo tolimiausią miestą.
@@ -109,6 +111,8 @@ Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo toli
     - t-194116
 
 - id: c-176730
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
     riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.

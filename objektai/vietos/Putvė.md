@@ -109,6 +109,8 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
 ## Citatos
 
 - id: c-32368
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dar žinomas tada ir trečias iki tol vis neįveiktos žemaičių
     pilies paėmimas, būtent, Putvės — Putenikos (prie upės Jūros).
@@ -125,6 +127,8 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
     - t-32490
 
 - id: c-34017
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jų didelė dalis buvo skirta naikinti Žemaičių
     sodyboms ir šturmuoti jų pilims. Po du — tris kartus buvo teriota

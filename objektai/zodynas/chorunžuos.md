@@ -119,6 +119,8 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
 ## Citatos
 
 - id: c-175075
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nuo deši­
     niosios Nemuno pakrantės kiek aukščiau Ratnyčios upės

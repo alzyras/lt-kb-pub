@@ -269,6 +269,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11847
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pagerbdamas
     Vytauto Didžiojo -
@@ -293,6 +295,8 @@ Nenurodyta
     - t-78614
 
 - id: c-75841
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1581 m. Pskovo kampanija, Radvilos Perkūno reidas, Lietu
     Rugpjūčio 25 d. K. Radvilos pajėgos nu-
@@ -312,6 +316,8 @@ Nenurodyta
     - t-78613
 
 - id: c-75843
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vėliau
     Radvilos pajėgos nusiaubė

@@ -75,6 +75,8 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
 ## Citatos
 
 - id: c-29682
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug
     Lietuvos istorijos bibliografijos, yra gerokai pasenęs :

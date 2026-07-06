@@ -157,6 +157,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 ## Citatos
 
 - id: c-85625
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
     į Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
@@ -182,6 +184,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
     - t-89686
 
 - id: c-85627
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais
 

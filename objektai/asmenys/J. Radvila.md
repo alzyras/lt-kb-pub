@@ -84,6 +84,8 @@ Radvilos pajėgos.
 ## Citatos
 
 - id: c-44364
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Etmonas siųsdavo atskirus dalinius
     Smolensko link ir puldinėjo mažesnius

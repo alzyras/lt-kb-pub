@@ -83,6 +83,8 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
 ## Citatos
 
 - id: c-22476
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 2007.
     Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono

@@ -140,6 +140,8 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
 ## Citatos
 
 - id: c-168820
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atgavęs Italiją, jis, mi­
     rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
@@ -168,6 +170,8 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
     - t-185459
 
 - id: c-175186
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
     šios temos pagrindą.

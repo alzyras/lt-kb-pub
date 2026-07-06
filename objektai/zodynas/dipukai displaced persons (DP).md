@@ -112,6 +112,8 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
 ## Citatos
 
 - id: c-24807
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
     (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
@@ -125,6 +127,8 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
     - t-101579
 
 - id: c-95099
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
     225

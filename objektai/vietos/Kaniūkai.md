@@ -70,6 +70,8 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
 ## Citatos
 
 - id: c-45124
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šiai kolonai vadovavo pats Ladyga.
     Kolona pro Kaniūkų bei Pakalnių kai-

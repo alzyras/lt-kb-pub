@@ -70,6 +70,8 @@ Vartojamos formos: `šlapjurgiui`.
 ## Citatos
 
 - id: c-09573
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     puošė, nes idant, šlapjurgiui^332 esant, nuo šalčio ir drėgsmės^333 pastėrę sijonai blauzdų neplaktų,
         vyturo^334 sau staibius, vilnonomis, taip pat juodomis, auklėmis^335 nuo kulkšnių lig pat kelių.

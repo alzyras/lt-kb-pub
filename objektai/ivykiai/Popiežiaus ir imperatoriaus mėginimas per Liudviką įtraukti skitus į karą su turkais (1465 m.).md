@@ -196,6 +196,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168892
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iš ten karalius nuvyko į Lietuvą
     ir likusius žiemos mėnesius praleido Kaune, nes Vil­
@@ -217,6 +219,8 @@ Nenurodyta
     - t-185531
 
 - id: c-168893
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Antra vertus, visi žinojo, kad po Bajazito sutriuš­
     kinimo skitų vardas turkams kelia didžiausią siaubą.
@@ -233,6 +237,8 @@ Nenurodyta
     - t-185532
 
 - id: c-168894
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nors Kazimierui ir nestigo
     ryžto pradėti karą su turkais, tačiau jis manė, jog tuo

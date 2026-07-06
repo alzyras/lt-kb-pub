@@ -156,6 +156,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-26589
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jau tų
     metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
@@ -183,6 +185,8 @@ Nenurodyta
     - t-26365
 
 - id: c-26590
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LPS reika-
     laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-

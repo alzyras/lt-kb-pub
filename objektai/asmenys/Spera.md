@@ -103,6 +103,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 ## Citatos
 
 - id: c-169524
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tas miestas su pilimi, įkūrėjo at­
     minimui pavadintas Kaunu, po šiai dienai tebėra vie­
@@ -119,6 +121,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
     - t-186163
 
 - id: c-176612
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir viešpatavo Spera daugelį metų, buvo geras savo
     valdiniams, paskui mirė, nepalikęs įpėdinių. Valdiniai,

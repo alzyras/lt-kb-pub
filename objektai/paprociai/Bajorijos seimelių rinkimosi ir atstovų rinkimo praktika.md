@@ -82,6 +82,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67101
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos pa-
     naikinimo šūkiais. Ypač radikalus pasirodė Ukmergės apskri-

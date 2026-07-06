@@ -137,6 +137,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44318
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žygių išvakarėse
 
@@ -160,6 +162,8 @@ media_all_json: |-
     - t-40085
 
 - id: c-167122
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rytuose
     (senose baltų žemėse), kur vis stiprėjo

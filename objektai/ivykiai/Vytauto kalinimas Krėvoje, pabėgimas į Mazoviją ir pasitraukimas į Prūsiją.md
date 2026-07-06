@@ -154,6 +154,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168903
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vienas sargybinis kar­
     tą įspėjo Oną, jog Vytautui
@@ -178,6 +180,8 @@ Nenurodyta
     - t-185542
 
 - id: c-168904
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tiesą sakant,
     jam derėjo ne kalbėti užuolankomis, o aiškiai prisi­

@@ -85,6 +85,8 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
 ## Citatos
 
 - id: c-83637
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     67
 

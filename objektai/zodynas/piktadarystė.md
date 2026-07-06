@@ -70,6 +70,8 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
 ## Citatos
 
 - id: c-168751
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     A. Kojelavičiui šitai nerū­
     pėjo. Jo tekste nauja kitkas: kad tariama brolžudystė

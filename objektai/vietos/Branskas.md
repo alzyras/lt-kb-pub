@@ -101,6 +101,8 @@ Branskas apibūdinamas kaip Palenkės miestas. Branskas lokalizuojamas prie Nure
 ## Citatos
 
 - id: c-170265
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1  Bielskas — kalbamu m elu Palenkės, o dabar Lenkijos Bielsk-
     Podlaski miestas (prie Baltosios, Narevo intako, | pietus nuo Bal­

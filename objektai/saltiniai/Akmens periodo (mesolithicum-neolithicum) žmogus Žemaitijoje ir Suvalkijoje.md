@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33524
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^98) I SKYRIUS: LIETUVOS PROISTORĖ
     ( _Varėnos ra]., Merkinės apyl_ ), AkMD, t. 22, 1966, 43-54 p. — (”) _Lietu­

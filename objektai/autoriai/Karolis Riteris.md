@@ -194,6 +194,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
 ## Citatos
 
 - id: c-174424
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
@@ -212,6 +214,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
     - t-191542
 
 - id: c-174425
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pateiktos šiai pataisai paremti geografinės prielaidos vi­
     siškai nebūtų vertos dėmesio, jeigu nebūtų labai papli­
@@ -235,6 +239,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
     - t-191543
 
 - id: c-174770
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad sauromatų vardą reikėtų versti į klaidžio­
     jantys, klajokliai matai.
@@ -253,6 +259,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
     - t-191888
 
 - id: c-177278
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Prie pačių keisčiausių išvadų, nepaisant slaviško
     skambėjimo panašumo, labai artimo esmei, derėtų pri­

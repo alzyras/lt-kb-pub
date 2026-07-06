@@ -65,6 +65,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-37127
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     (^5) ) Bet minėtame akte Vytautas, kaip ir vėliau, save tituluoja: Ale­
     xander alias Witowdus dei gracia magnus dux Litwanie. — O jo žmona

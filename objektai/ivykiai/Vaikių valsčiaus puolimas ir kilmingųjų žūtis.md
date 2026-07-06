@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63824
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
@@ -115,6 +117,8 @@ Nenurodyta
     - t-62944
 
 - id: c-63825
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o

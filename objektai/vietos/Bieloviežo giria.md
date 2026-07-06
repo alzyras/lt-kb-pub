@@ -104,6 +104,8 @@ Vytautas pakvietė Jogailą žiemai į Bieloviežo girią medžioti stumbrų.
 ## Citatos
 
 - id: c-170263
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     39. APIE VALDOVŲ SUVAŽIAVIMĄ LUCKE IR IMPERATORIAUS
     PASIOLYMĄ VYTAUTUI VAINIKUOTIS LIETUVOS KARALIUMI

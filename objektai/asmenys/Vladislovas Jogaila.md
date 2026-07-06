@@ -1137,6 +1137,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 ## Citatos
 
 - id: c-157555
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Beprotiškai įniršęs, kaip sako
     Lietuvos istorikai3, užsipuolė karalių, užgauliai priekaištau­
@@ -1154,6 +1156,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173232
 
 - id: c-157556
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
     čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
@@ -1174,6 +1178,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173243
 
 - id: c-157557
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     128
 
@@ -1200,6 +1206,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173250
 
 - id: c-157558
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
     rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,
@@ -1219,6 +1227,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173236
 
 - id: c-157559
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo pat metu Vladislovas Jogaila įsakė Vilniuje statyti
     dvi bažnyčias. Vieną prie Aukštutinės pilies - Šv. Martyno,
@@ -1237,6 +1247,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173247
 
 - id: c-157560
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
     pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
@@ -1257,6 +1269,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173238
 
 - id: c-157561
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     140
 
@@ -1281,6 +1295,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173228
 
 - id: c-157562
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stanislovo katedra8. Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
@@ -1301,6 +1317,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173226
 
 - id: c-157563
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­
     dislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­
@@ -1321,6 +1339,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173245
 
 - id: c-157564
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ar­
     ba, priešingai, po vandeniu slypin­
@@ -1352,6 +1372,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173244
 
 - id: c-157565
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo metu pakitusi kaimyninės Lenki­
     jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
@@ -1382,6 +1404,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173241
 
 - id: c-157568
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
     arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
@@ -1402,6 +1426,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173229
 
 - id: c-157569
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuomet, kai protai jau buvo
     nuteikti prieš didįjį kunigaikštį, karalius Vladislovas Jogaila,
@@ -1424,6 +1450,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173237
 
 - id: c-157570
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pamažu ėmė telktis išsisklaidę
     gyventojai ir statytis namus ant degėsių. Tačiau Moskožev-
@@ -1442,6 +1470,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173227
 
 - id: c-157571
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau įvykiai ir
     permainos klostėsi labai netikėtai; Vilniaus miestiečių luomui tvir­
@@ -1459,6 +1489,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173246
 
 - id: c-157572
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Buvo juk to­
     kia visuotinė pirmykščių krikščionių
@@ -1485,6 +1517,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173248
 
 - id: c-157573
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
@@ -1502,6 +1536,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173239
 
 - id: c-157574
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Siekiant didelės valdžios jam labiausiai trukdė se­
     nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­
@@ -1526,6 +1562,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173240
 
 - id: c-157575
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Palikdamas
     Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
@@ -1543,6 +1581,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173225
 
 - id: c-157577
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
     apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
@@ -1565,6 +1605,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173235
 
 - id: c-157578
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogailos siekius pata­
     rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­
@@ -1584,6 +1626,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173242
 
 - id: c-157579
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Con­
     cedimus ac darnus hanc libertatem, quod
@@ -1617,6 +1661,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-173249
 
 - id: c-176839
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1836
 
@@ -1658,6 +1704,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-194243
 
 - id: c-176840
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Švitrigaila, pagaliau atsiduodamas likimui,
     prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybė­

@@ -99,6 +99,8 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
 ## Citatos
 
 - id: c-166578
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kariuomenės
     lojalumui užtikrinti išeitis rasta paprasta – 1 750 karininkų 25 000 dydžio

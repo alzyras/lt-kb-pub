@@ -65,6 +65,8 @@ Dusburgietis teigia, kad 336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kai
 ## Citatos
 
 - id: c-59326
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
     Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p. 47; CV, t. 32, d. 2,

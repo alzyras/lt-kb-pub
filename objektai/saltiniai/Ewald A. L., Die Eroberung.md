@@ -186,6 +186,8 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 ## Citatos
 
 - id: c-61502
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
     šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
@@ -199,6 +201,8 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
     - t-60872
 
 - id: c-61503
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
     p. 108; Jasas R., Didysis.., p. 61).
@@ -210,6 +214,8 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
     - t-60876
 
 - id: c-61504
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     497 Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A. L., Die Eroberung..., 4,
     p. 251).
@@ -221,6 +227,8 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
     - t-60873
 
 - id: c-61505
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kimenavos puolimas datuojamas 1278 m. (Ewald A.  L., Die Eroberung..., 4, p.
     240).

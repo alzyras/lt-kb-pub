@@ -92,6 +92,8 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
 ## Citatos
 
 - id: c-56012
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
@@ -105,6 +107,8 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
     - t-184447
 
 - id: c-56014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vardas Labguva/ Labgava kilęs iš tokio pat
     upės vardo. Senoji baltiška forma greičiausiai turėtų būti *Labjava/*Labjuva>*Labiava

@@ -123,6 +123,8 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
 ## Citatos
 
 - id: c-26738
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK –
     „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmė-

@@ -235,6 +235,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 ## Citatos
 
 - id: c-168804
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Patys
     tvarkykite savo valstybę, iš
@@ -260,6 +262,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     - t-185443
 
 - id: c-168806
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vėliau, apie 1273
     metus, Grigalius X paskelbė ją šventąja. Treniotos sū­
@@ -283,6 +287,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     - t-185445
 
 - id: c-171184
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
     jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
@@ -303,6 +309,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     - t-188291
 
 - id: c-176058
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Užpultas Smo­
     lensko ir Pskovo rusų, ir vienus, ir kitus sėkmingai

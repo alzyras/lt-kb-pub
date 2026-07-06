@@ -73,6 +73,8 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 ## Citatos
 
 - id: c-60899
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Broliai
     priartėję smarkiai užpuolė šią  pilį, galop po ilgų grumtynių pelenais pavertė papilį,

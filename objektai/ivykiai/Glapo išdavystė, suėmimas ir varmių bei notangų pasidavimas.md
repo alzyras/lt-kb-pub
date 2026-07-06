@@ -197,6 +197,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66759
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 
@@ -235,6 +237,8 @@ Nenurodyta
     - t-66552
 
 - id: c-66760
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
@@ -250,6 +254,8 @@ Nenurodyta
     - t-66553
 
 - id: c-66761
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo tarpu Steinavas
     nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su

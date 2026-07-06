@@ -83,6 +83,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-166417
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, jis pats pasidarė
     savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu

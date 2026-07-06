@@ -86,6 +86,8 @@ Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš p
 ## Citatos
 
 - id: c-59577
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos
     dokumente prie Torunės minima prūsiška Lisske (pr. liscis, *lizkis ‘stovykla, apsistojimo

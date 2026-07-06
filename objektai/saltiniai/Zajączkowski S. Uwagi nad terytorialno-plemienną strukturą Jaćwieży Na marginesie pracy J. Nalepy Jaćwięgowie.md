@@ -72,6 +72,8 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Citatos
 
 - id: c-62012
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Zajączkowski S. Uwagi nad terytorialno-plemienną strukturą Jaćwieży: Na marginesie
     pracy J. Nalepy Jaćwięgowie.— ZHP [В], Toruń, 1966, t. 31, z. 4, s. 83—92.

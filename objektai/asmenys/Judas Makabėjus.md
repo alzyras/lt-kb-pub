@@ -149,6 +149,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 ## Citatos
 
 - id: c-159381
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
     „gelbėtojas“. Kadangi Dovydas buvo pranašas  ir jo lūpomis bylojo šventoji dvasia,
@@ -171,6 +173,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - t-175239
 
 - id: c-159382
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Skaitome ir apie Makabėjų, kad
     jo vyrai šaukėsi  į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų
@@ -191,6 +195,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - t-175238
 
 - id: c-159384
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
     širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų

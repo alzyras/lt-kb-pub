@@ -230,6 +230,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 ## Citatos
 
 - id: c-79693
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
     ba apie Švitrigailos žmonos sugavi­
@@ -267,6 +269,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     - t-83346
 
 - id: c-79695
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Imperatorius, norėdamas gauti Vakarų para-
     mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
@@ -283,6 +287,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     - t-83348
 
 - id: c-175430
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vėliau, kai im­
     perijos rytuose po Alariko maišto prasidėjo kruvini su­

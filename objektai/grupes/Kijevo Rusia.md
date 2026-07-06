@@ -84,6 +84,8 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
 ## Citatos
 
 - id: c-165009
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos valstybė
 

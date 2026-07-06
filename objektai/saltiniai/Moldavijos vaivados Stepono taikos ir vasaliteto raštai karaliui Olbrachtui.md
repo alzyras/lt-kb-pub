@@ -76,6 +76,8 @@ Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo iš jo žemės, bet, n
 ## Citatos
 
 - id: c-176769
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo
     iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu,

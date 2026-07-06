@@ -82,6 +82,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63461
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
     ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.

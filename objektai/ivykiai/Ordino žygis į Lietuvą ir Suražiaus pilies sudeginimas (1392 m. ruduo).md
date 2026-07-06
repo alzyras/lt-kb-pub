@@ -94,6 +94,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-35778
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dar 1392 m.
     rudenį kryžiuočiai suruošė žygį į Lietuvą. Sulaukė didelio

@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02403
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Dabartinė lietuviškosios spaudos būklė J. Amerikos Valsty-
     bėse.** Dabar J. Amerikos V-se išeina 30 su viršum lietuviškų laik-

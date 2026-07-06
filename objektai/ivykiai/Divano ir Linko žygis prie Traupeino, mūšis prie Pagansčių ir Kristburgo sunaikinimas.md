@@ -220,6 +220,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66731
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -259,6 +261,8 @@ Nenurodyta
     - t-66520
 
 - id: c-66732
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
     susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
@@ -278,6 +282,8 @@ Nenurodyta
     - t-66519
 
 - id: c-66734
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,
     visiškai sugriovė pamedėnų gyvenvietę bei  pilį424  ir brolių  papilį, vienus paimdami

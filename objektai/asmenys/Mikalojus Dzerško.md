@@ -82,6 +82,8 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
 ## Citatos
 
 - id: c-83763
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų
     menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­

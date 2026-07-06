@@ -155,6 +155,8 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 ## Citatos
 
 - id: c-87067
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -172,6 +174,8 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     - t-91353
 
 - id: c-87068
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą
     bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai
@@ -189,6 +193,8 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     - t-91352
 
 - id: c-87069
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     460 D.— territorium Rethowi, Jer — gebît Rethow; Retavos valsčius Nadruvoje (plg.
     GAO, p. 141; ТАР, p. 83). Bandoma jį lokalizuoti Alnos žemupyje (VBK; HGAPW), toliau

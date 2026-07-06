@@ -72,6 +72,8 @@ Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas
 ## Citatos
 
 - id: c-172217
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Štai jų vertimas: „Einu aplink more, ¡no­
     re užkemšu, more užsikimšk, kraujau, sukepk!“

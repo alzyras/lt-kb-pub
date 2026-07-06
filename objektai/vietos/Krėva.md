@@ -701,6 +701,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 ## Citatos
 
 - id: c-103194
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     To garbingo karžygio palaikai Skir­
     gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
@@ -725,6 +727,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-111661
 
 - id: c-103195
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
@@ -740,6 +745,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-111662
 
 - id: c-103196
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir Livonijos Ordino
     magistras iš Jogailos stovyklos ramiai patraukė namon.
@@ -753,6 +761,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-111657
 
 - id: c-103199
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
@@ -773,6 +783,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-111664
 
 - id: c-103200
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     37
 
@@ -795,6 +807,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-111660
 
 - id: c-103204
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Maskva
     viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
@@ -837,6 +851,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-111655
 
 - id: c-166427
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tas pakvietė juos į Vilnių, kur abudu
     suėmė, nors kviesdamas Skirgaila buvo davęs žodį, kad jiems
@@ -852,6 +868,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-183035
 
 - id: c-168356
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat nei geros savijautos,
     nei pasitikėjimo duotu žodžiu negali būti tada, kai,
@@ -881,6 +899,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-184995
 
 - id: c-168357
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ši
     aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
@@ -903,6 +923,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-184996
 
 - id: c-176312
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
     regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
@@ -915,6 +937,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-193642
 
 - id: c-176650
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų
     Europos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km

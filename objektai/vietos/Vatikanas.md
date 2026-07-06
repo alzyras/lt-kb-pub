@@ -99,6 +99,8 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 ## Citatos
 
 - id: c-164858
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl, užmezgus oficialinius santykius su Vati-
     kanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lie-

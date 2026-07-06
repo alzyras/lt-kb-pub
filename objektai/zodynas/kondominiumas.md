@@ -77,6 +77,8 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
 ## Citatos
 
 - id: c-166831
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
     golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors

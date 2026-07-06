@@ -170,6 +170,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83981
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dinaburgo komtūras
     (parašas)
@@ -193,6 +195,8 @@ media_all_json: |-
     - t-88003
 
 - id: c-83982
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     161
 
@@ -223,6 +227,8 @@ media_all_json: |-
     - t-88004
 
 - id: c-83983
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Napierskio  veikale, aukščiau
     ne sykį cituotame Index Codicis Hist.

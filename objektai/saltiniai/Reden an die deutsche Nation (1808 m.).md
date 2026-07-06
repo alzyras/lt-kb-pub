@@ -82,6 +82,8 @@ Tada pirmą kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasi
 ## Citatos
 
 - id: c-02511
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Taip antai, kai visą Europą pavergęs Napoleonas, sek-
     damas absoliutiškomis pažiūromis, ėmė karpyti Europos žemė-

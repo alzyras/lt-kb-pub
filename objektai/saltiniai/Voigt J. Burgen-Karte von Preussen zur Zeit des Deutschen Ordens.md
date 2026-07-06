@@ -56,6 +56,8 @@ Dusburgietis teigia, kad voigt J.
 ## Citatos
 
 - id: c-61983
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte
     Preussens, Bd. 2.

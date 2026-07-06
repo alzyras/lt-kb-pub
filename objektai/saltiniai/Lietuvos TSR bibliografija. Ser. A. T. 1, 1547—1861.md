@@ -74,6 +74,8 @@ Dusburgietis teigia, kad lietuvos TSR bibliografija.
 ## Citatos
 
 - id: c-61776
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos TSR bibliografija. Ser. A. T. 1, 1547—1861. —V., 1969.
   statusas: verified

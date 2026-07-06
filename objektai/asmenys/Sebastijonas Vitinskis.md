@@ -79,6 +79,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 ## Citatos
 
 - id: c-83828
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono Ak ademi jos Spaustuvės kronika
     1547. Sklypas tas ir mūrinis namas, kuriame yra spaustu­

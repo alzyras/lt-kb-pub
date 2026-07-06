@@ -74,6 +74,8 @@ Dusburgietis teigia, kad kuzavinis К.
 ## Citatos
 
 - id: c-61749
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kuzavinis К. Savukynas B. Lietuvių vardų etimologinis žodynas.— Vardai ir žodžiai, V.,
     1971, p. 42—157.

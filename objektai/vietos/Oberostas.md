@@ -75,6 +75,8 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
 ## Citatos
 
 - id: c-68316
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ilga diskusija dėl Lietuvos ateities, politinių kompromisų su lenkais
     paieška buvo bevaisė. O Oberosto karinis kolonijinis režimas plėšė vals-

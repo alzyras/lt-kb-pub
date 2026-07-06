@@ -177,6 +177,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43161
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Susibūrusi į vieną vietą, visa kariuomenė ap-
     sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
@@ -195,6 +197,8 @@ Nenurodyta
     - t-78699
 
 - id: c-75904
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos
     kariuomenių stovyklos aprašymo.

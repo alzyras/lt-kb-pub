@@ -202,6 +202,8 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
 ## Citatos
 
 - id: c-23775
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     žeidimus), informuoti apie Lietuvos bylą Vakarų pasaulį, bendradarbiauti
     su organizacijomis ir forumais, kurie padėtų paveikti Vakarų valstybių,
@@ -222,6 +224,8 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - t-75454
 
 - id: c-23776
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
     lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
@@ -237,6 +241,8 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - t-75453
 
 - id: c-23777
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
@@ -256,6 +262,8 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - t-75451
 
 - id: c-73230
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tikinčiųjų teisių gynimo komitetas.
     Iš kairės kunigai: Vincentas Vėlavičius,

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23189
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tarptautinis olimpinis ko-
     mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto

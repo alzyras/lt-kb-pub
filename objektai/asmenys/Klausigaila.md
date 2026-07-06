@@ -84,6 +84,8 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
 ## Citatos
 
 - id: c-28935
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Įdomu tai, kad Raseinių
     bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­

@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169258
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat nestigo priežasčių, vertusių pri­
     imti šitokį nutarimą. Lenkijos reikalai kvietė karalių

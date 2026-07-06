@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172784
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kartais jie būna apdėti ak­
     menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių

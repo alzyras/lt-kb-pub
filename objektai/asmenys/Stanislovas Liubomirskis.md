@@ -86,6 +86,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 ## Citatos
 
 - id: c-44520
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Visi įsa-
     kymai vis dar tebebuvo duodami jo vardu,

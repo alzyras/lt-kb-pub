@@ -124,6 +124,8 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
 ## Citatos
 
 - id: c-65405
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
     žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose
@@ -137,6 +139,8 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
     - t-64803
 
 - id: c-65406
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie daugy­
                                   bės krikščionių žūtį

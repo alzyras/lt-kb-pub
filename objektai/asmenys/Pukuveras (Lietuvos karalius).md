@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-41435
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Pukuveras, Lietuvos karalius, tais pačiais
     metais pasiuntė savo sūnų Vytenį su didele

@@ -68,6 +68,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-93941
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     **_Mindaugas ir jo karūna_** **, Aidai, 1954, 55-59 (tas pat vokiškai Zeitschr. für
     Ostforschung, 1954, 360-386).**

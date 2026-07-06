@@ -158,6 +158,8 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
 ## Citatos
 
 - id: c-61585
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
     1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
@@ -173,6 +175,8 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     - t-60953
 
 - id: c-61586
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pisos upės deš. intakas Golba prie Narpiškių kaimo buvęs šventas (Pratorius M.,
     Deliciae..., kn. 4, sk. 3, § VII, r. 1. (VVU) 157; r. p. (MA) 279; š. p. 575; [Hennenberger
@@ -191,6 +195,8 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     - t-60955
 
 - id: c-61587
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Reikšminga, kad senuose pasakojimuose,
     žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi

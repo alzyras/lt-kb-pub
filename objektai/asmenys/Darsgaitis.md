@@ -96,6 +96,8 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
 ## Citatos
 
 - id: c-170895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Seno­
     vės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227

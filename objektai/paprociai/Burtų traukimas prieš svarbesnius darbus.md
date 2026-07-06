@@ -149,6 +149,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63406
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
 
@@ -166,6 +168,8 @@ Nenurodyta
     - t-62673
 
 - id: c-63407
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šiuo metu lietuviai ir kiti tose žemėse
     gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
@@ -183,6 +187,8 @@ Nenurodyta
     - t-62673
 
 - id: c-63408
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Po pergalės jie
     aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį

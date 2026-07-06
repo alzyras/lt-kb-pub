@@ -76,6 +76,8 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
 ## Citatos
 
 - id: c-45119
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jono vardas.
     Yra duomenų, kad toliau žygiuojant buvo

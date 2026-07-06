@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12306
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmomis dienomis po žinios apie toto-
     rių plėšimus buvo paskelbta bajorų mo-
@@ -144,6 +146,8 @@ Nenurodyta
     - t-09545
 
 - id: c-12307
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
     kariuomenės, bajorų pašauktinės kariuo-

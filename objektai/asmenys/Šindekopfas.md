@@ -129,6 +129,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
 ## Citatos
 
 - id: c-169451
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Įkurdinęs čia
     K ry žiu o č ia i
@@ -151,6 +153,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
     - t-186090
 
 - id: c-169452
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat Algirdas ir Kęs­
     tutis, suprasdami, jog ši prie pat Kauno esanti pilis —

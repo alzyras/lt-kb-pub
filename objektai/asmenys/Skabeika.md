@@ -113,6 +113,8 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 ## Citatos
 
 - id: c-169522
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šven­
     tės išvakarėse daugybė ginkluotų vyrų, pasislėpusių
@@ -130,6 +132,8 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
     - t-186161
 
 - id: c-176602
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O kitų ku­
     nigaikščių ir didikų prie Žygimanto tuo metu nė vieno

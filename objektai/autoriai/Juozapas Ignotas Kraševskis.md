@@ -72,6 +72,8 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
 ## Citatos
 
 - id: c-173181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai buvo dvi didelės recenzijos: pirmoji iš­
     spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­

@@ -152,6 +152,8 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 ## Citatos
 
 - id: c-32017
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
@@ -164,6 +166,8 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
     - t-67818
 
 - id: c-67583
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
     vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
@@ -178,6 +182,8 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
     - t-67819
 
 - id: c-167754
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gavę sau privilegijas iš
     Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,

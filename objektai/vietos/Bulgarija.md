@@ -117,6 +117,8 @@ st.) ir lenkė Rumuniją, Bulgariją.
 ## Citatos
 
 - id: c-49120
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis
     kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame
@@ -134,6 +136,8 @@ st.) ir lenkė Rumuniją, Bulgariją.
     - t-46558
 
 - id: c-49121
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Su-
     manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-

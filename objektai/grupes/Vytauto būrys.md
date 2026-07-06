@@ -67,6 +67,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-40823
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     14-ame
     kvartale stovėjo Vytauto būrys. Ir būtent šis

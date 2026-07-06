@@ -248,6 +248,8 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 ## Citatos
 
 - id: c-42017
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Baigęs studijas, J. K. Chodkevičius 1590 m. pradėjo
     tarnybą Lietuvos kariuomenėje. 1595 m. Ukrainoje,
@@ -279,6 +281,8 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-79042
 
 - id: c-76142
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šis laimėjimas - puikus gy-
     nybinio mūšio pavyzdys. Chotino mūšis
@@ -295,6 +299,8 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-79043
 
 - id: c-76144
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1608 m. rudenį numalšinus rokošą Len-
     kijos karalystėje, Jonas Karolis Chodke-
@@ -316,6 +322,8 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-79047
 
 - id: c-76146
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Deryboms ilgai užtrukus, palaidų kariuomenės
     būrių alinamas kraštas sukilo. Maskvos įgulai buvo sunku iš-
@@ -329,6 +337,8 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-79046
 
 - id: c-76147
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Daugiausia buvo
     proteguojami Katkevičiai. Jonui Jeronimui K. († 1579

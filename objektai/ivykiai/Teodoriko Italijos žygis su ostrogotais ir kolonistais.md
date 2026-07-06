@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173935
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Paskui kariuomenę riedėjo specialiai padaryti dengti ve-
     310

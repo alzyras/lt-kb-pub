@@ -72,6 +72,8 @@ Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangi
 ## Citatos
 
 - id: c-172403
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis pa­
     protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­

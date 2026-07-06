@@ -109,6 +109,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-91752
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1, 1972,
     57-72 p.).**

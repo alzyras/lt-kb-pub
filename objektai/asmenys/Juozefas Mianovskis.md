@@ -82,6 +82,8 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
 ## Citatos
 
 - id: c-83716
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Sklypas, skir­
     tas fabrikui statyti, buvo „prie Vil­

@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172724
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai yra burtininkų procesijos pamėgdžioji­
     mas. Namų šeimininkas, priimantis tokius sveikinimus, būti­

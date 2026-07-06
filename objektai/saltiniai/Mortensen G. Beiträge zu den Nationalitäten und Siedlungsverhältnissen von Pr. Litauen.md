@@ -72,6 +72,8 @@ Dusburgietis teigia, kad mortensen G.
 ## Citatos
 
 - id: c-61817
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mortensen G. Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr.
     Litauen.— Berlin, 1927.

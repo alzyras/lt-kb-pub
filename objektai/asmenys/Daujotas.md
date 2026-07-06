@@ -87,6 +87,8 @@ Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakoj
 ## Citatos
 
 - id: c-173024
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     1809 metais Marijampolės apskrityje, netoli nuo kairiojo
     Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­

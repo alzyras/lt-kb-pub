@@ -74,6 +74,8 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 ## Citatos
 
 - id: c-24510
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau kartu litvakais imta vadinti žydus, kuriems
     būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.

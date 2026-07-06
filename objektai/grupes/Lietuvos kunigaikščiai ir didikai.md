@@ -75,6 +75,8 @@ Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją
 ## Citatos
 
 - id: c-82739
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stanislovo katedra8. Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,

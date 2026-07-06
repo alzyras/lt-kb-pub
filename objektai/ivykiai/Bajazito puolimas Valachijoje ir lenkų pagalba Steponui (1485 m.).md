@@ -140,6 +140,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169054
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kitais metais jie palydėjo seno­
     vės Lietuvos kunigaikščių at-
@@ -167,6 +169,8 @@ Nenurodyta
     - t-185693
 
 - id: c-169055
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitai sužino­
     jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­

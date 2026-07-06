@@ -67,6 +67,8 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 ## Citatos
 
 - id: c-24970
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tuo metu carizmas pradėjo jau anksčiau
     paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.

@@ -107,6 +107,8 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
 ## Citatos
 
 - id: c-175071
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nadruva (Nadramia). Sis pavadinimas kilęs iš žodžio
     Nadrau, lietuviškai-prūsiškai turėjusio reikšti vidų4. Anot

@@ -222,6 +222,8 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 ## Citatos
 
 - id: c-01709
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vilniuje 1907 m. buvo
     įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
@@ -241,6 +243,8 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     - t-01471
 
 - id: c-166324
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
     Draugija ir daug kitų draugijų.

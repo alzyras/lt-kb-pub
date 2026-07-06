@@ -145,6 +145,8 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
 ## Citatos
 
 - id: c-169679
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau
     magistras sakėsi nenorįs nė girdėti apie taiką: nedora
@@ -163,6 +165,8 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
     - t-186318
 
 - id: c-169680
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadan­
     gi priešo jėgos stovėjo pa­

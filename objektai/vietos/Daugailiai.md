@@ -67,6 +67,8 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
 ## Citatos
 
 - id: c-45059
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Karin. K. Ladyga su lie-
     tuvių kariais toliau persekiojo bolševi-

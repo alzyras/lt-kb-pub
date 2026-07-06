@@ -69,6 +69,8 @@ Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dyd�
 ## Citatos
 
 - id: c-177288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
     lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai

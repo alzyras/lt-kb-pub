@@ -73,6 +73,8 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
 ## Citatos
 
 - id: c-61937
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,
 

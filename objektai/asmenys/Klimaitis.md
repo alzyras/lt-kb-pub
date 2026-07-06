@@ -56,6 +56,8 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
 ## Citatos
 
 - id: c-41572
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šie sviediniai buvo pripildyti nuodingų dujų. Jie sprogo prie apkasų ir palengva skleidėsi |
     dujos. Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis. Jis staiga pasijuto blogai, |

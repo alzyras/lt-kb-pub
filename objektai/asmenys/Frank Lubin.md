@@ -99,6 +99,8 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 ## Citatos
 
 - id: c-21669
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O beveik
     kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar

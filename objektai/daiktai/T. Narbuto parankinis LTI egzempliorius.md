@@ -140,6 +140,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172522
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip T. Narbuto parankiniame LTI
     egzemplioriuje, visose devyniose dalyse, atsirado daugybė pa­
@@ -161,6 +163,8 @@ Nenurodyta
     - t-189639
 
 - id: c-172523
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     T. Volianskio dėka senoji Lietu­
     vos istorija nušvito naujomis spalvomis. Poznanės kolekcio­

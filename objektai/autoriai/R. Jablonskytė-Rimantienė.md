@@ -69,6 +69,8 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
 ## Citatos
 
 - id: c-33113
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     P. Kulikauskas, R. Kulikauskienė ir A. Tautavi­
     čius išleido knygą _Lietuvos archeologijos bruožai_ (1961). Be jų,

@@ -122,6 +122,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170017
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
     lyne trejus metus. Iš ten iškeliavo j Šventąjį Kalną 7  ir
@@ -136,6 +138,8 @@ Nenurodyta
     - t-186833
 
 - id: c-176501
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
     Paskiau leidosi kelionėn į Poionos6  vienuolyną pas

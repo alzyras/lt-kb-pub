@@ -71,6 +71,8 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
 ## Citatos
 
 - id: c-169626
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ir vieni, ir kiti kovėsi įnir­
     tingai, tačiau kunigaikštį ištikusi nelaimė galop palau­

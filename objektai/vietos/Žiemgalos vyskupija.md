@@ -74,6 +74,8 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
 ## Citatos
 
 - id: c-34126
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tos sritys figūravo kaip nu­
     kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­

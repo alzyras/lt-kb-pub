@@ -121,6 +121,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172766
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bendras tokių dievaičių
     vardas buvo Šeimos (Siejmi arba Semios) dievas. Kaip auką
@@ -137,6 +139,8 @@ Nenurodyta
     - t-189883
 
 - id: c-172767
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Samdiniai, namiškiai -  lietuviškai Šeimyna (Siej-
     mina).

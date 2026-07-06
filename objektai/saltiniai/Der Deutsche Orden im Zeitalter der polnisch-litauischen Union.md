@@ -81,6 +81,8 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
 ## Citatos
 
 - id: c-33552
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^162) **Pvz., K. D. Stammler :** **_Preussen und Livland in ihrem Verhältnis
     zur Krone Polens 1561-1386_** **(1953); H. Oersdorf :** **_Der Deutsche Orden im

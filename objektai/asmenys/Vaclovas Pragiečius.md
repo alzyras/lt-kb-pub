@@ -149,6 +149,9 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
 ## Citatos
 
 - id: c-35988
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ginčas tarp Vytauto ir Jogailos, iš vienos
     pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti
@@ -169,6 +172,9 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
     - t-34764
 
 - id: c-35989
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet įsikišus Čekų kara­
     liui Vaclovui, buvo tarp kariaujančiu pusių padarytos viene­
@@ -183,6 +189,9 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
     - t-34763
 
 - id: c-167663
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,
     kurie jų pusę laikytų. Ginčas tarp Vytauto ir Jogailos, iš vienos

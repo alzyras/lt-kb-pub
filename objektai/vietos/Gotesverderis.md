@@ -119,6 +119,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02698
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuvos vaka-
     ruose susidarė ištisa kryžiuočių pilių virtinė, — pradedant Klaipė-
@@ -137,6 +139,8 @@ media_all_json: |-
     - t-02460
 
 - id: c-168319
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat kryžiuočiai, nusiaubę arčiau Prūsijos esan­
     čius kaimus bei laukus ir pavertę juos dykromis, sten­

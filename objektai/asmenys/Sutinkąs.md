@@ -78,6 +78,8 @@ Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemai
 ## Citatos
 
 - id: c-173094
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o

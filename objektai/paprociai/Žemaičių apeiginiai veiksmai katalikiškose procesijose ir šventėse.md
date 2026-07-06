@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172839
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Perdėtai pamaldi žemaičių liaudis religiniame gyvenime
     iki šiol tebeatlieka kai kurias savo senąsias stabmeldiškas apei­

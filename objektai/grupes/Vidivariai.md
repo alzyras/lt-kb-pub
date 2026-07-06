@@ -77,6 +77,8 @@ Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidar�
 ## Citatos
 
 - id: c-175714
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     195
     Čia neaiškinsime priežasčių, kodėl mes nepripažįstame

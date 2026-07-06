@@ -120,6 +120,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-14705
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų
     buvo rusų kilmės ir graikų tikybos arba, kaip paskutiniais am­
@@ -136,6 +139,9 @@ media_all_json: |-
     - t-11775
 
 - id: c-14706
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­
     gonizmą. Vytautas tai matė ir negalėjo nedėti pastangų atitai­

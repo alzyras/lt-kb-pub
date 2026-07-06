@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83245
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir atvirkščiai, jei kam iš dvasiškių pasauliečio kai­
     myno bus padaryta skriauda dėl sienų, šis kreipsis į pasau­

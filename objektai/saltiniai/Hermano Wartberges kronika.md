@@ -80,6 +80,8 @@ Tos kronikos pamini taip pat mirtį « daugybės kryžininkų » (pilgrimų). He
 ## Citatos
 
 - id: c-33576
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
     čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­

@@ -144,6 +144,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63785
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
     skalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat
@@ -166,6 +168,8 @@ Nenurodyta
     - t-194421
 
 - id: c-63786
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama

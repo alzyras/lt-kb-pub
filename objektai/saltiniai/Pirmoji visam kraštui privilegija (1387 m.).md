@@ -80,6 +80,8 @@ Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją 
 ## Citatos
 
 - id: c-67396
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Antroji Vilniaus katedra,
     sudegusi 1530 m.

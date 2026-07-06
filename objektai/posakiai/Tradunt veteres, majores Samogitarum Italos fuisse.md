@@ -71,6 +71,8 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
 ## Citatos
 
 - id: c-177303
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat nedera steigtis neigti naujas, gana
     neišlaikytas nuomones, pasak kurių lietuvių tauta esanti

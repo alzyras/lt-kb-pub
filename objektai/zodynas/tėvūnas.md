@@ -146,6 +146,9 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 ## Citatos
 
 - id: c-14716
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Valstybės priešaky stovėjo niekuo nevar­
     žomas, monarcho teisėmis, did. kunigaikštis; sritys, su mažo­
@@ -162,6 +165,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     - t-12593
 
 - id: c-69407
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl nei bajorų nei di-
     džiojo kunigaikščio dvaruose (vadinamuosiuose domenuose)
@@ -180,6 +185,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     - t-70370
 
 - id: c-166381
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ypač lengva valstiečių
     būklė buvo didžiojo kunigaikščio dvaruose. Kunigaikščiai valdė

@@ -94,6 +94,8 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
 ## Citatos
 
 - id: c-170288
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     nikos („rusiško metraščio") variantą tame pačiame
     Gardino-Volkovysko krašte, kunigaikščių Zaslavskių

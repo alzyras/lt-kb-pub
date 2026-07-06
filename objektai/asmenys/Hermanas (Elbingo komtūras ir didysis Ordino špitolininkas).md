@@ -86,6 +86,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 ## Citatos
 
 - id: c-60953
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     2. Apie Morungeno pilies pastatymą
 

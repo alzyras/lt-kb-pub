@@ -108,6 +108,8 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 ## Citatos
 
 - id: c-33051
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1950. — Gimbutienė, M. : _Vidurinis geležies amžius_ , LE, t. 15, 282-285 p.
     — Jankevičienė, A. : _Poškaluvkos pilkapiai,_ AkMD, t. 5, 1958, 37-50 p.
@@ -126,6 +128,8 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
     - t-30830
 
 - id: c-33052
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Gaerte, W. : _Die steinzeitliche Keramik in Ostpreus-
     sen,_ Königsberg 1927. — Gimbutienė (Gimbutas), M. : _A Survey of the

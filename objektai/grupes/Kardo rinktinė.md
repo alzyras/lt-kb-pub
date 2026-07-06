@@ -84,6 +84,8 @@ Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras Kontrimas-Tėva
 ## Citatos
 
 - id: c-40766
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras
     Kontrimas-Tėvas, Montė (1912-1952). Tarnavo Lietuvos kariuomenėje,

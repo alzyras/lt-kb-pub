@@ -76,6 +76,8 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
 ## Citatos
 
 - id: c-61101
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Lencenbergo pilies bei daugybės prūsų sudeginimą
 

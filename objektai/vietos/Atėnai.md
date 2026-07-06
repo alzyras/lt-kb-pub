@@ -136,6 +136,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 ## Citatos
 
 - id: c-26551
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Narystė ES siejama su stabilumu tų insti-
     tucijų, kurios garantuoja demokratiją, įstatymų viršenybę, žmogaus teises
@@ -158,6 +160,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
     - t-26326
 
 - id: c-171557
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Išmaldos dalytojui grįžus į namus, vaišinamasi ir geriama dvi-
     386

@@ -101,6 +101,8 @@ Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų k
 ## Citatos
 
 - id: c-166785
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK išsi-
     skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-

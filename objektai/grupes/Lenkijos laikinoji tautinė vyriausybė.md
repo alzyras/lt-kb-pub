@@ -68,6 +68,8 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
 ## Citatos
 
 - id: c-66039
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pogrindyje susikūrusi Lenkijos laikinoji tauti-
     nė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją

@@ -100,6 +100,8 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
 ## Citatos
 
 - id: c-59262
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     362 (355). Apie Lunenburgo pilies ir dviejų miestų pastatymą
 
@@ -118,6 +120,8 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
     - t-58630
 
 - id: c-59263
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     593 D.— Says, Jer. — der Sainen; dab. Saina (Sajna), kair. Gubros (Guberio) intakas
     (GAO, p. 148 — plg. lie. Sainas, Sainelis).

@@ -71,6 +71,8 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
 ## Citatos
 
 - id: c-84034
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     (Vertimas iš F o i g t o
     Prūsijos istorijos, T. IV, priedas Nr. 6, p. 627)

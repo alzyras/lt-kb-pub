@@ -71,6 +71,8 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
 ## Citatos
 
 - id: c-42312
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1945 m. vasario mėn. buvo įkurta 3-ioji
     Šiaurės LLA apygarda. Pirmasis apygardos

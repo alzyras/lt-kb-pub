@@ -126,6 +126,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-43530
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Siekdamas didelių planų pietryčiuose, va-
     karuose Vytautas turėjo bet kokiu būdu
@@ -148,6 +150,8 @@ media_all_json: |-
     - t-68323
 
 - id: c-67932
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^4) **LUB, IV, 204-209 p.; CEV, 51-54 p.**
     (^5) **« Salynas » (vok. « Sallinwerder ») turėjo būti viena iš Nemuno salų

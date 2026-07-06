@@ -76,6 +76,8 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
 ## Citatos
 
 - id: c-172011
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lygašonys ir tulisonys
     (Lingussones ir Tilussones)

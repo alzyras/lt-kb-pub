@@ -129,6 +129,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83403
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     [manu proprio -
     savo ranka]
@@ -144,6 +146,8 @@ media_all_json: |-
     - t-87424
 
 - id: c-168058
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius
     taip paskirstė senatorių

@@ -152,6 +152,8 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 ## Citatos
 
 - id: c-157664
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos valdovai tačiau, progai pasitaikius, nesikraty­
     davo pasvarstyti krikšto pasiūlymų, juo labiau, kad jie ėjo ne iš
@@ -169,6 +171,8 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     - t-173341
 
 - id: c-157665
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Popiežių, regis, pergudravo, įrodydamas jam, kokie
     nepatikimi esą Lietuvos valdovo sumanymai, o kad dar la­

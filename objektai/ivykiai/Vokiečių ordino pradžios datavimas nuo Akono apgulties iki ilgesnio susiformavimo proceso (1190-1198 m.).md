@@ -136,6 +136,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60261
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Popiežius patvirtino
     Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
@@ -152,6 +154,8 @@ Nenurodyta
     - t-59629
 
 - id: c-60262
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
     datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai

@@ -74,6 +74,8 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
 ## Citatos
 
 - id: c-34016
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Per 35 metus rūpestin­
     gai tarnaudamas naujai tėvynei (Daumantas mirė 1299 m.), jis su­

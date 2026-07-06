@@ -147,6 +147,8 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 ## Citatos
 
 - id: c-167515
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo apleista Skalvos žemė
 
@@ -166,6 +168,8 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - t-60442
 
 - id: c-168197
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tiesą sakant,
     tą pasitraukimą su visa manta ir vaikais į Lietuvą, kur

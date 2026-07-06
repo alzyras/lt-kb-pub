@@ -79,6 +79,8 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
 ## Citatos
 
 - id: c-83696
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
     gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­

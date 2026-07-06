@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12242
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 23, Lietuvoje karių kapuose rastos sidabruotos geležinės xI-x11 a. balnakilpės. Veršvai,
     Rimaisiai. VDKM, Artūro Užgalio nuotr.

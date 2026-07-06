@@ -65,6 +65,8 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
 ## Citatos
 
 - id: c-177222
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Anot
     autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų

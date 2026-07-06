@@ -77,6 +77,8 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
 ## Citatos
 
 - id: c-169786
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,

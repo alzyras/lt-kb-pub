@@ -146,6 +146,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75254
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pirmasis Europoje procesas prieš nacius
     ir Klaipėdos praradimas
@@ -163,6 +165,8 @@ Nenurodyta
     - t-77937
 
 - id: c-75255
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-
     sis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-

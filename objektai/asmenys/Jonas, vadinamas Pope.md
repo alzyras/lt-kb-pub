@@ -118,6 +118,8 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
 ## Citatos
 
 - id: c-60983
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ragainės pilies užpuolimą
 

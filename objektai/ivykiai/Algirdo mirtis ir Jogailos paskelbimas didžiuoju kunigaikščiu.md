@@ -136,6 +136,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169049
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vienas dalykas ten minimas. Tuo metu, kai Lietu­
     va gavo atsikvėpti nuo žiauraus priešo antpuolių, ji
@@ -152,6 +154,8 @@ Nenurodyta
     - t-185688
 
 - id: c-169050
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be
     galo jis buvo vertas valdžios net ir dėl to, kad ją mo­

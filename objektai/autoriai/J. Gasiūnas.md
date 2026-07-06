@@ -64,6 +64,8 @@ Gasiūnas, Vysk.
 ## Citatos
 
 - id: c-32962
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
     ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.

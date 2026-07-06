@@ -64,6 +64,8 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
 ## Citatos
 
 - id: c-70162
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tilžėje įkurta „Birutės"
     draugija. Tuo tarpu, kai vokiečių Literatų Draugija turėjo tikslą

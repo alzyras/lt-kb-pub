@@ -79,6 +79,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atlikę maldas ir būrimus, belaisvį pastatydavo žmo­
     nių akivaizdoje; žynys, vyriausiasis iš susirinkusiųjų, smogda­

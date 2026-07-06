@@ -88,6 +88,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36134
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     —
     25. „KALBA“ bendrinės kalbos žurnalas I. sąsiuvinis. Redaguotas
@@ -100,6 +103,9 @@ media_all_json: |-
     - t-34909
 
 - id: c-36135
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
     giškių Jono straipsnis. Be to, įdėta prof. Brenderio, prof. Putino-

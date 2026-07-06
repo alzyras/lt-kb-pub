@@ -71,6 +71,8 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
 ## Citatos
 
 - id: c-82175
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Daugiau žinių apie jo nu­
     sikaltimą yra Albertrandžio

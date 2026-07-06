@@ -72,6 +72,8 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
 ## Citatos
 
 - id: c-60735
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
     patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko

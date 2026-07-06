@@ -115,6 +115,8 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
 ## Citatos
 
 - id: c-176906
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
     nacas Onacevičius su retai sutinkamu palankumu atidavė man
@@ -138,6 +140,8 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
     - t-194314
 
 - id: c-176907
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Neabejotina, kad tai nega­
     lėtų visiškai nedominti prezidento ir

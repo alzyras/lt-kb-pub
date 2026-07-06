@@ -104,6 +104,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75244
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
     tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos

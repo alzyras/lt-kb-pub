@@ -71,6 +71,8 @@ Dusburgietis teigia, kad stankiewicz J.
 ## Citatos
 
 - id: c-61929
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.
   statusas: verified

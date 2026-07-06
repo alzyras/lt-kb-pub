@@ -67,6 +67,8 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
 ## Citatos
 
 - id: c-26567
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos policijai pasiekus perga-
     lių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės taip

@@ -77,6 +77,8 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
 ## Citatos
 
 - id: c-176443
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po mūšio
 

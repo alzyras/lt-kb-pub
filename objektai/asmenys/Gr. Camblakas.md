@@ -186,6 +186,8 @@ Camblakas.
 ## Citatos
 
 - id: c-32732
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dar Konstancos susirinkime Vytauto vardu
     tą klausimą rūpestingai kėlė metropolitas Gr. Camblakas.
@@ -202,6 +204,8 @@ Camblakas.
     - t-30257
 
 - id: c-176114
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Suvažiavime
     d ū k o  s u v a ž ia v im e
@@ -229,6 +233,8 @@ Camblakas.
     - t-193390
 
 - id: c-176292
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
     vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
@@ -247,6 +253,8 @@ Camblakas.
     - t-193621
 
 - id: c-176293
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1418 m. Vytautas siunčia į
     Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-

@@ -87,6 +87,8 @@ Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Nese
 ## Citatos
 
 - id: c-173072
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mū­
     sų heraldikos specialistus lenkus visuomet užgula didelis rū­

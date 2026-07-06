@@ -159,6 +159,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-67373
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
     šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
@@ -176,6 +178,8 @@ media_all_json: |-
     - t-67489
 
 - id: c-67374
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos
     krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos. Nors Lietuvos
@@ -193,6 +197,8 @@ media_all_json: |-
     - t-67488
 
 - id: c-166770
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-
     joms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja... 1939 m.

@@ -176,6 +176,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60039
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus
     nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į
@@ -200,6 +202,8 @@ Nenurodyta
     - t-59408
 
 - id: c-60040
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie vieno sūduvio atsivertimą ir nuostabų įvykį
 

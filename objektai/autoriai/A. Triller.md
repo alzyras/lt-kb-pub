@@ -69,6 +69,8 @@ Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
 ## Citatos
 
 - id: c-61300
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)
     / Philippi, Wölky.— 1882, 1961, Aalen; Zweite Hälfte (1257—1309) / A. Seraphim,

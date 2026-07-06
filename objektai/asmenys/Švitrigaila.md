@@ -2450,6 +2450,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-14091
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tą Vytauto pralaimėjimą pajuto ir neramusis Švitrigaila.
     Skubinos ir jis pareikšti savo pretenzijų į Lietuvą. Ramybės
@@ -2463,6 +2466,9 @@ media_all_json: |-
     - t-179688
 
 - id: c-16101
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Švitrigaila susilaukė pagalbos ir iš Smo­
     lensko. Dėl to Vitebsko paėmimas kiek užtruko. Bet Švitri­
@@ -2477,6 +2483,8 @@ media_all_json: |-
     - t-179716
 
 - id: c-30378
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ordinas vėl susirado talkininkų tarp pačių lietuvių kunigaikš­
     čių. Kaip anksčiau jis buvo globojęs Jogailos priešą Vytautą, taip
@@ -2492,6 +2500,8 @@ media_all_json: |-
     - t-179695
 
 - id: c-163353
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Juk
     tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
@@ -2528,6 +2538,8 @@ media_all_json: |-
     - t-179732
 
 - id: c-163354
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Livonija vis glaudžiau šliejosi prie
     Prūsijos. Per itin galingas Švitrigailos sąjungas radosi di­
@@ -2543,6 +2555,9 @@ media_all_json: |-
     - t-179728
 
 - id: c-163355
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas Jogailos krikšto metu pada­
     rė katalikų tikėjimo išpažinimą, t. y., atnaujino savo pirmykštį
@@ -2562,6 +2577,8 @@ media_all_json: |-
     - t-179687
 
 - id: c-163356
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad pasiuntęs vieną iš saviškių, kuris apsukriai
     sugebėjo prasigauti į pilis, įkalbėjo tuos „čiornus", kad pa­
@@ -2585,6 +2602,9 @@ media_all_json: |-
     - t-179697
 
 - id: c-163357
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo
     likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj. Tą
@@ -2600,6 +2620,8 @@ media_all_json: |-
     - t-179693
 
 - id: c-163359
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Livoniae)
     TI, p. 132, N 518.
@@ -2619,6 +2641,9 @@ media_all_json: |-
     - t-179730
 
 - id: c-163360
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ten viešpatavo kunigaikš­
     tienė Julijona, Algirdo žmona. Pas ją buvo apsigyvenęs ir
@@ -2633,6 +2658,8 @@ media_all_json: |-
     - t-179721
 
 - id: c-163361
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
@@ -2656,6 +2683,8 @@ media_all_json: |-
     - t-179715
 
 - id: c-163362
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo
     tarpu Lenkija klasta užėmė LDK pavaldume
@@ -2674,6 +2703,8 @@ media_all_json: |-
     - t-179724
 
 - id: c-163363
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau ši jo žmo­
     na Sofija, Tverės kunigaikščio Bori­
@@ -2706,6 +2737,8 @@ media_all_json: |-
     - t-179733
 
 - id: c-163364
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik tada Švitrigaila
     energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
@@ -2725,6 +2758,9 @@ media_all_json: |-
     - t-179718
 
 - id: c-163365
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
     po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
@@ -2745,6 +2781,8 @@ media_all_json: |-
     - t-179700
 
 - id: c-163367
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
     nutraukė ketinantis grįžti Švitrigaila. Jis, remiamas Livoni­
@@ -2774,6 +2812,8 @@ media_all_json: |-
     - t-179726
 
 - id: c-163369
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kilmin-
     gasai ir malonusis magistrė, žinokite, kad buvau pasiun­
@@ -2791,6 +2831,8 @@ media_all_json: |-
     - t-179698
 
 - id: c-163371
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
     rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
@@ -2847,6 +2889,8 @@ media_all_json: |-
     - t-179712
 
 - id: c-163373
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pagaliau mone­
     tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me­
@@ -2867,6 +2911,8 @@ media_all_json: |-
     - t-179729
 
 - id: c-163374
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
     patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
@@ -2889,6 +2935,8 @@ media_all_json: |-
     - t-179707
 
 - id: c-163375
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anų laikų
     Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
@@ -2908,6 +2956,8 @@ media_all_json: |-
     - t-179696
 
 - id: c-163376
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
     desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
@@ -2926,6 +2976,8 @@ media_all_json: |-
     - t-179701
 
 - id: c-163377
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     226
 
@@ -2948,6 +3000,8 @@ media_all_json: |-
     - t-179704
 
 - id: c-163379
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia
     žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
@@ -2966,6 +3020,8 @@ media_all_json: |-
     - t-179702
 
 - id: c-163380
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
@@ -2987,6 +3043,8 @@ media_all_json: |-
     - t-179723
 
 - id: c-163381
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lenkijos valdantieji sluoksniai Švitrigailai
     siūlė net Lenkijos vainiką arba valdyti
@@ -3004,6 +3062,8 @@ media_all_json: |-
     - t-179720
 
 - id: c-163382
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     (Iš originalo Karaliaučiaus Slaptajame Archyve)
     Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
@@ -3032,6 +3092,9 @@ media_all_json: |-
     - t-179714
 
 - id: c-163383
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Švitrigaila manė, kad mirus ku­
     nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
@@ -3048,6 +3111,8 @@ media_all_json: |-
     - t-179699
 
 - id: c-163384
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad
     Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai
@@ -3068,6 +3133,8 @@ media_all_json: |-
     - t-179731
 
 - id: c-163385
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
     jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
@@ -3096,6 +3163,9 @@ media_all_json: |-
     - t-179705
 
 - id: c-163386
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
     ka neišleisti iš akių ir vieno jau aukščiau minėto fakto — Švitri­
@@ -3116,6 +3186,9 @@ media_all_json: |-
     - t-179725
 
 - id: c-163387
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tik Vytautas buvo kryžiuočių
     piktai įžeistas, dėl ko vėl jis pasiryžo iš jų atimti Žemaičių kraštą.
@@ -3130,6 +3203,8 @@ media_all_json: |-
     - t-179690
 
 - id: c-163388
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     • —
     145
@@ -3164,6 +3239,8 @@ media_all_json: |-
     - t-179722
 
 - id: c-163390
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai paskelbus dvylikos metų paliaubas tarp
     karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
@@ -3187,6 +3264,8 @@ media_all_json: |-
     - t-179713
 
 - id: c-163391
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ištisa
     dešimtis metų po jo mirties buvo lyg jo valdymo tąsa. Švitrigaila
@@ -3202,6 +3281,8 @@ media_all_json: |-
     - t-179709
 
 - id: c-163394
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
     ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
@@ -3222,6 +3303,8 @@ media_all_json: |-
     - t-179692
 
 - id: c-163395
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     lenkų daliniais. 1432 m.
     gruodžio 8 d. Ašmenos
@@ -3240,6 +3323,8 @@ media_all_json: |-
     - t-179734
 
 - id: c-168257
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai karalius išvyko
     į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje
@@ -3261,6 +3346,8 @@ media_all_json: |-
     - t-184896
 
 - id: c-168258
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tikrai žinoma, kad tais metais
     Konradas pirmą kartą kariavo prieš Vytautą; pasitel­
@@ -3290,6 +3377,8 @@ media_all_json: |-
     - t-184897
 
 - id: c-168259
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo metu jau galima buvo
     manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
@@ -3311,6 +3400,8 @@ media_all_json: |-
     - t-184898
 
 - id: c-168260
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Taigi atsargesni Vy­
     tauto vyrai būgštavo, kad šis nesusimanytų žygiuoti į
@@ -3336,6 +3427,8 @@ media_all_json: |-
     - t-184899
 
 - id: c-168261
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jį netrukus paleido rusų sąmokslininkai, nu­
     žudę sargybos viršininką Konradą Frankenbergą. Atsi­
@@ -3355,6 +3448,8 @@ media_all_json: |-
     - t-184900
 
 - id: c-173888
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
@@ -3374,6 +3469,8 @@ media_all_json: |-
     - t-191006
 
 - id: c-176646
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir didysis kunigaikštis Kazimieras, Tarybos
     ponams užtarus, sugrąžino jam Kijevą2 1 , jo tėvoniją,

@@ -90,6 +90,8 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
 ## Citatos
 
 - id: c-169570
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kęstutį, kuris ban­
     dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­

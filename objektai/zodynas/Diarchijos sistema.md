@@ -66,6 +66,8 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
 ## Citatos
 
 - id: c-28483
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
     ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos

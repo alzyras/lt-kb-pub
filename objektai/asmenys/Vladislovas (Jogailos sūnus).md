@@ -117,6 +117,9 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 ## Citatos
 
 - id: c-36541
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1425 m. Bresto (Kujavijoj) seime lenkų didikai nuta­
     rė, kad karalaitį Vladislovą pripažįsta sosto įpėdiniu pačiam
@@ -130,6 +133,9 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
     - t-35321
 
 - id: c-38140
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kadangi vie­
     toj įpėdinystės teisės Lenkijoj gavo viršų elekcija, tai jos luomai,

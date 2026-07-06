@@ -111,6 +111,8 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
 ## Citatos
 
 - id: c-42679
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Trečią kovų dieną janičarai
     po artilerinio apšaudymo atakavo
@@ -129,6 +131,8 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
     - t-193732
 
 - id: c-44747
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmiausiai janičarai (turkų pėstininkai),
     o po to ir turkų kavalerija atakavo atski-

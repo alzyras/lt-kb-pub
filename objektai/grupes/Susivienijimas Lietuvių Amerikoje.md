@@ -120,6 +120,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-66459
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių
     mažai tesirūpino tautiškosios sąmonės žadinimu. Jis ypatingai
@@ -136,6 +138,8 @@ media_all_json: |-
     - t-66149
 
 - id: c-175888
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Susivienijimas Visų Draugysčių Katali-
     kiškų Lietuviškų Amerikoje vėliau buvo pa-

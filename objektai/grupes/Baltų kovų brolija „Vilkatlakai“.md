@@ -94,6 +94,8 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
 ## Citatos
 
 - id: c-42648
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 24, XIII-XIV a. pradžios lietuvių kario rekonstrukcija. Baltų kovų brolijos „Vilkatlakai“
     rekonstrukcija, Baltų kovų brolijos „Vilkatlakai“ nuotr.
@@ -105,6 +107,8 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
     - t-40862
 
 - id: c-44724
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
     p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“

@@ -69,6 +69,8 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
 ## Citatos
 
 - id: c-177186
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Gaila (Gajia)
     Anot liaudies padavimų, prie piktųjų būtybių giminės pri­

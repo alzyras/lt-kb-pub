@@ -71,6 +71,8 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 ## Citatos
 
 - id: c-61039
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Paprastai, susiruošęs  į
     karą, karys užsideda šarvus, mat norima, kad jis pasijustų žvalesnis, tačiau šio brolio

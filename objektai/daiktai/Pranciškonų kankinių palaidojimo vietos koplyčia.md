@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22287
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     lonistus. Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
     ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių

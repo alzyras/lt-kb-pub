@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55730
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Draugijos narių leidžiamas
     humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),

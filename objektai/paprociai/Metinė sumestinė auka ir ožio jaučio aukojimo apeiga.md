@@ -181,6 +181,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172651
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     3. Metinė sumestinė auka buvo atnašaujama per šventes,
     švęstas baigiantis metams. Cituojame Strijkovskį: „Ketvertas
@@ -198,6 +200,8 @@ Nenurodyta
     - t-189768
 
 - id: c-172653
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Grunau, rašęs savo
     kroniką apie 1520 metus, pasakoja, kaip savo akimis matęs
@@ -216,6 +220,8 @@ Nenurodyta
     - t-189770
 
 - id: c-177025
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Paskui viršaitis, jų žynys, stabmeldžių papratimu už­
     sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio

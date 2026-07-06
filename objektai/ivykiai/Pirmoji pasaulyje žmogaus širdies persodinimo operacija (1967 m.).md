@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23177
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Europos čem-
     pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),

@@ -80,6 +80,8 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
 ## Citatos
 
 - id: c-169576
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

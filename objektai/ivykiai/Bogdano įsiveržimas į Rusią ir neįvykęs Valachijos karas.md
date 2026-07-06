@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169159
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vos su-
     N e p ra d e d a m a  k a ria u-

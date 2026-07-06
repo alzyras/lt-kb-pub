@@ -62,6 +62,8 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
 ## Citatos
 
 - id: c-177373
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Elzbietos diena 348
     Šv. Jono diena 336

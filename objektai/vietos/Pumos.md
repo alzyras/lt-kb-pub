@@ -67,6 +67,8 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
 ## Citatos
 
 - id: c-170340
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
     vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-

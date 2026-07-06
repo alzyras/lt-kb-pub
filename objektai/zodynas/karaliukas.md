@@ -164,6 +164,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
 ## Citatos
 
 - id: c-175086
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Turbūt pirmasis buvo pernelyg senas tam, kad būtų tė­
     vas Odoakro, kuris, tai žinoma iš Kasiodoro raštų, buvo
@@ -181,6 +183,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     - t-192247
 
 - id: c-175087
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet Majorijano ir Rytų
     imperatoriaus Leono žygiai j Afriką buvo nesėkmingi;
@@ -197,6 +201,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     - t-192246
 
 - id: c-175343
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ne­
     trukus Ricimeras atsikratė Majorijano, o kartu neteko

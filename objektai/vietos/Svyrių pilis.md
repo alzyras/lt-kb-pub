@@ -77,6 +77,8 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
 ## Citatos
 
 - id: c-168671
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Giedriui buvo
     duotos plačios valdos šiaurės pusėje: jis davė pradžią

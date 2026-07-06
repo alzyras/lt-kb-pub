@@ -122,6 +122,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-174206
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip vadų rankose buvo su­
     kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
@@ -145,6 +147,8 @@ media_all_json: |-
     - t-191324
 
 - id: c-174207
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Įvyko mūšis. Sutras krito mūšio lauke nuo pačių
     kunigaikščių ginklo. Tuo tarpu Stegutas tikriausiai žu­

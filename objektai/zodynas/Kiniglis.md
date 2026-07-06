@@ -128,6 +128,8 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
 ## Citatos
 
 - id: c-175130
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Luck, 1780.
     181 /P. 327, 1 pastraipos tęsinys/

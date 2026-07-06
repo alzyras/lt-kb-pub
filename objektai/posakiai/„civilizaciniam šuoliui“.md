@@ -80,6 +80,8 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
 ## Citatos
 
 - id: c-26576
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Enėjas Silvijus Pikolominis (Enea Silvio Picco-
     lomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė to-

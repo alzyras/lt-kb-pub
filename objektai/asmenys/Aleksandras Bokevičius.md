@@ -81,6 +81,8 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
 ## Citatos
 
 - id: c-169454
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pirmiausia
     pasiuntė

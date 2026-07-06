@@ -282,6 +282,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 ## Citatos
 
 - id: c-172297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kad mums būtų lengviau išsemti visą naudą iš mitologijos
     skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
@@ -302,6 +304,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     - t-189410
 
 - id: c-172298
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
@@ -318,6 +322,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     - t-189411
 
 - id: c-172299
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be jo­
     kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
@@ -338,6 +344,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     - t-189412
 
 - id: c-172300
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -352,6 +360,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     - t-189413
 
 - id: c-172301
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kaip mano Naruševičius', slavai taip pat žinojo panašią
     ugnį, vadintą Zwicz.

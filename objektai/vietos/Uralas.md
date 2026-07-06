@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-175678
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai buvo
     didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­

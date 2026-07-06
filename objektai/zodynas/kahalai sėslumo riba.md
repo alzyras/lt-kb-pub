@@ -118,6 +118,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24864
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gubernijų centrai savivaldos neprarado, o
     apskričių centrai ją atgavo. Žydų bendruomenės (kahalai) taip pat buvo
@@ -134,6 +136,8 @@ media_all_json: |-
     - t-22177
 
 - id: c-24865
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie

@@ -156,6 +156,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 ## Citatos
 
 - id: c-43942
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
     įsibrovė trys Livonijos daliniai, jie niokojo
@@ -176,6 +178,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - t-69480
 
 - id: c-167198
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Magistras grįžo į savo žemę, o Švitrigaila -
     į Polocką, ir, vėl paleidęs kariuomenę, iš-

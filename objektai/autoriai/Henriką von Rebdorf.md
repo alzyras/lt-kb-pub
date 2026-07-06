@@ -78,6 +78,8 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
 ## Citatos
 
 - id: c-32944
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nors imperatoriui rimtai buvo parupęs
     Lietuvos atvertimas, tačiau ano meto politinėmis aplinkybėmis,

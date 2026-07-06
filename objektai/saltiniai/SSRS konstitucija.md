@@ -134,6 +134,8 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 ## Citatos
 
 - id: c-67401
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvai
     laikantis tik savų įstatymų, 1990 m. balandžio 18 d. SSRS pradėjo Lie-
@@ -154,6 +156,8 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
     - t-67533
 
 - id: c-166776
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Griebtasi šantažo – grasinta
     prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,

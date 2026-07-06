@@ -131,6 +131,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44729
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     kad neturėtume vilties prie jų sugrįžti,
     ir patraukime link priešų pėsčiomis, nes
@@ -154,6 +156,8 @@ media_all_json: |-
     - t-40871
 
 - id: c-44730
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo

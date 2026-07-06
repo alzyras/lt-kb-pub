@@ -167,6 +167,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 ## Citatos
 
 - id: c-87074
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Rudino brolių kovą ir tenykščio miesto sugriovimą
 
@@ -183,6 +185,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     - t-91360
 
 - id: c-87075
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prusai  jį
     taip siaubingai kapojo, taip žeidė, kad daugelyje vietų nuo jo kūno tiesiog karojo dideli
@@ -201,6 +205,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     - t-91359
 
 - id: c-87076
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pasak
     kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės

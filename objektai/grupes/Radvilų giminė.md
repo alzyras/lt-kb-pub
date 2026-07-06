@@ -343,6 +343,8 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 ## Citatos
 
 - id: c-157126
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
     šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­
@@ -377,6 +379,8 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     - t-172766
 
 - id: c-157127
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų
     giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net
@@ -444,6 +448,8 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     - t-172763
 
 - id: c-157129
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Teodoras Sku­
     minas, LDK iždininkas.
@@ -469,6 +475,8 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     - t-172765
 
 - id: c-157130
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčią, visą mū­
     rinį. O Jurgio brolis, kunigaikštis Mi­
@@ -495,6 +503,8 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     - t-172762
 
 - id: c-157131
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Praesentibus Reverendis illustribus
     308

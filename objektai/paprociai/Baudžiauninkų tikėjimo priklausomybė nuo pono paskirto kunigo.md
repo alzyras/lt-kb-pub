@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02168
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.
     Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję

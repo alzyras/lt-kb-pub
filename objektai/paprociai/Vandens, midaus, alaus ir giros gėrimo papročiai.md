@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09968
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Alų ir midų iš liepinio medaus darė savotiškai^367 , kasė į žemę bosus ir tenai laikė kelias dešimtis metų,
         kurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu
@@ -105,6 +107,8 @@ Nenurodyta
     - t-07810
 
 - id: c-09969
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Gėrime taip pat buvo vidutiniais, gėrė paprastai vandenį, midų, alų, beržinę ar klevinę sulą ir
         girą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai

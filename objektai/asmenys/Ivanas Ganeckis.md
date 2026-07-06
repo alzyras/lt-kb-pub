@@ -117,6 +117,8 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
 ## Citatos
 
 - id: c-44350
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusų pajėgos
     Prieš Sierakausko sukilėlius pasiųstoje
@@ -135,6 +137,8 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
     - t-40145
 
 - id: c-44351
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Daugelis sukilėlių turėjo tik senus
     titnaginius arba medžioklinius šautuvus.

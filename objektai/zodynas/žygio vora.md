@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-168723
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Prie
     Saldavos ir Neidenburgo jis sumušė kryžiuočius, nesi­

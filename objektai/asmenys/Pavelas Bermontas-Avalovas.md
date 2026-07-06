@@ -82,6 +82,8 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 ## Citatos
 
 - id: c-21933
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sa-
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo

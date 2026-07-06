@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63193
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą
 

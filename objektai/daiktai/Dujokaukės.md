@@ -106,6 +106,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44649
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Benzinas padegamiesiems
     mišiniams buvo suaukotas eilinių Lietuvos

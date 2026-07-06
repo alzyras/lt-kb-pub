@@ -88,6 +88,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-174265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     104
     Galop dabar privalome pridurti dar vieną istorinę pa­

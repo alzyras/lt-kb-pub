@@ -75,6 +75,8 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
 ## Citatos
 
 - id: c-175662
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sutiksime net
     ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-

@@ -118,6 +118,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 ## Citatos
 
 - id: c-44258
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vytauto pavaduotojais Lietuvos ka-
     riuomenėje buvo Vilniaus seniūnas
@@ -140,6 +142,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - t-39992
 
 - id: c-167111
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Anot metraštininko, ji buvo drausminga ir
     gerai ginkluota.

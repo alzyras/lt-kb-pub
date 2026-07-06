@@ -198,6 +198,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 ## Citatos
 
 - id: c-175702
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mūsų kronikinin­
     kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
@@ -216,6 +218,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     - t-192932
 
 - id: c-175703
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     49
 
@@ -237,6 +241,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     - t-192933
 
 - id: c-175704
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     51
 

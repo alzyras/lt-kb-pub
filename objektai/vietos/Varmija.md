@@ -215,6 +215,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-168678
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     1644 m. A. Kojelavičius siunčiamas į Braunsbergą
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
@@ -228,6 +230,8 @@ media_all_json: |-
     - t-185317
 
 - id: c-175565
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Varmija
     Ketvirta provincija — Varmija, taip vadinama nuo
@@ -243,6 +247,8 @@ media_all_json: |-
     - t-192795
 
 - id: c-175566
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš čia
     Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin­
@@ -259,6 +265,8 @@ media_all_json: |-
     - t-192796
 
 - id: c-175567
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Atrodo, jog
     vienas šios sienos punktas buvo prie Morungeno, kur ir

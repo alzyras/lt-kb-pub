@@ -173,6 +173,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83012
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pastarasis, turėda-
     51
@@ -227,6 +229,8 @@ Nenurodyta
     - t-87034
 
 - id: c-83013
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visa tai vyko žiemos pabaigo­
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­

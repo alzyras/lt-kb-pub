@@ -77,6 +77,8 @@ Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Alge
 ## Citatos
 
 - id: c-59310
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas
     (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —

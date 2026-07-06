@@ -97,6 +97,8 @@ Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
 ## Citatos
 
 - id: c-170372
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Rusdorlas P. 269
     Safargalijev M. G. 343

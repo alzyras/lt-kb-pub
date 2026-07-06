@@ -104,6 +104,8 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
 ## Citatos
 
 - id: c-173203
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senoji Palanga buvo išsidėsčiusi kalvos, va­
     dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
@@ -118,6 +120,8 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
     - t-190320
 
 - id: c-177071
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jiems jis buvo ne tik
     žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo

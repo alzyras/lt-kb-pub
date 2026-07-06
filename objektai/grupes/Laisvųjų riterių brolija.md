@@ -63,6 +63,8 @@ Vakarų Europos riterio rekonstrukcija.
 ## Citatos
 
 - id: c-77340
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 25, XIII a. Vakarų Europos riterio rekonstrukcija. „Laisvųjų riterių“ brolijos rekonstrukcija,
     Giedrės Maksimovicz nuotr.

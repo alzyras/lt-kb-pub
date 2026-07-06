@@ -209,6 +209,8 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 ## Citatos
 
 - id: c-174571
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     34
     Skitijos geografija. Skitų įpročius, papročius ir religi­
@@ -227,6 +229,8 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
     - t-191689
 
 - id: c-174572
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip Darijus buvo
     priverstas greitai pereiti visą Skitiją, persikelti per to­
@@ -246,6 +250,8 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
     - t-191690
 
 - id: c-174573
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Manoma, kad šis pavadinimas atsirado ne iš
     itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
@@ -264,6 +270,8 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
     - t-191691
 
 - id: c-174802
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš čia persų
     karalius pradėjo traukti atgal.

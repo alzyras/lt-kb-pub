@@ -77,6 +77,8 @@ Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, varto
 ## Citatos
 
 - id: c-174477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,

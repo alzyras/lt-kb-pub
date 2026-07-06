@@ -74,6 +74,8 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
 ## Citatos
 
 - id: c-174094
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.

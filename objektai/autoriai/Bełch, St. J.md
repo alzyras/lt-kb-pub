@@ -78,6 +78,8 @@ Bełch, St.
 ## Citatos
 
 - id: c-29211
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Bełch,
     St. J. : _Falkenberg_ , SaPoM, t. 2, 1956, 165-192 p. — (”) _Paulus Vladimiri

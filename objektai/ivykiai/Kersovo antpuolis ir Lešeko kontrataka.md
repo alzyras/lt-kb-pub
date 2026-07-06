@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62859
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
 

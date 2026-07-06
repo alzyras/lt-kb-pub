@@ -73,6 +73,8 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
 ## Citatos
 
 - id: c-173002
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kartą, kai Vitolfas puotavo pas vieną karalių,
     jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­

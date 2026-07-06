@@ -68,6 +68,8 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
 ## Citatos
 
 - id: c-03322
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet jau tada, ypač ponų ir turtingesniųjų ba-
     jorų žemėse, buvo valstiečių, kurie buvo pririšti prie pavestojo

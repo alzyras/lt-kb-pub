@@ -76,6 +76,8 @@ Po Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės taika ir Žema
 ## Citatos
 
 - id: c-44981
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne
     kartą sukilę, dažnai jų veiksmus paremdavo Vytautas. Po

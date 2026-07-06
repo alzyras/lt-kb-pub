@@ -90,6 +90,8 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 ## Citatos
 
 - id: c-44270
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Agenty-smogiky grupė
     persirengusi Lietuvos partizanų uniformomis. Antroje eilėje, trečias iš dešinės stovi
@@ -103,6 +105,8 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     - t-40005
 
 - id: c-44271
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
     muotose vadinamosiose specialiosiose grupėse, kurioms paprastai

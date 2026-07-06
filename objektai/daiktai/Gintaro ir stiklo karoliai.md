@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-70121
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ano laiko apyrankių ir kitų
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo

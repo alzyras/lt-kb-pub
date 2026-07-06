@@ -67,6 +67,8 @@ Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuoraš
 ## Citatos
 
 - id: c-61700
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.

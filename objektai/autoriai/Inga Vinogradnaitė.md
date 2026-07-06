@@ -114,6 +114,8 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
 ## Citatos
 
 - id: c-26698
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Alfonsas Eidintas, Alfredas Bumblauskas,
     Antanas Kulakauskas, Mindaugas Tamošaitis

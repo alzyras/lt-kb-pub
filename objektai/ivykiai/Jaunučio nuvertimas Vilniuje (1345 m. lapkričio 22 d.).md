@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82889
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kivirčai tarp brolių da­
     vė pradžią slaptoms, bet sumaniai parengtoms sutartims

@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44657
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1991 m. Aukščiausiosios Tarybos rūmuose
     budėjusių savanorių ginklas

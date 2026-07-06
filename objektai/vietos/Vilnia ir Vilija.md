@@ -78,6 +78,8 @@ Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ ci
 ## Citatos
 
 - id: c-82233
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ibi primum oppidum Vilna, quod et in
     hanc dietn caput genti est ex nomine Villi

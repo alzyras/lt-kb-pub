@@ -262,6 +262,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 ## Citatos
 
 - id: c-24459
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dauguma kaltinamųjų sakė,
     kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
@@ -277,6 +279,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - t-170846
 
 - id: c-155456
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
@@ -291,6 +295,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - t-170847
 
 - id: c-167023
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtme-
     čio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prū-
@@ -309,6 +315,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - t-170843
 
 - id: c-167024
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nu-
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
@@ -323,6 +331,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - t-183632
 
 - id: c-175520
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Erazmas Stela (Erasmus Stella, tikr. Johan
     Stüler; ?—1521), vokiečių istorikas. Veikale

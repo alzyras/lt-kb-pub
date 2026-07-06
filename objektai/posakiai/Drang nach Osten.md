@@ -98,6 +98,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-38356
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     20 pasitraukė, ir tokiu būdu Marien­
     burgas nebuvo paimtas. Bet kaip ten bebūtų, vis dėlto mes tu­

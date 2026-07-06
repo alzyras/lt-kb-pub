@@ -69,6 +69,8 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
 ## Citatos
 
 - id: c-93995
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pusbroliai nesutiko su tokiu sprendimu.
     Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir

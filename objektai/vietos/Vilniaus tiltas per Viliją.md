@@ -201,6 +201,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 ## Citatos
 
 - id: c-82099
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiuo raštu
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
@@ -247,6 +249,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - t-86120
 
 - id: c-82100
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
     388
@@ -282,6 +286,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - t-86122
 
 - id: c-82101
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dominyko ordino brolių pa­
     mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,

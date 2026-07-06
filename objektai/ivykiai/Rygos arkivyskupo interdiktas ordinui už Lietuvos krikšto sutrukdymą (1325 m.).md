@@ -211,6 +211,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-04995
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     žodžiuose, berods, atsispindi Gedimino anksčiau turėtos viltys,
     kada jis, kreipdamasis į popiežių, buvo tikėjęsis, jog aukščiausias
@@ -229,6 +231,8 @@ Nenurodyta
     - t-97035
 
 - id: c-04996
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Avignone greičiausiai ne­
     daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
@@ -247,6 +251,8 @@ Nenurodyta
     - t-97036
 
 - id: c-91584
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš Avignono 1325 m. sugrįžęs Rygos arki­
     vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.

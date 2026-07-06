@@ -73,6 +73,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-22162
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 1976; Millennium of Lithuania:
     Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009; H. Olszewski.

@@ -116,6 +116,8 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
 ## Citatos
 
 - id: c-170966
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     „Nesusipratimais ir riktais“ laiko­
     mi T. Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va­
@@ -134,6 +136,8 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
     - t-188034
 
 - id: c-170967
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     35 Brįūckner] A. Mitologia // Wielka encyklopedia powszechna ■
     ilustrowana. -  Warszawa, 1910. -  T. XLII-XLIV. -  S. 633.

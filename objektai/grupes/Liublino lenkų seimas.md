@@ -64,6 +64,8 @@ A n k stesn iais m etais, tiesa, jie teisė ta i ir p ag rįstai n e n o rė ję
 ## Citatos
 
 - id: c-176170
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     P asiu n tin iai tu rė jo  p areik šti štai ką.
     N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­

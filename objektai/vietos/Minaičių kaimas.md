@@ -100,6 +100,8 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
 ## Citatos
 
 - id: c-45215
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     partizanų vadovybę, pagrindiniu kovos tikslu buvo nurodytas siekis
 

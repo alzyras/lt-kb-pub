@@ -73,6 +73,8 @@ Dusburgietis teigia, kad nesselmann G.
 ## Citatos
 
 - id: c-61830
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.
   statusas: verified

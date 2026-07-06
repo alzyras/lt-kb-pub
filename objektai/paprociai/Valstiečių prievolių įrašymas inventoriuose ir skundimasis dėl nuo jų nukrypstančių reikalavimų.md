@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02280
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kokios pareigos bū-
     davo pažymėtos tuose inventoriuose, tokias valstiečiai turė-

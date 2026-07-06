@@ -79,6 +79,8 @@ Lietuvos sąjungininkai buvo tik Livonijos ordino magistras Valteris Pletenberga
 ## Citatos
 
 - id: c-176665
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Sugrįžo, padarę Lenkijos žemei daug žalos.
     54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO

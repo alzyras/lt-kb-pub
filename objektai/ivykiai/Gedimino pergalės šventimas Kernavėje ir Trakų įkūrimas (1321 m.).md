@@ -112,6 +112,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169062
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat, kol
     G e d im in a s n u g a lė tų ­

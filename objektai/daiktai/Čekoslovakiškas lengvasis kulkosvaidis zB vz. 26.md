@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44697
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 (LK vz. 26), VDKM, Artūro Užgalio nuotr.
     p. 220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.

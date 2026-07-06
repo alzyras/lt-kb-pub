@@ -83,6 +83,8 @@ Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, 
 ## Citatos
 
 - id: c-174341
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi

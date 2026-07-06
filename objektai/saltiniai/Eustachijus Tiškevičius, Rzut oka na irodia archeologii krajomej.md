@@ -71,6 +71,8 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje.
 ## Citatos
 
 - id: c-174655
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ant­
     ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten

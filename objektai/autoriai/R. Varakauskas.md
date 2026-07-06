@@ -77,6 +77,8 @@ Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, Ist
 ## Citatos
 
 - id: c-33117
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
     rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-

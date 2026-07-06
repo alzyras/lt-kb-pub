@@ -130,6 +130,8 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
 ## Citatos
 
 - id: c-169655
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai
     Jo k a ra i k a rtu  su Li-
@@ -156,6 +158,8 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
     - t-186294
 
 - id: c-169656
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­

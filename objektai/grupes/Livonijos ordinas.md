@@ -3037,6 +3037,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 ## Citatos
 
 - id: c-00350
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau ordinas nesudarė
     savarankiškos valstybės: nuo 1237 m. jis buvo tų pačių kry-
@@ -3053,6 +3055,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179391
 
 - id: c-22663
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
@@ -3065,6 +3069,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179410
 
 - id: c-31222
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Mindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas
     Rygos arkivyskupą, kuriam nebenorėjo paklusti Livonijos ordinas.
@@ -3082,6 +3088,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179368
 
 - id: c-36906
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo tarpu atsiskubino ir kryžiuočiams į pa­
     galbą Livonijos Ordinas ir daugiau kariuomenės iš Prūsų. Vy­
@@ -3095,6 +3104,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179370
 
 - id: c-36908
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasinaudodamas Žemaičių krikštu, Vytautas ata­
     kavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl
@@ -3110,6 +3122,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179415
 
 - id: c-36911
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmuoju tokiu draugu vi­
     suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
@@ -3128,6 +3143,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179364
 
 - id: c-36912
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1424 metais buvo dar padaryta prekybos sutar­
     tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
@@ -3144,6 +3162,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179394
 
 - id: c-163058
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
     1260 m. liepos 13 d. Durbės mūšis yra vie-
@@ -3169,6 +3189,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179417
 
 - id: c-163059
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
     mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
@@ -3184,6 +3206,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179396
 
 - id: c-163060
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau viskas byloja, jog Gediminas per pasiun­
     tinius nurodė, kaip sako Jerošinas, garantuoti, kad
@@ -3212,6 +3236,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179388
 
 - id: c-163061
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
@@ -3229,6 +3255,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179384
 
 - id: c-163064
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Savo «atgailos rašte», vad.
     «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
@@ -3248,6 +3276,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179358
 
 - id: c-163065
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mindaugo krikštas nepa-
     šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
@@ -3266,6 +3296,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179357
 
 - id: c-163066
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo. Be metų (turbūt, 1396).
@@ -3283,6 +3315,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179363
 
 - id: c-163067
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be išsamaus išvar­
     dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
@@ -3318,6 +3352,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179398
 
 - id: c-163068
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
@@ -3338,6 +3374,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179369
 
 - id: c-163070
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -3353,6 +3391,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179406
 
 - id: c-163071
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
     mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
@@ -3370,6 +3410,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179409
 
 - id: c-163073
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jūros upės krantu siena pasislinko
     vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko
@@ -3388,6 +3430,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179435
 
 - id: c-163074
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
@@ -3405,6 +3449,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179377
 
 - id: c-163076
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Livoniae)
     TI, p. 136, N533
@@ -3423,6 +3469,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179434
 
 - id: c-163078
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinu
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
@@ -3444,6 +3493,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179414
 
 - id: c-163084
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Neilgai teatsilaikė įgula tos nors labai stip­
     rios tvirtovės, puolama tokių didžiulių priešo pajėgų. Už­
@@ -3463,6 +3514,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179408
 
 - id: c-163085
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pranešimas apie jos mirtį yra 74
     Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,
@@ -3477,6 +3530,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179351
 
 - id: c-163086
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Europą, atitaisė klai­
     dingą apie Lietuvą katalikiškų tautų nuomonę, bet dar buvo
@@ -3495,6 +3551,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179407
 
 - id: c-163087
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Veliuona tepasidavė po
     10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
@@ -3512,6 +3570,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179365
 
 - id: c-163089
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
     čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
@@ -3527,6 +3587,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179424
 
 - id: c-163092
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Keliose kronikose Lielvardės kauty­
     nės^173 yra atvaizduotos kaip skaudus ordino pralaimėjimas. 1261 m.
@@ -3545,6 +3607,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179423
 
 - id: c-163094
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kautynės prasidėjo prie
     mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
@@ -3560,6 +3624,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179393
 
 - id: c-163095
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     O vasaros žygis buvo ruošiamas apie rug­
     piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
@@ -3579,6 +3645,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179432
 
 - id: c-163096
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     O Ceklis, tas reikalingas
     tiltas tarp abiejų ordino šakų, buvo skaudžini pralaimėtas, ir jį
@@ -3596,6 +3664,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179375
 
 - id: c-163097
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
@@ -3615,6 +3685,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179431
 
 - id: c-163101
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kronikininko žodžiais, «Vytautas
     ėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,
@@ -3631,6 +3703,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179428
 
 - id: c-163103
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jei Ordinas pageidautų, Vytautas turi,
     jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
@@ -3648,6 +3723,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179400
 
 - id: c-163105
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Į kovą prieš ordiną Lietuvos valdovai įtraukė visą didžiąją
     kunigaikštiją. Per vieną šimtą metų, prieš Algirdui užmerkiant
@@ -3663,6 +3740,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179412
 
 - id: c-163106
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Po laikino atodūsio, nuo 1328 Lietuvą vėl užgulė sunki našta.
     Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą
@@ -3676,6 +3755,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179429
 
 - id: c-163107
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     (Iš originalo Karaliaučiaus Slaptajame Archyve)
     Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
@@ -3705,6 +3786,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179382
 
 - id: c-163108
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet padėtis
     nepasidarė tokia, kaip 1382 ir 1390 m., kai iš Prūsų ordino Vytautas
@@ -3723,6 +3806,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179430
 
 - id: c-163112
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
     ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
@@ -3742,6 +3827,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179405
 
 - id: c-163113
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
@@ -3757,6 +3844,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179390
 
 - id: c-163114
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo
@@ -3782,6 +3871,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179381
 
 - id: c-163115
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame vi­
     siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
@@ -3803,6 +3894,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179356
 
 - id: c-163116
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
     vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
@@ -3826,6 +3919,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179411
 
 - id: c-163117
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tik paėmę Kauną, Nemuno žemu­
     pyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo
@@ -3844,6 +3939,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179413
 
 - id: c-163118
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     29
     D o g i e 1 Codex Diplomat. T. V, p. 80.
@@ -3868,6 +3965,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179352
 
 - id: c-163120
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ordino ir Vytauto santykiams buvo reikšminga,
     kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
@@ -3888,6 +3987,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179360
 
 - id: c-163121
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vy­
     tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
@@ -3909,6 +4011,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179378
 
 - id: c-163124
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Paimtas su žmona ir vaikais, kuni­
     gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
@@ -3935,6 +4039,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179399
 
 - id: c-163127
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet tuo laiku prisi­
     artino su didele kariuomene Vytautas ir staiga užpuolė priešus,
@@ -3949,6 +4056,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179421
 
 - id: c-163128
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet
     prityręs Kęstutis suprato, kad Jogailos pusėj ne viskas tvarko­
@@ -3969,6 +4079,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179402
 
 - id: c-163129
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
     savo tikslų siekiančiu Zigmantu negalėjo būti naudinga Lietuvai.
@@ -3989,6 +4101,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179366
 
 - id: c-163130
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet (1410.VIII.)
     Livonijos kariuomenė laivais atvyko Sembon.
@@ -4000,6 +4114,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-179359
 
 - id: c-175874
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po Durbės mūšio sukilusias kiltis ordinas jau buvo
     nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
@@ -4015,6 +4131,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193114
 
 - id: c-175875
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tatai atliko jau Vytautas.
     Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos
@@ -4028,6 +4146,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193115
 
 - id: c-176046
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitokios mintys teikė
     nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
@@ -4066,6 +4186,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193318
 
 - id: c-176047
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
@@ -4085,6 +4207,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193319
 
 - id: c-176048
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Padrąsėjo širdys, ir užvi­
     rė atkaklus mūšis, lietuvius apėmė toks kovos įkarštis,
@@ -4108,6 +4232,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193320
 
 - id: c-176049
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai šitaip klostėsi reikalai
     Prūsijos pasienyje, Livonija,
@@ -4132,6 +4258,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193321
 
 - id: c-176050
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ir vieni, ir kiti puikiai atliko pavestus užda­
     vinius.
@@ -4153,6 +4281,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193322
 
 - id: c-176051
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai atsidūrė netoli tos vietos, kur
     buvo prikasta griovių, už nugaros staiga pasigirdo bai-
@@ -4178,6 +4308,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193323
 
 - id: c-176052
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K aras su L ivo n ija
     Kai Lietuvoje viešpatavo
@@ -4197,6 +4329,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193324
 
 - id: c-176053
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tos pačios priežastys sukėlė neramumus Livonijoje.
     Į Liuterio sektą perėjo Livo-
@@ -4220,6 +4354,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193325
 
 - id: c-176054
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Jeigu Mask­
     vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą
@@ -4253,6 +4389,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193326
 
 - id: c-176482
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir išvažinėjo savo keliais.
     Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
@@ -4269,6 +4407,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193838
 
 - id: c-176483
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     l , į kitus metus, didysis kunigaikštis
     Švitrigaila sutelkė didelę rusų jėgą ir bekariaudamas
@@ -4287,6 +4427,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193839
 
 - id: c-176484
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kunigaikš­
     tis Švitrigaila sugrįžo į savo žemę, o magistras į savo,
@@ -4312,6 +4454,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193840
 
 - id: c-176485
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir buvo mūšis rugsėjo
     pirmąją dieną 4 3 , per šventą Simoną. Kovėsi už Ukmer­
@@ -4337,6 +4481,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-193841
 
 - id: c-176486
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
     emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su

@@ -142,6 +142,8 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
 ## Citatos
 
 - id: c-175106
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­
     lo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,
@@ -159,6 +161,8 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     - t-192287
 
 - id: c-175107
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šios akmens krušos įrodymas ■—■ tai
     akmens sangrūdų išsidėstymas. Jų visuomet daugiau ir

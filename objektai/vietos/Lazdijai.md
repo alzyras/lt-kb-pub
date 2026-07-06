@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02778
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     O kai, besivydami bolše-
     vikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo

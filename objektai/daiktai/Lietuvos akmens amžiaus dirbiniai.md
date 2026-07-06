@@ -194,6 +194,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05233
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ankstyviausieji žmogaus kultūros pėdsakai pietų Pabaltijyje
     yra datuojami 15.000-10.000 m. pr. Kr. Palei Lietuvos sieną Ryt­
@@ -209,6 +211,8 @@ Nenurodyta
     - t-64956
 
 - id: c-05234
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
     titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram­
@@ -227,6 +231,8 @@ Nenurodyta
     - t-64958
 
 - id: c-05277
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ši kultūra, dėl tų sukinių keramikos ornamentų, todėl dar vadinama
     « šukinė » (« Kammkeramik »)^5. Jos palikimui priklauso taip pat
@@ -242,6 +248,8 @@ Nenurodyta
     - t-64961
 
 - id: c-65512
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kr.) kultūrai yra charak-
     teringi įvairūs žalvariniai kirviai, ietys ir vienas kitas papuošalas.

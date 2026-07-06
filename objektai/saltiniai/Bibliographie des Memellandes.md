@@ -75,6 +75,8 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
 ## Citatos
 
 - id: c-33542
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     P. Rėklaitis :** **_Einführung in die Kunstgeschichtsforschung des Groß-
     iürstentums Litauen,_** **Marburg 1962 (gausiai Įtraukta ir bendroji Lietuvos

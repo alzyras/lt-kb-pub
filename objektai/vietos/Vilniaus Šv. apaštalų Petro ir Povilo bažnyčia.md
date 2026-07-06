@@ -122,6 +122,8 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 ## Citatos
 
 - id: c-24589
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vieninte-
     lis privilegijuotas visuomenės luomas – bajorai, turėję politines teises ir
@@ -141,6 +143,8 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
     - t-71983
 
 - id: c-24590
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv. Kazimie-
     ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno

@@ -339,6 +339,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 ## Citatos
 
 - id: c-156379
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­
@@ -359,6 +361,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-171929
 
 - id: c-156380
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai
     kurie gyventojai, kad gimtosioms
@@ -387,6 +391,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-171930
 
 - id: c-156381
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Slapt. archiv.
     22
@@ -413,6 +419,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-171927
 
 - id: c-156384
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas įsimintinas mūšis
     20
@@ -435,6 +443,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-171924
 
 - id: c-170576
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     TS Ir PS nuorašuose upė be vardo. Tikroji mūšio vieta buvo prie
     Ztrnaios upelio, tarp Zirnajų ežero ir Pabaisko — 9 km nuo Uk­
@@ -449,6 +459,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-187629
 
 - id: c-176431
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taip jos kelias paras stovėjo, susikaupę
     laukė mūšio. Šią kariuomenių išsidėstymo

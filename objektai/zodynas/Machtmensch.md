@@ -64,6 +64,9 @@ Kaip ten bebūtų, žinome viena, kad jis buvo pilna to žodžio prasme „Macht
 ## Citatos
 
 - id: c-35528
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Sakoma, kad vyriausias Vytauto veikimo akstinas buvęs
     garbės ir valdžios troškimas. Kaip ten bebūtų, žinome viena,

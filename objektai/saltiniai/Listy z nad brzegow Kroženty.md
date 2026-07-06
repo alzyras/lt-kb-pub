@@ -69,6 +69,8 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
 ## Citatos
 
 - id: c-177246
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet tai tik hipotezė, rašinys galėjo būti ir
     kolektyvinio darbo vaisius. Vis dėlto reikėtų manyti, kad „Lie­

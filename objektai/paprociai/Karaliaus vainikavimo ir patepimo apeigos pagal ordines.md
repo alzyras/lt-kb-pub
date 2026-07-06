@@ -244,6 +244,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31412
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji
     diadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik
@@ -259,6 +261,8 @@ Nenurodyta
     - t-97133
 
 - id: c-31413
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo tarpu imp. Zigmantas pirma išsiuntė
     teisininkų delegaciją, kuriai vadovavo Vienos univ. dr. Baptista
@@ -273,6 +277,8 @@ Nenurodyta
     - t-97128
 
 - id: c-31414
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^374) III skyrius: valstybės suklestėjimas
     buvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip
@@ -293,6 +299,8 @@ Nenurodyta
     - t-97130
 
 - id: c-91644
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^28) ĮVADAS
     pats Kriavo aktas, jeigu dėl žinomojo teksto tikrumo ir niekas
@@ -311,6 +319,8 @@ Nenurodyta
     - t-97131
 
 - id: c-91645
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai ano meto valdovas, remiantis popiežiaus bule, būdavo
     ceremoningai, pagal nusistovėjusią tvarką, vad. «ordines », vaini­

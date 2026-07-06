@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177337
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Maistui ir gėrimui, gal sekdami budi-
     nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės

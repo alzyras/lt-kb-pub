@@ -204,6 +204,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-43964
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lenkai su tuo nesutiko ir vilkino
     derybas. Galiausiai spalio 7 d. buvo nusta-
@@ -221,6 +223,8 @@ media_all_json: |-
     - t-172037
 
 - id: c-43965
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
@@ -234,6 +238,8 @@ media_all_json: |-
     - t-172033
 
 - id: c-156467
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
@@ -249,6 +255,8 @@ media_all_json: |-
     - t-172038
 
 - id: c-156468
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     7-asis ir 2-asis pėst. p. priverstas trauktis į rytus.
     Už Lydos pavyksta aplenkti lenkų pajėgas ir

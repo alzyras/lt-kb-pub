@@ -159,6 +159,8 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 ## Citatos
 
 - id: c-111138
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tada Vaišvilkas traukė prieš pagrindinius
     priešus. Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
@@ -176,6 +178,8 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
     - t-121297
 
 - id: c-171573
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.

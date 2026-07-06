@@ -316,6 +316,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 ## Citatos
 
 - id: c-61494
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Patikimesni atrodo bandymai ją
     lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
@@ -329,6 +331,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-60868
 
 - id: c-61495
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
     paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
@@ -343,6 +347,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-60869
 
 - id: c-61496
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
     kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
@@ -355,6 +361,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-60866
 
 - id: c-61497
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ordino pilis buvusi greičiausiai Maštaičių (Norkūnų) piliakalnyje kair. Nemuno krante
     žemiau dab. Gelgaudiškio, priešais Skirsnemunę. Greta piliakalnio išlikę keli įtvirtinti
@@ -367,6 +375,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-60864
 
 - id: c-61498
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
     intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)
@@ -380,6 +390,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-60862
 
 - id: c-61499
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
       529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
@@ -395,6 +407,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-60865
 
 - id: c-61500
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
     Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
@@ -409,6 +423,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-60863
 
 - id: c-61501
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,
     Kalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus

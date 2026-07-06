@@ -74,6 +74,8 @@ Dusburgietis teigia, kad wattenbach W.
 ## Citatos
 
 - id: c-61995
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des
     dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886.

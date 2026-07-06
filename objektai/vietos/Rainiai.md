@@ -119,6 +119,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 ## Citatos
 
 - id: c-24435
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
     Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
@@ -136,6 +138,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     - t-21756
 
 - id: c-167016
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kurių nespėjo, elemen-
     tariai nužudė. Masinės kalinių žudynės surengtos Pravieniškių įkalinimo

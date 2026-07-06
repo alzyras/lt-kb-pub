@@ -195,6 +195,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 ## Citatos
 
 - id: c-78716
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi:
     180
@@ -222,6 +224,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-82228
 
 - id: c-78718
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Kandidatai.** Augustui **III** mirus, kandidatų į sostą atsirado
     nemaža. Pirmiausia tai buvo jo vyresnysis sūnus, kuris betgi
@@ -237,6 +241,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-82222
 
 - id: c-78719
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
     jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos
@@ -253,6 +259,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-82224
 
 - id: c-78720
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Augustui **II** mirus, daugumas bajorijos panoro grąžinti iš-
     tremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.

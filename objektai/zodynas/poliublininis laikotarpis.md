@@ -270,6 +270,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 ## Citatos
 
 - id: c-91774
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Suprantama, dėmesingai buvo
     keliamos ir tyrinėjamos lietuvių-lenkų diferencijos, kurių netrūko
@@ -289,6 +291,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-05602
 
 - id: c-91775
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tad naudojant vad. pir­
     mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
@@ -310,6 +314,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-05606
 
 - id: c-91776
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tai
     matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
@@ -327,6 +333,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-05603
 
 - id: c-91778
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­
     pio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,
@@ -342,6 +350,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-05602
 
 - id: c-91779
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ant tautinio pa­
     grindo atsistačiusioje Lietuvoje dar buvo gyvos XIX amžiaus an­
@@ -357,6 +367,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-05602
 
 - id: c-91781
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tai parodė
     jis savo paskaitose (nuo 1941 m. docentas) ir, palyginti, gausiuose

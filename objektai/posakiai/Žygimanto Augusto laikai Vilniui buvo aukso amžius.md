@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82855
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Žygimanto Augusto laikai Vilniui buvo aukso amžius, o
     jo mirtis - visuotinio sielvarto ir sunkios netekties diena. Čia

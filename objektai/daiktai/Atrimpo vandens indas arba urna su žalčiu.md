@@ -157,6 +157,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170987
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     sis lietuviški{ dalykų tyrinėtojas tvirtina ir tai, jog spirališkai susi­
     vijusio žalčio stabas, apie kurį bus pasakojama kituose straips­
@@ -175,6 +177,8 @@ Nenurodyta
     - t-187980
 
 - id: c-170988
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet žinoma, kad antikinėje filosofijoje patys
     pirmieji organizmai atsirado iš vandens, vanduo laikytas visos
@@ -193,6 +197,8 @@ Nenurodyta
     - t-187981
 
 - id: c-171268
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šitoks lietuvių supratimas galėjo apdovanoti
     amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­

@@ -73,6 +73,9 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
 ## Citatos
 
 - id: c-38407
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
     Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.

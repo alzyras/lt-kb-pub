@@ -1276,6 +1276,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 ## Citatos
 
 - id: c-42455
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Valdant Gediminui
     Lietuva ėmė sparčiai plėstis į rytus
@@ -1301,6 +1303,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181470
 
 - id: c-42456
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 27, „RŪSTUS DIEVO ŽMONIŲ LIKIMAS“, Dusburgietis P. Prūsijos žemės kronika,
     Vilnius, 2005, p. 166-168.
@@ -1312,6 +1316,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181474
 
 - id: c-56023
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
       Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -1329,6 +1335,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181465
 
 - id: c-165011
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     XIII a. Šilainiai,
     Raudonė,
@@ -1347,6 +1355,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181471
 
 - id: c-165012
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Epocha, kurioje rašė Petras iš Dusburgo
 
@@ -1361,6 +1371,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181469
 
 - id: c-165013
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     PRŪSIJOS ŽEMĖS
        KRONIKA
@@ -1388,6 +1400,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-194449
 
 - id: c-165014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
@@ -1409,6 +1423,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181459
 
 - id: c-165016
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     K. Požėlos spaustuvė, Kaunas
 
@@ -1461,6 +1477,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181461
 
 - id: c-165017
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kaip ši knyga sutvarkyta
 
@@ -1480,6 +1498,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181462
 
 - id: c-165018
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
     nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei
@@ -1502,6 +1522,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181476
 
 - id: c-165019
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
     tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
@@ -1526,6 +1548,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181460
 
 - id: c-165020
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Eiliuota Livonijos kronika, aprašydama
     Skuodo mūšį (1259 m.), mini žemaičius,
@@ -1551,6 +1575,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-181472
 
 - id: c-171349
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Paulius Varnefrydas, diako­
     nas, rašantis apie langobardų praeitį, sako, kad pas herulus
@@ -1568,6 +1594,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188459
 
 - id: c-171350
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
     šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
@@ -1584,6 +1612,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188460
 
 - id: c-171351
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toks didelis buvo jo au­
     toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
@@ -1603,6 +1633,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188461
 
 - id: c-171352
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     286
 
@@ -1624,6 +1656,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188462
 
 - id: c-171353
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
     sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
@@ -1639,6 +1673,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188463
 
 - id: c-171354
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Seniausios žinios apie vyriausiojo žynio buvimą klausimas
     labiau už kitus susijęs su kryžiuočių kronikininko Dusburgie-
@@ -1676,6 +1712,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188464
 
 - id: c-171355
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     (Tenai gyveno
     aukščiausiasis teisėjas,
@@ -1697,6 +1735,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188465
 
 - id: c-171357
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Daugelis iš tų, kurių tėvai
     dar buvo stabmeldžiai ir kurių žodiniai pasakojimai apie se­
@@ -1721,6 +1761,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188467
 
 - id: c-171358
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tą
     lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
@@ -1739,6 +1781,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-188468
 
 - id: c-173659
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sūduva turėjo gana
     daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
@@ -1761,6 +1805,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-190777
 
 - id: c-177068
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visų pirma kry­
     žiuočių kronikininko pasakojimas tame pačiame skyrelyje, kur

@@ -65,6 +65,8 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
 ## Citatos
 
 - id: c-43799
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     [...] pastebėjome visai arti bekylančią raketą. Sukritom ant žemės. Išgirdome rusiškų
     parolių pasikeitimą. Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus

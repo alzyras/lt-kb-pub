@@ -78,6 +78,8 @@ Sirvydo lietuviški pamokslai, vėlesni giesmynai (Saliamono Slavočinskio „Gi
 ## Citatos
 
 - id: c-23959
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     aiškinami lotyniškai, o tik paskui lietuviškai. K.  Sirvydo lietuviški pa-
     mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)

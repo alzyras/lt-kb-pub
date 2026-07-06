@@ -118,6 +118,8 @@ Narbutas nesutinka su Okolskio aiškinimu, kad „Paparona“ kilusi iš „Part
 ## Citatos
 
 - id: c-173281
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Esu matęs
     tokių ikiunijinių lietuviškų antspaudų; vieną iš jų perpieštą nu­
@@ -142,6 +144,8 @@ Narbutas nesutinka su Okolskio aiškinimu, kad „Paparona“ kilusi iš „Part
     - t-190398
 
 - id: c-177067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui

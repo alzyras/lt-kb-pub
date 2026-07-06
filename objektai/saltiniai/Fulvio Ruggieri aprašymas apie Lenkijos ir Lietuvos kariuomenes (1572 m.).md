@@ -150,6 +150,8 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
 ## Citatos
 
 - id: c-11226
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ralyžiavo“ Rusijos kariuomenę. Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo artileriją Vilniuje.
     grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt
@@ -164,6 +166,8 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
     - t-78835
 
 - id: c-75976
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
     didesnė dalis Livonijos tapo Lietuvos dalimi

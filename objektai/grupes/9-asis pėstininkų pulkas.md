@@ -73,6 +73,8 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
 ## Citatos
 
 - id: c-44714
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Susidarė pavo-
     jinga padėtis, lenkams pasiekus savo puo-

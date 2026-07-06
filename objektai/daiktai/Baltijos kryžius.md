@@ -85,6 +85,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44640
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 190, Baltijos kryžius, teiktas pasižymėjusiems bermontininkams - vokiečiams.
     http://sammler.ru/uploads/post-622-1333798270.jpg

@@ -118,6 +118,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 ## Citatos
 
 - id: c-24032
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Laikinoji vyriausybė manė
     turėsianti reikalą su žinomu 1918 m. Vokietijos okupaciniu režimu ir
@@ -136,6 +138,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     - t-21334
 
 - id: c-166784
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vokietijos okupaciniu režimu ir
     galėsianti manevruoti, kaip tai darė Lietuvos Taryba, nesuvokdama, jog

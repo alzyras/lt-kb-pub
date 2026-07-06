@@ -94,6 +94,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62536
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie prūsų, mokančių vokiečių kalbą, niekšiškumą
 

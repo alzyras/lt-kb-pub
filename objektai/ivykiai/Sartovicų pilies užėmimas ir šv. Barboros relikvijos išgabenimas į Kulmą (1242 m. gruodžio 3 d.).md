@@ -216,6 +216,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-85357
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Štai dėl to broliai, šitai matydami  ir dėl to būgštaudami, ryžosi verčiau žūti kovoje,
     nei regėti šitokias nelaimes, užgriuvusias jų tautą bei šventuosius. Vienas jų, būtent
@@ -241,6 +243,8 @@ Nenurodyta
     - t-89398
 
 - id: c-85358
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
     išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
@@ -257,6 +261,8 @@ Nenurodyta
     - t-89400
 
 - id: c-85359
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     kad jos relikvijas nusineštumėte  į Prūsijos žemę, o ten jas užlaikytumėte didesnėje
     pagarboje nei čia“. Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
@@ -272,6 +278,8 @@ Nenurodyta
     - t-89401
 
 - id: c-85361
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą
     pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,

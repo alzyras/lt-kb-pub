@@ -109,6 +109,8 @@ Dusburgietis teigia, kad gardolfas sušakosiąs ir ateityje duosiąs gausybę va
 ## Citatos
 
 - id: c-60914
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

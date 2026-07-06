@@ -231,6 +231,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63545
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
     rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
@@ -250,6 +252,8 @@ Nenurodyta
     - t-194380
 
 - id: c-63546
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šis  į tai
     tarė: „Grįžkite namo, tačiau būkite pasirengę kovai, gal jie išsigąs, matydami, jog esate
@@ -268,6 +272,8 @@ Nenurodyta
     - t-62758
 
 - id: c-63547
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Todėl magistras įsakė
     kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
@@ -288,6 +294,8 @@ Nenurodyta
     - t-62759
 
 - id: c-63548
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Brolis Henrikas visa
     tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė  į Lietuvos žemę žvalgus,

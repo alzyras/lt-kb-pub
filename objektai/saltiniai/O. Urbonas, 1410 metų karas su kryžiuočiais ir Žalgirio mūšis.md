@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33678
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Zu einem Buch von Stefan M. Kuczyński_ , ZfO, t. 22,
     1973, 475-486 p. — Stavenhagen, O. : _Livland und die Schlacht bei

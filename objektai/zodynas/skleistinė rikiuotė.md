@@ -58,6 +58,8 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
 ## Citatos
 
 - id: c-40580
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Linijinei taktikai netikdavo bet kokia vietovė, ji turėjo būti gan
     lygi. Pėstininkams judant skleistinėse rikiuotėse miškinga arba rai-

@@ -170,6 +170,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172533
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
     duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
@@ -186,6 +188,8 @@ Nenurodyta
     - t-189650
 
 - id: c-172535
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
@@ -201,6 +205,8 @@ Nenurodyta
     - t-189652
 
 - id: c-177018
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tas žmogus pabėgo į užsienį, ir bran­
     gios senovės liekanos nežinia kur dingo. Moneta sveria beveik

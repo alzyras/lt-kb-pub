@@ -466,6 +466,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 ## Citatos
 
 - id: c-22709
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gavusi naujo Vo-
     kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
@@ -488,6 +490,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-78433
 
 - id: c-22710
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
@@ -506,6 +510,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-78436
 
 - id: c-22712
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
     po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė
@@ -525,6 +531,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-78432
 
 - id: c-22713
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius
     pagal to meto demografinę padėtį pasirodė esąs lenkiškas miestas, kurio
@@ -543,6 +551,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-78435
 
 - id: c-22714
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
@@ -558,6 +568,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-78427
 
 - id: c-22715
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Galutiniu produktu turėjo tapti homo sovieticus – as-
     muo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žino-
@@ -578,6 +590,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-78430
 
 - id: c-22716
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dė-
     koti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo
@@ -603,6 +617,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-193560
 
 - id: c-166563
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
     kija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą
@@ -620,6 +636,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-78429
 
 - id: c-166564
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos

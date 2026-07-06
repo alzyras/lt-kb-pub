@@ -80,6 +80,8 @@ Diebietsho korpusas.
 ## Citatos
 
 - id: c-44398
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jiems buvo
     mokama gera alga, pergalės atveju žadama duoti žemės

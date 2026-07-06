@@ -72,6 +72,8 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
 ## Citatos
 
 - id: c-64216
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     4. Apie viešąją krikščionių atgailą
 

@@ -67,6 +67,8 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
 ## Citatos
 
 - id: c-174674
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
     I.

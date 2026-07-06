@@ -1071,6 +1071,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
 ## Citatos
 
 - id: c-173198
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     E Noelis mano, kad Kabi­
     rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
@@ -1086,6 +1088,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190315
 
 - id: c-173199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
     to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
@@ -1108,6 +1112,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190316
 
 - id: c-173200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ant laidotuvių laužo su miru­
     siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
@@ -1123,6 +1129,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190317
 
 - id: c-173586
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pirmykštėje žmonių visuomenėje tautos sun­
     kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
@@ -1141,6 +1149,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190704
 
 - id: c-173587
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     53
 
@@ -1167,6 +1177,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190705
 
 - id: c-173588
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     34
     Skitijos geografija. Skitų įpročius, papročius ir religi­
@@ -1185,6 +1197,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190706
 
 - id: c-173589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Si upė šiaurės vakaruose ribojo gerų
     dykumas su nežinomais kraštais ir plaukė per skitų—
@@ -1201,6 +1215,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190707
 
 - id: c-173590
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Manoma, kad šis pavadinimas atsirado ne iš
     itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
@@ -1219,6 +1235,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190708
 
 - id: c-173591
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pirmosios jų gyvenvietės turėjo būti Očekovo miesto apy­
     linkėse, nes kažkur ten buvo Gelono miestas. Herodotas
@@ -1239,6 +1257,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190709
 
 - id: c-173592
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     66
     Gelonų-budinų respublika, kaip anksčiau rašėme (§
@@ -1257,6 +1277,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190710
 
 - id: c-173594
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plinijus surinkęs liudijimų,
     kad gintaras vaidinęs svarbų vaidmenį senovės moterų
@@ -1273,6 +1295,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190712
 
 - id: c-173595
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     *  *  *
     II skyrius
@@ -1294,6 +1318,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190713
 
 - id: c-173596
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1 šį klausimą sunku atsakyti. Tik viena yra tikra, jog,
     anot Herodoto, Arimą skitiskai reiškė skaitvardį „vie­
@@ -1311,6 +1337,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190714
 
 - id: c-173597
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Niekas iš
     gerai pažintų dalykų neatitinka labiau tikrovės už mūsų
@@ -1329,6 +1357,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190715
 
 - id: c-173598
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Savo ruožtu graikų boristeniečių prekybiniai santy­
     kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno
@@ -1346,6 +1376,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190716
 
 - id: c-173599
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai buvo karingi medžiokliai skitai“1.
     Herodotas rašo (IV knyga), kad prie Molocho van­
@@ -1369,6 +1401,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190717
 
 - id: c-173600
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     374
 
@@ -1391,6 +1425,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190718
 
 - id: c-173601
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai plačiau paaiškins
     dalykus, kurių kontūrus paliko Herodotas.
@@ -1409,6 +1445,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190719
 
 - id: c-173602
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Herodoto aprašymuose yra ne­
     mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­
@@ -1429,6 +1467,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190720
 
 - id: c-173603
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būtent ši priežastis daro
     mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
@@ -1451,6 +1491,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190721
 
 - id: c-173604
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pasak tolesnių He-
     rodoto' pasakojimų4, budinai yra didelė ir gausi tauta, jie
@@ -1469,6 +1511,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-190722
 
 - id: c-175313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš čia persų
     karalius pradėjo traukti atgal.
@@ -1492,6 +1536,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-192525
 
 - id: c-177274
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Štai kaip P. J. Safar­
     žykas apibūdino T. Narbuto pamėgtuosius budinus: ,,<...>
@@ -1512,6 +1558,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - t-194878
 
 - id: c-177275
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     2 Trans I strum regio est castra inhabit aia, ut aiunt, a Ziginis (la ­
     zi gis) qui ueste eudem, qua Medi, utuntur. (Anapus Istros yra tvirtovė,

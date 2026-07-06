@@ -129,6 +129,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173936
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jau II po Kristaus gimimo šimtmetyje vilkų tauta mi­
     nima rašytinėse istorijose. Ji vaizduojama tokia, kokią
@@ -147,6 +149,8 @@ Nenurodyta
     - t-191054
 
 - id: c-173937
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau tai įvyko ne iš
     karto, bet pamažu, priešistoriniais laikais ir truko labai

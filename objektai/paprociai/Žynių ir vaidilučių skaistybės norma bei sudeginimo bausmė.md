@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172852
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visokios pastabos ir istorijos liudijimai teikia žinių, kad
     lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­

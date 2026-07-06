@@ -257,6 +257,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Citatos
 
 - id: c-68624
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nemažai stribų
     buvo abejotinos moralės
@@ -284,6 +286,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-69241
 
 - id: c-68625
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Liepos 10–17 dieną pirmųjų
     masinių areštų metu įkalinti žinomi nepriklausomos Lietuvos politikos
@@ -301,6 +305,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-69240
 
 - id: c-68626
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tad lietuvių inteligentija
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
@@ -313,6 +319,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-69238
 
 - id: c-68627
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi
@@ -330,6 +338,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-69239
 
 - id: c-167027
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dislo-
     kuoti visuose valsčiuo-

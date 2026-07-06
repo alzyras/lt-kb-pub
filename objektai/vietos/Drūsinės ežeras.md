@@ -124,6 +124,8 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
 ## Citatos
 
 - id: c-175585
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai pa­
     minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
@@ -143,6 +145,8 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     - t-192815
 
 - id: c-175586
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pietuose, Christ-
     347

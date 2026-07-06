@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62868
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kimelio pilies sunaikinimą 1296 metais
 

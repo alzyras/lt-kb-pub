@@ -78,6 +78,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
 ## Citatos
 
 - id: c-59795
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     41. Apie vieną stebuklą
 

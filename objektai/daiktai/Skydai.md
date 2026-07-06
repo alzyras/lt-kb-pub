@@ -180,6 +180,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174923
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
@@ -197,6 +199,8 @@ Nenurodyta
     - t-192052
 
 - id: c-174924
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
     matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
@@ -216,6 +220,8 @@ Nenurodyta
     - t-192053
 
 - id: c-175295
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

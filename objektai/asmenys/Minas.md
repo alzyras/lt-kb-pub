@@ -70,6 +70,8 @@ Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines
 ## Citatos
 
 - id: c-173068
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,

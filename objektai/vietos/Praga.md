@@ -314,6 +314,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 ## Citatos
 
 - id: c-32350
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     J. Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale
     «Grossfürst Witold als Staatsmann» (lietuv. Jurgio Talmanto
@@ -327,6 +329,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-71959
 
 - id: c-32351
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kadangi Būtauto kėslai pačioje
     Lietuvoje pritarimo nerado, jis ordinui tapo nebereikalingas. Ilgą
@@ -344,6 +348,9 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-71956
 
 - id: c-37655
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Iš pra­
     džių tai nebuvo tiek žymu, bet vėliau lenkišką kunigų politiką
@@ -362,6 +369,9 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-71962
 
 - id: c-37656
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Be abejo, Vytautui susiartinus su Praga, pa­
     darius su ja uniją, apsikarūnavus jos karaliaus karūna, Lenkija
@@ -379,6 +389,9 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-71958
 
 - id: c-37657
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ši
     aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai
@@ -396,6 +409,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-71960
 
 - id: c-166467
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-
     mųjų sričių ir, be to, tik turtingesnieji bajorai. Iš tolimosios Lietu-

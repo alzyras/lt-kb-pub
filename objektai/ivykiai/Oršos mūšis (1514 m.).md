@@ -190,6 +190,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11890
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
     doti Vilniuje. Čia, valdovui grįžus, įvyko
@@ -208,6 +210,8 @@ Nenurodyta
     - t-54179
 
 - id: c-11891
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po mūšio pasikeitė karo eiga.
     Išgirdęs apie pralaimėjimą,
@@ -225,6 +229,8 @@ Nenurodyta
     - t-54180
 
 - id: c-55111
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Propagandos kampanija po mūšio leido
     Žygimantui spręsti tarptautinius klausi-

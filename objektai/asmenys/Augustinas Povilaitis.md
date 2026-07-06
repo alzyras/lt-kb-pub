@@ -67,6 +67,8 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
 ## Citatos
 
 - id: c-20475
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais,
     nesama karine antisovietine sąjunga su Latvija ir Estija, užkliuvo antiso-

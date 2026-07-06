@@ -87,6 +87,8 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 ## Citatos
 
 - id: c-61018
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
     varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,

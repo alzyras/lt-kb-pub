@@ -461,6 +461,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 ## Citatos
 
 - id: c-55524
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
     darbams naudotų. Tad šių, mūsų valdų, ir dvarų, taip pat
@@ -485,6 +487,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     - t-54980
 
 - id: c-55525
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prašome jų didenybių rnūsų
     seserų, kad nesiteiktų mūsų bloguoju minėti, kad perspėjo-
@@ -535,6 +539,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     - t-54981
 
 - id: c-55526
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Onos baž­
     nyčiai, pirmiau paminėtai, taipgi ir auksinė karūna, esanti
@@ -554,6 +560,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     - t-54982
 
 - id: c-55527
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA// TOMAS
     karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o
@@ -597,6 +605,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     - t-54983
 
 - id: c-55528
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kad klebonija ir
     mansionieriai būtų aprūpinti gera ir garbinga fundacija, kad
@@ -618,6 +628,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     - t-54984
 
 - id: c-55530
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IV KNYGA
     nai, Švedijos karalienei, sumokėti ir aukščiau paminėtam
@@ -646,6 +658,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     - t-54986
 
 - id: c-79102
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
     me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip

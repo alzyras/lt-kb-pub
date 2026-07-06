@@ -118,6 +118,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169918
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tais pačiais metais Lietuvos žemę ištiko baisus ba­
     das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,

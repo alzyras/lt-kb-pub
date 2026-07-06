@@ -79,6 +79,8 @@ Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaik�
 ## Citatos
 
 - id: c-83852
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mirė 1507 metais.
     11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos

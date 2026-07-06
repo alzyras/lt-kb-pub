@@ -83,6 +83,8 @@ Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys 
 ## Citatos
 
 - id: c-169690
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Aleksandras kol kas laikėsi nuomonės,
     559

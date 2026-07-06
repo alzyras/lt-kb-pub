@@ -204,6 +204,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 ## Citatos
 
 - id: c-174075
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai, jog alanai taip pat
     buvo vadinami asais, o rusų — ¡asais, osáis, osetinais, kurių palikuo­
@@ -222,6 +224,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - t-191193
 
 - id: c-174078
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pats se­
     niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
@@ -239,6 +243,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - t-191196
 
 - id: c-174862
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Galbūt todėl, kad ir bu-
     dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
@@ -262,6 +268,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - t-191980
 
 - id: c-177316
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok­
     ti, — tas kalnas turėtų būti Minsko gubernijojell! Sis kruopštus sla­

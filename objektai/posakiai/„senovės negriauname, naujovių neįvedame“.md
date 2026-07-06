@@ -190,6 +190,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 ## Citatos
 
 - id: c-169754
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Net dinastinės
     vedybos vykdavo tiesioginiu kariniu spaudimu.
@@ -208,6 +210,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - t-186413
 
 - id: c-169755
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Florencijoje). LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
@@ -224,6 +228,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - t-186417
 
 - id: c-169756
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
     Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“

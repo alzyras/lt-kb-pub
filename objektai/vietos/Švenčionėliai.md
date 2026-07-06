@@ -109,6 +109,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 ## Citatos
 
 - id: c-45475
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     @ Spalio 8 d. Želigovskis pradeda puolimą. Du 4-ojo pėst. p. (3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau
 
@@ -123,6 +125,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     - t-42385
 
 - id: c-45476
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     jau E. Adamkavičiaus vado-
     vaujama 1-oji divizija spalio

@@ -140,6 +140,8 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 ## Citatos
 
 - id: c-60714
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     149 (144). Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
 
@@ -157,6 +159,8 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     - t-60083
 
 - id: c-60715
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolį Anoną, septintą Teutonų namų ordino didįjį magistrą
 

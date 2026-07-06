@@ -83,6 +83,8 @@ Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių
 ## Citatos
 
 - id: c-171984
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     42 pav. Senovės prūsų herbas
     470

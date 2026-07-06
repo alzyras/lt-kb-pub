@@ -85,6 +85,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 ## Citatos
 
 - id: c-83814
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
     I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o

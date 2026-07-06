@@ -78,6 +78,8 @@ Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvi
 ## Citatos
 
 - id: c-172377
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mes gi apie tai nieko negalime pasakyti*.
     362

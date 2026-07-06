@@ -80,6 +80,9 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
 ## Citatos
 
 - id: c-13829
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tokių istorijos
     šaltinių įvairiais vardais vadinamų valdovų būta labai daug.

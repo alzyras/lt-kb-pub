@@ -132,6 +132,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172678
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taigi nuo 1837 metų T. Narbutas galėjo toliau tęsti pradė­
     tą darbą, jau turėdamas pagrįstą viltį, kad LTI bus išspausdin­
@@ -147,6 +149,8 @@ Nenurodyta
     - t-189795
 
 - id: c-172679
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kaip rodo reklaminio skelbimo tekstas, jo autorius nėra
     vien prekiautojas, kuriam svarbu tik įsiūlyti savo prekę. A. Mar­

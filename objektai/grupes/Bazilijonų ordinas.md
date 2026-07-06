@@ -210,6 +210,8 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
 ## Citatos
 
 - id: c-171057
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Daug geriau buvo sutvarkytas
     unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
@@ -226,6 +228,8 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-188014
 
 - id: c-171058
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1822. Mamoničių namai sto­
     vėjo, rodos, toje vietoje, kur dabar Sle-
@@ -242,6 +246,8 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-188016
 
 - id: c-171059
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mamoničių namai sto­
     vėjo, rodos, toje vietoje, kur dabar Sle-
@@ -261,6 +267,8 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-188015
 
 - id: c-171060
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Beveik tuo
     pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką
@@ -277,6 +285,8 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-188018
 
 - id: c-171061
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vilniuje šie turėjo net savą, popiežiaus iš-
     laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-

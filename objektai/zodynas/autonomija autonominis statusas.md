@@ -227,6 +227,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 ## Citatos
 
 - id: c-69194
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šie momentai
     leis Lietuvai reikalauti tos teritorijos, kai tik Lietuva bus pripažinta kaip
@@ -244,6 +246,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-70093
 
 - id: c-69195
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Abi šalys sutarė priimti tą planą kaip „bazę
     diskusijom“. 1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją,
@@ -259,6 +263,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-70096
 
 - id: c-69196
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
     padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
@@ -276,6 +282,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-70094
 
 - id: c-69197
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tikėtiniau, kad kantoninė
     Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto
@@ -293,6 +301,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-70095
 
 - id: c-166793
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Neabejotina, kad lenkų ir lietuvių liberalai būtų sutarę, tačiau kaip būtų
     sugyvenę Vilniaus regione lenkų ir lietuvių nacionalizmai? Ar Varšuva

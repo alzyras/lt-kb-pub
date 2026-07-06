@@ -77,6 +77,8 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
 ## Citatos
 
 - id: c-84484
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­
     odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti

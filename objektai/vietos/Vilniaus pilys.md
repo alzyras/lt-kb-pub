@@ -253,6 +253,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-81946
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     T. VII, p. 370-374. Re­
     gis, iš jo kilusi Hanulu giminė, kurių
@@ -277,6 +279,8 @@ media_all_json: |-
     - t-85969
 
 - id: c-81947
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
     tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
@@ -295,6 +299,8 @@ media_all_json: |-
     - t-85967
 
 - id: c-81948
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
     silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­
@@ -311,6 +317,8 @@ media_all_json: |-
     - t-85968
 
 - id: c-81949
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     263
 
@@ -335,6 +343,8 @@ media_all_json: |-
     - t-85965
 
 - id: c-81950
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
     tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,

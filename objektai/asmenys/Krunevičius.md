@@ -179,6 +179,8 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
 ## Citatos
 
 - id: c-173059
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
     jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
@@ -196,6 +198,8 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
     - t-190176
 
 - id: c-173060
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mū­
     sų heraldikos specialistus lenkus visuomet užgula didelis rū­
@@ -219,6 +223,8 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
     - t-190177
 
 - id: c-173795
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.

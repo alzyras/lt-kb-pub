@@ -111,6 +111,8 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
 ## Citatos
 
 - id: c-56474
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Taip pat ir lietuviams prisikelti ir savam
     atskiram tautiniam pašaukimui įsisąmoninti daug yra prisidėjęs

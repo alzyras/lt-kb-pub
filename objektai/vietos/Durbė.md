@@ -285,6 +285,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24114
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
@@ -302,6 +304,8 @@ media_all_json: |-
     - t-67867
 
 - id: c-43424
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
     vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
@@ -318,6 +322,8 @@ media_all_json: |-
     - t-67866
 
 - id: c-43425
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš Dobės (šiaurėje),
     Klaipėdos (vakaruose) ir Georgenburgo
@@ -344,6 +350,8 @@ media_all_json: |-
     - t-67868
 
 - id: c-43426
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvių pajėgos
 

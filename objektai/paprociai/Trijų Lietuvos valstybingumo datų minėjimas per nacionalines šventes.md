@@ -209,6 +209,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12431
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tačiau svar-
     biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
@@ -231,6 +233,8 @@ Nenurodyta
     - t-78726
 
 - id: c-43178
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir
     gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesi-

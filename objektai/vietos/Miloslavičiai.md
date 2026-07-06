@@ -120,6 +120,8 @@ Skirgaila nujojęs į Miloslavičius ten susirgo.
 ## Citatos
 
 - id: c-170317
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kai
     kunigaikštis Skirgaila panoro joti už Dnepro medžioti,
@@ -138,6 +140,8 @@ Skirgaila nujojęs į Miloslavičius ten susirgo.
     - t-187261
 
 - id: c-170562
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O
     kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas

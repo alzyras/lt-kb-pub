@@ -148,6 +148,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75200
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     68
@@ -167,6 +169,8 @@ Nenurodyta
     - t-77884
 
 - id: c-75201
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
     vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-

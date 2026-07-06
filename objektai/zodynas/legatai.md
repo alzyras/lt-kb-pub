@@ -111,6 +111,8 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
 ## Citatos
 
 - id: c-168780
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Va­
     žis

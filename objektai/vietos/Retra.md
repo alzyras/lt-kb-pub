@@ -74,6 +74,8 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
 ## Citatos
 
 - id: c-171855
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
     dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­

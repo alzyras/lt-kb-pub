@@ -72,6 +72,8 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
 ## Citatos
 
 - id: c-177321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Si sutartis buvo pasirašyta Trošine 1260 metų
     birželio 15 dieną1.

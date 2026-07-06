@@ -70,6 +70,8 @@ Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į s
 ## Citatos
 
 - id: c-172945
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi

@@ -134,6 +134,8 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 ## Citatos
 
 - id: c-48034
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1808 m. Varšuvoje Mokslo bičiulių drau-
 

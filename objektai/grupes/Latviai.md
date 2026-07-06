@@ -1726,6 +1726,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 ## Citatos
 
 - id: c-31151
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
     ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
@@ -1746,6 +1748,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-169592
 
 - id: c-154290
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Latvių ten atliktas asimiliacijos
     faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių
@@ -1763,6 +1767,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-169588
 
 - id: c-154292
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vėliau,
     I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
@@ -1778,6 +1784,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-169586
 
 - id: c-154293
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
@@ -1796,6 +1804,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-169591
 
 - id: c-154294
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
@@ -1821,6 +1831,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-169585
 
 - id: c-154296
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsai ir Lietuva
 
@@ -1841,6 +1853,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-169587
 
 - id: c-167877
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
     93
@@ -1871,6 +1885,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-184516
 
 - id: c-171115
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tautų neapykanta
     yra senų pirmykščių laikų palikimas.
@@ -1888,6 +1904,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188221
 
 - id: c-171116
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
     veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
@@ -1903,6 +1921,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188222
 
 - id: c-171117
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     28 Ponas Adomas Borovskis*.
     1
@@ -1919,6 +1939,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188223
 
 - id: c-171118
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -1936,6 +1958,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188224
 
 - id: c-171119
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nuženk iš dangaus, pasigailėk)
     Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­
@@ -1953,6 +1977,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188225
 
 - id: c-171120
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
     10 Rėza. Dainos.
@@ -1971,6 +1997,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188226
 
 - id: c-171121
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -1985,6 +2013,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188227
 
 - id: c-171122
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     „Tiek visos senovės tautos, tiek lietuviai tikėjo sapnais; to­
     dėl ne stebuklas, kad tas tikėjimas išlikęs iki šiol. Tačiau latvių
@@ -1999,6 +2029,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188228
 
 - id: c-171123
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mėšlų boba (Mahslu Baba)
     Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­
@@ -2015,6 +2047,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188229
 
 - id: c-171124
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Austėja (Austheja)
     Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
@@ -2032,6 +2066,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188230
 
 - id: c-171125
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žemės motina (Žemines Mahti)
     Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors
@@ -2051,6 +2087,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188231
 
 - id: c-171126
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Datonas (Datonus)
     Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
@@ -2065,6 +2103,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188232
 
 - id: c-171127
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Girystis (Giristis)
     Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
@@ -2080,6 +2120,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188233
 
 - id: c-171128
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Juodas (Johds)
     Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­
@@ -2094,6 +2136,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188234
 
 - id: c-171129
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
     kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
@@ -2111,6 +2155,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188235
 
 - id: c-171130
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
     pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
@@ -2128,6 +2174,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188236
 
 - id: c-171131
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Latviai vadina lapę kapsu Kuhmina -  lapė kūma, Wilks
     snohts (gal veikiausvohts) -  vilkas svainis (piršlys. -R. J.). Žmo­
@@ -2141,6 +2189,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188237
 
 - id: c-171132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Murgiai (Murgi)
     Šitaip latviai vadino žuvusių karuose už tėvynę didvyrių
@@ -2155,6 +2205,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188238
 
 - id: c-171133
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.
     Paprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar
@@ -2170,6 +2222,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188239
 
 - id: c-171134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O jų sugebėjimai ir išmonė, tamsių žmonių aki­
     mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
@@ -2186,6 +2240,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188240
 
 - id: c-171135
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lat­
     vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
@@ -2201,6 +2257,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188241
 
 - id: c-171136
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuo klausimu išsamiai įtikina Cac-
     kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
@@ -2216,6 +2274,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188242
 
 - id: c-171137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     VI
     skyrius
@@ -2246,6 +2306,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188243
 
 - id: c-171138
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvoje pilkapiai randami labai retai, dažnai sly­
     pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
@@ -2262,6 +2324,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188244
 
 - id: c-171139
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tito tarpu
     Žemaitijoje, kuri yra penkiasdešimt romėniškų mylių ilgio, ir Lie­
@@ -2280,6 +2344,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-188245
 
 - id: c-175213
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi labai
     tikėtina, jog ji lietuvių žemes padalijo į dvi dalis nuo
@@ -2303,6 +2369,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-192419
 
 - id: c-175214
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Trumpiausiai į tai atsakome pateikdami Kuršo pa­
     mokslininko ir latvių gramatikos autoriaus Stenderio žo­
@@ -2323,6 +2391,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-192420
 
 - id: c-175215
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     283
     Latgala, Letgola. Infliantų, arba Livonijos, Latvija

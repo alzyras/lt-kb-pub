@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169139
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     N e tru k u s staig a k ilę šalčiai p riv e rtė  n u g alėto ju s p a ­
     su k ti į žiem os stovyklas.
@@ -146,6 +148,8 @@ Nenurodyta
     - t-185778
 
 - id: c-176092
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lenkai,
     baisiai n u k am u o ti ilg ų  ir su n k ių  k a rų  su kryžiuočiais,

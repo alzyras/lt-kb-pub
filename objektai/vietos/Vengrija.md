@@ -913,6 +913,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-164347
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį
@@ -930,6 +932,8 @@ media_all_json: |-
     - t-180762
 
 - id: c-164348
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
 
@@ -948,6 +952,8 @@ media_all_json: |-
     - t-180773
 
 - id: c-164349
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
     lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
@@ -964,6 +970,8 @@ media_all_json: |-
     - t-180766
 
 - id: c-164351
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagaliau laimėjo lietuviai
     ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
@@ -983,6 +991,8 @@ media_all_json: |-
     - t-180763
 
 - id: c-164352
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi,
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
@@ -1001,6 +1011,8 @@ media_all_json: |-
     - t-180775
 
 - id: c-164354
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     22. Apie Vengrijos ir Lenkijos nusiaubimą
 
@@ -1013,6 +1025,8 @@ media_all_json: |-
     - t-180767
 
 - id: c-164355
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ten jų reikėjo daugybės ir visokių. Alavas ir varis iš
     Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
@@ -1029,6 +1043,8 @@ media_all_json: |-
     - t-180774
 
 - id: c-164356
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vėliau jo pamaldumą pripažino
     Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
@@ -1052,6 +1068,8 @@ media_all_json: |-
     - t-180769
 
 - id: c-168534
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atvykęs į Lenkiją, jis sukvie-
     Išsiskiisto Lucko su-
@@ -1074,6 +1092,8 @@ media_all_json: |-
     - t-185173
 
 - id: c-168535
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be to, jis puikiai atsi­
     minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
@@ -1091,6 +1111,8 @@ media_all_json: |-
     - t-185174
 
 - id: c-168536
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau Vladislovas tuojau pat po
     pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
@@ -1109,6 +1131,8 @@ media_all_json: |-
     - t-185175
 
 - id: c-175539
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat pavyko rasti prie
     Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
@@ -1126,6 +1150,8 @@ media_all_json: |-
     - t-192769
 
 - id: c-175980
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lietuvos vidaus gyvenimas Stepono Batoro laikais
     Tikybiniai santykiai.** Nors Stepono Batoro tėvynėje, Veng-

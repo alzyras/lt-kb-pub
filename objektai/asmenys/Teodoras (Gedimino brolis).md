@@ -77,6 +77,8 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 ## Citatos
 
 - id: c-32805
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Visos Rusi­
     jos metropolito, graiko Teognosto kanceliarijos užrašai parodo, jog

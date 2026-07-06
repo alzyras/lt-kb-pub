@@ -131,6 +131,8 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 ## Citatos
 
 - id: c-31263
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Centre tarp lietuvių ir lenkų (kariuomenės
     kairiojo sparno) pasilikusieji Smolensko pulkai, kuriems vadovavo
@@ -144,6 +146,8 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     - t-81608
 
 - id: c-78199
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     (Iš originalo Karaliaučiaus Slaptajame Archyve)
     Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande

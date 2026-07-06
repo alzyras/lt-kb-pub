@@ -119,6 +119,8 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 ## Citatos
 
 - id: c-11147
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šaltiniuose pabrė-
     žiama Algirdo netikėto puolimo strategija.
@@ -141,6 +143,8 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     - t-08845
 
 - id: c-11148
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
     niai šaltiniai: žinios xv a. pirmosios pusės

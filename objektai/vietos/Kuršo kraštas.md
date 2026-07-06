@@ -69,6 +69,8 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
 ## Citatos
 
 - id: c-171843
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
     mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-

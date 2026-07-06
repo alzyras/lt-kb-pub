@@ -85,6 +85,8 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
 ## Citatos
 
 - id: c-33663
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Filosofijos skyrių (1929) ir su kelių metų pertrauka Kauno aukš­
     tesnėse mokyklose nuo 1929 m. dėstęs istoriją, jis vis intensyviai

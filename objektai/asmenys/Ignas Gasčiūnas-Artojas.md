@@ -60,6 +60,8 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
 ## Citatos
 
 - id: c-41341
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuojau pat
     į kautynes įsitraukė ir Žaliosios rinktinės

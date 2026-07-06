@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168998
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     5 64
 
@@ -156,6 +158,8 @@ Nenurodyta
     - t-185637
 
 - id: c-168999
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kariuo­
     menę vesti įpareigojo Joną Baltąjį, Žemaitijos vyriau­

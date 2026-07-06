@@ -86,6 +86,8 @@ Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu
 ## Citatos
 
 - id: c-59759
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį
 

@@ -80,6 +80,8 @@ Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešp
 ## Citatos
 
 - id: c-60976
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
 

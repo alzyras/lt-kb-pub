@@ -74,6 +74,8 @@ Dusburgietis teigia, kad włodarski В.
 ## Citatos
 
 - id: c-61454
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich.— Zapiski historyczne,
     Toruń, 1959, t. 14, z. 2—3, s. 7 35.

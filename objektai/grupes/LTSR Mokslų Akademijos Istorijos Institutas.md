@@ -81,6 +81,8 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 ## Citatos
 
 - id: c-33300
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     E. Danilaitė domėjosi brūkšniuotąja keramika
     Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;

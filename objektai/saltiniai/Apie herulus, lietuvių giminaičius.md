@@ -77,6 +77,8 @@ Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomen
 ## Citatos
 
 - id: c-174709
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Būrys, eidamas priešinga kryptimi,
     dar syki susidūrė su kitu longobardų būriu, ketinusiu

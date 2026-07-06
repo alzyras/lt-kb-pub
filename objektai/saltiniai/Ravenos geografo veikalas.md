@@ -75,6 +75,8 @@ Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad aga
 ## Citatos
 
 - id: c-174690
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Laikui bėgant, kai pastarieji paju­
     dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-

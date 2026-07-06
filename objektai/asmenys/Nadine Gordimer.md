@@ -127,6 +127,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-95139
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nobelio premijos laureatu bio-
     chemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas,

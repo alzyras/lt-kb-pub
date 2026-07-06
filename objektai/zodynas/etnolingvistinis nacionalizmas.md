@@ -72,6 +72,8 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
 ## Citatos
 
 - id: c-24823
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po revoliucijos, nelikus galimybių siekti Lietuvos politinės autonomi-
     jos, lietuvių, beje, kaip ir lenkų veikėjai daugiausia dėmesio skyrė kultū-

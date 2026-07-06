@@ -82,6 +82,8 @@ Tai buvo vergai.
 ## Citatos
 
 - id: c-166386
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tai buvo vergai. Vergais paprastai būdavo karo belaisviai
     ir jų šeimos. Jie neturėjo jokios laisvės ir turėjo dirbti bajoro

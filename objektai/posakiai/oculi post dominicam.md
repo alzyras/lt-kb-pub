@@ -87,6 +87,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82847
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     29
     D o g i e 1 Codex Diplomat. T. V, p. 80.

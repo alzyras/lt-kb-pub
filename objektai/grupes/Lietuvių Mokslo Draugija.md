@@ -210,6 +210,8 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 ## Citatos
 
 - id: c-22528
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-
     čiau jų vertė buvo labai menka. Tai buvo visokios naivios isto-
@@ -229,6 +231,8 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - t-74632
 
 - id: c-22529
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1913 m. į Ameriką atvyko dr. J. Basanavičius ir M.
     Yčas, kurie surinko apie 25.000 dolerių Tautos Namams Vil-
@@ -245,6 +249,8 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - t-74632
 
 - id: c-72676
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Be to, etnografi-
     nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
@@ -265,6 +271,8 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - t-74631
 
 - id: c-72677
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Abi draugijos daug dėmesio skyrė
     praeičiai, LDK paveldui, bet Lie-

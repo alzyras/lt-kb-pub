@@ -208,6 +208,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 ## Citatos
 
 - id: c-11237
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Stovykloje šovinius dirbam, blėkinėlėse kruopų košę verdam, valgome ir ilsimės. Sar-
     gyboje šūvis, antras, trečias. Atbėga sargybininkai. Einame į savo vietas poromis. Nuo
@@ -225,6 +227,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
     - t-78852
 
 - id: c-11238
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Antrą dieną per pusryčius vėl įvyko ataka nuo tos tankumyno pusės, kur pastatyti tokie
     šauliai, kurie būtų net ir lekiantį žvirblį nudėję, ne ik baimingai lendantį „kirilą“ Šauliams
@@ -241,6 +245,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
     - t-78851
 
 - id: c-43256
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
 
@@ -260,6 +266,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
     - t-78854
 
 - id: c-75984
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rusija, Tula, XIX a. antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
 

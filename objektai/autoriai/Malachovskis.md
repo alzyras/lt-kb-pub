@@ -72,6 +72,8 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
 ## Citatos
 
 - id: c-173323
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­

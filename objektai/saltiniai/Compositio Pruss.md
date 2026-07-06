@@ -64,6 +64,8 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
 ## Citatos
 
 - id: c-84391
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Viename MSS.
     tit. Compositio Pruss., p. 35, parašyta:

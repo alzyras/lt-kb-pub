@@ -68,6 +68,8 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 ## Citatos
 
 - id: c-23628
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:
     šventąsias girias, žalčius, šventąją ugnį. Pastatyta katedra, iškilmingai pa-

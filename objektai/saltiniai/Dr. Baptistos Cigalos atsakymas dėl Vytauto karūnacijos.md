@@ -109,6 +109,9 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 ## Citatos
 
 - id: c-38403
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Teisę karūnuot tetu­
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
@@ -126,6 +129,9 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     - t-36039
 
 - id: c-38404
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet Krokuvos profesoriai Romos karalių teisę kitų karū­
     nuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė

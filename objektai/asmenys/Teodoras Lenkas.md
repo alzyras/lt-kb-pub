@@ -82,6 +82,8 @@ Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirink
 ## Citatos
 
 - id: c-173129
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
     želio 21 dieną2.

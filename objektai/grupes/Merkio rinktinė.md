@@ -65,6 +65,8 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
 ## Citatos
 
 - id: c-176457
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugpjūtį jo
     vadovaujama kuopa buvo performuota į Merkinės

@@ -232,6 +232,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 ## Citatos
 
 - id: c-84098
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jei jie [se­
     noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­
@@ -261,6 +263,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - t-88120
 
 - id: c-84099
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
     kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
@@ -277,6 +281,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - t-88119
 
 - id: c-84100
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 77
 
@@ -304,6 +310,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - t-88122
 
 - id: c-84101
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
     vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­

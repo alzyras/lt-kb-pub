@@ -300,6 +300,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 ## Citatos
 
 - id: c-87099
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -325,6 +327,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - t-91390
 
 - id: c-87100
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     528 Žr. paaiškinimus D. III, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197—
     198. Skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Nemuno krante žemiau
@@ -339,6 +343,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - t-91387
 
 - id: c-87101
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Broliai
     jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
@@ -360,6 +366,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - t-91388
 
 - id: c-87103
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Skalvių pilies puolimą 1293
 
@@ -379,6 +387,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - t-91389
 
 - id: c-87104
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
                                      sudeginimą

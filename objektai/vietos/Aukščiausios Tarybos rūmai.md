@@ -136,6 +136,8 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
 ## Citatos
 
 - id: c-24049
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
     13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
@@ -152,6 +154,8 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
     - t-46508
 
 - id: c-49076
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
     Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka

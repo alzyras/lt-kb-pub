@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168931
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau tie patys rašytojai šį valdovą, tre­
     čiąjį po Palemono, arba Publijaus Libono, priskiria
@@ -159,6 +161,8 @@ Nenurodyta
     - t-185570
 
 - id: c-176083
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Galimas daiktas, alanai, arba herulai (kurie,
     istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­

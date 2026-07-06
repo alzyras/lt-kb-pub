@@ -102,6 +102,8 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
 ## Citatos
 
 - id: c-82838
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
     ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto

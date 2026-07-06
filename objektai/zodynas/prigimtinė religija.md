@@ -133,6 +133,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
     mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
@@ -149,6 +151,8 @@ Nenurodyta
     - t-187843
 
 - id: c-171395
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tolesnis mąstymo vystyma­
     sis sustiprino instinktą, arba vidinę nuojautą, dėl savo niekin­

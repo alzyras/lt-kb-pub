@@ -216,6 +216,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05001
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau
     pripažino, negu jie patys per paskutines derybas buvo užsiprašę,
@@ -232,6 +234,8 @@ Nenurodyta
     - t-179457
 
 - id: c-05002
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau
     apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo
@@ -244,6 +248,8 @@ Nenurodyta
     - t-179459
 
 - id: c-163156
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kilusius nesusipratimus turėjo spręsti
     drauge abiejų pusių atstovai.
@@ -261,6 +267,8 @@ Nenurodyta
     - t-179456
 
 - id: c-163157
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ordinas tačiau, tikėdamas atgauti prarastas pozicijas, neno­
     rėjo vykdyti susitarimų, juo labiau kad aiškų nepasitenkinimą

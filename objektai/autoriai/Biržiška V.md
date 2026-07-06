@@ -64,6 +64,8 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 ## Citatos
 
 - id: c-61310
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir
     žmonės, p. 7—41.

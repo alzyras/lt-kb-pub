@@ -226,6 +226,9 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 ## Citatos
 
 - id: c-79116
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nepavykęs Vorsklos mūšis kuriam laikui buvo
     sustabdęs šį Vytauto įsigalėjimą Rusų pietuose. Bet jau 1409
@@ -241,6 +244,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     - t-82653
 
 - id: c-79117
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -272,6 +277,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     - t-82655
 
 - id: c-176600
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mat, daug buvo
     Ordos didžiųjų chanų, tarnaujančių jo rūmuose. Ir
@@ -287,6 +294,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     - t-193975
 
 - id: c-176601
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O tas chanas,
     kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­

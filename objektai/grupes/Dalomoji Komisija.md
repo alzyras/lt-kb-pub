@@ -162,6 +162,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-70480
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, jėzuitai turėjo
     daug išskolintų kapitalų; Lietuvoje jų buvo išskolinta 2.438.339,
@@ -178,6 +180,8 @@ media_all_json: |-
     - t-72055
 
 - id: c-70482
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
     pinigų sunaudojimu. Visi buvusieji jėzuitų dvarai, seimo nu-
@@ -197,6 +201,8 @@ media_all_json: |-
     - t-72054
 
 - id: c-166290
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visi buvusieji jėzuitų dvarai, seimo nu-
     tarimu, buvo išnuomoti

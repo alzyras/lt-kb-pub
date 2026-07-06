@@ -69,6 +69,8 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
 ## Citatos
 
 - id: c-02593
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Šio dekreto paskelbimą paveikė aukštieji Rusų valdžios atstovai
     Lietuvoje. Negalėdami spaudos atšaukimo pasiekti per ministerius,

@@ -82,6 +82,8 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
 ## Citatos
 
 - id: c-61011
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
 

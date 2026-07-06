@@ -790,6 +790,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 ## Citatos
 
 - id: c-59404
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
     kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
@@ -809,6 +811,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58777
 
 - id: c-59405
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
@@ -825,6 +829,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58775
 
 - id: c-59406
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     299 (292). Apie tą patį
 
@@ -846,6 +852,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58783
 
 - id: c-59407
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     335 (328). Apie Junigedos ir Pieštvės papilių sudeginimą
 
@@ -866,6 +874,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58778
 
 - id: c-59408
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
     piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
@@ -879,6 +889,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58782
 
 - id: c-59409
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Gardino papilio sunaikinimą
 
@@ -904,6 +916,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-194458
 
 - id: c-59410
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
 
@@ -928,6 +942,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-194459
 
 - id: c-59411
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     319 (312). Apie Bisenės papilių sudeginimą 1313 metais
 
@@ -948,6 +964,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58772
 
 - id: c-59412
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
 
@@ -968,6 +986,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58773
 
 - id: c-59413
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     438 D.— Birgelow; dab. Bežglovas (Bierzglowo), gyvenvietė  į šiaurės vakarus nuo
     Torunės; mūrinė (vėlesnė) kryžiuočių pilis su papiliu atstatyta po 1277 m.
@@ -979,6 +999,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58774
 
 - id: c-59414
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Junigedos pilies papilių sudeginimą
 
@@ -1002,6 +1024,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-194457
 
 - id: c-59416
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą 1324 metais
 
@@ -1019,6 +1043,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58776
 
 - id: c-167394
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
     susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
@@ -1038,6 +1064,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-184009
 
 - id: c-167395
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
 
@@ -1054,6 +1082,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-184010
 
 - id: c-167994
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pridarė ten lietuviai daug siaubingų šventvagysčių
     krikščionių šventyklose, bjauriai išniekino šventuosius

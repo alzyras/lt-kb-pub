@@ -76,6 +76,8 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
 ## Citatos
 
 - id: c-174386
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Maždaug tuo metu, kai
     Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir

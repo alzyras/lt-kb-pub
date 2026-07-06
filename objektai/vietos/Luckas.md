@@ -1995,6 +1995,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 ## Citatos
 
 - id: c-24278
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Susi­
     tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
@@ -2008,6 +2010,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177664
 
 - id: c-24279
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vy­
     tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
@@ -2022,6 +2026,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177660
 
 - id: c-32203
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
     Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
@@ -2036,6 +2042,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177658
 
 - id: c-32204
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
@@ -2050,6 +2058,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177680
 
 - id: c-34241
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Netoliese nuo ten, būtent, Zaslavlyje (tarp
     Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
@@ -2065,6 +2075,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177655
 
 - id: c-34242
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
@@ -2078,6 +2090,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177677
 
 - id: c-37511
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
     1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
@@ -2095,6 +2110,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177649
 
 - id: c-37512
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     5 d. Ost­
     rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
@@ -2112,6 +2130,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177640
 
 - id: c-37516
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šiaip, kaip minėjom, labai paprastas ir neišlaidus privatiniame
     gyvenime, Vytautas nesigailėdavo jokių išlaidų, kad reikėdavo
@@ -2126,6 +2147,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177673
 
 - id: c-161499
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:
@@ -2140,6 +2163,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177679
 
 - id: c-161502
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame visiems,
     kam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­
@@ -2171,6 +2196,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177661
 
 - id: c-161503
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
     svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
@@ -2196,6 +2223,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177662
 
 - id: c-161504
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -2219,6 +2248,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177670
 
 - id: c-161506
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi politinis
     lietuvių elitas – stačiatikiškos kultūros užsakovai. Vakarinė LDK dalis –
@@ -2237,6 +2268,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177671
 
 - id: c-161507
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     226
 
@@ -2260,6 +2293,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177675
 
 - id: c-161510
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kadangi Jogaila
     į savo Vilniaus kunigaikštystę buvo atsiuntęs lenkų kariuomenės
@@ -2277,6 +2312,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177678
 
 - id: c-161512
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -2293,6 +2330,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177648
 
 - id: c-161513
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     situs sukiršino ir įdrąsino, jog jie, nepripažindami nei bažny­
     tinės nei pasaulinės valdžios ir linkdami prie komunizmo, grė­
@@ -2310,6 +2350,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177642
 
 - id: c-161515
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atrodė,
     jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
@@ -2338,6 +2380,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177672
 
 - id: c-161518
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     156
 
@@ -2361,6 +2405,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177668
 
 - id: c-161521
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
@@ -2385,6 +2431,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177652
 
 - id: c-161522
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
     sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
@@ -2401,6 +2449,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177666
 
 - id: c-161523
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 210
 
@@ -2428,6 +2478,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177681
 
 - id: c-161524
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
     ...........:... 1432 m.
@@ -2439,6 +2491,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177646
 
 - id: c-161525
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il KNYGA
     15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
@@ -2466,6 +2520,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-177665
 
 - id: c-167245
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O kad visi išvardyti dalykai am­
     žinai savo galią turėtų, dėl to šį mano raštą su liudytojų pa­
@@ -2480,6 +2536,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-183860
 
 - id: c-168391
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mstisla­
     vas
@@ -2516,6 +2574,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-185030
 
 - id: c-168392
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mažai vis dėlto ką pe­
     šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios
@@ -2551,6 +2611,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-185031
 
 - id: c-168393
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautui išėjus, senatas kuo rimčiau­
     siai paaiškino karaliui, kad, pritardamas pavojingiems ir
@@ -2574,6 +2636,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-185032
 
 - id: c-168394
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karo audra pamažėle artėjo prie
     Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­
@@ -2592,6 +2656,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-185033
 
 - id: c-168395
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Priėmęs luomų priesaiką, kuria
     šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
@@ -2614,6 +2680,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-185034
 
 - id: c-170547
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Šiapus Jieseldos5  upės
     kunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­
@@ -2629,6 +2697,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-187600
 
 - id: c-170548
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didžiajam
     kunigaikščiui Jogailai ir Skirgailai neįmanoma buvo
@@ -2645,6 +2715,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-187601
 
 - id: c-170549
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Paskui išvyko į Lenkiją1 9 , palikęs gubernato­
     riumi Vilniuje ir Lietuvos Didžiojoje Kunigaikštystėje
@@ -2662,6 +2734,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-187602
 
 - id: c-175954
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
     siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
@@ -2676,6 +2750,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-193210
 
 - id: c-176317
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK
     buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
@@ -2692,6 +2768,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-193647
 
 - id: c-176430
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prie Stirės
     įvyko Švitrigailos pajėgoms nesékmin-

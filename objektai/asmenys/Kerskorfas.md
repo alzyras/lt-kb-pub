@@ -125,6 +125,8 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 ## Citatos
 
 - id: c-44423
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
 
@@ -149,6 +151,8 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
     - t-40283
 
 - id: c-167137
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dar nesuspėję į mūšį
     atvykti rezerviniai livoniečių daliniai, suži-

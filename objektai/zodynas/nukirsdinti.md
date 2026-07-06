@@ -65,6 +65,8 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
 ## Citatos
 
 - id: c-34171
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nelaisvėn pateko ir M. Salzbachas, kurio įžei­
     dimą per derybas Vytautas buvo paėmęs širdin. Kai Jogaila jį

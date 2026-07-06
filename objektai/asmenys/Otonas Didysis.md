@@ -76,6 +76,8 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
 ## Citatos
 
 - id: c-83793
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pastarųjų miestams suteikiami
     municipaliniai liudijimai būdavo tik taikos sutartys, kur

@@ -263,6 +263,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22242
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugelis žmonių nebuvo pasirengę sava-
     rankiškai gyventi. Planinės ekonomikos laivas plūduriavo kapitalizmo
@@ -280,6 +282,8 @@ Nenurodyta
     - t-75327
 
 - id: c-22243
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tam reikėjo
     pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
@@ -299,6 +303,8 @@ Nenurodyta
     - t-75331
 
 - id: c-22244
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kadangi
     esminiai pertvarkymai žemės ūkyje vyko valdžioje esant Sąjūdžiui, dau-
@@ -321,6 +327,8 @@ Nenurodyta
     - t-75328
 
 - id: c-73138
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
@@ -340,6 +348,8 @@ Nenurodyta
     - t-75329
 
 - id: c-176254
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
     privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui

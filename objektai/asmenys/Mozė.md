@@ -116,6 +116,8 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
 ## Citatos
 
 - id: c-61021
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     priemonėmis, nes priešas nugalimas ne tik daiktiškais, bet ir dvasiškais ginklais, vadinasi,
     malda. (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs
@@ -131,6 +133,8 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
     - t-60389
 
 - id: c-171487
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šventasis Au­
     gustinas aiškiai teigia, kad egiptiečiai kryžiaus ženklu vaiz­

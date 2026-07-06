@@ -155,6 +155,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23032
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus
     krašto lenkų komunistinių funkcionierių planų (Maskvos inspiruota
@@ -178,6 +180,8 @@ Nenurodyta
     - t-75143
 
 - id: c-23033
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dokumento preambulėje, be kitų nuostatų, buvo primin-
     ti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas

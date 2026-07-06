@@ -68,6 +68,8 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
 ## Citatos
 
 - id: c-171874
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     4. Trakų apskrityje šventumas buvo pripažįstamas ne vie­
     nam ežerui. Ypač Daugų ežeras, vienas iš giliausių Lietuvoje

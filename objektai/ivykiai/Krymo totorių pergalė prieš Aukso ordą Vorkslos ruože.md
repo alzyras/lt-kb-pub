@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169983
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
     pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus

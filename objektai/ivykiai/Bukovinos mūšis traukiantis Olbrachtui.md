@@ -130,6 +130,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169915
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir kai ka­
     ralius Olbrachtas su visa kariuomene jau buvo Buko­

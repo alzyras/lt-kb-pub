@@ -194,6 +194,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00237
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
     ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
@@ -208,6 +210,8 @@ Nenurodyta
     - t-10819
 
 - id: c-00238
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be
     riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
@@ -223,6 +227,8 @@ Nenurodyta
     - t-10820
 
 - id: c-00239
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vyskupas nebeturėjo nei tikinčiųjų nei prieglaudos. Tada,
     Livonijos vyskupų pavyzdžiu, ir čia pradėta šauktis Vakarų pa-
@@ -238,6 +244,8 @@ Nenurodyta
     - t-10821
 
 - id: c-05451
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal Palestinoje
     su turkais kovojančių templininkų statutą, vyskupo priklausomybėje

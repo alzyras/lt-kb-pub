@@ -138,6 +138,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-169800
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
@@ -154,6 +156,8 @@ media_all_json: |-
     - t-186449
 
 - id: c-169803
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
     rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-

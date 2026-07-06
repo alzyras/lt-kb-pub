@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177206
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
     atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­

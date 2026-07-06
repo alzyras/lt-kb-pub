@@ -180,6 +180,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 ## Citatos
 
 - id: c-44090
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Priešo pajėgos
 
@@ -196,6 +198,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - t-42376
 
 - id: c-45469
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
     Didžiausias laisvės kovotojų ir NKVD susi-
@@ -215,6 +219,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - t-42377
 
 - id: c-45470
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Apygardos teritorijoje, Šimonių girioje,
     bazavosi srities vadovybė, būdavo ren-
@@ -231,6 +237,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - t-42378
 
 - id: c-167204
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Algimanto apygardą sudarė trys rinktinės:
     Šarūno, Kunigaikščio Margio ir Žalioji.

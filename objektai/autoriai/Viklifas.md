@@ -86,6 +86,8 @@ Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė
 ## Citatos
 
 - id: c-173291
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tie­
     sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po

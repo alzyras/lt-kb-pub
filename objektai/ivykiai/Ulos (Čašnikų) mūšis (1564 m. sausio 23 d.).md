@@ -249,6 +249,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11927
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kariuomenės viena kitą pamatė sau-
 
@@ -270,6 +272,8 @@ Nenurodyta
     - t-09887
 
 - id: c-11928
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Puolimą pradėjo kelios lietu-
     vių vėliavos, pagrindinės jėgos
@@ -295,6 +299,8 @@ Nenurodyta
     - t-09885
 
 - id: c-11929
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. Šuiskis. Trumpai žiemos dienai
     baigiantis prasidėjo maskvėnų
@@ -310,6 +316,8 @@ Nenurodyta
     - t-09886
 
 - id: c-11930
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Skaičiuojama,
     kad šiame mūšyje žuvo apie 8000 —
@@ -334,6 +342,8 @@ Nenurodyta
     - t-09884
 
 - id: c-11931
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taip pat nemaža kilmingųjų buvo paimta
     į nelaisvę. P. Šuiskio kūnas buvo atvež-

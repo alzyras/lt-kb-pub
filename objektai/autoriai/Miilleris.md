@@ -78,6 +78,8 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
 ## Citatos
 
 - id: c-84055
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau teisus
     b veikalą Tables genealogiques de Koch

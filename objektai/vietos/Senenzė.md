@@ -92,6 +92,8 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 ## Citatos
 
 - id: c-64338
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
 

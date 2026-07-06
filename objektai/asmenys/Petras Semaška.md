@@ -72,6 +72,8 @@ Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėn�
 ## Citatos
 
 - id: c-169608
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kitais metais susirinko Liublino seimas, į kurį su-
     neįprastą vietą. Sužinojęs apie šį seimą, išsirengė į ke­

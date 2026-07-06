@@ -128,6 +128,8 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
 ## Citatos
 
 - id: c-174450
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -150,6 +152,8 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
     - t-191568
 
 - id: c-175308
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246

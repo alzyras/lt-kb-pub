@@ -114,6 +114,8 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
 ## Citatos
 
 - id: c-41313
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšyje žuvo keliasdešimt (kartais nu-
     rodoma net 74) žymių Lietuvos kuni-

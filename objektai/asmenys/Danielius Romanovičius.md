@@ -105,6 +105,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176719
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Užimta buvo visa
     Lietuvos žemė ir nesuskaičiuojami jų  turtai".
@@ -121,6 +123,8 @@ media_all_json: |-
     - t-194106
 
 - id: c-176720
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pasinaudo­
     damas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį

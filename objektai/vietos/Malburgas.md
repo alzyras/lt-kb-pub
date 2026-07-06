@@ -209,6 +209,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 ## Citatos
 
 - id: c-80310
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Teutonų
     ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
@@ -230,6 +232,9 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-84094
 
 - id: c-167682
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinu, kuris nustojo teisės rengti prieš
     Lietuvą karo žygius, prisidengiant katalikų tikėjimo skelbimu.
@@ -244,6 +249,9 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-184309
 
 - id: c-167683
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Prie šio teisėtų
     įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­

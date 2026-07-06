@@ -169,6 +169,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169936
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     “  Iš tikrųjų Vytautas, 1393 m. pašalinęs Teodorą Karijotaiti
     iš Podolės, pats perėm ė jos valdymą. 1394 m. Lenkijos karalius Jo­
@@ -187,6 +189,8 @@ Nenurodyta
     - t-186701
 
 - id: c-169937
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Podolę ėmė val­
     dyti apie 1388 m. ar vėliau, kaip savo brolio Konstantino įpėdinis.

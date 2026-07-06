@@ -83,6 +83,8 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
 ## Citatos
 
 - id: c-75147
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,

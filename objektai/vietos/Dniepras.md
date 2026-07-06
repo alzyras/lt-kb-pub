@@ -958,6 +958,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 ## Citatos
 
 - id: c-32014
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Panonijoje (vakarų Vengrija
     ir dalis Austrijos) tada gintaro prekybai reikšmę įgijo Carnuntum
@@ -977,6 +979,9 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97837
 
 - id: c-37335
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tad Vytautas čia labiau pareida­
     vo ir nuo geografinės valstybės būklės ir nuo politinių bei kul­
@@ -999,6 +1004,9 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97845
 
 - id: c-37336
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kroku­
     vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
@@ -1020,6 +1028,9 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97832
 
 - id: c-37337
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas tuo at­
     žvilgiu buvo tikras kryžiuočių mokinys, realistas ir praktikas.
@@ -1039,6 +1050,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97834
 
 - id: c-43402
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Čia buvo ir
     Tochtamišo totoriai (keli tūkstančiai), 400
@@ -1069,6 +1082,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97836
 
 - id: c-43403
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jodami stepėmis tarp
     Lietuvos ir Maskvos valdų jie kasdien su-
@@ -1087,6 +1102,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97835
 
 - id: c-46480
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pats Smolenskas išgyveno nepriklauso-
     mas dar iki Vytauto. Bet užtat daug geriau Algirdui sekėsi į
@@ -1104,6 +1121,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97827
 
 - id: c-46481
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
     rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
@@ -1118,6 +1137,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97830
 
 - id: c-92246
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
     pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
@@ -1136,6 +1157,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97843
 
 - id: c-92252
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio priešistorė
     1395 m. galingas Vidurinės
@@ -1161,6 +1184,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97822
 
 - id: c-92254
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Smunkanti totorių
     valstybė po chano Berdibeko mirties (1359) suskilo į kelias dalis.
@@ -1177,6 +1202,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97833
 
 - id: c-92255
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kijevo kunigaikštystė ir Podolė,
     anais laikais nusidriekusi iki pat
@@ -1202,6 +1229,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97839
 
 - id: c-92257
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^262) ii skyrius: valstybės iškilimas
     Dimitrui, o Naugardą-Sieverską kitam sūnui Kaributui-Dimitrui,
@@ -1222,6 +1251,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-97831
 
 - id: c-166404
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau amžinosios taikos
     jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
@@ -1236,6 +1267,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-183011
 
 - id: c-167170
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ekspedicines
     pajėgas sudarė maždaug 4000 totorių, tu-

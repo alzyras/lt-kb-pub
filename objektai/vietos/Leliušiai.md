@@ -74,6 +74,8 @@ Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esan�
 ## Citatos
 
 - id: c-171904
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

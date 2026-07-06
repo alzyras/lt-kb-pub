@@ -66,6 +66,8 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
 ## Citatos
 
 - id: c-45299
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sugrįžę apie 24 val. pas ūkininką, miške ra-
     dome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo

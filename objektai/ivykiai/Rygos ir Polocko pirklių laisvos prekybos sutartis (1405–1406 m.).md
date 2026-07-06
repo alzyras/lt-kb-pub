@@ -97,6 +97,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-35779
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šituo pat laiku, kai buvo vedamos Racionžo taikos dery­
     bos, tarėsi tarp savęs ir Rygos bei Polocko pirkliai. Jie buvo

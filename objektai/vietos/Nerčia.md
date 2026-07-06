@@ -79,6 +79,8 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
 ## Citatos
 
 - id: c-171917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rei­
     kia turėti tvirtą ir atskirą vertinimo skalę kiekvienam amžiui

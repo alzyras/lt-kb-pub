@@ -77,6 +77,8 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
 ## Citatos
 
 - id: c-173437
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV
     skyrius

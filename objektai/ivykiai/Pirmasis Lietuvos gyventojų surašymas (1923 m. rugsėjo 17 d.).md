@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16902
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
     jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo

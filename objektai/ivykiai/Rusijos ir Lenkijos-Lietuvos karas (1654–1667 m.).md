@@ -167,6 +167,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43113
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prasidėjo karas tarp Rusijos ir Lenkijos-
 
@@ -185,6 +187,8 @@ Nenurodyta
     - t-41354
 
 - id: c-44926
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1654 m. rugpjūčio 12 d. ŠKLOVO MUSIS 125
 

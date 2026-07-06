@@ -104,6 +104,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169136
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kry­
     žiuočių ordinas šiame krašte panaikinamas. Albrechtas

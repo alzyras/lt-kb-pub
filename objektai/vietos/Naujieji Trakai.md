@@ -147,6 +147,8 @@ Tiksli Naujųjų Trakų įkūrimo data nežinoma. Naujųjų Trakų data lyginama
 ## Citatos
 
 - id: c-170322
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tačiau XVI a. LDK metraščiuose užrašytoji
     sakmė apie Kęstučio žmonos Birulės kilmę iš Palangos, veikiausiai,
@@ -164,6 +166,8 @@ Tiksli Naujųjų Trakų įkūrimo data nežinoma. Naujųjų Trakų data lyginama
     - t-187269
 
 - id: c-171666
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Birutė (Biruta)
     Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­

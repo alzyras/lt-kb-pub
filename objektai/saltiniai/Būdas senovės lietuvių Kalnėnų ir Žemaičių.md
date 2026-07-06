@@ -115,6 +115,8 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
 ## Citatos
 
 - id: c-33544
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos
     klausimu_ , ILKI, t. 4, 1964, 164-170 p. —Avižonis, K. : _Entstehung und
@@ -133,6 +135,8 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
     - t-31637
 
 - id: c-33545
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dar didžiųjų kunigaikščių laikais, ruošiant karo žygį, kartais bū­
     davo prisimedžiojama ir prisisūdoma mėsos.

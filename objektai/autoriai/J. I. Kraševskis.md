@@ -125,6 +125,8 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
 ## Citatos
 
 - id: c-75391
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-
@@ -140,6 +142,8 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
     - t-78087
 
 - id: c-171297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O supratingiems tėvy­
     nės istorijos mylėtojams -  tai labai vertingas šios įžymios val­

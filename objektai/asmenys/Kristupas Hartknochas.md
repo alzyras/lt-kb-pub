@@ -82,6 +82,8 @@ Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko 
 ## Citatos
 
 - id: c-173058
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Todėl plačios galimybės maitintis visuomenės lengvatikiš­
     kumu leido laikyti daug žynių.

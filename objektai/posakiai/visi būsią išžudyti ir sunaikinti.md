@@ -105,6 +105,8 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
 ## Citatos
 
 - id: c-59801
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
     krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
@@ -122,6 +124,8 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
     - t-59170
 
 - id: c-59802
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kadangi miestiečiai, dar nepailsę,
     naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį

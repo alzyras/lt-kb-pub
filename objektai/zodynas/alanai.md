@@ -123,6 +123,8 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
 ## Citatos
 
 - id: c-168739
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
     rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
@@ -145,6 +147,8 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
     - t-185378
 
 - id: c-168740
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Toji sodyba, tada vadinama R om a n o va , paskui
     Romnove bei Romove, vėliau tapo vyriausiojo lietuvių

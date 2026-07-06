@@ -1375,6 +1375,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 ## Citatos
 
 - id: c-160129
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     vangėti. Didysis kunigaikštis betgi dosnia ranka vis didesnes
@@ -1407,6 +1409,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176094
 
 - id: c-160130
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
     apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
@@ -1430,6 +1434,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176077
 
 - id: c-160131
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nederėtų, be
     to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
@@ -1457,6 +1463,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176095
 
 - id: c-160132
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,
@@ -1483,6 +1491,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176089
 
 - id: c-160133
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iškalbingais
     pamokslais iš sakyklos jis patraukė į savo pusę daug klau­
@@ -1506,6 +1516,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176099
 
 - id: c-160134
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Cuius qui­
     dem Collegii DEI beneficio, per nos fundati, et dotati
@@ -1553,6 +1565,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176104
 
 - id: c-160135
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1581 metų birželio 9 dieną. Kad bažnyčia būtų geriau
     tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­
@@ -1574,6 +1588,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176107
 
 - id: c-160136
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O Jurgio brolis, kunigaikštis Mi­
     kalojus Kristupas, Lietuvos Didžio­
@@ -1605,6 +1621,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176071
 
 - id: c-160137
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar nupirko du sklypus
     priešais savo rūmus ir patvirtino nemažas fundacijas toles­
@@ -1627,6 +1645,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176083
 
 - id: c-160138
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šio karaliaus val­
     dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­
@@ -1670,6 +1690,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176093
 
 - id: c-160139
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Livoniae)
     TI, p. 136, N533
@@ -1688,6 +1710,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176081
 
 - id: c-160140
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     287.
     12
@@ -1705,6 +1729,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176086
 
 - id: c-160143
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
     data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
@@ -1754,6 +1780,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176085
 
 - id: c-160146
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, dar leidžia kapitulai
     imti kas dešimtą sugautą žuvį ka­
@@ -1802,6 +1830,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176072
 
 - id: c-160147
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tą
     herbą turėjo perimti Krokuvos ka­
@@ -1832,6 +1862,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176074
 
 - id: c-160150
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     284
 
@@ -1859,6 +1891,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176079
 
 - id: c-160153
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčios
     užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
@@ -1876,6 +1910,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176082
 
 - id: c-160157
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šis činšas buvo mokamas
     vienuolika metų, bet paskui liautasi
@@ -1899,6 +1935,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176075
 
 - id: c-160158
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
     rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
@@ -1936,6 +1974,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176076
 
 - id: c-160160
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     285
 
@@ -1960,6 +2000,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176106
 
 - id: c-160161
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     173
 
@@ -1980,6 +2022,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-176101
 
 - id: c-160162
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nusprendėme ir šiuo raštu nu­
     sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­

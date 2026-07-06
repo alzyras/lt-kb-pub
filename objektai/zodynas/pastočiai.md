@@ -124,6 +124,8 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 ## Citatos
 
 - id: c-46923
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
     jokių savo teisėjų ir atleido bajorų valstiečius nuo visų pareigų

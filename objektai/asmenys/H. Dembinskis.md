@@ -93,6 +93,8 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
 ## Citatos
 
 - id: c-44340
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sukilėlių pajėgos
 

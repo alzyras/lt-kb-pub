@@ -114,6 +114,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 ## Citatos
 
 - id: c-41477
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Didysis kunigaikštis Dmitrijus
     buvo užsidaręs Kremliuje, jo pusbrolis
@@ -132,6 +134,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     - t-39673
 
 - id: c-167155
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Buvo sudegintas užmiestis
     ir dalis priemiesčio („posado“), plačiai nu-

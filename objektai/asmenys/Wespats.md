@@ -74,6 +74,8 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
 ## Citatos
 
 - id: c-174368
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Rusų karvedys, vardu
     Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo

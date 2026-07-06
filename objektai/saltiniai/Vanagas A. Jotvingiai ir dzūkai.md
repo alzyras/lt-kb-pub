@@ -71,6 +71,8 @@ Dusburgietis teigia, kad vanagas A.
 ## Citatos
 
 - id: c-61974
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.
   statusas: verified

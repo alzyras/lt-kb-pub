@@ -78,6 +78,8 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 ## Citatos
 
 - id: c-11161
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     mirštantį valdovą Aleksandrą.
     Mengli-Girėjus, gavęs žinią apie toto-

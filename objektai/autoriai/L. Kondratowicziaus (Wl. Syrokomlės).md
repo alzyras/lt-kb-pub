@@ -67,6 +67,8 @@ Kondratowicziaus (Wl.
 ## Citatos
 
 - id: c-55076
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     XIX
     amž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė

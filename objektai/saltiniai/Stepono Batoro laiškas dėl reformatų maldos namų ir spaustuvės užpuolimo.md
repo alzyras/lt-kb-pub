@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84457
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šis vyskupo žingsnis 1581 metais padrąsino
     viešosios rimties drumstėjus atvirai užpulti reformatų mal­

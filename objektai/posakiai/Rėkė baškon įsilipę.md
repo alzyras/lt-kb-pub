@@ -97,6 +97,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-77357
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sovietų gamybos pistoletas-kulko-
     svaidis PPS (Pistolet-pulemiot Sudaeva).

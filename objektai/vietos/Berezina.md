@@ -116,6 +116,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 ## Citatos
 
 - id: c-02597
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
     po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į
@@ -132,6 +134,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - t-02359
 
 - id: c-168293
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Valdo­
     mo krašto žmones jis be galo patraukė į savo pusę

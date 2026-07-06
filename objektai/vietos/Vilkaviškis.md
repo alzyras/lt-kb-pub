@@ -94,6 +94,8 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 ## Citatos
 
 - id: c-68870
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl Lietu-
     vos atgaivinimo klausimas nebuvo paliestas nė 1812 m. carui at-

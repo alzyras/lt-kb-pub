@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44919
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     A. Mackevičius sutelkė kovai 150 dalgiais
     ir šautuvais ginkluotų vyrų. Kovo 27 d. ties

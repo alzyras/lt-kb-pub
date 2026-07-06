@@ -71,6 +71,8 @@ Dusburgietis teigia, kad mažiulis V.
 ## Citatos
 
 - id: c-61804
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mažiulis V. Selonįca.—Baltistica, 1981, 17 (1), p. 7—12.
   statusas: verified

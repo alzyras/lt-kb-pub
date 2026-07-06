@@ -64,6 +64,9 @@ Kuodžio redaguota, su dailininko K.
 ## Citatos
 
 - id: c-36672
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     6. Vysk. Valančiaus, VAIKŲ KNYGELĖ. L. Kuodžio redaguota, su
     dailininko K. Šimonio spalvotomis ir grafiškomis iliustracijomis ir spalvo­

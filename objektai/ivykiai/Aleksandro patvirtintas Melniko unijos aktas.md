@@ -144,6 +144,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169980
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos
     seimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-

@@ -82,6 +82,8 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
 ## Citatos
 
 - id: c-26671
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė
     pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,

@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84493
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     8
     Iki mūsų laikų Slaptajame Karaliau­

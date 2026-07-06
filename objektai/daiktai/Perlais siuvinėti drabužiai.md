@@ -145,6 +145,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170026
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas prieš Ria-
     zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
@@ -172,6 +174,8 @@ Nenurodyta
     - t-186843
 
 - id: c-176500
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
     tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­

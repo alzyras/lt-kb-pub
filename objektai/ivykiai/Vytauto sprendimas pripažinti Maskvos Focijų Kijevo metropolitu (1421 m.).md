@@ -120,6 +120,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-167621
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
 

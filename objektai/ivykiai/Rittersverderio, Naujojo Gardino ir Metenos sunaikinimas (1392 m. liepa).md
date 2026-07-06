@@ -130,6 +130,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-88381
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Po to
     skubiai atvyko prie Gardino, jį labai sustiprino ir tuojau atsigrę­
@@ -144,6 +147,9 @@ Nenurodyta
     - t-92942
 
 - id: c-88382
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo tarpu kaip tik patogiu momentu Vytau­
     tas ir pasiryžo pereiti į Jogailos pusę, kuris Ordino derybomis

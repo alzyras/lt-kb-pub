@@ -120,6 +120,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172684
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     157
 
@@ -137,6 +139,8 @@ Nenurodyta
     - t-189801
 
 - id: c-172685
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Stenderis savo lat­
     vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio

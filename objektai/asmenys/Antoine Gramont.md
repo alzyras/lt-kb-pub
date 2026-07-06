@@ -158,6 +158,8 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 ## Citatos
 
 - id: c-41839
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
     totorius Lietuvos kariuomenėje.
@@ -174,6 +176,8 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     - t-40034
 
 - id: c-44285
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmiausiai janičarai (turkų pėstininkai),
     o po to ir turkų kavalerija atakavo atski-
@@ -199,6 +203,8 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     - t-40035
 
 - id: c-176416
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lauko artilerija, išdėstoma daž-
     niausiai ant aukštumų, veikdavo

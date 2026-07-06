@@ -71,6 +71,8 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
 ## Citatos
 
 - id: c-87542
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dar apie tą patį
 

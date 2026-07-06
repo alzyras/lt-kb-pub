@@ -76,6 +76,8 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 ## Citatos
 
 - id: c-176447
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     apsaugota nuo Turkijos kariuomenės įsi-
     veržimo. Po nepasisekusių kovų Turkija

@@ -129,6 +129,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66699
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po karūnacijos visi
     Lietuvos gubernijų sei-
@@ -164,6 +166,8 @@ Nenurodyta
     - t-66485
 
 - id: c-66702
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Caras Aleksandras II
     (1855-1881 m.).

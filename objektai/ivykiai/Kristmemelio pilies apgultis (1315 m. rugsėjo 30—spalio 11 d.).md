@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63662
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
 
@@ -156,6 +158,8 @@ Nenurodyta
     - t-62837
 
 - id: c-63664
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai
     sužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17

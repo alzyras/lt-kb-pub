@@ -102,6 +102,8 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
 ## Citatos
 
 - id: c-60918
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolį Gerhardą, Prūsijos magistrą
 

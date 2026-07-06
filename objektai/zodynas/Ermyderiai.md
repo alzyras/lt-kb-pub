@@ -87,6 +87,8 @@ Vartojamos formos: `ermyderių`.
 ## Citatos
 
 - id: c-09675
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Vienos yra buvusios šiame pasauly tokios atmainos, kurias jam raštai pasako, kitas jam žemės, vandens ir oro ermyderiai^3 rodo, noris^4 raštai tyli, kitos yra tokios, kurias žmogus pats savo amžiuje gali regėti.
   statusas: verified

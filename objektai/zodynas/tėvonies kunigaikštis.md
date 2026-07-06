@@ -70,6 +70,8 @@ Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių va
 ## Citatos
 
 - id: c-170512
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Šeši tūkstančiai devyni šimtai devintaisiais metais
     kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­

@@ -63,6 +63,8 @@ Dominikonų ordino namas.
 ## Citatos
 
 - id: c-82157
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     10. Dominikonų ordino namas.
     11. Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.

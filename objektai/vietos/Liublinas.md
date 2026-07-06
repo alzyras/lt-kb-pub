@@ -882,6 +882,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 ## Citatos
 
 - id: c-05658
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Valkaviske Lenkijos pasiuntinių sutiktas (1386.I.12), Jogaila
     nuvyko į kilmingųjų seimą Liubline, kur buvo išrinktas Lenkijos
@@ -894,6 +896,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173685
 
 - id: c-157963
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tad Koja­
     lavičiui, kuris iš esmės terašė gražia, klasikine lotynų kalba pasi­
@@ -911,6 +915,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173697
 
 - id: c-157964
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
     aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
@@ -931,6 +937,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173698
 
 - id: c-157965
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -944,6 +952,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173696
 
 - id: c-157969
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visi tie pastatai, at­
     skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
@@ -970,6 +980,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173687
 
 - id: c-157970
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1569 metais Liubline « abiejų tautų » galutinai nustatyti tarpu­
     saviai valstybiniai santykiai, lygiai kaip ir įkandin prasidedąs
@@ -987,6 +999,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173695
 
 - id: c-157971
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
     sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
@@ -1007,6 +1021,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173688
 
 - id: c-157972
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet vis dėlto pasiliko svar-
     biausias į uniją traukiąs veiksnys — nebaigtas karas su Maskva.
@@ -1026,6 +1042,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173691
 
 - id: c-157974
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad jau
     nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
@@ -1046,6 +1064,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173699
 
 - id: c-167244
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Atrodo, kad tais metais bu­
     vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
@@ -1071,6 +1091,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-173690
 
 - id: c-168381
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po
     to santarvė su rusais atitraukė lietuvius nuo žygių į
@@ -1101,6 +1123,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-185020
 
 - id: c-170545
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tą pačią žiemą didysis kunigaikštis
     Aleksandras su didžiąja kunigaikštiene Elena bei su

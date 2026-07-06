@@ -129,6 +129,8 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
 ## Citatos
 
 - id: c-174089
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Brunsbergae, 1725.
     192 /Prieš
@@ -153,6 +155,8 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
     - t-191207
 
 - id: c-174090
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     , Tekstas, kuriuo T. Narbutas papildė LTI, rengdamas antrąjį leidi­
     mą (PEĮ. L. 294). Turima omenyje garsaus vokiečių istoriko, Hė­

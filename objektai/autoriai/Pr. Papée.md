@@ -146,6 +146,8 @@ Papée). Papée, Pr. i Papée, Fr.
 ## Citatos
 
 - id: c-33107
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     —
     Nakaitė, L. : _Sidabro naudojimas II-XIII amžiais Lietuvoje dirbiniams
@@ -168,6 +170,8 @@ Papée). Papée, Pr. i Papée, Fr.
     - t-30928
 
 - id: c-33108
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
@@ -182,6 +186,8 @@ Papée). Papée, Pr. i Papée, Fr.
     - t-30930
 
 - id: c-33109
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
     kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios

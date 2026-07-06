@@ -74,6 +74,8 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 ## Citatos
 
 - id: c-24936
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau
     rusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas

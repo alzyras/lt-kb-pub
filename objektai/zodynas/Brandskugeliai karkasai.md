@@ -97,6 +97,8 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
 ## Citatos
 
 - id: c-45492
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
     apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-

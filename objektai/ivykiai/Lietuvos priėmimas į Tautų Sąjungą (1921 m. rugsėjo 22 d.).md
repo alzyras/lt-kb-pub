@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01972
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visuotinis T. S-gos susirinkimas, be
     to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. S-gą

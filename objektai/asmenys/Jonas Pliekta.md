@@ -82,6 +82,8 @@ Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vi
 ## Citatos
 
 - id: c-83709
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­
     no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas,

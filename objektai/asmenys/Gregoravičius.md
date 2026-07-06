@@ -130,6 +130,8 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
 ## Citatos
 
 - id: c-172978
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Toliau jis pateikia ilgą su­
     degusių namų sąrašą. Paskui vėl graudžios eilės. Po šito, tary­
@@ -144,6 +146,8 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
     - t-190095
 
 - id: c-172979
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Powiedz przešliczne boztwo Wiliej rzeki
     Nimfom (b) twym siostrom, boginiom podwodnym:

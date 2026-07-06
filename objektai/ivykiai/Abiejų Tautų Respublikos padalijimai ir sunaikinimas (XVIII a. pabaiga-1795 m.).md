@@ -144,6 +144,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73008
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Paprastai moksle laikoma, kad ši
     valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
@@ -174,6 +176,8 @@ Nenurodyta
     - t-75089
 
 - id: c-73009
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –
     Abiejų Tautų Respublika.

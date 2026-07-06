@@ -81,6 +81,8 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 ## Citatos
 
 - id: c-83723
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     M. Balinskis daugelį iš jų asmeniškai pažinojo,
     VII

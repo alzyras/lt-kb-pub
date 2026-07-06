@@ -137,6 +137,8 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
 ## Citatos
 
 - id: c-174141
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kai kurie iš šių panašumų buvo
     nurodyti, o daug kitų palikta, kad patys skaitytojai ga­
@@ -158,6 +160,8 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
     - t-191259
 
 - id: c-174142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taigi labiausiai ti­
     kėtinos tos išvados, kurios sutampa su senovės tyrinė­

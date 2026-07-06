@@ -358,6 +358,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 ## Citatos
 
 - id: c-55711
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visoje Italijoje Otono Didžiojo laikais
     miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų
@@ -378,6 +380,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - t-55045
 
 - id: c-55713
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
     aprimę, karalius savo sprendimu atleido Vilniaus gyvento­
@@ -398,6 +402,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - t-55047
 
 - id: c-85389
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Rygos miesto sugriovimą
 
@@ -419,6 +425,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - t-89428
 
 - id: c-85390
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
     čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
@@ -438,6 +446,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - t-89430
 
 - id: c-85391
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
     būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
@@ -462,6 +472,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - t-89431
 
 - id: c-85392
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     7
 

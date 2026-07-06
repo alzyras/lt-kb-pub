@@ -72,6 +72,8 @@ Narbutas rašo, kad Ksaveras Bogušas poloviečius priskyrė lietuvių genties t
 ## Citatos
 
 - id: c-174634
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     95
     Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­

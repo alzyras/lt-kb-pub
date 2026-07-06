@@ -195,6 +195,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 ## Citatos
 
 - id: c-172085
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be­
     je, budinu susiliejimas su europiečių tauta ir vėliau graikų ti­
@@ -213,6 +215,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - t-189197
 
 - id: c-172086
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
@@ -233,6 +237,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - t-189198
 
 - id: c-172088
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pretorijus Hartknocho studijų prierašuose aiškina teisin­
     gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
@@ -249,6 +255,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - t-189200
 
 - id: c-177082
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antra
     vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios

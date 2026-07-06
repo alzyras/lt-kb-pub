@@ -86,6 +86,8 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 ## Citatos
 
 - id: c-82236
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Malūnas, iki mūsų laikų vadin­
     tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius

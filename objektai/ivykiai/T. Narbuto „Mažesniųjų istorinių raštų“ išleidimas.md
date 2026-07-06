@@ -151,6 +151,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174899
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
     nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
@@ -181,6 +183,8 @@ Nenurodyta
     - t-192019
 
 - id: c-174900
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Be to, tuo metu T. Narbutas jau turėjo karčią pa­
     tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­

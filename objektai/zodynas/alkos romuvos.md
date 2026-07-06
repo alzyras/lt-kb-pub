@@ -92,6 +92,8 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
 ## Citatos
 
 - id: c-69189
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visi jie atlikinėjo įvairias apeigas, tik, žinoma, kai
     kurie iš jų buvo žinomesni, išgarsėję gydymu ar būrimu, — į juos
@@ -112,6 +114,8 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
     - t-70079
 
 - id: c-69190
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     O šitos šventovės
     būdavo rengiamos kur nors arti sodybų, ant atskirų piliakalnių.

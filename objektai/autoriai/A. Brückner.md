@@ -145,6 +145,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 ## Citatos
 
 - id: c-03959
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
     kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
@@ -158,6 +160,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     - t-64508
 
 - id: c-03960
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos
     klausimu_ , ILKI, t. 4, 1964, 164-170 p. —Avižonis, K. : _Entstehung und
@@ -176,6 +180,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     - t-64507
 
 - id: c-03961
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
     nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka­

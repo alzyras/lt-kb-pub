@@ -204,6 +204,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 ## Citatos
 
 - id: c-174096
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Strijkovskis neabejotinai taiso šios vietos prieštaravimus
     ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
@@ -227,6 +229,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
     - t-191214
 
 - id: c-174097
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     2 Pas Hartknochą.
     3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­
@@ -240,6 +244,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
     - t-191215
 
 - id: c-174098
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
@@ -257,6 +263,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
     - t-191216
 
 - id: c-174099
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­

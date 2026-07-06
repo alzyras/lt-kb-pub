@@ -80,6 +80,8 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 ## Citatos
 
 - id: c-82815
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Po Cimermano namas atiteko ma­
     loningiesiems ponams Savickiams.

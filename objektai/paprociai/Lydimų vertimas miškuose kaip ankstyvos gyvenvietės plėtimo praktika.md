@@ -120,6 +120,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83278
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Netgi pats Vilniaus vardas, paeinantis ne
     nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,

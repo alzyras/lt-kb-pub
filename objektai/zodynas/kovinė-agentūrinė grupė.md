@@ -68,6 +68,8 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 ## Citatos
 
 - id: c-45529
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 

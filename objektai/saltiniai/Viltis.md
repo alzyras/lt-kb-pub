@@ -71,6 +71,8 @@ Smetonos, redaguojamoji „Viltis".
 ## Citatos
 
 - id: c-48462
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugiausia dėmesio jie skyrė katalikišką
     doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su

@@ -122,6 +122,8 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 ## Citatos
 
 - id: c-69311
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
     mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
@@ -138,6 +140,8 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
     - t-70254
 
 - id: c-166843
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK –
     „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmė-

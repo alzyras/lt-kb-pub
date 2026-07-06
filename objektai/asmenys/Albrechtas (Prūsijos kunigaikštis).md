@@ -80,6 +80,8 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 ## Citatos
 
 - id: c-83591
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taipgi norime, kad jos didenybei karalai­
     tei Onai būtų leista paimti prieš žirgų padalijimą du eidi­

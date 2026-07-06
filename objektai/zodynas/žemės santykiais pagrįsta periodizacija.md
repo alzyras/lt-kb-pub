@@ -130,6 +130,8 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 ## Citatos
 
 - id: c-91782
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^36) ĮVADAS
     4) nuo to maro iki baudžiavos panaikinimo — 1861 m. ; 5) nuo
@@ -151,6 +153,8 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
     - t-97289
 
 - id: c-91783
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šitokis Lietuvos ūkininko santykių su žeme keitimasis per
     septynis su viršum amžius, leidžia sudaryti šešias įvairių laikų

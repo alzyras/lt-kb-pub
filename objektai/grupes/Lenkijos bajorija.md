@@ -84,6 +84,9 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
 ## Citatos
 
 - id: c-35598
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tas pats 1413 mt. Jogailos ir Vytauto
     duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją politiškan

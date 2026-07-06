@@ -170,6 +170,8 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
 ## Citatos
 
 - id: c-170357
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Smotričius — sena Podolės gyvenvietė, minima jau  XII a.,
     totorių sunaikinta 1240 m. Dabar UTSR Chmelnickio (buvusios Ka-

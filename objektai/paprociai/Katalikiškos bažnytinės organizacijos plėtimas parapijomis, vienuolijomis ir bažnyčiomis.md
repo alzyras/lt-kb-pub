@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55146
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iki XVI  a. vidurio susikūrė sep-
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios

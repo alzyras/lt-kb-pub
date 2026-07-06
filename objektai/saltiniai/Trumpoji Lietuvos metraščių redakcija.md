@@ -74,6 +74,8 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
 ## Citatos
 
 - id: c-45016
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tas pats aprašyta vė-
     lesniame Maskvos- Tverės kilmės Nikono

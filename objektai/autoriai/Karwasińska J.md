@@ -71,6 +71,8 @@ Dusburgietis teigia, kad karwasińska J.
 ## Citatos
 
 - id: c-61357
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Karwasińska J. Złote bulle Karola IV w sprawie chrztu Litwy.— Cultus et cognitio:
     Studia z dziejów średniowiecznej kultury, Warszawa, 1976, s. 233—249.

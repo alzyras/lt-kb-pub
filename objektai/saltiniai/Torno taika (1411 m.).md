@@ -117,6 +117,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-37259
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vis tik, sako Halec­
     kis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­
@@ -134,6 +137,9 @@ media_all_json: |-
     - t-36116
 
 - id: c-38437
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Čia kyla klausimas: ar daug yra atsitikimu, kada norima ki­
     tiems pakenkti, sau skriaudos nepadarius? Vis tik, sako Halec­

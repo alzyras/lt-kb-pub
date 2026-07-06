@@ -71,6 +71,8 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
 ## Citatos
 
 - id: c-176437
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dešinioji kolona ener-
     gingu puolimu užėmė plane numatytus

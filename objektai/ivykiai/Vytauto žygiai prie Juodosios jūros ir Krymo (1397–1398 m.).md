@@ -213,6 +213,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05005
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
@@ -226,6 +228,8 @@ Nenurodyta
     - t-31499
 
 - id: c-31394
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Atrodo, pritariant Jogailai, kuris
     iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
@@ -244,6 +248,8 @@ Nenurodyta
     - t-31501
 
 - id: c-33444
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo 1397 pamečiui
     šis atliko į totorius tris žygius. Atrodo, pritariant Jogailai, kuris

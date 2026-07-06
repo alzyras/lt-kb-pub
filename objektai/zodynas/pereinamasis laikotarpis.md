@@ -123,6 +123,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 ## Citatos
 
 - id: c-46924
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
     klausimas 172

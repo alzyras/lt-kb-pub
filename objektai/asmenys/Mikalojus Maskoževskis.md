@@ -79,6 +79,9 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
 ## Citatos
 
 - id: c-38094
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kaip žinoma, net jo nuosavioj srity, ro­
     dos, buvo pilių su Jogailos lenkų įgulomis, gynusiomis tas pilis.

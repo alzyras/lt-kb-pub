@@ -198,6 +198,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 ## Citatos
 
 - id: c-67238
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu Rusijai
     buvo pripažinta teisė žiūrėti, kad nebūtų pakeistos kardinalinės
@@ -217,6 +219,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - t-67263
 
 - id: c-67239
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Antroji Čartoriskių svarbi
     reforma lietė seimą. Jie sva-
@@ -235,6 +239,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - t-67264
 
 - id: c-67240
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jose buvo pakeistas tik vienas kitatikius (disi-
     dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo
@@ -254,6 +260,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - t-67265
 
 - id: c-67241
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dažnai vienas ar
     keli papirkti atstovai pareikšdavo protestą prieš viso seimo nu-
@@ -272,6 +280,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - t-67259
 
 - id: c-67245
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu į seimą būdavo išrenkami
     tokie atstovai, kokių norėdavo didikai; jiems ir instrukcijos būdavo

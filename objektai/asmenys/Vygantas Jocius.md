@@ -82,6 +82,8 @@ Pagamintas parlamento gynėjo, kūrėjo savanorio Vyganto Jociaus 2010 m. Analog
 ## Citatos
 
 - id: c-41481
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Butelio su padegamuoju skysčiu
     demonstracinė versija. Pagamin-

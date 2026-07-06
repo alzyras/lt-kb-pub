@@ -191,6 +191,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 ## Citatos
 
 - id: c-83384
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1572, mir.
     1619 m.
@@ -215,6 +217,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - t-87407
 
 - id: c-83385
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trys į
     Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
@@ -243,6 +247,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - t-87405
 
 - id: c-83386
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat, kad miesto
     gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­

@@ -95,6 +95,8 @@ Ordinis apie tai plačiai pasa­ koja.
 ## Citatos
 
 - id: c-84308
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     334.
     b

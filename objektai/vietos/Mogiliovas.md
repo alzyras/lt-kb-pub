@@ -117,6 +117,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 ## Citatos
 
 - id: c-170639
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Krokuvoje kituose šaltiniuose nepaliudytas Ir
     abejotinas.
@@ -131,6 +133,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     - t-187700
 
 - id: c-171915
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kad Pavyslio, Padneprio senieji gyventojai
     ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų

@@ -140,6 +140,8 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 ## Citatos
 
 - id: c-44121
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tai buvo
     svarbi kompleksinių Raudonosios armi-
@@ -163,6 +165,8 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
     - t-69972
 
 - id: c-69155
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vadovavo ordino vyr.
     maršalas ir Karaliaučiaus komtūras Siegfridas von Dahnenfeld ir

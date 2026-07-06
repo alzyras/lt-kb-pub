@@ -114,6 +114,8 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
 ## Citatos
 
 - id: c-176468
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Maskvos kariuomenė persikė-
     limui netrukdė, nes buvo suklai-
@@ -137,6 +139,8 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
     - t-193824
 
 - id: c-176469
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš karto po mūšio
     iš stovyklos Borisove Žygimanto Senojo

@@ -221,6 +221,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42503
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
     lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai
@@ -236,6 +238,8 @@ Nenurodyta
     - t-192077
 
 - id: c-174947
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
     Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,
@@ -258,6 +262,8 @@ Nenurodyta
     - t-192079
 
 - id: c-174948
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir tada didysis kuni­
     gaikštis Algirdas tarė Maskvos didžiajam kunigaikš­

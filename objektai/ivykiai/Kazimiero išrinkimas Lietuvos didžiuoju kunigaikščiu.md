@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169901
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir ten suvažiavę skubiai praneša
     Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir

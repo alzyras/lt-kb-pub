@@ -193,6 +193,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-78409
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
     Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti

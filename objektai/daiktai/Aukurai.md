@@ -146,6 +146,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Aukurai, ragai (Roha)21 2
     Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
@@ -165,6 +167,8 @@ Nenurodyta
     - t-189706
 
 - id: c-177011
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
     dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų

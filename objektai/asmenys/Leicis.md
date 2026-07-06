@@ -93,6 +93,8 @@ Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merk
 ## Citatos
 
 - id: c-173062
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
     radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­

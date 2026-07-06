@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44645
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 131, Husarų palašas. ATR, XVII-XVIII a., VDKM, Artūro Užgalio nuotr.
     p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo

@@ -228,6 +228,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-73170
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai nulėmė, kad Lietuva
     pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
@@ -243,6 +245,8 @@ Nenurodyta
     - t-75378
 
 - id: c-73172
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
     Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje sta-
@@ -259,6 +263,8 @@ Nenurodyta
     - t-75375
 
 - id: c-73173
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1 skyrius •  S E N O J I  L I E T U VA
     39

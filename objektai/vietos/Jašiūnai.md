@@ -199,6 +199,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 ## Citatos
 
 - id: c-81909
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Būsimo
     istoriko motina - Ona Balevičiūtė. Terespolis nebuvo Balinskių
@@ -213,6 +215,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - t-85928
 
 - id: c-81910
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
     vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
@@ -228,6 +232,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - t-85930
 
 - id: c-81911
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo
     Jašiūnų dvare. Sugrįžimą pagreitino nelaimės šeimoje: sūnaus
@@ -240,6 +246,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - t-85929
 
 - id: c-81912
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pati vietovė, su­
     pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­

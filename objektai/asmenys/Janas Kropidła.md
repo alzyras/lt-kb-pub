@@ -102,6 +102,8 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 ## Citatos
 
 - id: c-83680
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai
     Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­

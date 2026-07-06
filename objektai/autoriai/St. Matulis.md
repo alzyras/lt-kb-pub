@@ -75,6 +75,8 @@ Matulis : Kun.
 ## Citatos
 
 - id: c-33149
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Janulaičio studentai buvo paruošę rūpes­
     tingai hektografuotas skaitytų paskaitų plačias santraukas.**

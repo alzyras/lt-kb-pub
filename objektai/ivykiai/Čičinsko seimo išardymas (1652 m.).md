@@ -78,6 +78,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67082
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dažnai girdime, kad _liberum veto_ teise pirmą
     kartą pasinaudojęs ir seimą išardęs Upytės atstovas Čičinskas (Si-

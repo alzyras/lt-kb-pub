@@ -72,6 +72,8 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
 ## Citatos
 
 - id: c-44342
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žukauskas. Po nelygios kovos su okupantų
     kariuomene nusišovė LLKS vadovybės spec.

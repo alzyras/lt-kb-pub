@@ -798,6 +798,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 ## Citatos
 
 - id: c-169653
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuvos istorija
 
@@ -815,6 +817,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-186292
 
 - id: c-171367
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Panašiai T. Narbutas elgiasi ir su daugeliu kitų senųjų ra­
     šytinių šaltinių -  praplečia jų informaciją, sukonkretina, per­
@@ -832,6 +836,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-188477
 
 - id: c-171368
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     T. Narbutas, kaip ir daugelis to meto žmonių, bodėjosi vie-
     nakryptės veiklos. Jis daug vertė, rašė eilėraščius, domėjosi
@@ -846,6 +852,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-188478
 
 - id: c-171369
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
     laikinį žmogų. 1830 m. jis išleido „Čigonų liaudies istorijos
@@ -861,6 +869,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-188479
 
 - id: c-171370
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     49
     i
@@ -885,6 +895,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-188480
 
 - id: c-171371
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­
     gija. Iš lenkų kalbos išvertė pats autorius“. Deja, pastaruoju
@@ -900,6 +912,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-188481
 
 - id: c-171372
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­
     logijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­
@@ -914,6 +928,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-188482
 
 - id: c-171373
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
     tentycznego, objašnil, tlómaczenie polskie doląc-
@@ -927,6 +943,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-188483
 
 - id: c-173690
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­
     ti dar su Renesanso laikotarpiu, buvo puikiai žinomos
@@ -949,6 +967,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-190808
 
 - id: c-173692
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sumanymas. „Aš nerašau lietuvių tautos istorijos
     < ...> “ — tokia iš pirmo žvilgsnio šokiruojančia dekla­
@@ -962,6 +982,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-190810
 
 - id: c-173693
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     44 /Ten pat,
     (28)
@@ -977,6 +999,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-190811
 
 - id: c-174789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ten, kur jis nukrito, mes nepastebė­
     jome nė jokio drėgmės pėdsako, neužuodėme nė jokio
@@ -994,6 +1018,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-191907
 
 - id: c-176264
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-
@@ -1009,6 +1035,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-193589
 
 - id: c-176507
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Baigdamas „Lietuvos istoriją", T. Narbutas nuo
     1838 m. pradėjo rūpintis Bychovco kronikos išspaus­
@@ -1025,6 +1053,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-193880
 
 - id: c-176810
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
@@ -1041,6 +1071,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - t-194207
 
 - id: c-176811
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo metu Lietu­
     voje populiarus T. Narbutas susilaukė rūsčios jo kritikos. „Kas

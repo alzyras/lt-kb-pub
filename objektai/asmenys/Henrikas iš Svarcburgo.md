@@ -119,6 +119,8 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
 ## Citatos
 
 - id: c-167467
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
 

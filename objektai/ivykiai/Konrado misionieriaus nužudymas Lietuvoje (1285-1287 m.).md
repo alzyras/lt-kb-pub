@@ -96,6 +96,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62892
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
                                               atversti

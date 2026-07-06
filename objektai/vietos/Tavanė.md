@@ -75,6 +75,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-40457
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1398 m. Vytautas su didelėmis pajėgo-
     mis prie Žemutinio Dniepro per keturias

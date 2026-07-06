@@ -168,6 +168,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
 ## Citatos
 
 - id: c-172941
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atver­
     timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą,
@@ -190,6 +192,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
     - t-190058
 
 - id: c-172942
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pagaliau atsirado tikrasis Biarmijos apaštalas -
     šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
@@ -209,6 +213,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
     - t-190059
 
 - id: c-172943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Davęs
     žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­

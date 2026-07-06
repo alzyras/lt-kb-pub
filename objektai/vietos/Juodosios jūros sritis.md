@@ -108,6 +108,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 ## Citatos
 
 - id: c-28429
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuo Lenkijos pakraščio, nuo
     Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
@@ -123,6 +125,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-28525
 
 - id: c-167756
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Per vieną šimtą metų, prieš Algirdui užmerkiant
     akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­

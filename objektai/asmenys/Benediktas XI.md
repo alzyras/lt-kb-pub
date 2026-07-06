@@ -82,6 +82,8 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
 ## Citatos
 
 - id: c-60878
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     96. Apie Benediktą XI, popiežių, ir Albrechtą, karalių
 

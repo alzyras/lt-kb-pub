@@ -106,6 +106,8 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
 ## Citatos
 
 - id: c-59797
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas
     pentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš
@@ -123,6 +125,8 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
     - t-59165
 
 - id: c-167427
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mat arklys matė pavojų, kurio raitelis nakties
     tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas

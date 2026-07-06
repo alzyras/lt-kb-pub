@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-173393
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Statinio viduje paprastai stovi maži mo­
     liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­

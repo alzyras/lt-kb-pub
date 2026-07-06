@@ -82,6 +82,8 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
 ## Citatos
 
 - id: c-175672
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia

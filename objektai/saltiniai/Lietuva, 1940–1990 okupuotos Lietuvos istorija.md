@@ -75,6 +75,8 @@ Lietuva, 1940–1990: okupuotos Lietuvos istorija.
 ## Citatos
 
 - id: c-21056
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 2012.
     Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-

@@ -66,6 +66,8 @@ LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuo
 ## Citatos
 
 - id: c-21804
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     dar per 40 tūkst. karių. LDK kariuomenė turėjo daug sunkumų su karo
     vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-

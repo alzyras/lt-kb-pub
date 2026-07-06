@@ -127,6 +127,8 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
 ## Citatos
 
 - id: c-174440
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sis aprašymas ap­
     ima plačius ir labai didžiulius kraštus. Žymusis mūsų
@@ -151,6 +153,8 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
     - t-191558
 
 - id: c-174441
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     255
 

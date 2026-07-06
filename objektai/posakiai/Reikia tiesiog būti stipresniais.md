@@ -61,6 +61,8 @@ Reikia tiesiog būti stipresniais.
 ## Citatos
 
 - id: c-40840
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ## Puslapis 17
 

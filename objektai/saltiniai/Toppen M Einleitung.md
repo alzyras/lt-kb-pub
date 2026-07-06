@@ -63,6 +63,8 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
 ## Citatos
 
 - id: c-61951
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Toppen M Einleitung.—SRP, 1, S. 3—20.
       Toeppen M. Historisch-comparative Geographie von Preussen.

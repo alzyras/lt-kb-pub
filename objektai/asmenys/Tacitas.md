@@ -283,6 +283,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 ## Citatos
 
 - id: c-75376
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
@@ -297,6 +299,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     - t-78071
 
 - id: c-173857
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat teisinga nuomonė, jog alanai, gy­
     venę prie šių šakų, buvo vadinami Rhox-alanais arba, anot
@@ -313,6 +317,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     - t-190975
 
 - id: c-173858
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Matyt, priežastis yra ta, kad
     tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
@@ -332,6 +338,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     - t-190976
 
 - id: c-173859
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad atleiskime
     senovės autoriams, kurių geografinių žinių gavimo gali­
@@ -351,6 +359,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     - t-190977
 
 - id: c-173860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plinijus teigia, kad jazigai gyveno prie Tisos
     upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
@@ -367,6 +377,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     - t-190978
 
 - id: c-177118
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tacitas žinojo apie šią žynių klasę, kadangi juos vadina
     miesto žyniais . Bet jo laikais dar nebuvo bendrų vyriausiųjų

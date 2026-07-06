@@ -78,6 +78,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-171891
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
     tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­

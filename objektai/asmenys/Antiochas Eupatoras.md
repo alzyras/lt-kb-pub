@@ -70,6 +70,8 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 ## Citatos
 
 - id: c-60870
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tą patį sakoma Teisėjų
     knygoje (Ts 4, 13): „Atsiminkite viešpaties tarną, kur Amalechą, pasitikintį savo skydais,

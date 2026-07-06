@@ -133,6 +133,8 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
 ## Citatos
 
 - id: c-82490
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono bažnyčia, o kunigaikščio Aleksandro Vytauto lai­
     kais Lietuvos Kunigaikštystės visuotinomis lėšomis 1426 m.
@@ -153,6 +155,8 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
     - t-86511
 
 - id: c-82491
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jono brolijai priklausantiems,
     kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­

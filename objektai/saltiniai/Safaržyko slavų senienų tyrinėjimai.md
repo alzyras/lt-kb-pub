@@ -71,6 +71,8 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
 ## Citatos
 
 - id: c-174737
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadi­
     nasi, čia gyventa jau iki IV amžiaus.

@@ -119,6 +119,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 ## Citatos
 
 - id: c-174409
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šie buvo Padneprės
     emporiumų graikų kolonistai, susigiminiavę su skitais ir
@@ -138,6 +140,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
     - t-191527
 
 - id: c-174410
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toliau nagrinėda­
     mi pamatome, kad agazirai buvo ta pati gentis kaip ir

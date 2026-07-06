@@ -80,6 +80,8 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
 ## Citatos
 
 - id: c-173074
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš jos sūnūs: Manvydas
     (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­

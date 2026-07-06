@@ -91,6 +91,8 @@ Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valst
 ## Citatos
 
 - id: c-171845
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
     radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­

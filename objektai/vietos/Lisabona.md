@@ -70,6 +70,8 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
 ## Citatos
 
 - id: c-24254
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-

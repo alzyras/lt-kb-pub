@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23277
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos Didžiajai Kunigaikštijai sunkiai sekėsi atlaikyti rytų frontą Li-
     vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas

@@ -88,6 +88,8 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
 ## Citatos
 
 - id: c-25851
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į
     kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobū-

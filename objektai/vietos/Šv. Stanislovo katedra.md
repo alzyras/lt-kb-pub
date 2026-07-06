@@ -74,6 +74,8 @@ Stanislovo katedrą.
 ## Citatos
 
 - id: c-82298
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
     čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi

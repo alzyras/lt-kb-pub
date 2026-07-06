@@ -303,6 +303,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55721
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il KNYGA
     mis įsteigta ir išlaikoma tik dėlei asmenų, in Collegio [kole­
@@ -325,6 +327,8 @@ Nenurodyta
     - t-55055
 
 - id: c-55723
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kas sudaro puri lucri [gryno pelno] 3 170 auk. 2 gr.
     Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­
@@ -339,6 +343,8 @@ Nenurodyta
     - t-55057
 
 - id: c-157226
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Betgi pastaraisiais laikais, kelių vaisti­
     ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip
@@ -367,6 +373,8 @@ Nenurodyta
     - t-55056
 
 - id: c-157227
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     A
     za srebro i za robotu i za mied' i za wsi
@@ -399,6 +407,8 @@ Nenurodyta
     - t-172863
 
 - id: c-157228
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik kai Aleksandrą kelerius metus nuolat ka­
     mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­

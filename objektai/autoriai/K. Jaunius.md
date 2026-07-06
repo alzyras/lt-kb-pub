@@ -65,6 +65,8 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 ## Citatos
 
 - id: c-65337
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tas geografinis terminas reiš-
     kia Baltijos pajūrio tautas. Tik didieji mūsų kalbininkai Jaunius su

@@ -80,6 +80,8 @@ Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoj
 ## Citatos
 
 - id: c-173080
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
     mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum

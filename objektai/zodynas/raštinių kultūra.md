@@ -111,6 +111,8 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
 ## Citatos
 
 - id: c-24951
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Maskva XV–XVI a. gyveno bizantine
     tradicija, o jei Vakarai ir darė poveikį – tai tik fragmentišką, ir tai jau buvo
@@ -130,6 +132,8 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
     - t-22262
 
 - id: c-176286
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Raštija
     Formuojantis luominei LDK visuomenei ir susidarius su-

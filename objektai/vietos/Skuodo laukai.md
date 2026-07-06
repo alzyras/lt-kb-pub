@@ -102,6 +102,8 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 ## Citatos
 
 - id: c-28368
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai
     narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
@@ -117,6 +119,8 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
     - t-28464
 
 - id: c-167767
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai
     narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su

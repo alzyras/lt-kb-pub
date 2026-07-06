@@ -173,6 +173,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 ## Citatos
 
 - id: c-60795
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
 
@@ -196,6 +198,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     - t-60163
 
 - id: c-60796
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
 
@@ -215,6 +219,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     - t-60164
 
 - id: c-168121
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai
     Nemune vyko šios laivų grumtynės, šeši šimtai raite­

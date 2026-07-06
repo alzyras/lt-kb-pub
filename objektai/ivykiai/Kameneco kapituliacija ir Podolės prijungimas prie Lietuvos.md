@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168941
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Negi kur esti tokia kalno viršūnė, kurios
     nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
@@ -148,6 +150,8 @@ Nenurodyta
     - t-185580
 
 - id: c-168942
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Vytautas jiems paro­
     dė palankumą, apsuptieji visiškai pasidavė jo malonei.

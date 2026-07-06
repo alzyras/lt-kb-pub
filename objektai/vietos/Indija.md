@@ -136,6 +136,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 ## Citatos
 
 - id: c-171825
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tiesą sako „Antilukrecijaus“ auto­
     rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
@@ -155,6 +157,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
     - t-188936
 
 - id: c-175435
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie

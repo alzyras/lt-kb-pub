@@ -69,6 +69,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44868
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vilniaus
     miesto įgulą sudarė nedideli 4-ojo ir 8-ojo

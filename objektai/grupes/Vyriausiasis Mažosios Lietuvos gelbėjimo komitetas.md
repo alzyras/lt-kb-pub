@@ -65,6 +65,8 @@ Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d., V
 ## Citatos
 
 - id: c-176458
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 212, Vyr. Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d.,
     VDKM, Artūro Užgalio nuotr.

@@ -72,6 +72,8 @@ Dusburgietis teigia, kad otrębski J.
 ## Citatos
 
 - id: c-61839
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Otrębski J. Namen von zwei Jatwingerstämmen.— Slawische Namenforschung, Berlin,
     1963, S. 204—209.

@@ -81,6 +81,8 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
 ## Citatos
 
 - id: c-34128
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
     gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­

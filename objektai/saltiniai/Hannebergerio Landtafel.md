@@ -61,6 +61,8 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
 ## Citatos
 
 - id: c-174719
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šio
     krašto kunigaikštis, kurį vėlesnis kronikininkas vadina

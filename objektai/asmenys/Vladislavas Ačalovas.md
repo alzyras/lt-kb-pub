@@ -80,6 +80,8 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
 ## Citatos
 
 - id: c-44562
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Apie 400 „raudonraiš-
     čių“, vadovaujamų „Nacionalinio gelbė-

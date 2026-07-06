@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176349
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dislokuotos Lietuvoje NKVD
     divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį

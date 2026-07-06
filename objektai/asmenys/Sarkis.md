@@ -147,6 +147,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 ## Citatos
 
 - id: c-60696
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitai
     išgirdęs, komtūras, nenorėdamas, kad Sarkis turėtų kokios naudos iš tos nedorybės,
@@ -169,6 +171,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     - t-60064
 
 - id: c-60697
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     186 (181). Apie tai, kaip norėta išduoti brolius
 
@@ -185,6 +189,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     - t-60065
 
 - id: c-60698
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     474 D. — que tangit lerram Lethowie. Lietuvos žeme Dusburgietis čia vadina Karšuvą
 

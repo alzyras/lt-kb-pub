@@ -377,6 +377,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170435
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE ALGIRDO 2YG[ | MASKVĄ IR VALSTYBES SIENOS
     NUKĖLIMĄ PRIE M 02A ISK 0
@@ -416,6 +418,8 @@ Nenurodyta
     - t-187460
 
 - id: c-170436
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Būtent, po Gedimino sūnų iš­
     vardijimo, kuriuo Trumpajame sąvade prasideda „Di­
@@ -443,6 +447,8 @@ Nenurodyta
     - t-187459
 
 - id: c-170437
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O paskui, sudarius susitarimą, ir pats Mask­
     vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
@@ -478,6 +484,8 @@ Nenurodyta
     - t-187464
 
 - id: c-170438
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir tada didysis kuni­
     gaikštis Algirdas tarė Maskvos didžiajam kunigaikš­

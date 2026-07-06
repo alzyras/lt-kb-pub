@@ -342,6 +342,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 ## Citatos
 
 - id: c-91944
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniui grėsė naujas
     pavojus. Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
@@ -359,6 +361,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-97460
 
 - id: c-91945
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
     po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
@@ -378,6 +383,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-97458
 
 - id: c-91947
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Karaliui buvo parinkta saugi vieta,
     iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
@@ -394,6 +402,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-97461
 
 - id: c-91949
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lentelėse duodamieji pavyzdžiai:
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
@@ -411,6 +421,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-97456
 
 - id: c-91950
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
@@ -433,6 +445,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-97455
 
 - id: c-91951
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kęstutį iš pradžių pripažino visi. Jis, maža tekreipdamas dėme-
     sio į rytus, pradėjo kovas su kryžiuočiais. Kaip tik tuo metu,

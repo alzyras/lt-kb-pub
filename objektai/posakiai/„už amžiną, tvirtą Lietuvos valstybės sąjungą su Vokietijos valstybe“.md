@@ -154,6 +154,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23682
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-
     kalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių
@@ -176,6 +178,8 @@ media_all_json: |-
     - t-45872
 
 - id: c-48534
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1918 metų Vasario 16 Aktas
     1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-

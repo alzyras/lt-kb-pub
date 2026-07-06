@@ -349,6 +349,9 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 ## Citatos
 
 - id: c-14183
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1398 m. Gardine
     padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas:
@@ -374,6 +377,9 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-12411
 
 - id: c-14184
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
     sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
@@ -395,6 +401,9 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-12412
 
 - id: c-14185
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šiaip ar taip Vy­
     tauto užsimojimai, grasinimai Lenkijai, buvo jo galybės ženklas.
@@ -411,6 +420,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-12413
 
 - id: c-66972
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     b. Salyno suvažiavimas ir jo reikšmė. — 1396 m. jau buvo pa­
     darytos paliaubos, o 1398.IV.23 d. surašyta preliminarinė taika
@@ -427,6 +438,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-66871
 
 - id: c-66973
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Toliau siena apytikriai buvo nužymėta upė­
     mis (Šešupė, Neta, Bebras, Narevas). Vėlesnėmis lietuvių gyven­
@@ -445,6 +458,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-66868
 
 - id: c-66974
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pasilikdamas sau Nevėžio žiotis, Vytautas kryžiuo­
     čiams užleido visus Žemaičius. Salyno akte pirmą kartą apytikriai
@@ -461,6 +476,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-66870
 
 - id: c-66975
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
     sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­

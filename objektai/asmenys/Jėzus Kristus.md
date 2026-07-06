@@ -167,6 +167,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 ## Citatos
 
 - id: c-85791
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šit
     koks reikšmingas ženklas pasirodęs kovojančios bažnyčios padangėje! Tad atkreipk savo
@@ -182,6 +184,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     - t-89877
 
 - id: c-85792
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     PRŪSIJOS ŽEMĖS
        KRONIKA
@@ -206,6 +210,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     - t-89878
 
 - id: c-85793
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pats matyk
     didelius dievo ženklus ir galingus jo stebuklus. Septyni Teutonų ordino broliai su keliais

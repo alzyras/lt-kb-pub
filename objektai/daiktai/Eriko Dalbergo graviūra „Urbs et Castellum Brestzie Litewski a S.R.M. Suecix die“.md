@@ -140,6 +140,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42494
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švedijos kariuomenė siaubė ir alino okupuotą
 
@@ -156,6 +158,8 @@ Nenurodyta
     - t-40709
 
 - id: c-44651
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmą
     kartą 1656 m. švedams miesto užimti nepavyko. Po metų vykusi apsiaustis sėk-

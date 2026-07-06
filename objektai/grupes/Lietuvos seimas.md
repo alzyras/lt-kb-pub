@@ -119,6 +119,8 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 ## Citatos
 
 - id: c-46373
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ket-
     virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau

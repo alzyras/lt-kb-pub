@@ -100,6 +100,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 ## Citatos
 
 - id: c-71046
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Iš pradžių tokios brolijos
     globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų

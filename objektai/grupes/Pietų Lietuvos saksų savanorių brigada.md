@@ -77,6 +77,8 @@ Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių divizij�
 ## Citatos
 
 - id: c-44832
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių diviziją. 1919 m. kovo
     pabaigoje ši divizija buvo performuota į Pietų Lietuvos saksų savanorių brigadą. Ją sudarė

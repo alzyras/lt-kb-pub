@@ -80,6 +80,8 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 ## Citatos
 
 - id: c-44359
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Karas po karo
 

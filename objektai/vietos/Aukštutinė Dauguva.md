@@ -102,6 +102,9 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
 ## Citatos
 
 - id: c-35392
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Aukš. Dauguvos bei Dniepro sričių gyventojai, kur menkiau
     už lietuvių buvo išsivystęs žemės ūkis, mokesčius mokėjo lau­
@@ -116,6 +119,9 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
     - t-34167
 
 - id: c-167673
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žemai­
     čiai, kaip jau minėjome, kartais atsilygindavo Vytautui arkliais.

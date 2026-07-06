@@ -68,6 +68,8 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššva
 ## Citatos
 
 - id: c-59311
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
 

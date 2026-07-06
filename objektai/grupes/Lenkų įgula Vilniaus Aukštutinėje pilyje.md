@@ -299,6 +299,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 ## Citatos
 
 - id: c-82696
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
     lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
@@ -342,6 +344,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-86721
 
 - id: c-82697
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
     rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-
@@ -394,6 +398,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-86719
 
 - id: c-82698
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prancū­
     zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o
@@ -413,6 +419,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-86718
 
 - id: c-82699
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­
     tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuvių-
@@ -429,6 +437,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-86717
 
 - id: c-82700
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nuolati­
     nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet

@@ -66,6 +66,8 @@ Didelė medinė Kreivoji pilis minima kryžiuočių kronikoje, 1390 m. Vilniaus 
 ## Citatos
 
 - id: c-176659
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didelė medinė Kreivoji pilis minima kryžiuočių kronikoje,
     1390 m. Vilniaus puolimo aprašyme. Tuomet ji buvo sudeginta ir

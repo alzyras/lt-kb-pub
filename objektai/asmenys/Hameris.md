@@ -163,6 +163,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
 ## Citatos
 
 - id: c-174086
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     72
 
@@ -186,6 +188,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
     - t-191204
 
 - id: c-174087
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Anot Korano
     aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
@@ -209,6 +213,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
     - t-191205
 
 - id: c-174088
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ponas Hameris dar prieš poną Volianskį mėgino šif­
     ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­

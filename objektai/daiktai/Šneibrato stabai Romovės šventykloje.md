@@ -77,6 +77,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172641
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo

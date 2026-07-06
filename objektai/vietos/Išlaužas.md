@@ -76,6 +76,8 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
 ## Citatos
 
 - id: c-171839
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­

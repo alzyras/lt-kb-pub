@@ -786,6 +786,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 ## Citatos
 
 - id: c-67494
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
     šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
@@ -801,6 +803,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     - t-67689
 
 - id: c-175383
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -819,6 +823,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     - t-192613
 
 - id: c-175384
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Aes­
     tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,

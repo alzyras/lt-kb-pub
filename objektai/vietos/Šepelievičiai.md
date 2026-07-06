@@ -79,6 +79,8 @@ Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, �
 ## Citatos
 
 - id: c-45457
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuviai neteko maždaug 700 karių; priešų
     žuvo apie 7000. Po mūšio J. Radvila, jaus-

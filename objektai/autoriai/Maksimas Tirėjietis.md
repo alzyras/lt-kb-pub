@@ -77,6 +77,8 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
 ## Citatos
 
 - id: c-173322
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Man
     atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies

@@ -69,6 +69,8 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 ## Citatos
 
 - id: c-61691
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands
     / K. P. Woelky und J. M. Saage.—Bd. 1 (1231 —1340), Mainz, 1860.

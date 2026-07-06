@@ -85,6 +85,8 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
 ## Citatos
 
 - id: c-33743
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Visą laiką, būdamas katedros vedėju, Lietuvos teisės
     istoriją dėstė nepriklausomoje Lietuvoje Teisių fakultete, kurio

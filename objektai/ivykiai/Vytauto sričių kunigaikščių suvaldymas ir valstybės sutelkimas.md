@@ -203,6 +203,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02114
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pirmiausia Vytautas suvaldė nepaklusnų jauniausiąjį Jogai-
     los brolį Švitrigailą, kuris po motinos mirties savavališkai
@@ -221,6 +223,8 @@ Nenurodyta
     - t-01875
 
 - id: c-02115
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Netrukus neteko savo srities ir Kijevo kunigaikštis, Jo-
     gailos brolis Vladimiras. Kijevas buvo atiduotas Skirgailai;
@@ -236,6 +240,8 @@ Nenurodyta
     - t-01877
 
 - id: c-02116
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
     viena iš stambiausiųjų kunigaikštysčių. Iš visų čia suminėtų sri-
@@ -254,6 +260,8 @@ Nenurodyta
     - t-01876
 
 - id: c-02117
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     daugelis jų nė neketino jo klausyti. Mat, kiekvienas Algirdo sū-
     nus jautėsi Vilniaus sričiai turįs daugiau teisių, negu Vytautas.

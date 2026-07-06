@@ -82,6 +82,8 @@ Narbutas Pramžimą laikė pirmuoju ir visuotinai paplitusiu Senojo pasaulio die
 ## Citatos
 
 - id: c-172021
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Agamemnono šūkis)*
 

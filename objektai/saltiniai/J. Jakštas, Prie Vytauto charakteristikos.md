@@ -75,6 +75,8 @@ Jakštas, J.
 ## Citatos
 
 - id: c-33587
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ivinskis, Z. : _Vytautas Didysis istorinėje literatūroje. Svarbesnės
     literatūros apžvalga apie Vytautą Didįjį,_ Athenaeum, I, 2, 1930, 190-

@@ -127,6 +127,8 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
 ## Citatos
 
 - id: c-73281
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O tikros politinių
     jėgų vienybės reikėjo, nes artėjo sunkūs laikai.
@@ -150,6 +152,8 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
     - t-75520
 
 - id: c-73282
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tokią taktiką galima įvardyti kaip buvimą „tarp
     valdžios ir opozicijos“, kaip „kompromisų politiką“. O tikros politinių

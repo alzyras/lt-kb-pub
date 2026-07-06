@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168950
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kernavėje buvo sukviestas susirinkimas,
     ten susirinko galybė diduomenės. Visi lietuviai rėmė
@@ -145,6 +147,8 @@ Nenurodyta
     - t-185589
 
 - id: c-168951
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Susirinkime ir ta, ir kita ša­
     lis be galo triukšmavo, užsipuldinėdama viena kitą.

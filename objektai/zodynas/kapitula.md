@@ -221,6 +221,9 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 ## Citatos
 
 - id: c-14691
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo pat vardu buvo ir jo krikš­
     tatėvis, Ragainės komtūras.
@@ -237,6 +240,9 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     - t-70168
 
 - id: c-37913
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
     damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
@@ -252,6 +258,8 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     - t-70167
 
 - id: c-175900
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     XVII amžiuje
     kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė ru-

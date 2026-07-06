@@ -300,6 +300,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 ## Citatos
 
 - id: c-170905
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Siauras (Siauras)
     Driežas. Lasickis, kalbėdamas apie fetišus, pamini tik kai
@@ -330,6 +332,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     - t-187917
 
 - id: c-170906
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žaltys (Žaltis)
     Žaltys, laikytas namų dievu ir drauge gydytoju, arba Auš-
@@ -348,6 +352,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     - t-187918
 
 - id: c-170907
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Per­
     sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
@@ -369,6 +375,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     - t-187919
 
 - id: c-173508
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sunkiai, labai steng­
     damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
@@ -387,6 +395,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     - t-190625
 
 - id: c-173509
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
     kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
@@ -402,6 +412,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     - t-190626
 
 - id: c-173571
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ar mūsų latviai
     kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­

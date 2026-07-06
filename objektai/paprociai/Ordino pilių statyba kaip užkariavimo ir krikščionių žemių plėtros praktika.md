@@ -163,6 +163,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63458
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
     darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
@@ -178,6 +180,8 @@ Nenurodyta
     - t-62703
 
 - id: c-63459
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
     315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
@@ -194,6 +198,8 @@ Nenurodyta
     - t-62704
 
 - id: c-167378
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,
     atskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.

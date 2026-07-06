@@ -250,6 +250,8 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
 ## Citatos
 
 - id: c-55234
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     MYKOLAS B A L I N S K I S
     niaus
@@ -279,6 +281,8 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     - t-54395
 
 - id: c-55235
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ĮVADAS
     R  ašydamas istoriją miesto, kuris bemaž du amžius buvo vie­
@@ -311,6 +315,8 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     - t-54394
 
 - id: c-55236
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     UDK 947.45
     Ba237

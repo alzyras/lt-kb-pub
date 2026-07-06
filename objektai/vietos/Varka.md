@@ -75,6 +75,8 @@ Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, su
 ## Citatos
 
 - id: c-82227
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse

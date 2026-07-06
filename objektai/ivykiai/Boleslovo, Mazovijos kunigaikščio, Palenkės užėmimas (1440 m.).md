@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169160
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Su n ku s badas v is o je
     L ie tu v o je

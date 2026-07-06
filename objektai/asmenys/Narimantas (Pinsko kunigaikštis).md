@@ -383,6 +383,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 ## Citatos
 
 - id: c-169434
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Plyšius
     sienose gynėjai kamšė gyvulių odomis ar žvyro mai­
@@ -403,6 +405,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-186073
 
 - id: c-169435
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautas
     įniršo ir, apgailestaudamas, kad visas šis žygis sužlugo,
@@ -428,6 +432,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-186074
 
 - id: c-173812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tokia kaimy­
     nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
@@ -446,6 +452,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-190930
 
 - id: c-176122
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Narimantas nenorėjo
     taip spręsti valstybės reikalų, kad broliai galėtų jam
@@ -464,6 +472,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-193400
 
 - id: c-176590
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     2/3
 
@@ -480,6 +490,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-193965
 
 - id: c-176591
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Romanui gimė penki sūnūs: vyriausias —
     NarimantasJ, antras — Daumantas3 , trečias — Alšys \
@@ -501,6 +513,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-193966
 
 - id: c-176592
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tenai kunigaikščiaudamas, kariavo didelius karus
     su lenkais, su rusais ir su mozūrais, ir visuomet laimė­
@@ -526,6 +540,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-193967
 
 - id: c-176593
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir dėl šito tarp brolių — didžiojo kuni­
     gaikščio Narimanto ir kunigaikščio Daumanto — kilo

@@ -68,6 +68,8 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 ## Citatos
 
 - id: c-32777
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
     ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis. Tuo

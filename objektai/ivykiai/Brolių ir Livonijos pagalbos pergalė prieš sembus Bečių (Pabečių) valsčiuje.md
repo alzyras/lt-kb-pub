@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63542
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     atvykę į sutartą vietą, Livonijos kariams dar neatėjus, pradėjo siaubti minėtąjį valsčių,
     grobdami ir degindami. įniršę sembai susibūrė, smarkiai užgriuvo brolių kariuomenę ir

@@ -204,6 +204,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 ## Citatos
 
 - id: c-25100
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
     nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
@@ -223,6 +225,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-78023
 
 - id: c-75336
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
     lotyniškąjį raidyną rusišku raidynu, arba kirilika. 1864 m. M. Muravjovo
@@ -237,6 +241,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-78022
 
 - id: c-75337
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
     juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė
@@ -256,6 +262,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-78024
 
 - id: c-75338
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Juk separatizmas tarpo pirmiausia vietos bajoriškoje
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,

@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63047
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
 

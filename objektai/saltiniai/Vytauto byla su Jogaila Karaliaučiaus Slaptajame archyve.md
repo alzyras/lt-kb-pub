@@ -132,6 +132,8 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
 ## Citatos
 
 - id: c-84334
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Net ir pats Vytautas
     dėstydamas savo bylą su Jogaila,
@@ -164,6 +166,8 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
     - t-88355
 
 - id: c-84335
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Hanulas, arba Hanka32,
     užmuš, o mūsų kraštą užvaldys. O

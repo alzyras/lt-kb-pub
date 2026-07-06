@@ -121,6 +121,8 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
 ## Citatos
 
 - id: c-169465
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai jie, minios sveikinami, pargrįžo į Vilnių, karius
     apspitę žmonės (tie, kurie
@@ -156,6 +158,8 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
     - t-186104
 
 - id: c-176529
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 0  Davalnų giminės istorija ligi XV a. neištirta. Anksčiausiai
     minimas dokumentuose Davaina. Vtslglrdo sūnus, kuris KOI m.

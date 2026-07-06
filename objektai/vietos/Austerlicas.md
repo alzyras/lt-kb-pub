@@ -86,6 +86,8 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
 ## Citatos
 
 - id: c-171867
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
     vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­

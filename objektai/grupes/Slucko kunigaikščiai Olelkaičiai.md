@@ -123,6 +123,8 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
 ## Citatos
 
 - id: c-170700
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     330
 
@@ -139,6 +141,8 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
     - t-187761
 
 - id: c-170701
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
     puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­

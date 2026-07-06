@@ -76,6 +76,8 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
 ## Citatos
 
 - id: c-171991
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Mes gi apie tai nieko negalime pasakyti*.
     362

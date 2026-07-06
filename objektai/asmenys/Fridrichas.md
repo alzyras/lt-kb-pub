@@ -205,6 +205,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83652
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     _  .
     230
@@ -227,6 +229,8 @@ media_all_json: |-
     - t-87673
 
 - id: c-168059
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žygiuodamas toliau su kariuomene,
     jis užėmė Romą ir, nukėlęs

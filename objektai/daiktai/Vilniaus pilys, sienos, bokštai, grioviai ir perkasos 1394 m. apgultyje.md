@@ -192,6 +192,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83045
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šis tiek netikėtas,
     tiek sėkmingas susirėmimas magistrui nuėjo perniek. Iš­
@@ -210,6 +212,8 @@ Nenurodyta
     - t-87068
 
 - id: c-83046
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     —  •  —
     137
@@ -237,6 +241,8 @@ Nenurodyta
     - t-87067
 
 - id: c-83047
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Matydamas šitai, lietuvių vadas din­
     go kryžiuočiams iš akių, o magistras su visa kariauna

@@ -469,6 +469,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 ## Citatos
 
 - id: c-44563
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos didysis kunigaikštis Žygi-
     mantas Kęstutaitis, sukaupęs „kiek galėjo
@@ -486,6 +488,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-40516
 
 - id: c-44564
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     D.
     nas BAKA ŠV
@@ -522,6 +526,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-40515
 
 - id: c-44565
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1435 m. gruodžio 31 d. sudaryta Bresto
     (Kujavy) taika tarp Lenkijos karaliaus
@@ -543,6 +549,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-40517
 
 - id: c-167157
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     —
     -
@@ -581,6 +589,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-183769
 
 - id: c-168218
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     P a k v ie č ia m a s į V en -
     Pirmiausia,
@@ -608,6 +618,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-184857
 
 - id: c-168219
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sumuštas vos ne vos paspruko iš
     nugalėtojo rankų. Tačiau Vladislovas tuojau pat po
@@ -625,6 +637,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-184858
 
 - id: c-168220
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,
@@ -643,6 +657,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-184859
 
 - id: c-168221
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasiuntęs per ištikimą savo giminaitį laišką ka­
     raliui, jis nuolankiai paprašė atleidimo, pasižadėdamas
@@ -663,6 +679,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-184860
 
 - id: c-168222
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kiekvienas apsistojo
     635

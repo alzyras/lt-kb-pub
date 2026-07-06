@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173954
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tai, kad tie asai, arba osetinai, priklauso tai
     pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė

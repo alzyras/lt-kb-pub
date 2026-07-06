@@ -83,6 +83,8 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
 ## Citatos
 
 - id: c-175722
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     158
     Gintaro geidė labiau apsišvietusios senovės tautos, to­

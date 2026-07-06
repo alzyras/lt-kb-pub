@@ -68,6 +68,8 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
 ## Citatos
 
 - id: c-33915
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Teoretiškai
     jos buvo siekusios Žemaičių valdžioje esančių Minijos aukštupių.

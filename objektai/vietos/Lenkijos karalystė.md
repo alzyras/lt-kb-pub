@@ -467,6 +467,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 ## Citatos
 
 - id: c-24242
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas. Joje reikalauta
@@ -483,6 +485,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114452
 
 - id: c-24243
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nepasikeitė ir vietinio valdymo modelis. Lietu-
     voje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos insti-
@@ -500,6 +504,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114457
 
 - id: c-105527
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jeigu kredenso pritrūktų, prašo­
     me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš
@@ -526,6 +532,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114453
 
 - id: c-105528
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dėl to norime, kad mūsų kū­
     nas būtų ten palaidotas, kur mus užklups paskutinioji va­
@@ -551,6 +559,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114450
 
 - id: c-105529
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi Švitrigaila
     Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­
@@ -566,6 +576,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114458
 
 - id: c-105530
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Norėtume, kad Viešpats
     Dievas, kuris būdamas vienas vienybėje esančius myli, vie­
@@ -598,6 +610,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114455
 
 - id: c-105531
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kad [įsivėlusi] klaida per nerū­
     pestingumą dėl vykstančių reikalų kartais neatneštų kokios
@@ -627,6 +641,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114459
 
 - id: c-105532
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros iš-
     stūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta. Rusų kalba
@@ -649,6 +665,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114456
 
 - id: c-105533
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogaila taip pat
     nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­

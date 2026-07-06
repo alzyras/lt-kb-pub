@@ -113,6 +113,8 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
 ## Citatos
 
 - id: c-59738
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
     aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
@@ -129,6 +131,8 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
     - t-59106
 
 - id: c-176942
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir
     Rygos miesto tarybai)50. Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems

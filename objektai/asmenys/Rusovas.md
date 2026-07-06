@@ -80,6 +80,8 @@ Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą
 ## Citatos
 
 - id: c-173090
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nuženk iš dangaus, pasigailėk)
     Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­

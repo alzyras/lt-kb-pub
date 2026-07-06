@@ -3110,6 +3110,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-00356
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Žemaičių sukilimas 1409 m.** Po Racionžo taikos Vytautas
     dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pa-
@@ -3126,6 +3128,8 @@ media_all_json: |-
     - t-193134
 
 - id: c-00357
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ordino valdžia buvo labai žiauri.
     Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo
@@ -3141,6 +3145,8 @@ media_all_json: |-
     - t-193135
 
 - id: c-00358
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kitais metais krašte jau
     buvo pilna Vytauto atsiųstų žmonių, ir bruzdėjimas ėjo atviryn.
@@ -3157,6 +3163,8 @@ media_all_json: |-
     - t-193136
 
 - id: c-05822
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet Torno taika abiem valstybėm nedavė to, ko jos po Žalgirio
     galėjo tikėtis. Dar reikėjo dėti pastangų ištisus 12 metų, kol buvo
@@ -3170,6 +3178,9 @@ media_all_json: |-
     - t-176147
 
 - id: c-14994
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pagonys žemaičiai iš pradžių
     norėjo laikytis Jogailos ir nusiuntė jam pasiuntinius, klausdami,
@@ -3184,6 +3195,9 @@ media_all_json: |-
     - t-176160
 
 - id: c-14998
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tiesa, Vok.
     Ordinas mėgino skelbti Žemaitijoje Kristaus tikėjimo tiesas,
@@ -3202,6 +3216,9 @@ media_all_json: |-
     - t-176120
 
 - id: c-14999
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kaip uolesni pagonys už kitus lietuvius, žemaičiai
     ir priėmę krikštą atkrisdavo į savo seną tikėjimą, ir neklausy­
@@ -3217,6 +3234,8 @@ media_all_json: |-
     - t-176120
 
 - id: c-21447
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Visas savo
     bombardas palikę Jogailai, kryžiuočiai «linksmi ir sveiki grįžo
@@ -3234,6 +3253,8 @@ media_all_json: |-
     - t-176122
 
 - id: c-31292
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagal Eiliuotinę Livonijos kroniką, Žemaičiai po šito laimėjimo
     esą siuntę savo pasiuntinius pas Mindaugą ir esą prašę žymųjį karo
@@ -3248,6 +3269,9 @@ media_all_json: |-
     - t-176156
 
 - id: c-36981
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ir tik jis, būdamas Kęstučio sūnus ir turė­
     damas dideles simpatijas Žemaičiuose ir Lietuvoj, galėjo įvesti
@@ -3262,6 +3286,9 @@ media_all_json: |-
     - t-176124
 
 - id: c-36985
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau ši sutartis pirk­
     lius neilgai džiugino, nes 1401 metais, sukilus prieš Ordiną Že­
@@ -3284,6 +3311,8 @@ media_all_json: |-
     - t-176128
 
 - id: c-46423
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagaliau santykiai tarp ordino ir
     Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
@@ -3298,6 +3327,8 @@ media_all_json: |-
     - t-176134
 
 - id: c-160170
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lenkijos pavyz­
     džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarnybos
@@ -3320,6 +3351,8 @@ media_all_json: |-
     - t-176158
 
 - id: c-160171
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai reiškia:
     „Žemaitijos žemė yra ir visada bu­
@@ -3352,6 +3385,8 @@ media_all_json: |-
     - t-176164
 
 - id: c-160172
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis. Šis bulės originalas su ver-
@@ -3382,6 +3417,8 @@ media_all_json: |-
     - t-176148
 
 - id: c-160173
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
@@ -3399,6 +3436,9 @@ media_all_json: |-
     - t-176152
 
 - id: c-160174
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordinas atsiuntė savo komtūrą
     Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
@@ -3415,6 +3455,9 @@ media_all_json: |-
     - t-176159
 
 - id: c-160175
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Salzbachą su keliais tūkstančiais kariuomenės;
     prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
@@ -3431,6 +3474,9 @@ media_all_json: |-
     - t-176138
 
 - id: c-160176
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vienintelis as­
     muo, kuris tam tiko, buvo tik Vytautas. Jis dabar, būdamas
@@ -3448,6 +3494,8 @@ media_all_json: |-
     - t-176167
 
 - id: c-160177
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
     Vokiečių ordino riteris pagrobia vaiką.
@@ -3465,6 +3513,8 @@ media_all_json: |-
     - t-176126
 
 - id: c-160178
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1416 m. žemaičių delegacija Konstancos bažnytiniame susirinkime pareiškė, jog jie,
 
@@ -3490,6 +3540,9 @@ media_all_json: |-
     - t-176145
 
 - id: c-160179
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pastarieji
     turėjo artimų santykių su Vilniumi, kur Vytautas juos maloniai
@@ -3505,6 +3558,8 @@ media_all_json: |-
     - t-176162
 
 - id: c-160180
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ta lietuvių tauta, išsis­
     kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
@@ -3538,6 +3593,8 @@ media_all_json: |-
     - t-176123
 
 - id: c-160181
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
     tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
@@ -3555,6 +3612,8 @@ media_all_json: |-
     - t-176133
 
 - id: c-160184
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gynėjai iškėlė vėliavas su kryžiais, kaip
     ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­
@@ -3611,6 +3670,8 @@ media_all_json: |-
     - t-176165
 
 - id: c-160186
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
     Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­
@@ -3637,6 +3698,8 @@ media_all_json: |-
     - t-176140
 
 - id: c-160189
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     72
     D o g i e 1 Codex Diplom. IV, 92 yra
@@ -3655,6 +3718,9 @@ media_all_json: |-
     - t-176117
 
 - id: c-160190
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip pat buvo susitarta
     užkariauti savarankiškus, turtingus ir prekybai patogius Psko­
@@ -3677,6 +3743,9 @@ media_all_json: |-
     - t-176143
 
 - id: c-160192
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jų dau­
     giausia parduodavo Vokiečių Ordinui ir Dancigo miestui, o kai­
@@ -3693,6 +3762,9 @@ media_all_json: |-
     - t-176143
 
 - id: c-160193
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lie­
     tuvių pirkliai dabar nuvykdavo toli į Prūsus, pasiekdavo Danci­
@@ -3708,6 +3780,8 @@ media_all_json: |-
     - t-176143
 
 - id: c-160194
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau
     atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
@@ -3758,6 +3832,9 @@ media_all_json: |-
     - t-176150
 
 - id: c-160196
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1398 m. Gardine
     padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas:
@@ -3773,6 +3850,8 @@ media_all_json: |-
     - t-176130
 
 - id: c-160197
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kad ir laikydami Že­
     maičius vyriausioje savo valdžioje, į pačius krašto reikalus Vilniaus
@@ -3791,6 +3870,9 @@ media_all_json: |-
     - t-176163
 
 - id: c-160198
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žemaičiai jam
     pritarė ir rėmė jo planus. Apie Sekmines (1390 m.) iš
@@ -3808,6 +3890,8 @@ media_all_json: |-
     - t-176159
 
 - id: c-160199
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvių pajėgos
 
@@ -3837,6 +3921,8 @@ media_all_json: |-
     - t-176157
 
 - id: c-160203
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Iš Dobės (šiaurėje),
     Klaipėdos (vakaruose) ir Georgenburgo
@@ -3863,6 +3949,9 @@ media_all_json: |-
     - t-176119
 
 - id: c-160206
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taip pat šiuo laiku Nemunu buvo plukdoma ir daug
     medžių. Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­
@@ -3877,6 +3966,8 @@ media_all_json: |-
     - t-176115
 
 - id: c-160208
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kšivickis L. Žemaičių senovė.—Kaunas—Marijampolė, 1928.
   statusas: verified
@@ -3887,6 +3978,8 @@ media_all_json: |-
     - t-176135
 
 - id: c-160210
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Gal tai
     jau gali būti ženklu, jog kokia nors karinė akcija iš Lietuvos buvo
@@ -3904,6 +3997,9 @@ media_all_json: |-
     - t-176155
 
 - id: c-160211
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl ir
     nenuostabu, kad žemaičiai savo vakarykščiams priešams
@@ -3921,6 +4017,8 @@ media_all_json: |-
     - t-176131
 
 - id: c-166332
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vilniuje sėdėjo pats
     Gediminas, Polocke — jo brolis Vainys, o kitose kunigaikštys-
@@ -3936,6 +4034,8 @@ media_all_json: |-
     - t-182931
 
 - id: c-166333
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl jis
     nepaisė ordino reikalavimo. Pagaliau santykiai tarp ordino ir
@@ -3950,6 +4050,8 @@ media_all_json: |-
     - t-182932
 
 - id: c-167292
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgiečio krivis
     tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
@@ -3965,6 +4067,8 @@ media_all_json: |-
     - t-183907
 
 - id: c-167952
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Skir­
     mantas, norėdamas kuo greičiausiai atremti pavojų,
@@ -3998,6 +4102,8 @@ media_all_json: |-
     - t-184591
 
 - id: c-167953
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kolonijos Agripinos6 ar­
     kivyskupas Avigenas ne tik pats su kariuomene pa­
@@ -4019,6 +4125,8 @@ media_all_json: |-
     - t-184592
 
 - id: c-167954
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kitais metais
     Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
@@ -4042,6 +4150,8 @@ media_all_json: |-
     - t-184593
 
 - id: c-167955
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Niekada prie jo
     nebūsią galima lengviau prieiti, kaip tada, kai, išren­
@@ -4059,6 +4169,8 @@ media_all_json: |-
     - t-184594
 
 - id: c-167956
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atrodė, jog kryžiuočiams šį
     5*
@@ -4092,6 +4204,8 @@ media_all_json: |-
     - t-184595
 
 - id: c-167957
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kry­
     žiuočių riteriai, džiaugdamie­
@@ -4119,6 +4233,8 @@ media_all_json: |-
     - t-184596
 
 - id: c-167958
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
@@ -4138,6 +4254,8 @@ media_all_json: |-
     - t-184597
 
 - id: c-170691
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O
     paskui Danielius sumanė su savo broliu ir nusiuntė
@@ -4156,6 +4274,8 @@ media_all_json: |-
     - t-187752
 
 - id: c-170692
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Visa tai padarė, kad Lietuva netapo krikščioniška.
     Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
@@ -4173,6 +4293,8 @@ media_all_json: |-
     - t-187753
 
 - id: c-170693
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Vyriausias—Jogaila Vladislovas1 8 ;
     antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
@@ -4191,6 +4313,8 @@ media_all_json: |-
     - t-187754
 
 - id: c-170694
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir išvažinėjo savo keliais.
     Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
@@ -4207,6 +4331,8 @@ media_all_json: |-
     - t-187755
 
 - id: c-170695
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
     juos kariuomenę Palangoje, norėdami vėl juos pavergti,
@@ -4224,6 +4350,8 @@ media_all_json: |-
     - t-187756
 
 - id: c-170696
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     180
 
@@ -4243,6 +4371,8 @@ media_all_json: |-
     - t-187757
 
 - id: c-171255
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be to,
     ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
@@ -4259,6 +4389,8 @@ media_all_json: |-
     - t-188361
 
 - id: c-171256
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Be to, mano pa­
     ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
@@ -4277,6 +4409,8 @@ media_all_json: |-
     - t-188362
 
 - id: c-171257
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Valdant Hote-
     riui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,
@@ -4293,6 +4427,8 @@ media_all_json: |-
     - t-188363
 
 - id: c-171258
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Yra padavimas, jog Žemaičiuose buvę septynios deivės par­
     kos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­
@@ -4306,6 +4442,8 @@ media_all_json: |-
     - t-188364
 
 - id: c-171259
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čeltyčios (Czeltice)
     Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
@@ -4326,6 +4464,8 @@ media_all_json: |-
     - t-188365
 
 - id: c-171260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Trotytojas kibirkščių (Trotitas-Kirbixtu)
     Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
@@ -4340,6 +4480,8 @@ media_all_json: |-
     - t-188366
 
 - id: c-171261
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žyniai iš jų burdavo. Žemaičiai
     manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
@@ -4355,6 +4497,8 @@ media_all_json: |-
     - t-188367
 
 - id: c-171262
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atlikdami religines apeigas, jie naudodavo storus (tuščiavidu­
     rius) medžių kamienus, aptrauktus žalia oda, kurių garsas bu­
@@ -4373,6 +4517,8 @@ media_all_json: |-
     - t-188368
 
 - id: c-171263
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dar negalime nepaminėti smulkmenų, bylojančių apie Že­
     maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
@@ -4388,6 +4534,8 @@ media_all_json: |-
     - t-188369
 
 - id: c-171264
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip jų mokslas rado mora­
     linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
@@ -4404,6 +4552,8 @@ media_all_json: |-
     - t-188370
 
 - id: c-176789
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos

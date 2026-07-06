@@ -175,6 +175,8 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 ## Citatos
 
 - id: c-28881
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m.
     rudenį (X.8) iki kitų metų šv. Jono (VI.24) buvo padarytos paliau­
@@ -187,6 +189,8 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
     - t-28977
 
 - id: c-28882
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Sprendimu Vaclovo, kuris iš kryžiuočių
     už tai gavo keliasdešimt tūkstančių vengriškų « raudonųjų », Pra­
@@ -199,6 +203,8 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
     - t-28976
 
 - id: c-168212
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi tyli ir metraš­
     tininkai, aišku, kad artimiausiais metais ir su kaimy­

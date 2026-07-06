@@ -94,6 +94,8 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
 ## Citatos
 
 - id: c-67420
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po ilgų derybų
     tebuvo susitarta tik kai kuriais klausimais ir buvo surašytas spe-
@@ -111,6 +113,8 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
     - t-67557
 
 - id: c-67421
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo
     metu buvo surašytas specialus aktas, į kurį buvo įtraukti visi iš-

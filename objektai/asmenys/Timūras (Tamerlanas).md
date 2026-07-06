@@ -87,6 +87,8 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 ## Citatos
 
 - id: c-44538
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1371 m. turkai įsiveržė į
     Makedoniją, 1389 m. nugalėjo serbus ir bosnius Kosovo

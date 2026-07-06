@@ -196,6 +196,8 @@ Jį valdė Vilniaus generalgubernatorius.
 ## Citatos
 
 - id: c-46900
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
     vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
@@ -210,6 +212,8 @@ Jį valdė Vilniaus generalgubernatorius.
     - t-182947
 
 - id: c-48497
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Imperijos sos-
     tinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė
@@ -224,6 +228,8 @@ Jį valdė Vilniaus generalgubernatorius.
     - t-45822
 
 - id: c-48499
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
     nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
@@ -243,6 +249,8 @@ Jį valdė Vilniaus generalgubernatorius.
     - t-45820
 
 - id: c-166819
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Į didesnius dalinius sukilėliai jau nesitelkė, vadovavosi
     partizaninio karo nedidelių antpuolių taktika.

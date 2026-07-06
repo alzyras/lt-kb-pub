@@ -87,6 +87,8 @@ Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka.
 ## Citatos
 
 - id: c-83843
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Baltramiejaus šventės, tūkstan­
     tis penki šimtai pirmaisiais Viešpaties metais. Ten pat daly­

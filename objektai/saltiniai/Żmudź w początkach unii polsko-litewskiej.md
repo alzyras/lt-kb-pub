@@ -79,6 +79,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-33777
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     : _Kiejstut i Jagiełło_ , Pamiętnik AU,
     t. 7, Kraków 1889, 79-155 p. — Wagner, K. : _Vokiečių ordino pilys

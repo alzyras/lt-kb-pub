@@ -164,6 +164,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169961
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 9  Švitrigaila sudarė su kryžiuočiais talkos ir savitarpio pagal­
     bos Sutarti dar 1431 m. birželio mėn. Livonijos ordinas paskelbė
@@ -181,6 +183,8 @@ Nenurodyta
     - t-186749
 
 - id: c-169962
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     33 Livonijos ordino kariuomenė, išžygiavusi iš Cėsių 1433 m
     liepos mėn. niokoti Lietuvos, užtruko žygyje 11 savaičių. Magistras

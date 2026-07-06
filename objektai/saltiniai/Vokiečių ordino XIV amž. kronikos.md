@@ -68,6 +68,8 @@ Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobia
 ## Citatos
 
 - id: c-33741
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vokiečių ordino
     XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi žirgy­

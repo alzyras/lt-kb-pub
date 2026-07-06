@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23182
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
     skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
@@ -153,6 +155,8 @@ Nenurodyta
     - t-20458
 
 - id: c-166656
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus

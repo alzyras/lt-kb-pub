@@ -71,6 +71,9 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
 ## Citatos
 
 - id: c-38280
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vienos profesoriai aiškino, kad į tai mokslininkai įvairiai atsa­
     kinėja; vieni, kad popiežius, kiti, kad arcivyskupas arba vys­

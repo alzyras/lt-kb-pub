@@ -134,6 +134,8 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 ## Citatos
 
 - id: c-175105
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Visi sutinka su nuomone, jog, ištirpus ledynams, pas
     mus atplaukė ir tos Siaurės uotų nuolaužos, — jas atpluk­

@@ -141,6 +141,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168865
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gediminas, pasinaudojęs
     G edim in as,
@@ -160,6 +162,8 @@ Nenurodyta
     - t-185504
 
 - id: c-176081
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai Vladimi­
     ras jokiais maldavimais neįstengė jų sulaikyti, pats

@@ -164,6 +164,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82879
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O kadangi no­
     rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
@@ -198,6 +200,8 @@ Nenurodyta
     - t-86899
 
 - id: c-82880
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
     Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­

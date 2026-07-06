@@ -258,6 +258,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-75662
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie
     kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos
@@ -281,6 +283,8 @@ media_all_json: |-
     - t-78381
 
 - id: c-75663
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šiame sparne buvo sutelktos įvairios
     kavalerijos rūšys. Šio sparno jėga - reitarų
@@ -300,6 +304,8 @@ media_all_json: |-
     - t-78382
 
 - id: c-75664
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rytietiška strėlinė.
     Tokias strėlines naudo-
@@ -317,6 +323,8 @@ media_all_json: |-
     - t-78379
 
 - id: c-75665
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vienu metu, iš
     šono ir priekio, reitarų ir husarų vėliavos
@@ -335,6 +343,8 @@ media_all_json: |-
     - t-78380
 
 - id: c-171181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
     pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.

@@ -181,6 +181,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Citatos
 
 - id: c-46905
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Sapiegos tuo tarpu grįžo į Lie-
     tuvą, hetmonas gavo dalį švedų kariuomenės ir liko Vilniuje. Viš-
@@ -197,6 +199,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-70189
 
 - id: c-46906
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Rusų tarpininkavimo padariniai.** Priimtomis sąlygomis,
     Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
@@ -215,6 +219,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-70186
 
 - id: c-166353
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Viš-
     niaveckis, Oginskis ir kiti Sapiegų priešai su savo kariuomenės

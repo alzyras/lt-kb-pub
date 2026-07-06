@@ -76,6 +76,8 @@ Dieckmann Ch., Sužiedėlis S.
 ## Citatos
 
 - id: c-26696
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dieckmann Ch., Sužiedėlis S. Lietuvos žydų persekiojimas ir masinės žu-
     dynės 1941 m. vasarą ir rudenį / The Persecution and Mass Murder of Lithuanian

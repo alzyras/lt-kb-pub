@@ -115,6 +115,8 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
 ## Citatos
 
 - id: c-171861
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -133,6 +135,8 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
     - t-188972
 
 - id: c-171862
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Hartknochas pagal senus duomenis nurodo garsų šventąjį
     mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie

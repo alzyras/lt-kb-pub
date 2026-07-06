@@ -151,6 +151,8 @@ Pilis sudeginta ir liko apleista.
 ## Citatos
 
 - id: c-91568
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     XIV amž. ordinas Nemuno žemu­
     pyje ėmė statytis savo pilis, kurių kiekviena vis buvo nukreipta
@@ -166,6 +168,8 @@ Pilis sudeginta ir liko apleista.
     - t-97015
 
 - id: c-91569
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
     Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės

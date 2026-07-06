@@ -70,6 +70,8 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
 ## Citatos
 
 - id: c-67272
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva nelengvai, tačiau tapo
     visateise Europos valstybe. Taigi istorinės LDK dalybos baigėsi tuo, kad

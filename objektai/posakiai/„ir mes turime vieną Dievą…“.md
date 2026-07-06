@@ -80,6 +80,8 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
 ## Citatos
 
 - id: c-23624
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
     santvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva

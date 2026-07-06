@@ -118,6 +118,8 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
 ## Citatos
 
 - id: c-40590
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dažniausiai šaudydavo ne visa linija,
     bet atskiri padaliniai paeiliui,
@@ -141,6 +143,8 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
     - t-38786
 
 - id: c-167108
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kavalerija sparnuose tuo pačių metu stengdavosi |
     sutriuškinti arba priversti pasitraukti iš mūšio lauko priešo raite-

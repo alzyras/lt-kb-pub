@@ -61,6 +61,8 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
 ## Citatos
 
 - id: c-65053
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     (Vičulkovskio paveikslas).
     jo dukterys buvo ištekėjusios už Vokietijos kunigaikščių. Viena iš

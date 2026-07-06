@@ -74,6 +74,8 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
 ## Citatos
 
 - id: c-40335
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prūsiškas karabinas su titnagine spyna. Kalibras - 17,4 mm. Pagamintas Potsdame. XVIII a. antrojoje
     pusėje LDK daugumą šaunamųjų ginklų, skirtų pėstininkams ir kavalerijai, pirkdavo iš Prūsijos gamintojų.

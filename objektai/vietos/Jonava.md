@@ -78,6 +78,8 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 ## Citatos
 
 - id: c-02715
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau puo-
     limas nepasisekė. Netekęs

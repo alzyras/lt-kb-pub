@@ -74,6 +74,8 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 ## Citatos
 
 - id: c-28300
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
     sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.

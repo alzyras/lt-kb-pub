@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-91586
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Rygai
     rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
@@ -142,6 +144,8 @@ Nenurodyta
     - t-97038
 
 - id: c-91587
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159. Rygai
     rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.

@@ -126,6 +126,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75855
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     užmuštų ir šešių sužeistų karių.
     Balandžio 24 d. Vilniuje,

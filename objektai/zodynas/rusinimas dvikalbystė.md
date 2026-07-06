@@ -152,6 +152,8 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 ## Citatos
 
 - id: c-24972
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
     kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
@@ -170,6 +172,8 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
     - t-22284
 
 - id: c-24973
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     kad Lietuvoje ne tik mokyklose, bet ir aukštosiose mokyklose dėstyta lie-
     tuviškai, nors dauguma literatūros buvo tik rusų kalba. Nemažai jaunimo
@@ -185,6 +189,8 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
     - t-22283
 
 - id: c-166857
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nemažai jaunimo
     mokėsi Maskvos, Leningrado ir kitose SSRS aukštosiose mokyklose.

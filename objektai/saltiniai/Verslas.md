@@ -67,6 +67,8 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
 ## Citatos
 
 - id: c-24002
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žydai tebe-
     kontroliavo apie 40 proc. šalies pramonės, 54 proc. jos vidaus prekybos,

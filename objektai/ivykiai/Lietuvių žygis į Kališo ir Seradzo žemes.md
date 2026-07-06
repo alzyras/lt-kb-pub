@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169173
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kryžiuočiams puldinėjant gretimus Žemaitijos
     kaimus, lietuviai su savo nuolatiniu, galima sakyti,

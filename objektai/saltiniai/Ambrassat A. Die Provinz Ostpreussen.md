@@ -115,6 +115,8 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
 ## Citatos
 
 - id: c-61580
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ambrassat A. Die Prowinz Ostpreussen —Königsberg i. Pr., 1912.
   statusas: verified
@@ -125,6 +127,8 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
     - t-60949
 
 - id: c-61581
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
     3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351

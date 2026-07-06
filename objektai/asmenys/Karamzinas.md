@@ -194,6 +194,8 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
 ## Citatos
 
 - id: c-174128
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
@@ -210,6 +212,8 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
     - t-191246
 
 - id: c-174129
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -228,6 +232,8 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
     - t-191247
 
 - id: c-174130
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dešiniojoje Dnep-
     1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
@@ -241,6 +247,8 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
     - t-191248
 
 - id: c-174131
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     102
     Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų

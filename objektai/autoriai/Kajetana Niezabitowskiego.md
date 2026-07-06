@@ -76,6 +76,8 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
 ## Citatos
 
 - id: c-173316
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     T. Nar­
     butas turėjo omenyje straipsnį: Krotki spis

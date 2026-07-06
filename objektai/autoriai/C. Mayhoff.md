@@ -71,6 +71,8 @@ Dusburgietis teigia, kad mayhoff.
 ## Citatos
 
 - id: c-61313
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Plinius C. Secundus Naturalis historiae libri XXXVII/Ed. C. Mayhoff. Vol. V. Libri XXXI—
     XXXVII,—Lipsiae, 1897.

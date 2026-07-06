@@ -88,6 +88,8 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
 ## Citatos
 
 - id: c-32891
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^76) ĮVADAS
     pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai

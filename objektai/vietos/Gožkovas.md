@@ -81,6 +81,8 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 ## Citatos
 
 - id: c-82166
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kojelavičius ir Nar a movs-
     k i s klysta tą vyskupą Mikalojų va­

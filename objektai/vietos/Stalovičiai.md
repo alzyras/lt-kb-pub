@@ -71,6 +71,8 @@ Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo
 ## Citatos
 
 - id: c-40358
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po mūšio
 

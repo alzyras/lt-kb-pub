@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66872
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kad ateityje nebebūtų tokio išnaudojimo, 1929 m. buvo išleistas nau-
     jas įstatymas, kuris vykstančius apsaugo ne tik nuo išnaudojimų, bet

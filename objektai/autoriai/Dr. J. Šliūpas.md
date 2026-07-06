@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-01267
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
     nytojas, pirmasis redaktorius ir siela buvo Basanavičius. Bet

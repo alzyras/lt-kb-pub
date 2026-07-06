@@ -121,6 +121,8 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
 ## Citatos
 
 - id: c-174046
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dėl to reikia daryti išva­
     dą, kad senovės jotvingių kalba arba visiškai išnykusi,
@@ -138,6 +140,8 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
     - t-191164
 
 - id: c-174842
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
     duabus sarmatiis Asiana et Europiana, et de continentis in eis.

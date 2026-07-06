@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82888
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
     iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,

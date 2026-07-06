@@ -75,6 +75,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 ## Citatos
 
 - id: c-10411
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Antrapus Daugavos lietuvius gyvenančius lig upei Gaujai vadino latviais iš
         pagadinto vardo latuviai, jų kraštą Latvija. Dar juo į rytus vadino kraštą Letgalija, tai yra –

@@ -139,6 +139,8 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 ## Citatos
 
 - id: c-169422
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Len­
     kams pasitraukus į miestus ir neleidus savo turtą nio­
@@ -165,6 +167,8 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
     - t-186061
 
 - id: c-169423
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Len­
     kai, pasirengę kovai, užtvindė didžiulę lygumą pamiš­

@@ -61,6 +61,8 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
 ## Citatos
 
 - id: c-59720
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
     žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums? Kam mes gimėme,

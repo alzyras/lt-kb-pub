@@ -169,6 +169,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 ## Citatos
 
 - id: c-176357
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Romantikas S. Daukantas savo
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
@@ -185,6 +187,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - t-193688
 
 - id: c-176358
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gyventojų bendrumo mobilizacijos sėkmė ėmė gąsdinti caro admi-
     nistraciją, vyskupas jau buvo pravardžiuojamas Žemaitijos kunigaikš-
@@ -205,6 +209,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - t-193689
 
 - id: c-176359
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies
     etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis
@@ -222,6 +228,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - t-193690
 
 - id: c-176360
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     M. Valančius, perpratęs
     valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios

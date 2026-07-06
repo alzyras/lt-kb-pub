@@ -131,6 +131,8 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 ## Citatos
 
 - id: c-82552
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau
     pastarieji 1341 metais, į Vilnių atvy­
@@ -160,6 +162,8 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
     - t-86572
 
 - id: c-176819
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Algirdas,
     didžiulių pagoniškų kraštų valdo­

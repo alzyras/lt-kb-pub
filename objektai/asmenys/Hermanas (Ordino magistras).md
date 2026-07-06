@@ -130,6 +130,8 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 ## Citatos
 
 - id: c-60661
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
     pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
@@ -144,6 +146,8 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
     - t-60030
 
 - id: c-60662
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
                                     Mariae] pastatymą

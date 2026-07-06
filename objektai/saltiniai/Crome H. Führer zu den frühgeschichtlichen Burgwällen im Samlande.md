@@ -72,6 +72,8 @@ Dusburgietis teigia, kad crome H.
 ## Citatos
 
 - id: c-61694
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Crome H. Führer zu den frühgeschichtlichen Burgwällen im Samlande.— Prussia,
     1940, Bd. 34, S. 5—82.

@@ -145,6 +145,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172663
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šaltinis
     yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
@@ -166,6 +168,8 @@ Nenurodyta
     - t-189780
 
 - id: c-172664
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šie
     paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­

@@ -79,6 +79,8 @@ Iki mūsų eros pradžios teturime labai maža senosios kultūros liudininkų; t
 ## Citatos
 
 - id: c-03235
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Geležis Lietuvoje pradedama vartoti ne anksčiau, kaip apie
     500 m. pr. Kr. Iki mūsų eros pradžios teturime labai maža seno-

@@ -80,6 +80,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-28530
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Čia reikia paminėti labai kritišką Igną Danilavičių
     (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų

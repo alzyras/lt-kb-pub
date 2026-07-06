@@ -76,6 +76,8 @@ KH = Kwartalnik Historyczny, žurn.
 ## Citatos
 
 - id: c-29811
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     KH = Kwartalnik Historyczny, žurn. nuo 1887 m. leidžiamas
     Lvove, nuo 1945 m. Krokuvoje, nuo 1952 m. Varšuvoje.

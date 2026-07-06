@@ -75,6 +75,8 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
 ## Citatos
 
 - id: c-172968
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šie
     mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-

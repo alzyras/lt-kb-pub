@@ -64,6 +64,8 @@ Dusburgietis teigia, kad lasickis J.
 ## Citatos
 
 - id: c-61758
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969.
   statusas: verified

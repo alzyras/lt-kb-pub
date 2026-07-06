@@ -81,6 +81,8 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
 ## Citatos
 
 - id: c-82587
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nederėtų, be
     to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš

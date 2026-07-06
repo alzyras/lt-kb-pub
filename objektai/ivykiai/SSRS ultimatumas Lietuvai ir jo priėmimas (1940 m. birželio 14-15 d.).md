@@ -331,6 +331,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23199
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
@@ -352,6 +354,8 @@ Nenurodyta
     - t-45445
 
 - id: c-23200
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
@@ -373,6 +377,8 @@ Nenurodyta
     - t-45446
 
 - id: c-23201
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
     atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
@@ -392,6 +398,8 @@ Nenurodyta
     - t-45447
 
 - id: c-23202
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-
     tiesiems, lageriai būsimiems karo belaisviams. Sovietai dar pavasarį slapta
@@ -411,6 +419,8 @@ Nenurodyta
     - t-45442
 
 - id: c-23203
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau ministro pirmininko
     Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
@@ -427,6 +437,8 @@ Nenurodyta
     - t-45443
 
 - id: c-48258
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     A. Smetonos siūlymą priešintis ginklu palaikė
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
@@ -440,6 +452,8 @@ Nenurodyta
     - t-45444
 
 - id: c-166666
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sovietai dar pavasarį slapta
     permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias di-

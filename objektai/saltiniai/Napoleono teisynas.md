@@ -103,6 +103,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-91754
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Poliublininius Lietuvos istorijos
     kursus (XVII-XVIII amž.) skaitė Janulaitis ir Humanitarinių

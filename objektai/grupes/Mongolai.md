@@ -238,6 +238,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-104470
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ## Puslapis 21
 
@@ -258,6 +260,8 @@ Nenurodyta
     - t-113192
 
 - id: c-104471
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Naugardukas jau buvo garsiojo Min­
     daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
@@ -280,6 +284,8 @@ Nenurodyta
     - t-113191
 
 - id: c-167057
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gedimino laikais Lie-
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-

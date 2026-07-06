@@ -79,6 +79,8 @@ Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vado
 ## Citatos
 
 - id: c-174334
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     51
     Ros-alanai, Seniausia užuomina apie roksolanus, kaip

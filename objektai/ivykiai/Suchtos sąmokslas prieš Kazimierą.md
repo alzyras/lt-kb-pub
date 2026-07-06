@@ -241,6 +241,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169963
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Antrą kartą apie Suchtų sąmokslą J. Dlugošas užsimena, per­
     teikdamas kardinolo Zbignevo Olesnickio kalbą, pasakytą karaliui
@@ -268,6 +270,8 @@ Nenurodyta
     - t-186755
 
 - id: c-169964
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tačiau J . Dlugošo pasakojimas apie
     Suchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko-
@@ -284,6 +288,8 @@ Nenurodyta
     - t-186756
 
 - id: c-169965
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą,
     kurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas

@@ -65,6 +65,8 @@ Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos
 ## Citatos
 
 - id: c-176011
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau paliaubų pasiūlymo So-
     vietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai. Liepos

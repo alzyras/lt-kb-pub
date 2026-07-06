@@ -103,6 +103,8 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 ## Citatos
 
 - id: c-22672
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Prieš tai Seimas ėmėsi la-
     bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
@@ -119,6 +121,8 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
     - t-19942
 
 - id: c-166559
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart

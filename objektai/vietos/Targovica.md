@@ -200,6 +200,8 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 ## Citatos
 
 - id: c-43893
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Didžiausia tikimybė, kad Mėlynieji Van-
     denys, tai Siniuchos upė Pietų Ukrainoje,
@@ -219,6 +221,8 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
     - t-71971
 
 - id: c-70435
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos Didžiosios Kunigaikštijos
     sunaikinimas

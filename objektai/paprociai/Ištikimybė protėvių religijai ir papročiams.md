@@ -127,6 +127,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174955
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Piktadarystė — nusikaltimas prieš
     valstybę ir religiją, kaip moralės saugotoją.
@@ -149,6 +151,8 @@ Nenurodyta
     - t-192085
 
 - id: c-174956
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tie lietuviai
     pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­

@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168985
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Patys
     tvarkykite savo valstybę, iš

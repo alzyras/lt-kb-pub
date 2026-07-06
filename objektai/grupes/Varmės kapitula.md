@@ -153,6 +153,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82716
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 390
 
@@ -189,6 +191,8 @@ Nenurodyta
     - t-86737
 
 - id: c-82717
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1514.
     374

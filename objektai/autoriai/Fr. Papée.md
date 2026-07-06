@@ -68,6 +68,8 @@ i Papée, Fr.
 ## Citatos
 
 - id: c-32929
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —

@@ -65,6 +65,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44962
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Teisybė, jie niekada nesitraukia, varo žirgus visu greičiu, tarsi žaistų gaudynes ir per-
     smeigia visus, pasimaišiusius jų kelyje.“

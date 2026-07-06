@@ -72,6 +72,8 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
 ## Citatos
 
 - id: c-45294
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Viduriniajai vorai po atkaklių kautynių
     pavyko užimti Užkalnius, Ėriškėlius ir

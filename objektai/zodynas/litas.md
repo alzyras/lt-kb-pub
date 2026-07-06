@@ -165,6 +165,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 ## Citatos
 
 - id: c-24907
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
     nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
@@ -181,6 +183,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     - t-22218
 
 - id: c-24908
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1922 m. spalio 1 d. Lietuvoje
     įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
@@ -197,6 +201,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     - t-22219
 
 - id: c-166839
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra

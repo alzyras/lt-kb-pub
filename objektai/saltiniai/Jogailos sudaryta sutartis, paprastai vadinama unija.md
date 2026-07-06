@@ -77,6 +77,8 @@ Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laik�
 ## Citatos
 
 - id: c-169676
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be to, turinti būti sugrąžinta Podolė, kurią Lie­
     tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.

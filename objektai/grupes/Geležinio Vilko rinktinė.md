@@ -67,6 +67,8 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
 ## Citatos
 
 - id: c-44740
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sovietų specialiosioms tarnyboms išaiškinus dalį or-
     ganizacijos narių J. Lukšai teko pasitraukti iš legalaus

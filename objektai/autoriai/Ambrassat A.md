@@ -84,6 +84,8 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
 ## Citatos
 
 - id: c-65251
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
     3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351

@@ -173,6 +173,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168879
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     L ietuviai, su šau k ę B reste lu o ­
     m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
@@ -190,6 +192,8 @@ Nenurodyta
     - t-185518
 
 - id: c-168880
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K okį atsak y m ą
     g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
@@ -208,6 +212,8 @@ Nenurodyta
     - t-185519
 
 - id: c-176080
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K ai žlugo visos v il­
     ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­

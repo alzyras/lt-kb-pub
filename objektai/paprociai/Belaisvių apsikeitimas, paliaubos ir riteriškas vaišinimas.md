@@ -115,6 +115,9 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 ## Citatos
 
 - id: c-14483
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
     gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti

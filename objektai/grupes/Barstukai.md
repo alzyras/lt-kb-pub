@@ -88,6 +88,8 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
 ## Citatos
 
 - id: c-172335
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rytojaus dieną ūkininkai žiūri, kurio valgio dau­
     giau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins

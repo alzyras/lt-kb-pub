@@ -76,6 +76,8 @@ Dusburgietis teigia, kad pierson W.
 ## Citatos
 
 - id: c-61856
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pierson W. über die Nationalität und Sprache der alten Preussen —Jahresbericht über
     die Dorotheenstädtische Realschule, Berlin, 1873, S. 1—20.

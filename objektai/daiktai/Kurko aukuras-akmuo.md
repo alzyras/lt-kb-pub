@@ -78,6 +78,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172611
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kasmet Didžiosios šventės iš­
     vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar

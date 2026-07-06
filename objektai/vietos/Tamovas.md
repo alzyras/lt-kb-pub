@@ -180,6 +180,8 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 ## Citatos
 
 - id: c-170370
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O pas­
     kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­

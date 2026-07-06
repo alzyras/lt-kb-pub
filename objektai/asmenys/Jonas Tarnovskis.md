@@ -146,6 +146,9 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
 ## Citatos
 
 - id: c-36382
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­
     rūnacijos priešininkų, būtent: Zb. Olesnickį ir Joną Tarnovs­
@@ -158,6 +161,8 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
     - t-63737
 
 - id: c-42029
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pastariesiems vadovavo
     patyręs karys Jonušas Svierčiovskis.
@@ -180,6 +185,8 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
     - t-63736
 
 - id: c-168103
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Neseniai sumušęs nedidelę lenkų kariauną, Petras,
     Dakijos, arba Valachijos, kunigaikštis, visai prarado

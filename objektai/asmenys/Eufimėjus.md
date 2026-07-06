@@ -75,6 +75,9 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
 ## Citatos
 
 - id: c-38010
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet kai Ciprijonas mirė (1406), tai Vytautas,
     kovojęs tuo laiku su Maskva dėl Okos ir Ugros aukštupių, pa­

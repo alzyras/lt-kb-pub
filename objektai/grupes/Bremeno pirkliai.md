@@ -153,6 +153,8 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 ## Citatos
 
 - id: c-55885
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­
     liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir

@@ -67,6 +67,8 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
 ## Citatos
 
 - id: c-26668
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Būta ir savų klaidų – su nie-
     kuo nesitardamas A. Voldemaras birželio mėnesį, atsakydamas į Didžio-

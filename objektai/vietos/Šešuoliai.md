@@ -79,6 +79,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-28413
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
     1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­

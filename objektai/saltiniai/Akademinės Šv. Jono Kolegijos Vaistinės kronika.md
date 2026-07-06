@@ -124,6 +124,8 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
 ## Citatos
 
 - id: c-84212
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų
     ir pinigų užrašytų neturinti, buvo Collegii [kolegijos! lėšo­
@@ -144,6 +146,8 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
     - t-88233
 
 - id: c-84213
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     - • —
     181

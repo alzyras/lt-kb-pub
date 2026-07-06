@@ -164,6 +164,8 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
 ## Citatos
 
 - id: c-61027
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
@@ -185,6 +187,8 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
     - t-60395
 
 - id: c-168168
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto jis sušaukė įgulą ir visus para­
     gino sugalvoti kokią gudrybę, kuri leistų padaryti prie­
@@ -211,6 +215,8 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
     - t-184807
 
 - id: c-168169
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kryžiuočiai
     neįtarė nei klastos, nei pavojaus: krantai, medžiais ap­

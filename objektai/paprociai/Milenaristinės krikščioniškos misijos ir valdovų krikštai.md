@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55185
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
     giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,

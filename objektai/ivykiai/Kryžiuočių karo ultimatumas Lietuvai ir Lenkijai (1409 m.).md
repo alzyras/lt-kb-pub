@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168954
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nenorėdami, kad atrody-
     1409 m e ta i
@@ -162,6 +164,8 @@ Nenurodyta
     - t-185593
 
 - id: c-176085
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gal vengdamas aiškaus atsakymo į kry­
     žiuočių klausimą, gal norėdamas turėti laiko pasitarti,

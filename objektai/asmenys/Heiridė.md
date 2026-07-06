@@ -80,6 +80,8 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už
 ## Citatos
 
 - id: c-174293
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,

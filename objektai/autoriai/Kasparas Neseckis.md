@@ -64,6 +64,8 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
 ## Citatos
 
 - id: c-174493
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­
     dimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:

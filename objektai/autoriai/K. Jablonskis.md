@@ -119,6 +119,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 ## Citatos
 
 - id: c-30629
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     K. Jablonskis ištisai sudarė 1 t. iš XVI-XVII amžių doku­
     mentų rinkinio « Lietuvos valstiečių ir miestelėnų ginčai su dvarų
@@ -137,6 +139,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
     - t-179503
 
 - id: c-163197
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ten jis paskelbė beveik pusę
     iki tol nespausdintų XVI amž. dvarų, folvarkų, kaimų, miestelių

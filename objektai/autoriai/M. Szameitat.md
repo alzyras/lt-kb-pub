@@ -71,6 +71,8 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
 ## Citatos
 
 - id: c-33064
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš viso sužymėta 944 bibliogr. numeriai.
     Atskirai paminėtina Klaipėdos krašto bibliografija :

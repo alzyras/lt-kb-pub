@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172725
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet kol stabmeldystė tebebuvo
     savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo

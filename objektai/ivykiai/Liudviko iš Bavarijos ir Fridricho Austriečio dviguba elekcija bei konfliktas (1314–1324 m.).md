@@ -119,6 +119,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62968
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
                                gaikštis, buvo išrinkti Romos karaliais

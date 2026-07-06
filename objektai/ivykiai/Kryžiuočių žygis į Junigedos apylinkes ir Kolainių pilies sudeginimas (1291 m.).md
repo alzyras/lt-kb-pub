@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169170
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to abi pusės liovėsi vie­
     na kitą puldinėjusios, tačiau ne dėl to, kad buvo pa­

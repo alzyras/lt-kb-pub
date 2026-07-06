@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67136
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ypatingai buvo žiūrima, kad
     mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
@@ -123,6 +125,8 @@ Nenurodyta
     - t-67100
 
 - id: c-67138
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Taip pat išeidavo filosofijos, o kai kur net teologijos
     kursą. Daugumas mokinių gyveno kolegijose ir ištisą dieną iš-

@@ -68,6 +68,8 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
 ## Citatos
 
 - id: c-61679
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
     begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo

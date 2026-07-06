@@ -75,6 +75,8 @@ Laskowski, O.
 ## Citatos
 
 - id: c-33018
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
     O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —

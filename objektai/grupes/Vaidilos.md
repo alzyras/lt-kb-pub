@@ -125,6 +125,8 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
 ## Citatos
 
 - id: c-172328
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kai su­
     šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
@@ -139,6 +141,8 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     - t-189441
 
 - id: c-172329
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     360
 

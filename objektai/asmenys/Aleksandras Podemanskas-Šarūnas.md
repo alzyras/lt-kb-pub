@@ -91,6 +91,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-76038
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo būdu laimėta, kad ir
     didžiausi bolševikų padlaižiai neišdrįsdavo imtis nenaudingos gyventojams ir pražūtingos

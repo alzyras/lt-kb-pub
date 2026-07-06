@@ -73,6 +73,8 @@ Dusburgietis teigia, kad kubicka W.
 ## Citatos
 
 - id: c-61739
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kubicka W. Bibliografia języka staropruskiego (do 1965 r.).— ABS, Białystok, 1967,
     5, s. 257—311.

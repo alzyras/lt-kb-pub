@@ -187,6 +187,8 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
 ## Citatos
 
 - id: c-170297
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
     vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
@@ -208,6 +210,8 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
     - t-194027
 
 - id: c-170298
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O paskui didysis kunigaikštis Skirmantas pasimirė.
     Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis

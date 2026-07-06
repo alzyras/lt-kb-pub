@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16968
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-
     tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-

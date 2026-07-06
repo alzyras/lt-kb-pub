@@ -261,6 +261,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 ## Citatos
 
 - id: c-166179
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Galiausiai apie liepos 20-22 d. jie sustojo.
     Vietą savo stovyklavietei jie pasirinko prie
@@ -288,6 +290,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     - t-182767
 
 - id: c-167002
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -304,6 +308,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     - t-183610
 
 - id: c-170532
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
     dievo gailestingumą, o Korano giminė — neapsakomą
@@ -324,6 +330,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     - t-187585
 
 - id: c-170533
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5 Kalbama apie Krymo totorių (apie 4000 raitelių su 10 tūks­
     tančių žirgų) žygį į N augarduko kraštą, prasidėjusį d ar gegužės mėn.
@@ -340,6 +348,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     - t-187586
 
 - id: c-176422
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šaltinių sąrašas 271
 

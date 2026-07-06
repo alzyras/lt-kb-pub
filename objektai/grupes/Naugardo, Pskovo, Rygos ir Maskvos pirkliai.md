@@ -74,6 +74,8 @@ Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje
 ## Citatos
 
 - id: c-82792
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­

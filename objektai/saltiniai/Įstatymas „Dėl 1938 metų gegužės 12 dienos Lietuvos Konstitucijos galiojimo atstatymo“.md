@@ -113,6 +113,8 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
 ## Citatos
 
 - id: c-166782
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta
     Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad

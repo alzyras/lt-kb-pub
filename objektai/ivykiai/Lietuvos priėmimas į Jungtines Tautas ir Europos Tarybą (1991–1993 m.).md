@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23086
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Glaudus trijų Baltijos valstybių bendradarbia-
     vimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.

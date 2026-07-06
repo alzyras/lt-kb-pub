@@ -153,6 +153,8 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 ## Citatos
 
 - id: c-173336
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žyniai vilkėdavo įpras­
     tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
@@ -172,6 +174,8 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
     - t-190453
 
 - id: c-173674
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Odoakras,
     tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo

@@ -16,6 +16,8 @@ const ADVANCED_KEYS = new Set([
   "patikimumo_saltinis",
   "patikimumo_pagrindimas",
   "sudarymo_pagrindimas",
+  "susije_objektai",
+  "semantiniai_rysiai",
   "temporaliniai_duomenys",
   "temporalinis_paaiskinimas",
   "temporalinis_llm_pakomentavimas",
@@ -32,6 +34,7 @@ const ADVANCED_KEYS = new Set([
   "ryšio_subjekto_parinkimas",
   "ryšio_targeto_parinkimas",
   "ryšio_slopinti_kandidatai",
+  "ryšio_slopinimo_priezastys",
   "ryšio_paaiskinimas",
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
@@ -64,6 +67,7 @@ const ADVANCED_LABELS = new Map<string, string>([
   ["ryšio_subjekto_parinkimas", "Ryšio subjektas"],
   ["ryšio_targeto_parinkimas", "Ryšio objektas"],
   ["ryšio_slopinti_kandidatai", "Atmesti ryšio kandidatai"],
+  ["ryšio_slopinimo_priezastys", "Ryšio slopinimo priežastys"],
   ["ryšio_paaiskinimas", "Ryšio paaiškinimas"],
   ["ai_siulomas_patikimumas", "AI siūlomas patikimumas"],
   ["ai_siulymo_pagrindimas", "AI siūlymo pagrindas"],
@@ -95,6 +99,7 @@ const CLAIM_ADVANCED_KEYS = [
   "ryšio_subjekto_parinkimas",
   "ryšio_targeto_parinkimas",
   "ryšio_slopinti_kandidatai",
+  "ryšio_slopinimo_priezastys",
   "ryšio_paaiskinimas",
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
@@ -167,6 +172,41 @@ function markdownCell(text: string): string {
     .replaceAll("|", "\\|")
     .replace(/\r?\n+/g, "<br>")
     .trim()
+}
+
+function firstCitationField(entry: EvidenceEntry, keys: string[]): string {
+  for (const key of keys) {
+    const value = entry.fields.get(key)
+    if (value?.trim()) {
+      return value.trim()
+    }
+  }
+  return ""
+}
+
+const CITATION_CONTRIBUTOR_FIELDS = [
+  { keys: ["autorius"], label: "Autorius", className: "author" },
+  { keys: ["autoriai"], label: "Autoriai", className: "author" },
+  { keys: ["redaktorius"], label: "Redaktorius", className: "editor" },
+  { keys: ["redaktoriai"], label: "Redaktoriai", className: "editor" },
+  { keys: ["sudarytojas"], label: "Sudarytojas", className: "compiler" },
+  { keys: ["sudarytojai"], label: "Sudarytojai", className: "compiler" },
+  { keys: ["vertėjas", "vertejas"], label: "Vertėjas", className: "translator" },
+  { keys: ["vertėjai", "vertejai"], label: "Vertėjai", className: "translator" },
+]
+
+function citationAuthor(entry: EvidenceEntry): string {
+  return firstCitationField(entry, ["autorius", "autoriai"])
+}
+
+function citationContributorRows(entry: EvidenceEntry): string {
+  return CITATION_CONTRIBUTOR_FIELDS.map((field) => {
+    const value = firstCitationField(entry, field.keys)
+    if (!value) {
+      return ""
+    }
+    return `<div class="claim-citation-contributor claim-citation-${field.className}"><strong>${field.label}:</strong> ${markdownCell(value)}</div>`
+  }).join("")
 }
 
 function markdownText(text: string): string {
@@ -618,6 +658,7 @@ function renderCitationCard(
   const quote = citationQuote(citationEntry)
   const rows = advancedRows(citationEntry, quote, resolveIndex)
   const summaryHtml = renderEvidenceSummary(claimEntry, citationEntry, resolveIndex)
+  const contributorHtml = citationContributorRows(citationEntry)
   const sourceHtml = source
     ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
     : `<div class="claim-citation-source claim-citation-source-missing">Šaltinis nenurodytas</div>`
@@ -629,7 +670,7 @@ function renderCitationCard(
       ? `<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="technical_fields"><tbody>${rows.join("")}</tbody></table>`
       : ""
 
-  return `<article class="claim-citation-card" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${sourceHtml}${summaryHtml}${quoteHtml}${advancedHtml}</article>`
+  return `<article class="claim-citation-card" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${contributorHtml}${sourceHtml}${summaryHtml}${quoteHtml}${advancedHtml}</article>`
 }
 
 function renderClaimEvidenceDetailRow(
@@ -696,10 +737,11 @@ function renderMentionsSection(
   ]
   for (const entry of entries) {
     const source = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
+    const author = citationAuthor(entry)
     const sourceId = source ? normalizeCitationSourceId(source) : ""
 
     out.push(
-      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}"></section>`,
+      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}" data-citation-author="${escapeHtml(author)}"></section>`,
     )
   }
   out.push(

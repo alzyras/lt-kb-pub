@@ -25,19 +25,19 @@ tags:
 amziai:
   - 'XIV'
 periodo_grupes: []
-media_total_count: '31'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Gediminas%C5%A0imkus.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AGediminas%C5%A0imkus.jpg'
+media_total_count: '5'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
+media_primary_relation_type: 'painting_of'
 media_primary_json: |-
-  {"mediaId":"m-b5b6d3398d64f2f389768424","title":"GediminasŠimkus.jpg","caption":"Gedimino Šimkaus portretas","creator":"Lietuvos Bankas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2021-04-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%C5%A0imkus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Gediminas%C5%A0imkus.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.93,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-97bf9fcd5a62280ba531141b","title":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","caption":"Painting, depicting the Grand Duke of Lithuania Gediminas .","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1709","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-b5b6d3398d64f2f389768424","title":"GediminasŠimkus.jpg","caption":"Gedimino Šimkaus portretas","creator":"Lietuvos Bankas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2021-04-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%C5%A0imkus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Gediminas%C5%A0imkus.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.93,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-c76e92b6f457ab5df2585989","title":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","caption":"Painting, depicting the funeral of the Grand Duke of Lithuania Gediminas .","creator":"Kazimierz Alchimowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1888 date QS:P571,+1888-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFuneral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-97bf9fcd5a62280ba531141b","title":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","caption":"Painting, depicting the Grand Duke of Lithuania Gediminas .","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1709","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-83b687abaff93c0a7b76eac8","title":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in 2023 (2).jpg","caption":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in Vilnius, Lithuania in 2023.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2023-03-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMain_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Main_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023_%282%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-27f0a923ba2244960543445f","title":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in 2023.jpg","caption":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in Vilnius, Lithuania in 2023.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2023-03-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMain_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Main_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f79dd78f6b3d61642b79a94c","title":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022 (2).jpg","caption":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Mindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022_%282%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c47d3485db0f922735fa49ce","title":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022.jpg","caption":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Mindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ec0ff39ed09bb9a9b832451","title":"Old Arsenal, Gediminas' Tower and Mindaugas Monument in Vilnius in winter in 2022.jpg","caption":"Old Arsenal, Gediminas' Tower and Mindaugas Monument in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOld_Arsenal%2C_Gediminas%27_Tower_and_Mindaugas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/Old_Arsenal%2C_Gediminas%27_Tower_and_Mindaugas_Monument_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-634450d4d2efe9be5246f359","title":"POL Seal of Giedymin.svg","caption":"No image of the Giedymin seals has survived to the present day. However, the description of the image of one of his seals from 1323 is known. The seal featured an engraved man with long hair sitting on a throne, holding a crown in his right hand and a scepter in his left hand . The vectorized seal was created based on the description of the image from the seal. The actual colors are unknown, they were added according to the author's own concept. In order to present the image of Giedymin's seal as faithfully as possible, the author used images from the seals of Gediminas' grandchildren; Witold Kiejstutowicz and Zygmunt Kiejstutowicz.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape . using by Tom-L , by Heralder , by Heralder and by Sarang .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Giedymin.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/POL_Seal_of_Giedymin.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0a9482f370144e4e734d9db","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument with the howling Iron Wolf in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c1505772e5a0a162aa2b242a","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-08-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2f2b18f85bfface3a7de7a7a","title":"Great Seal of Lithuania, confirming a 17th century document signed by Lithuanian Grand Chancellor Krzysztof Zygmunt Pac.jpg","caption":"Great Seal of Lithuania, confirming a 17th century document signed by Lithuanian Grand Chancellor Krzysztof Zygmunt Pac (1621–1684). In 2025, it was temporarily exhibited during an exhibition about the Pac family in the Palace of the Grand Dukes of Lithuania in Vilnius, Lithuania.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_confirming_a_17th_century_document_signed_by_Lithuanian_Grand_Chancellor_Krzysztof_Zygmunt_Pac.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Great_Seal_of_Lithuania%2C_confirming_a_17th_century_document_signed_by_Lithuanian_Grand_Chancellor_Krzysztof_Zygmunt_Pac.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1355c5ca8dca4be369997248","title":"Great Seal of Lithuania during the reign of Stephen Báthory, 1581.jpg","caption":"Great Seal of Lithuania during the reign of Stephen Báthory, 1581.","creator":"Author of the seal design is unknown. The seal was originally placed on a document by the Grand Chancellor of Lithuania in the 16th century.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania_during_the_reign_of_Stephen_B%C3%A1thory%2C_1581.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Great_Seal_of_Lithuania_during_the_reign_of_Stephen_B%C3%A1thory%2C_1581.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-104c5fee00bdb76bfa4011f1","title":"Great Seal of Lithuania, used during the reign of John III Sobieski (1674-1696).jpg","caption":"Great Seal of Lithuania, used during the reign of John III Sobieski (1674-1696).","creator":"National Museum in Warsaw","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1674 and circa 1696 date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1674-00-00T00:00:00Z/9,P1326,+1696-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_used_during_the_reign_of_John_III_Sobieski_%281674-1696%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Great_Seal_of_Lithuania%2C_used_during_the_reign_of_John_III_Sobieski_%281674-1696%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4fc756e5bff581977e1933be","title":"Great Seal of Lithuania, used during the reign of Sigismund III Vasa (1587-1632).jpg","caption":"Great Seal of Lithuania, used during the reign of Sigismund III Vasa (1587-1632).","creator":"National Museum in Warsaw","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1635 and circa 1648 date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1635-00-00T00:00:00Z/9,P1326,+1648-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_used_during_the_reign_of_Sigismund_III_Vasa_%281587-1632%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Great_Seal_of_Lithuania%2C_used_during_the_reign_of_Sigismund_III_Vasa_%281587-1632%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8595dedc2a48a52d06a5a24b","title":"Great Seal of Lithuania, used during the reign of Władysław IV Vasa in 1635-1648.jpg","caption":"Great Seal of Lithuania, used during the reign of Władysław IV Vasa (1635-1648).","creator":"National Museum in Warsaw","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1635 and circa 1648 date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1635-00-00T00:00:00Z/9,P1326,+1648-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_used_during_the_reign_of_W%C5%82adys%C5%82aw_IV_Vasa_in_1635-1648.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Great_Seal_of_Lithuania%2C_used_during_the_reign_of_W%C5%82adys%C5%82aw_IV_Vasa_in_1635-1648.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b90de9a23e7b1c529e20b489","title":"Pieczec wielka litewska Stanislawa Augusta 1764.jpg","caption":"The Great Seal of Lithuania from the reign of Stanisław August Poniatowski .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1764","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_wielka_litewska_Stanislawa_Augusta_1764.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Pieczec_wielka_litewska_Stanislawa_Augusta_1764.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b6c43723192bb426e54de986","title":"Presidential Seal of the Republic of Lithuania.gif","caption":"Presidential Seal of the Republic of Lithuania.","creator":"Government of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1993 date QS:P,+1993-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APresidential_Seal_of_the_Republic_of_Lithuania.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Presidential_Seal_of_the_Republic_of_Lithuania.gif","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c3289434929f4e77df193fcf","title":"Presidential Seal of the Republic of Lithuania.png","caption":"Presidential Seal of the Republic of Lithuania.","creator":"Great Brightstar","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2022-12-09","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APresidential_Seal_of_the_Republic_of_Lithuania.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Presidential_Seal_of_the_Republic_of_Lithuania.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ea1dbbe398596cd2dcc84124","title":"Seal of Vytautas the Great.jpg","caption":"Portrait seal of Grand Duke of Lithuania Vytautas the Great.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"14-15th centuries","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Vytautas_the_Great.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2d8b140591721f8008aa920d","title":"Seal of the 2nd Lithuanian National Cavalry Brigade with Vytis (Waykimas), 18th century.jpg","caption":"Seal of the 2nd Lithuanian National Cavalry Brigade with Vytis (Waykimas), 18th century.","creator":"Grand Duchy of Lithuania (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_2nd_Lithuanian_National_Cavalry_Brigade_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Seal_of_the_2nd_Lithuanian_National_Cavalry_Brigade_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fcf51572a29e9a5c9cfc8b6d","title":"Seal of the Tribunal of the Grand Duchy of Lithuania with Vytis (Waykimas), 18th century.jpg","caption":"Seal of the Lithuanian Tribunal with Vytis (Waykimas), 18th century.","creator":"Lithuanian Tribunal (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","dateDisplay":"Second half of the 18th century","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Tribunal_of_the_Grand_Duchy_of_Lithuania_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Seal_of_the_Tribunal_of_the_Grand_Duchy_of_Lithuania_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-aa196df025608cfd7b31ea7c","title":"Seal of the Vilnius University College of Medicine with Lithuanian Vytis (Waykimas), end of the 18th century.jpg","caption":"Seal of the Vilnius University College of Medicine with Lithuanian Vytis (Waykimas), made in the end of the 18th century.","creator":"Vilnius University (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"End of the 18th century","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Vilnius_University_College_of_Medicine_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Seal_of_the_Vilnius_University_College_of_Medicine_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8ef459cd8f4b6e62173262f8","title":"Seal of the Vilnius University College of Physics with Lithuanian Vytis (Waykimas), end of the 18th century.jpg","caption":"Seal of the Vilnius University College of Physics with Lithuanian Vytis (Waykimas), made in the end of the 18th century","creator":"Vilnius University (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"End of the 18th century","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Vilnius_University_College_of_Physics_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Seal_of_the_Vilnius_University_College_of_Physics_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-42e3fd72ed68e7c32bc1162d","title":"The Great Seal of Lithuania (with Vytis) from the reign of Sigismund III Vasa, 1623.png","caption":"The Great Seal of Lithuania (with Vytis ) from the reign of Sigismund III Vasa , 1623. The seal is attached to the document of Sigismund III Vasa, granting Albrycht Stanisław Radziwiłł the title and position of the Grand Chancellor of Lithuania in 1623.","creator":"Sigismund III Vasa","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"6 February 1623 date QS:P571,+1623-02-06T00:00:00Z/11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Sigismund_III_Vasa%2C_1623.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Sigismund_III_Vasa%2C_1623.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c7cba7675a0d99aa47e3cb96","title":"The Great Seal of Lithuania (with Vytis) from the reign of Stanisław August Poniatowski, circa 1764.png","caption":"The Great Seal of Lithuania (with Vytis ) from the reign of Stanisław August Poniatowski , circa 1764.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1764 date QS:P,+1764-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Stanis%C5%82aw_August_Poniatowski%2C_circa_1764.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5d/The_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Stanis%C5%82aw_August_Poniatowski%2C_circa_1764.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f9323cfd72286a315f1a7909","title":"VISI antspaudas.svg","caption":"Seal of Vilnius Civil Engineering Institute (currently VGTU), 1969","creator":"SVG version by Blowwhite , original author unknown","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1969","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVISI_antspaudas.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/VISI_antspaudas.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4f98322ce1aeb38e99e94f17","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a964f48573419803d459c024","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3d9cc48e7f9a3b7c760eec00","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555, B. Starzyński, 1875-1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Bolesław Starzyński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1875 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1875-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d0f45f8e764022d84712e3d2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-97bf9fcd5a62280ba531141b","title":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","caption":"Painting, depicting the Grand Duke of Lithuania Gediminas .","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1709","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-c76e92b6f457ab5df2585989","title":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","caption":"Painting, depicting the funeral of the Grand Duke of Lithuania Gediminas .","creator":"Kazimierz Alchimowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1888 date QS:P571,+1888-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFuneral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-634450d4d2efe9be5246f359","title":"POL Seal of Giedymin.svg","caption":"No image of the Giedymin seals has survived to the present day. However, the description of the image of one of his seals from 1323 is known. The seal featured an engraved man with long hair sitting on a throne, holding a crown in his right hand and a scepter in his left hand . The vectorized seal was created based on the description of the image from the seal. The actual colors are unknown, they were added according to the author's own concept. In order to present the image of Giedymin's seal as faithfully as possible, the author used images from the seals of Gediminas' grandchildren; Witold Kiejstutowicz and Zygmunt Kiejstutowicz.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape . using by Tom-L , by Heralder , by Heralder and by Sarang .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Giedymin.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/POL_Seal_of_Giedymin.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0a9482f370144e4e734d9db","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument with the howling Iron Wolf in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c1505772e5a0a162aa2b242a","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-08-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-b5b6d3398d64f2f389768424","title":"GediminasŠimkus.jpg","caption":"Gedimino Šimkaus portretas","creator":"Lietuvos Bankas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2021-04-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%C5%A0imkus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Gediminas%C5%A0imkus.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.93,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-c76e92b6f457ab5df2585989","title":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","caption":"Painting, depicting the funeral of the Grand Duke of Lithuania Gediminas .","creator":"Kazimierz Alchimowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1888 date QS:P571,+1888-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFuneral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-97bf9fcd5a62280ba531141b","title":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","caption":"Painting, depicting the Grand Duke of Lithuania Gediminas .","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1709","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-83b687abaff93c0a7b76eac8","title":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in 2023 (2).jpg","caption":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in Vilnius, Lithuania in 2023.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2023-03-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMain_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Main_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023_%282%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-27f0a923ba2244960543445f","title":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in 2023.jpg","caption":"Main entrance to the National Museum of Lithuania, King Mindaugas Monument and Gediminas' Tower in Vilnius, Lithuania in 2023.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2023-03-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMain_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Main_entrance_to_the_National_Museum_of_Lithuania%2C_King_Mindaugas_Monument_and_Gediminas%27_Tower_in_2023.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f79dd78f6b3d61642b79a94c","title":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022 (2).jpg","caption":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Mindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022_%282%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c47d3485db0f922735fa49ce","title":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022.jpg","caption":"Mindaugas Monument, Old Arsenal and Gediminas' Tower in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Mindaugas_Monument%2C_Old_Arsenal_and_Gediminas%27_Tower_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ec0ff39ed09bb9a9b832451","title":"Old Arsenal, Gediminas' Tower and Mindaugas Monument in Vilnius in winter in 2022.jpg","caption":"Old Arsenal, Gediminas' Tower and Mindaugas Monument in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOld_Arsenal%2C_Gediminas%27_Tower_and_Mindaugas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/Old_Arsenal%2C_Gediminas%27_Tower_and_Mindaugas_Monument_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-634450d4d2efe9be5246f359","title":"POL Seal of Giedymin.svg","caption":"No image of the Giedymin seals has survived to the present day. However, the description of the image of one of his seals from 1323 is known. The seal featured an engraved man with long hair sitting on a throne, holding a crown in his right hand and a scepter in his left hand . The vectorized seal was created based on the description of the image from the seal. The actual colors are unknown, they were added according to the author's own concept. In order to present the image of Giedymin's seal as faithfully as possible, the author used images from the seals of Gediminas' grandchildren; Witold Kiejstutowicz and Zygmunt Kiejstutowicz.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape . using by Tom-L , by Heralder , by Heralder and by Sarang .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Giedymin.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/POL_Seal_of_Giedymin.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0a9482f370144e4e734d9db","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument with the howling Iron Wolf in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c1505772e5a0a162aa2b242a","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-08-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2f2b18f85bfface3a7de7a7a","title":"Great Seal of Lithuania, confirming a 17th century document signed by Lithuanian Grand Chancellor Krzysztof Zygmunt Pac.jpg","caption":"Great Seal of Lithuania, confirming a 17th century document signed by Lithuanian Grand Chancellor Krzysztof Zygmunt Pac (1621–1684). In 2025, it was temporarily exhibited during an exhibition about the Pac family in the Palace of the Grand Dukes of Lithuania in Vilnius, Lithuania.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_confirming_a_17th_century_document_signed_by_Lithuanian_Grand_Chancellor_Krzysztof_Zygmunt_Pac.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Great_Seal_of_Lithuania%2C_confirming_a_17th_century_document_signed_by_Lithuanian_Grand_Chancellor_Krzysztof_Zygmunt_Pac.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1355c5ca8dca4be369997248","title":"Great Seal of Lithuania during the reign of Stephen Báthory, 1581.jpg","caption":"Great Seal of Lithuania during the reign of Stephen Báthory, 1581.","creator":"Author of the seal design is unknown. The seal was originally placed on a document by the Grand Chancellor of Lithuania in the 16th century.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania_during_the_reign_of_Stephen_B%C3%A1thory%2C_1581.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Great_Seal_of_Lithuania_during_the_reign_of_Stephen_B%C3%A1thory%2C_1581.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-104c5fee00bdb76bfa4011f1","title":"Great Seal of Lithuania, used during the reign of John III Sobieski (1674-1696).jpg","caption":"Great Seal of Lithuania, used during the reign of John III Sobieski (1674-1696).","creator":"National Museum in Warsaw","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1674 and circa 1696 date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1674-00-00T00:00:00Z/9,P1326,+1696-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_used_during_the_reign_of_John_III_Sobieski_%281674-1696%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Great_Seal_of_Lithuania%2C_used_during_the_reign_of_John_III_Sobieski_%281674-1696%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4fc756e5bff581977e1933be","title":"Great Seal of Lithuania, used during the reign of Sigismund III Vasa (1587-1632).jpg","caption":"Great Seal of Lithuania, used during the reign of Sigismund III Vasa (1587-1632).","creator":"National Museum in Warsaw","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1635 and circa 1648 date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1635-00-00T00:00:00Z/9,P1326,+1648-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_used_during_the_reign_of_Sigismund_III_Vasa_%281587-1632%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Great_Seal_of_Lithuania%2C_used_during_the_reign_of_Sigismund_III_Vasa_%281587-1632%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8595dedc2a48a52d06a5a24b","title":"Great Seal of Lithuania, used during the reign of Władysław IV Vasa in 1635-1648.jpg","caption":"Great Seal of Lithuania, used during the reign of Władysław IV Vasa (1635-1648).","creator":"National Museum in Warsaw","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1635 and circa 1648 date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1635-00-00T00:00:00Z/9,P1326,+1648-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_Lithuania%2C_used_during_the_reign_of_W%C5%82adys%C5%82aw_IV_Vasa_in_1635-1648.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Great_Seal_of_Lithuania%2C_used_during_the_reign_of_W%C5%82adys%C5%82aw_IV_Vasa_in_1635-1648.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b90de9a23e7b1c529e20b489","title":"Pieczec wielka litewska Stanislawa Augusta 1764.jpg","caption":"The Great Seal of Lithuania from the reign of Stanisław August Poniatowski .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1764","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_wielka_litewska_Stanislawa_Augusta_1764.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Pieczec_wielka_litewska_Stanislawa_Augusta_1764.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b6c43723192bb426e54de986","title":"Presidential Seal of the Republic of Lithuania.gif","caption":"Presidential Seal of the Republic of Lithuania.","creator":"Government of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1993 date QS:P,+1993-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APresidential_Seal_of_the_Republic_of_Lithuania.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Presidential_Seal_of_the_Republic_of_Lithuania.gif","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c3289434929f4e77df193fcf","title":"Presidential Seal of the Republic of Lithuania.png","caption":"Presidential Seal of the Republic of Lithuania.","creator":"Great Brightstar","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2022-12-09","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APresidential_Seal_of_the_Republic_of_Lithuania.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Presidential_Seal_of_the_Republic_of_Lithuania.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ea1dbbe398596cd2dcc84124","title":"Seal of Vytautas the Great.jpg","caption":"Portrait seal of Grand Duke of Lithuania Vytautas the Great.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"14-15th centuries","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Vytautas_the_Great.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2d8b140591721f8008aa920d","title":"Seal of the 2nd Lithuanian National Cavalry Brigade with Vytis (Waykimas), 18th century.jpg","caption":"Seal of the 2nd Lithuanian National Cavalry Brigade with Vytis (Waykimas), 18th century.","creator":"Grand Duchy of Lithuania (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_2nd_Lithuanian_National_Cavalry_Brigade_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Seal_of_the_2nd_Lithuanian_National_Cavalry_Brigade_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fcf51572a29e9a5c9cfc8b6d","title":"Seal of the Tribunal of the Grand Duchy of Lithuania with Vytis (Waykimas), 18th century.jpg","caption":"Seal of the Lithuanian Tribunal with Vytis (Waykimas), 18th century.","creator":"Lithuanian Tribunal (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","dateDisplay":"Second half of the 18th century","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Tribunal_of_the_Grand_Duchy_of_Lithuania_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Seal_of_the_Tribunal_of_the_Grand_Duchy_of_Lithuania_with_Vytis_%28Waykimas%29%2C_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-aa196df025608cfd7b31ea7c","title":"Seal of the Vilnius University College of Medicine with Lithuanian Vytis (Waykimas), end of the 18th century.jpg","caption":"Seal of the Vilnius University College of Medicine with Lithuanian Vytis (Waykimas), made in the end of the 18th century.","creator":"Vilnius University (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"End of the 18th century","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Vilnius_University_College_of_Medicine_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Seal_of_the_Vilnius_University_College_of_Medicine_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8ef459cd8f4b6e62173262f8","title":"Seal of the Vilnius University College of Physics with Lithuanian Vytis (Waykimas), end of the 18th century.jpg","caption":"Seal of the Vilnius University College of Physics with Lithuanian Vytis (Waykimas), made in the end of the 18th century","creator":"Vilnius University (seal), Lietuvos nacionalinis dailės muziejus / Lithuanian National Museum of Art (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"End of the 18th century","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Vilnius_University_College_of_Physics_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Seal_of_the_Vilnius_University_College_of_Physics_with_Lithuanian_Vytis_%28Waykimas%29%2C_end_of_the_18th_century.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-42e3fd72ed68e7c32bc1162d","title":"The Great Seal of Lithuania (with Vytis) from the reign of Sigismund III Vasa, 1623.png","caption":"The Great Seal of Lithuania (with Vytis ) from the reign of Sigismund III Vasa , 1623. The seal is attached to the document of Sigismund III Vasa, granting Albrycht Stanisław Radziwiłł the title and position of the Grand Chancellor of Lithuania in 1623.","creator":"Sigismund III Vasa","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"6 February 1623 date QS:P571,+1623-02-06T00:00:00Z/11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Sigismund_III_Vasa%2C_1623.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Sigismund_III_Vasa%2C_1623.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c7cba7675a0d99aa47e3cb96","title":"The Great Seal of Lithuania (with Vytis) from the reign of Stanisław August Poniatowski, circa 1764.png","caption":"The Great Seal of Lithuania (with Vytis ) from the reign of Stanisław August Poniatowski , circa 1764.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1764 date QS:P,+1764-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Stanis%C5%82aw_August_Poniatowski%2C_circa_1764.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5d/The_Great_Seal_of_Lithuania_%28with_Vytis%29_from_the_reign_of_Stanis%C5%82aw_August_Poniatowski%2C_circa_1764.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f9323cfd72286a315f1a7909","title":"VISI antspaudas.svg","caption":"Seal of Vilnius Civil Engineering Institute (currently VGTU), 1969","creator":"SVG version by Blowwhite , original author unknown","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1969","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVISI_antspaudas.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/VISI_antspaudas.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4f98322ce1aeb38e99e94f17","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a964f48573419803d459c024","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3d9cc48e7f9a3b7c760eec00","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555, B. Starzyński, 1875-1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Bolesław Starzyński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1875 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1875-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d0f45f8e764022d84712e3d2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-97bf9fcd5a62280ba531141b","title":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","caption":"Painting, depicting the Grand Duke of Lithuania Gediminas .","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1709","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-c76e92b6f457ab5df2585989","title":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","caption":"Painting, depicting the funeral of the Grand Duke of Lithuania Gediminas .","creator":"Kazimierz Alchimowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1888 date QS:P571,+1888-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFuneral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-634450d4d2efe9be5246f359","title":"POL Seal of Giedymin.svg","caption":"No image of the Giedymin seals has survived to the present day. However, the description of the image of one of his seals from 1323 is known. The seal featured an engraved man with long hair sitting on a throne, holding a crown in his right hand and a scepter in his left hand . The vectorized seal was created based on the description of the image from the seal. The actual colors are unknown, they were added according to the author's own concept. In order to present the image of Giedymin's seal as faithfully as possible, the author used images from the seals of Gediminas' grandchildren; Witold Kiejstutowicz and Zygmunt Kiejstutowicz.","creator":"Guccee This W3C-unspecified vector image was created with Inkscape . using by Tom-L , by Heralder , by Heralder and by Sarang .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-05-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Giedymin.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/POL_Seal_of_Giedymin.svg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0a9482f370144e4e734d9db","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument with the howling Iron Wolf in Vilnius in winter in 2022.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-12-26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c1505772e5a0a162aa2b242a","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","caption":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius.","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-08-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
 
@@ -5327,6 +5327,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 ## Citatos
 
 - id: c-00143
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Gediminas taip pat buvo pirmasis, kuris
     prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
@@ -5342,6 +5344,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-10675
 
 - id: c-00145
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-
     geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-
@@ -5357,6 +5361,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-10677
 
 - id: c-00146
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis
     rašė savo garsiuosius laiškus popiežiui ir vakarų Europos mies-
@@ -5373,6 +5379,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-10678
 
 - id: c-11533
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prie jau anksčiau lietuvių užvaldytų
     Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
@@ -5389,6 +5397,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-193758
 
 - id: c-41920
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     HB
 
@@ -5417,6 +5427,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176357
 
 - id: c-56143
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
@@ -5435,6 +5447,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176365
 
 - id: c-56145
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
     Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
@@ -5447,6 +5461,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176332
 
 - id: c-56146
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
     bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
@@ -5462,6 +5478,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176348
 
 - id: c-160335
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų
     pakartą išdaviką, bet vis tiek puolė tvirtovę. 22 dienas tęsėsi
@@ -5481,6 +5499,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176364
 
 - id: c-160336
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
     Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal-
@@ -5498,6 +5518,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176327
 
 - id: c-160337
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
     nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
@@ -5515,6 +5537,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176366
 
 - id: c-160338
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gedimi­
     no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
@@ -5538,6 +5562,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176394
 
 - id: c-160339
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Aukštaičiuose (Kernavėje) buvo ir Traidenio tėviškės žemės
     (« kuniges Thoreiden lant »)^14. Lietuvos kelių aprašymai (« die litaui­
@@ -5554,6 +5580,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05172
 
 - id: c-160340
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
     konams ir dominikonams, prie Vilniaus pilies pastatydino
@@ -5592,6 +5620,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176351
 
 - id: c-160341
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­
     sų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­
@@ -5626,6 +5656,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176359
 
 - id: c-160342
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O dabar, šventasis ir garbingasis tėve,
     labai prašome atkreipti savo dėmesį į mūsų apverktiną būk­
@@ -5657,6 +5689,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176341
 
 - id: c-160343
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vieni iš tokių buvo Volgos
     aukštupyje Tverės kunigaikščiai, kurie, kaip Maskvos varžovai,
@@ -5672,6 +5706,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05175
 
 - id: c-160344
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     48
 
@@ -5721,6 +5757,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176370
 
 - id: c-160345
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     «Lietuviai iš
     Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
@@ -5734,6 +5772,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05173
 
 - id: c-160346
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar niekas nenutuokė juos buvus
     kunigaikščio gudrybe ir apgaule, ypač, kai greitai kitas išti­
@@ -5759,6 +5799,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176362
 
 - id: c-160347
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gedimi­
     nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno
@@ -5779,6 +5821,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176387
 
 - id: c-160348
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     2
     2) Gediminas, dievo malone lietuvių ir rusų karalius,
@@ -5805,6 +5849,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176389
 
 - id: c-160350
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.
 
@@ -5823,6 +5869,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176322
 
 - id: c-160352
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Algirdaičiui tapus Lenkijos karaliumi (1386 m.), reikia nuolat sekti
     « Karūnos » politinį ir kultūrinį vystymąsi, darantį pastovios įtakos
@@ -5841,6 +5889,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05167
 
 - id: c-160353
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
     golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
@@ -5860,6 +5910,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176380
 
 - id: c-160354
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Porina mums tą pasaką apie Maskvos didįjį kunigaikštį
     Simonas Grunau,  linkęs meluoti rašytojas, o jau L u -
@@ -5885,6 +5937,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176356
 
 - id: c-160355
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmąjį Vilniaus paminėjimą, pirmą autentišką
     paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
@@ -5911,6 +5965,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176376
 
 - id: c-160356
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Įgu­
     la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
@@ -5944,6 +6000,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176384
 
 - id: c-160357
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
     pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
@@ -5961,6 +6019,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176368
 
 - id: c-160358
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rau­
     donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
@@ -5983,6 +6043,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176377
 
 - id: c-160359
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
     spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
@@ -6018,6 +6080,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176326
 
 - id: c-160360
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IX).
     100
@@ -6043,6 +6107,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176372
 
 - id: c-160361
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­
     lius, Žemgalijos valdovas ir kunigaikštis, pasišventusiems
@@ -6075,6 +6141,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-194226
 
 - id: c-160362
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Juk suktybės ir melo jukinys
     buvo taip gerai suregztas, kad pradžioje jo galų niekaip nega­
@@ -6096,6 +6164,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176344
 
 - id: c-160363
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Sambijos kanauninko** **_Epitome_** **1315 m.
     kalba, kad totoriai lietuviams esą padarę** **_magna dampna_** **(SBP I, 286). Yra
@@ -6109,6 +6179,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05168
 
 - id: c-160367
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     50
 
@@ -6135,6 +6207,9 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176391
 
 - id: c-160368
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lietuviai turėjo pasirinkti vieną iš dviejų: arba
     Rytų Bažnyčią, kuriai priklausė stačiatikiai, arba Vakarų Baž­
@@ -6155,6 +6230,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176338
 
 - id: c-160369
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
     Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
@@ -6168,6 +6245,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176352
 
 - id: c-160370
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors nebus nė vieno kunigaikščio,
     kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
@@ -6184,6 +6263,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176330
 
 - id: c-160371
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taigi čia turime aiškų paties Gedimino prisipažinimą, kad
     niekados jokių laiškų nei popiežiui, nei Vokietijos mies­
@@ -6200,6 +6281,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176386
 
 - id: c-160374
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pilies kieme kadaise buvo gilus šulinys, gau­
     siai vandens tiekiantis, - dabar visai užkastas, o po centri­
@@ -6227,6 +6310,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176346
 
 - id: c-160375
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     ## Puslapis 88
 
@@ -6248,6 +6333,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176345
 
 - id: c-160376
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
     gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
@@ -6266,6 +6353,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176360
 
 - id: c-160377
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tokią Lietuvą rado kunigaikštis Gediminas, dar­
     nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
@@ -6283,6 +6372,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176325
 
 - id: c-160378
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     361 (354). Apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­
                       vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių
@@ -6298,6 +6389,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176375
 
 - id: c-160379
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trečias ir itin svarbus laiškų netikrumo įrodymas yra
     užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
@@ -6333,6 +6426,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176397
 
 - id: c-160380
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ir kaip tik
     70
@@ -6362,6 +6457,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176396
 
 - id: c-160381
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­
     dymo elementų, savo valstybėje turėdamas net dvi skirtin­
@@ -6384,6 +6481,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176398
 
 - id: c-160383
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1253 VII 6 
     susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi
@@ -6400,6 +6499,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176342
 
 - id: c-160384
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Notariats-Instrument, parengtame 1323 metais Liubeke: Si­
     gillum vero huiusmodi litteris appensum erat rotundum cereum,
@@ -6422,6 +6523,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176383
 
 - id: c-160387
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
     Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
@@ -6439,6 +6542,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176333
 
 - id: c-160388
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
     šventės (rugsėjo 22) atvyko  į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
@@ -6466,6 +6571,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176336
 
 - id: c-160390
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
     m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
@@ -6481,6 +6588,9 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176335
 
 - id: c-160394
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pačioje XIII amž. pabaigoje Lietuvos istorijos šaltiniai mini ma­
     žai žinomą ir palikusį istorijos miglose Lietuvos kunigaikštį
@@ -6497,6 +6607,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176349
 
 - id: c-160395
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Švietimo Darbe 1922).
     **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
@@ -6510,6 +6622,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05169
 
 - id: c-160396
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS Ml L  STO ISTORIJA / TOMAS
     daugiau galimybių stebėti jų gynybą ir užbėgti už akių jų
@@ -6536,6 +6650,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176334
 
 - id: c-160397
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Algirdo didvalstybė
     Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
@@ -6555,6 +6671,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176401
 
 - id: c-160398
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar
     niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
@@ -6574,6 +6692,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176382
 
 - id: c-160401
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė
     ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui. Tad
@@ -6590,6 +6710,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176331
 
 - id: c-160403
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
     aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
@@ -6619,6 +6741,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176388
 
 - id: c-160405
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Elzbieta — už Vaclovo-
     « Vankos » Plocke-Mozūrijoje ; 1325 m. Aldona-Ona — už Kazi­
@@ -6633,6 +6757,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05176
 
 - id: c-160406
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kęstutis vy­
     riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą,
@@ -6649,6 +6775,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-05174
 
 - id: c-160407
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mažas upeliu­
     kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
@@ -6666,6 +6794,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176328
 
 - id: c-160408
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jeigu valdovas Gediminas bū­
     tų manęs apie krikštą, tikriausiai visai kitaip būtų rašęs po­
@@ -6685,6 +6815,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176323
 
 - id: c-160409
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gal todėl, kad daugybė Ordino
     riterių, būtent, Ordino kunigas Jonas Rygietis, Vendeno
@@ -6703,6 +6835,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176340
 
 - id: c-160410
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Galimas daly­
     kas, jog Rygos arkivyskupo pritarimą turėjo ir aniedu vienuoliai
@@ -6718,6 +6852,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176395
 
 - id: c-160411
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jau trys krikščionių baž­
     nyčios, nors neiškilios ir varganos, pagoniškų Vilniaus
@@ -6736,6 +6872,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176361
 
 - id: c-160412
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ant pilkapio nuo neatme­
     namų laikų visada būdavo statomas kryžius. Mažas upeliu­
@@ -6753,6 +6891,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176373
 
 - id: c-160413
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau, tiesą sakant, ir visoje Lie­
     tuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,
@@ -6770,6 +6910,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176399
 
 - id: c-160414
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Hac littera lecta et exscripta a magistro et prioribus
     54
@@ -6802,6 +6944,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176379
 
 - id: c-160416
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviams reikėjo susiformuoti į savaran-
 
@@ -6825,6 +6969,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176337
 
 - id: c-160419
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mat
     atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
@@ -6850,6 +6996,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-176371
 
 - id: c-166925
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva
     liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
@@ -6871,6 +7019,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-183532
 
 - id: c-168060
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     To­
     dėl ir manau, kad dingstį šitokiems svetimšalių post­
@@ -6913,6 +7063,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-184699
 
 - id: c-168061
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl pa­
     sitarę nusprendė patys ati­
@@ -6934,6 +7086,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-184700
 
 - id: c-168062
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Teofrido
     vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
@@ -6951,6 +7105,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-184701
 
 - id: c-168063
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kuo greičiausiai ir kuo ryžtingiausiai
     reikią kelti kalaviją prieš tuos, kurie iš arti graso, o
@@ -6970,6 +7126,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-184702
 
 - id: c-171415
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
@@ -6988,6 +7146,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188526
 
 - id: c-171416
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuo
     tarpu visuotiniame Lietuvos suvažiavime Kernavėje, vadovau­
@@ -7010,6 +7170,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188527
 
 - id: c-171417
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvos ponai 1316 metų sausio mėnesį
     Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
@@ -7026,6 +7188,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188528
 
 - id: c-171419
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Straips­
     nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
@@ -7044,6 +7208,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188530
 
 - id: c-171420
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     304
 
@@ -7068,6 +7234,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188531
 
 - id: c-171421
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvos didžiojo kunigaikščio Gedimino kapas yra
     prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
@@ -7091,6 +7259,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188532
 
 - id: c-171422
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
     jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
@@ -7108,6 +7278,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188533
 
 - id: c-171423
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
     metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
@@ -7122,6 +7294,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-188534
 
 - id: c-173738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     98 /Ten
     pat,
@@ -7141,6 +7315,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-190856
 
 - id: c-173739
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Si moneta yra senesnė už mūsų
     turimą.
@@ -7156,6 +7332,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-190857
 
 - id: c-173740
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
     Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
@@ -7173,6 +7351,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-190858
 
 - id: c-176291
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
@@ -7189,6 +7369,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-193620
 
 - id: c-176535
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE GEDIMINO SEIMĄ, J O  SCNAUS KĘSTUČIO VEDYBAS
     SU BIRUTE IR JŲ  SCNAUS VYTAUTO GIMIMĄ
@@ -7212,6 +7394,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-193910
 
 - id: c-176826
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     142
 
@@ -7235,6 +7419,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-194227
 
 - id: c-177099
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui

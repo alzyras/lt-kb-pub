@@ -81,6 +81,8 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 ## Citatos
 
 - id: c-83892
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anglų riteriai, ne kartą draugėj su
     kryžiuočiais ėję į kryžiaus žygius

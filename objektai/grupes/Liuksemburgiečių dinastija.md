@@ -71,6 +71,9 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
 ## Citatos
 
 - id: c-38281
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kraštutinės jos ribos buvo Pa­
     langa ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir

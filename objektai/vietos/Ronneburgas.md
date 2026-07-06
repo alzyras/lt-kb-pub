@@ -68,6 +68,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-34025
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai kurie jo kronikoje naudoti ir išversti šaltiniai nė­
     ra išlikę iki mūsų dienų. Šitaip pagal Stryjkovskį buvo restauruoti

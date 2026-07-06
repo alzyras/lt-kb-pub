@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55198
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
     pralenkė turtingus prūsus ar karingus kuršius. Matyt, lėmė genties vyrų

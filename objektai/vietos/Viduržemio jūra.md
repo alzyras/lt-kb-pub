@@ -166,6 +166,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Citatos
 
 - id: c-166489
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
     vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
@@ -179,6 +181,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - t-183104
 
 - id: c-166490
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet toto-
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
@@ -198,6 +202,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - t-183105
 
 - id: c-175541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ant­
     ra vertus, ryšiai su labiau išvystytomis tautomis senovė­

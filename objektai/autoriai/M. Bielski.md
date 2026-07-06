@@ -103,6 +103,8 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
 ## Citatos
 
 - id: c-33047
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Laikydama pagrindu Lietuvos valstybės žemes, ji
     apžvelgė per kelioliką šimtmečių didelį rytų Europos plotą. Ji buvo
@@ -120,6 +122,8 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
     - t-30826
 
 - id: c-176505
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     726—785.
     Bielski  M  Kronika wszystkiego éwiata. Kraków, 151, 1554.

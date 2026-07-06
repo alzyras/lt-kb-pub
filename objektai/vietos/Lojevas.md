@@ -250,6 +250,8 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
 ## Citatos
 
 - id: c-43598
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     S. Podobaila išsirinko vietą tarp
     Dniepro ir Sožos žiočių, apsuptą nepra-
@@ -266,6 +268,8 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - t-193776
 
 - id: c-43599
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Su pėstininkais ir artilerija atplaukęs
     V. Gosievskis sudegintame Lojevo mieste
@@ -283,6 +287,8 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - t-41882
 
 - id: c-45192
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jodami stepėmis tarp
     Lietuvos ir Maskvos valdų jie kasdien su-
@@ -301,6 +307,8 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - t-41881
 
 - id: c-167179
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ekspedicines
     pajėgas sudarė maždaug 4000 totorių, tu-
@@ -319,6 +327,8 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - t-183793
 
 - id: c-170546
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­
     jaus sūnus.

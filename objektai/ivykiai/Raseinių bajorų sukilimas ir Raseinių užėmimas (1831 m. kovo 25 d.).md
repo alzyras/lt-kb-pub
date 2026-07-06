@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02028
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Šitas raseiniškių pa-
     sisekimas sujudino visus kitus. Tuojau visose apskrityse ėmė

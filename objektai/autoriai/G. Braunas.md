@@ -82,6 +82,8 @@ Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudaryt
 ## Citatos
 
 - id: c-173274
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     P. 456* -  Tekstas, kuriuo autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. -  L. 310). T. Narbutas

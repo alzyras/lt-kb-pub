@@ -110,6 +110,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 ## Citatos
 
 - id: c-59799
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     232 (225). Dar apie tą patį
 
@@ -128,6 +130,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
     - t-59167
 
 - id: c-59800
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vos šitaip tarė, staiga pasirodė viešpaties kūnas
     pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.

@@ -73,6 +73,8 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
 ## Citatos
 
 - id: c-23549
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po šios ap-
     klausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-

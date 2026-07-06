@@ -135,6 +135,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169972
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
     vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.

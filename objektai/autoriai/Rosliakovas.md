@@ -83,6 +83,8 @@ Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraš
 ## Citatos
 
 - id: c-173334
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tokios nuomo­
     nės yra Malte-Brunas (Vocabulaire de mots génériques). Bet labiau

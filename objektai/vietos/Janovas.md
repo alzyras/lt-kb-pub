@@ -74,6 +74,8 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
 ## Citatos
 
 - id: c-45109
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Liepos 22 d., kai A. Byševskis jau buvo
     Janove, jis gavo Karo tarybos prie kara-

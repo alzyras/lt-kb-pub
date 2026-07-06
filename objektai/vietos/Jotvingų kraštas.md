@@ -79,6 +79,8 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
 ## Citatos
 
 - id: c-72092
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Toli įėjęs į aisčių kraštą, jis 1009 metais
     vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.

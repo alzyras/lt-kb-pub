@@ -68,6 +68,8 @@ VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS�
 ## Citatos
 
 - id: c-77406
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 45, „LIETUVOS TARPTAUTINĖ PADĖTIS XIV A. VIDURYJE% Romas Batūra.
     p. 53, „KOVOS SU KRYŽIUOČIAIS IKI VORSKSLOS MŪŠIO“, Romas Batūra.

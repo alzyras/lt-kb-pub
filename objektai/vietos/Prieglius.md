@@ -311,6 +311,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 ## Citatos
 
 - id: c-59000
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
@@ -326,6 +328,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     - t-58370
 
 - id: c-59002
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Becenbergeris nustatė, kad
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
@@ -346,6 +350,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     - t-58368
 
 - id: c-59003
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
 
@@ -369,6 +375,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     - t-58372
 
 - id: c-59004
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Priešiškuose lietuviams
     šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
@@ -386,6 +394,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     - t-58369
 
 - id: c-167578
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šioje vietoje, apie
 

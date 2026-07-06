@@ -78,6 +78,8 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
 ## Citatos
 
 - id: c-32868
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     LMZ. Nemažai studijų
     Lappo išleido ir lietuvių kalba^144. Lietuvos istorijos klausimus

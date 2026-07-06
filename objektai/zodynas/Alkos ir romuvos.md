@@ -142,6 +142,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00268
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     O šitos šventovės
     būdavo rengiamos kur nors arti sodybų, ant atskirų piliakalnių.
@@ -157,6 +159,8 @@ Nenurodyta
     - t-06171
 
 - id: c-00269
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visi jie atlikinėjo įvairias apeigas, tik, žinoma, kai
     kurie iš jų buvo žinomesni, išgarsėję gydymu ar būrimu, — į juos

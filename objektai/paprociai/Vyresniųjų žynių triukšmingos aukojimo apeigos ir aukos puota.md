@@ -81,6 +81,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172761
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atrodo, jog ši pagoniška religija daugiausia būdavo nau­
     dinga tuo, kad tamsią, piktą, linkusią nusigerti liaudį išlaiky­

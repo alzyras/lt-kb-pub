@@ -283,6 +283,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 ## Citatos
 
 - id: c-100713
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai sukūrė
     nenusakomą įtampą pagal Lietuvos ir Lenkijos demarkacinę liniją, uždarė
@@ -296,6 +298,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-108563
 
 - id: c-100715
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kadangi iki XX a. nė viena pusė neneigė,
     kad Vilnius yra istorinė LDK sostinė, lietuviai atkakliai kartojo istorinius
@@ -315,6 +319,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-108561
 
 - id: c-100716
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva ir Lenkija kaktomuša susidūrė
     Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
@@ -338,6 +344,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-108566
 
 - id: c-100717
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
     Beck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-
@@ -354,6 +362,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-108564
 
 - id: c-100718
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vokiečių ir lenkų mažumos darė žygių gauti tautinę
     autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.
@@ -368,6 +378,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-108567
 
 - id: c-100719
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviai atmetė
     bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad

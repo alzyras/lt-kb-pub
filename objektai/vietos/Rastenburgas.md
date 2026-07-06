@@ -156,6 +156,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-68558
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
     matome, yra tuščias plotas. Be to, ir čia parodytos kai kurios pilys buvo
@@ -176,6 +178,8 @@ media_all_json: |-
     - t-69145
 
 - id: c-168483
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasibai­
     gus susitikimui, karalius kurį laiką pasiliko Veliuono­

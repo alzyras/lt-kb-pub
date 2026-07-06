@@ -75,6 +75,8 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
 ## Citatos
 
 - id: c-168772
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Patyręs
     Lenkijoje visokiausių nemalonumų, Augustas tikėjosi

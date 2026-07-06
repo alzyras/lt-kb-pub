@@ -85,6 +85,8 @@ Nakaitė, L.
 ## Citatos
 
 - id: c-33014
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     —Matusas, J. : _Odų ir kailių
     gamyba senovės Lietuvoje iki XVI amžiaus pabaigos_ , Aidai, 1959, nr. 3-4,

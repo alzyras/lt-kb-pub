@@ -61,6 +61,8 @@ Tiktai kuni gaikštis Mstislavas su nedidele palyda spėjo pabėgti į Lucko mie
 ## Citatos
 
 - id: c-176728
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Šiapus Jieseldos5  upės
     kunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­

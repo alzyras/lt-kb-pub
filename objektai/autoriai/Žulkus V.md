@@ -101,6 +101,8 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
 ## Citatos
 
 - id: c-61201
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     16—
       Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
@@ -113,6 +115,8 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
     - t-60570
 
 - id: c-61202
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29.
   statusas: verified

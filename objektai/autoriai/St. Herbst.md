@@ -67,6 +67,8 @@ Herbst, Kleck.— Przegląd hlstoryczno-vvojskovry, 1934, t.
 ## Citatos
 
 - id: c-176765
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Įskaitant Ir
     vėliau atvykusius, LDK kariuom enės galėjo būti apie 7 tūkstančiai

@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23085
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Valstybė aukštosioms mokykloms užtikrino autonomi-
     ją, apimančią akademinę, administracinę, ūkio ir finansinę veiklą, grin-

@@ -699,6 +699,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 ## Citatos
 
 - id: c-55264
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šie vie­
     nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
@@ -717,6 +719,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55015
 
 - id: c-55265
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­
@@ -733,6 +737,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55010
 
 - id: c-55266
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga. Laiške Joachi­
@@ -748,6 +754,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55012
 
 - id: c-55267
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gimęs Lenkijos-Lie­
     tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
@@ -769,6 +777,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55011
 
 - id: c-55268
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
@@ -785,6 +795,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55013
 
 - id: c-55269
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
@@ -801,6 +813,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55014
 
 - id: c-55270
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     UDK 947.45
     Ba237
@@ -836,6 +850,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55017
 
 - id: c-55271
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
     džiausiai dėkojame"12.
@@ -853,6 +869,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-55016
 
 - id: c-55272
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Sūnėnų tvirtas laidavimo žo­
     dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
@@ -875,6 +893,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-64768
 
 - id: c-171346
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šių „laiškų“ dauguma buvo skirta 1856 metais pa­
     sirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.
@@ -890,6 +910,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-188456
 
 - id: c-173650
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     4 4 0
 
@@ -909,6 +931,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-190768
 
 - id: c-173651
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vadinasi, jis galėjo būti ir anoni­
     minės „Lietuvių mitologijos“ recenzijos autorius. Bet tai

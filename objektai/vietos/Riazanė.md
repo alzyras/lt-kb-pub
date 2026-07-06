@@ -583,6 +583,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32383
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
@@ -601,6 +603,8 @@ media_all_json: |-
     - t-99065
 
 - id: c-32384
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai Vytautas ties Niekudavu (Ka­
     lugos gubern.) sutriuškino Riazanės kunigaikščio eiles, Vosyliui tai
@@ -615,6 +619,9 @@ media_all_json: |-
     - t-99073
 
 - id: c-37694
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pily savo vietininkais Vytautas pali­
     ko kun. Jomantą ir Vosylių Boreikovičių (Boreiką) ir, neilgai
@@ -633,6 +640,9 @@ media_all_json: |-
     - t-99069
 
 - id: c-37695
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Palaikydamas labai gyvus politinius santykius
     su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
@@ -652,6 +662,8 @@ media_all_json: |-
     - t-99062
 
 - id: c-93189
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
@@ -682,6 +694,8 @@ media_all_json: |-
     - t-99066
 
 - id: c-93192
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Maskvos valdovas
     tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
@@ -696,6 +710,8 @@ media_all_json: |-
     - t-99074
 
 - id: c-93193
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
@@ -720,6 +736,8 @@ media_all_json: |-
     - t-99072
 
 - id: c-166476
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Be to, jis pats pasidarė
     savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
@@ -734,6 +752,8 @@ media_all_json: |-
     - t-183088
 
 - id: c-168484
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be abejo, miestas ilgai būtų valiojęs stabdyti per­
     galingą lietuvių veržimąsi, jeigu Stanislovas būtų čia
@@ -754,6 +774,8 @@ media_all_json: |-
     - t-185123
 
 - id: c-170592
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O kunigaikštis Jurgis Svetoslavovičius tuo metu
     viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą

@@ -118,6 +118,8 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
 ## Citatos
 
 - id: c-61058
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus
                        brolio, išrinkimą Romos karaliais nesantarvės metais

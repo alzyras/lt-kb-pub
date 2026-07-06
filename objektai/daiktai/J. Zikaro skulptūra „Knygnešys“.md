@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75243
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Susiformavo tvirta kontrabandinės
     knygnešystės tradicija, ir į XIX a. pabaigą lietuvių kalba Rytprūsiuo-

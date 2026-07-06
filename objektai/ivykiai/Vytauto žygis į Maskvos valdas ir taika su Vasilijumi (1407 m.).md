@@ -182,6 +182,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169029
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Patikrinęs prie
     Smolensko karių kovinę pa­
@@ -210,6 +212,8 @@ Nenurodyta
     - t-185668
 
 - id: c-169030
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Viską apgalvojęs, galop įsakė kavalerijos pul­
     kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
@@ -236,6 +240,8 @@ Nenurodyta
     - t-185669
 
 - id: c-176496
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     DEL VYTAUTO
     VALDINIŲ NUSKRIAUDIMO

@@ -62,6 +62,8 @@ Dusburgietis teigia, kad [Powierski J.] Pomezania.— SSS, t.
 ## Citatos
 
 - id: c-61884
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     [Powierski J.] Pomezania.— SSS, t. 4, cz. 1, s. 220.
   statusas: verified

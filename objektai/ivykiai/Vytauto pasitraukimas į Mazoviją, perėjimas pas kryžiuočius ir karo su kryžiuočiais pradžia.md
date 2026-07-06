@@ -197,6 +197,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169021
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nieko nepešęs
     klasta, metė savo sumanymus ir, aplinkybių verčiamas,
@@ -225,6 +227,8 @@ Nenurodyta
     - t-185660
 
 - id: c-169022
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Čia, kaip ir
     vylėsi, Konradas Celneris, ordino magistras, visokerio­
@@ -256,6 +260,8 @@ Nenurodyta
     - t-185661
 
 - id: c-169023
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Už pirmąjį jų patarnavimą teko atsily­
     ginti Žemaitija, nes Vytautui, nuo pat karo pradžios

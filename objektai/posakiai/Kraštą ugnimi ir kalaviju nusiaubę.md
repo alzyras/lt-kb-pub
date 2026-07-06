@@ -85,6 +85,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82840
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vygan­
     das  tačiau byloja: Steterunt V septi­

@@ -206,6 +206,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-41060
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pagrindiniai tokios kariuome-
     nės ginklai buvo ietys ir kalavijai. Artilerija
@@ -225,6 +227,8 @@ Nenurodyta
     - t-39256
 
 - id: c-167077
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šių dalinių kovinė vertė buvo
     menkesnė, bet ir jie sugebėdavo pasireikšti
@@ -242,6 +246,8 @@ Nenurodyta
     - t-183686
 
 - id: c-175290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­

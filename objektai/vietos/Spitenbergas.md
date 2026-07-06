@@ -149,6 +149,8 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 ## Citatos
 
 - id: c-59274
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos
     žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė
@@ -161,6 +163,8 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     - t-58643
 
 - id: c-59275
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
 

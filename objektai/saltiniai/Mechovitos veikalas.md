@@ -114,6 +114,8 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
 ## Citatos
 
 - id: c-174678
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Veikiau reikėtų daryti išva­
     dą, jog buvę keli šios Skomantų giminės kariūnai1. Me-
@@ -128,6 +130,8 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
     - t-191796
 
 - id: c-174679
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Nei
     inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar

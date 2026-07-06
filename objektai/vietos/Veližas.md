@@ -149,6 +149,8 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 ## Citatos
 
 - id: c-43976
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pagal S. Batoro planą Lietuvos lauko etmo-
     nas Kristupas Radvila Perkūnas, iki pagrin-
@@ -172,6 +174,8 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
     - t-69546
 
 - id: c-170608
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas, sutelkęs visas savo
     pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis

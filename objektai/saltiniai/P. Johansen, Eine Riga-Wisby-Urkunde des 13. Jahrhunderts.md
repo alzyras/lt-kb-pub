@@ -75,6 +75,8 @@ Johansen, Eine Riga-Wisby-Urkunde des 13.
 ## Citatos
 
 - id: c-29912
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     220c LReim 8108. Plg. P. Johansen, Eine Riga-Wisby-Urkunde des 13.
     Jahrhunderts , Zeitschr. des Vereins für Lübekische Geschichte und Altertums­

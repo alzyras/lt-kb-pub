@@ -112,6 +112,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
 ## Citatos
 
 - id: c-172078
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­
     ba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,
@@ -128,6 +130,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
     - t-189190
 
 - id: c-177089
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     229
 

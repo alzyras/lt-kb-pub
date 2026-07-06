@@ -303,6 +303,8 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 ## Citatos
 
 - id: c-21567
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kiekvienas žmogus, dalyvaujantis tokioje akcijoje,
     jautė, kad nuo jo priklauso Lietuvos ateitis. Per keletą mėnesių LPS pa-
@@ -319,6 +321,8 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - t-75682
 
 - id: c-21569
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
     gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-
@@ -343,6 +347,8 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - t-75683
 
 - id: c-21570
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
     Šiaurės Atlanto bendradarbiavimo tarybos. 1994 m. sausį Lietuvos Res-
@@ -359,6 +365,8 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - t-75681
 
 - id: c-73404
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Narystė ES siejama su stabilumu tų insti-
     tucijų, kurios garantuoja demokratiją, įstatymų viršenybę, žmogaus teises
@@ -380,6 +388,8 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - t-75684
 
 - id: c-166914
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Per 1992 m. rinkimus į Sei-
     mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų

@@ -363,6 +363,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 ## Citatos
 
 - id: c-157300
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilnius,
     1966, p. 39.
@@ -386,6 +388,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-172960
 
 - id: c-157304
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     62
     Kaip seniau totoriai garsėjo santū­
@@ -413,6 +417,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-172956
 
 - id: c-157305
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
     doti Vilniuje. Čia, valdovui grįžus, įvyko
@@ -431,6 +437,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-172961
 
 - id: c-157306
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
     mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
@@ -452,6 +460,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-172957
 
 - id: c-171347
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     61
 
@@ -469,6 +479,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-188457
 
 - id: c-171348
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Stenderis savo lat­
     vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio

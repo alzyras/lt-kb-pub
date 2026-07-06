@@ -119,6 +119,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 ## Citatos
 
 - id: c-42339
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo tarpu G. Valdekas gavo žinią,
     kad šiauriau Prostkų per upę keliasi toto-
@@ -144,6 +146,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
     - t-40542
 
 - id: c-44578
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Krymo to-
     torių - samdinių. Jungtinę olando gen.

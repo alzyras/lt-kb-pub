@@ -123,6 +123,8 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 ## Citatos
 
 - id: c-84304
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Juk šis kroniki­
     ninkas pasakoja, kad apie 880 me­
@@ -147,6 +149,8 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
     - t-88324
 
 - id: c-176815
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nors ir patogio­
     je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių

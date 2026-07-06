@@ -68,6 +68,8 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
 ## Citatos
 
 - id: c-45200
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Rugsėjo 24 d. lenkai užima Marcinkonis ir at-
     kerta atsitraukimo kelią į šiaurę.

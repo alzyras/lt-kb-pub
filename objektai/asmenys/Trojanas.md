@@ -84,6 +84,8 @@ Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę liet
 ## Citatos
 
 - id: c-174361
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Juk buvo kariaujama su skandina­
     vais, gentys įvairiais būdais patirdavo tų užjūrio kai­

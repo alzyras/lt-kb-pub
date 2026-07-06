@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22314
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rudenį Rusija susigrąžino ir Lenkijos karalystę.
     Be lenkų kariuomenės, Lietuvoje sukilėlių daliniuose buvo apie

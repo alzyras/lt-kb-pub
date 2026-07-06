@@ -154,6 +154,8 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 ## Citatos
 
 - id: c-82394
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     58
     Valerianae Bursae Erectio et Provisio
@@ -191,6 +193,8 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
     - t-86416
 
 - id: c-82395
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vyskupo Protasevičiaus
     funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­

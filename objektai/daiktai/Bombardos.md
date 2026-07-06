@@ -262,6 +262,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05201
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     O 1384 m. rudenį abu
     pusbroliai su bombardomis apgulė Kauno Marienwerderi. Viskuo
@@ -275,6 +277,8 @@ Nenurodyta
     - t-113458
 
 - id: c-42485
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po keturių savaičių apgulties, po dauge-
     lio susidūrimų meistras Hermanas vienoje
@@ -294,6 +298,8 @@ Nenurodyta
     - t-113454
 
 - id: c-104687
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tačiau
     lietuviai sunaikino pilies priešakinius įtvir-
@@ -316,6 +322,8 @@ Nenurodyta
     - t-113457
 
 - id: c-104689
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
     didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
@@ -333,6 +341,8 @@ Nenurodyta
     - t-113456
 
 - id: c-176408
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Metalinis vamzdis, nukaltas
     iš atskirų segmentų.

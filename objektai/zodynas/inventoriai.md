@@ -128,6 +128,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 ## Citatos
 
 - id: c-71075
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tam tikslui buvo įsakyta paruošti vadinamuo-
     sius inventorius, kuriuose nuo seno buvo surašomos visos
@@ -146,6 +148,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     - t-72696
 
 - id: c-71079
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Privatiniuose dvaruose tebuvo tik suvienodintos vals-
     tiečių prievolės. Tam tikslui buvo įsakyta paruošti vadinamuo-
@@ -160,6 +164,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     - t-72699
 
 - id: c-175899
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai. Tačiau tie inventoriai nega-

@@ -432,6 +432,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 ## Citatos
 
 - id: c-55568
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1841 m. jis tapo vienu iš enciklopedinio
     pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
@@ -453,6 +455,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-81905
 
 - id: c-55569
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
@@ -470,6 +474,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-81903
 
 - id: c-55570
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
     vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus
@@ -489,6 +495,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-55006
 
 - id: c-78433
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Galop ta galinga kariauna išsiruošė į
     žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
@@ -516,6 +524,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-81904
 
 - id: c-78436
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai buvęs Vilniaus Universiteto profeso­
     rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­
@@ -540,6 +550,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-81907
 
 - id: c-78437
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Protasevičiaus pėdomis sekė ir
     jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
@@ -566,6 +578,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-81906
 
 - id: c-171295
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -584,6 +598,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-188405
 
 - id: c-176801
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Didelė dalis gyventojų žuvo per kautynes prie Žemuti­
     nės pilies, o kiti, netekę prieglobsčio ir mieste, ir

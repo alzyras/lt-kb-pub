@@ -144,6 +144,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 ## Citatos
 
 - id: c-167025
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -160,6 +162,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
     - t-183633
 
 - id: c-176319
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kova dėl Livonijos daugiausia buvo suin-
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
@@ -174,6 +178,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
     - t-193650
 
 - id: c-176433
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas,
     Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.

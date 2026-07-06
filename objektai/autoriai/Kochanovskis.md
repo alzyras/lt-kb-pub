@@ -147,6 +147,9 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
 ## Citatos
 
 - id: c-36669
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tada tai, kaip sako Kochanovskis, kažkeno galvoj ir
     kilo geniali mintis, pralenkianti ištisus amžius ir kartas^2 ). Tai buvo
@@ -162,6 +165,9 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
     - t-35454
 
 - id: c-38191
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jau anksčiau
     prasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­
@@ -181,6 +187,9 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
     - t-35453
 
 - id: c-167623
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tos anarchijos metu padidėjo
     ir pavojus iš Ordino šalies, kuris po Kalyšiaus taikos ir dabar

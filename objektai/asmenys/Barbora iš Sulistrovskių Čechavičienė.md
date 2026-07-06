@@ -82,6 +82,8 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
 ## Citatos
 
 - id: c-83609
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to, duoti 8 asmenims kas savaitę po 8 kepalus duonos
     ir tiems patiems 8 valgį iš kolegijos virtuvės.

@@ -157,6 +157,8 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 ## Citatos
 
 - id: c-30227
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
     Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
@@ -172,6 +174,8 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
     - t-179639
 
 - id: c-167136
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Neišlaikę spaudimo totoriai bėgo“ žuvo
     daug murzy ir ulonų.

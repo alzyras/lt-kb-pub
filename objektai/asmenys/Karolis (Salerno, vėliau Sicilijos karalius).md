@@ -113,6 +113,8 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
 ## Citatos
 
 - id: c-60986
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie palaimintosios Marijos Magdalietės palaikų atidengimą
 

@@ -71,6 +71,8 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
 ## Citatos
 
 - id: c-171923
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     156
 

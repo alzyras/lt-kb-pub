@@ -176,6 +176,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 ## Citatos
 
 - id: c-165096
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Petras Roizijus,
     281
@@ -203,6 +205,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     - t-181560
 
 - id: c-165097
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kai po trejų
     metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­

@@ -73,6 +73,8 @@ SpHL = Spekke, A.
 ## Citatos
 
 - id: c-32890
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     SoIEn = Sovetskaja Istoričeskaja Enciklopedija, t. 1-14 (toliau lei­
     džiama), Maskva 1961-1970.

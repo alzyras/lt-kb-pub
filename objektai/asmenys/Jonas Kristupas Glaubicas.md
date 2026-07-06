@@ -278,6 +278,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 ## Citatos
 
 - id: c-21740
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
@@ -296,6 +298,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - t-23201
 
 - id: c-21742
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Bažnyčios su dviem grakščiais, skirtingai
     dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
@@ -315,6 +319,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - t-23206
 
 - id: c-25097
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pirmojoje XVIII a. pusėje susiformavo savita Vil-
     niaus mokykla, kurios stilistikos formuotojas, produktyviausias XVIII a. ar-
@@ -335,6 +341,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - t-24543
 
 - id: c-25413
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ryškiausias ypatumas – ypač aukšti ir
     liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai

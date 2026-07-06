@@ -117,6 +117,8 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 ## Citatos
 
 - id: c-24882
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po
     20 metų. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
@@ -133,6 +135,8 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     - t-22194
 
 - id: c-166830
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įsto-
     ję 4 proc., o metų pabaigoje – jau 62 proc. visų valstiečių, 1952 m. su-

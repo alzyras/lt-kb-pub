@@ -248,6 +248,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-105319
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dvasios dominikonų baž­
     nyčioje galima pamatyti karaliaus
@@ -278,6 +280,8 @@ media_all_json: |-
     - t-114162
 
 - id: c-167165
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Maskva
     viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
@@ -321,6 +325,8 @@ media_all_json: |-
     - t-114163
 
 - id: c-168295
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ga­
     vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­

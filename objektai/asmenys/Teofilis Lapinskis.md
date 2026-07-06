@@ -82,6 +82,8 @@ Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.
 ## Citatos
 
 - id: c-44535
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     žurnalas nurodo, kad rusų pusėje žuvo
     5 ir 32 kariai buvo sužeisti, vertinant

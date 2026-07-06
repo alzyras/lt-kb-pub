@@ -89,6 +89,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 ## Citatos
 
 - id: c-44336
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1275 m. pradžioje chanas Mengu Timūras prieš Lietuvą pasiuntė
     kariuomenę, vadovaujamą Jagurčino, įsakęs eiti į žygį ir rusėnų

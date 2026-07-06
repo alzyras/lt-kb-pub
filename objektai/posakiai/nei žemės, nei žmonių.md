@@ -67,6 +67,8 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
 ## Citatos
 
 - id: c-33490
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.

@@ -129,6 +129,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 ## Citatos
 
 - id: c-59277
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
@@ -150,6 +152,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     - t-58645
 
 - id: c-168525
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to nugalėtojai, paleisti pasiplėšti grobio,
     nusiaubė visas apylinkes, naikindami ugnimi ir kala­

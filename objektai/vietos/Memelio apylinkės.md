@@ -71,6 +71,8 @@ Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavi
 ## Citatos
 
 - id: c-171913
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš tikrųjų iš
     to, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių

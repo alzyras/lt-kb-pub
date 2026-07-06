@@ -160,6 +160,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 ## Citatos
 
 - id: c-171998
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Dainos.
     177
@@ -180,6 +182,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     - t-189110
 
 - id: c-171999
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
     matomas užpuola miegančias moteris, kitą kartą prijaukintas
@@ -196,6 +200,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     - t-189111
 
 - id: c-172000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     F. Noelis mitologijos žodyne, straipsnyje „Incubus“, sako:
     „Tai piktosios dvasios, apie kurias manyta, kad ateina uždu­

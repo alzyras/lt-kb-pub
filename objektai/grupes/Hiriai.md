@@ -197,6 +197,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 ## Citatos
 
 - id: c-175696
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     290
     Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
@@ -215,6 +217,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     - t-192926
 
 - id: c-175697
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Gotams persikėlus į deši­
     nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
@@ -240,6 +244,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     - t-192927
 
 - id: c-175698
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad

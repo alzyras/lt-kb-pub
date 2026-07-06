@@ -127,6 +127,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83439
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Transilvanijos kunigaikštis. Šiuo raštu skel­
     biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
@@ -150,6 +152,8 @@ media_all_json: |-
     - t-87461
 
 - id: c-83440
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IV KNYGA
     ir reikalavo (Vodzinskis), kad jų būtų laikomasi. Mes su

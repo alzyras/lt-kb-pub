@@ -180,6 +180,8 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 ## Citatos
 
 - id: c-82535
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
     atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
@@ -201,6 +203,8 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     - t-86557
 
 - id: c-82536
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     D u b i ń s k i, 1.10.
     41

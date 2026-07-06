@@ -101,6 +101,8 @@ Dusburgietis teigia, kad kubicka W.
 ## Citatos
 
 - id: c-61365
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kubicka W. Bibliografia języka staropruskiego (do 1965 r.).— ABS, Białystok, 1967,
     5, s. 257—311.
@@ -112,6 +114,8 @@ Dusburgietis teigia, kad kubicka W.
     - t-60733
 
 - id: c-176938
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIX a. tose vietose V. Kalvaitis užfiksavo Romovupės upę ir Romovupių gyvenvietę bei
     kaimą Kriwuczei, Kreywuczei (Kalwaitis W., Lietuwiszku..., p. 41, 54, 70). Vad., čia, prie

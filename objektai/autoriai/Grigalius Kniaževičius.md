@@ -90,6 +90,8 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
 ## Citatos
 
 - id: c-84037
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mikalojaus kapinių netoli Rūdninkų vartų,
     o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir

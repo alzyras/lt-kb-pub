@@ -81,6 +81,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-41303
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1949 m. rugpjūčio 13 d. Radviliškio r.
     Užpelkių miške sunaikintas Prisikėlimo

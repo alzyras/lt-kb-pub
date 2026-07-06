@@ -81,6 +81,8 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
 ## Citatos
 
 - id: c-172428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čeltyčios (Czeltice)
     Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių

@@ -117,6 +117,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-169503
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iš ten karalius nuvyko į Lietuvą
     ir likusius žiemos mėnesius praleido Kaune, nes Vil­
@@ -138,6 +140,8 @@ media_all_json: |-
     - t-186142
 
 - id: c-169504
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Rytų imperijos gyventojai,
     pavergti turkų, maldavo Va­

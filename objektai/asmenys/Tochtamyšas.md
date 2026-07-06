@@ -239,6 +239,9 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 ## Citatos
 
 - id: c-36521
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nepavykęs Vorsklos mūšis kuriam laikui buvo
     sustabdęs šį Vytauto įsigalėjimą Rusų pietuose. Bet jau 1409
@@ -256,6 +259,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - t-51185
 
 - id: c-168202
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
@@ -275,6 +280,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - t-184841
 
 - id: c-168203
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautas, ne vieną
     kartą ligi tol patyręs šios tautos tvirtą palankumą ir
@@ -295,6 +302,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - t-184842
 
 - id: c-168204
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nie­
     ko gero nesusilaukė Tochtamyšas, mat tas, kuris,

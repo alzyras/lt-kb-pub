@@ -71,6 +71,8 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
 ## Citatos
 
 - id: c-177192
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Nepaisant viso
     šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš­

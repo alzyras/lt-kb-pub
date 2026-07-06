@@ -117,6 +117,8 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
 ## Citatos
 
 - id: c-172190
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     279
 
@@ -138,6 +140,8 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
     - t-189303
 
 - id: c-172191
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pretorijus Hartknocho studijų prierašuose aiškina teisin­
     gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­

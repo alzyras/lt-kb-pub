@@ -83,6 +83,8 @@ Pavasarinės kovos Žuvinte ir Paliose 1945 m. balandžio 18 d. Buktos pamiškė
 ## Citatos
 
 - id: c-45393
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pavasarinės kovos Žuvinte ir Paliose
     1945 m. balandžio 18 d. Buktos pamiš-

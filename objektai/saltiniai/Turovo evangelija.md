@@ -68,6 +68,8 @@ surašytas Ostromiro ir Turovo evangelijas.
 ## Citatos
 
 - id: c-23986
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviai Rusioje aptiko mūrines cerkves ir vienuolynus, juose – tapy-
     bą, bažnytinės dailės ir rašto rinkinius, o svarbiausia – rašyti mokančius

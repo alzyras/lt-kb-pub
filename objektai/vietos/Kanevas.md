@@ -140,6 +140,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-45123
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     (į šiaurę nuo Kijevo), Kanevas, Cerkasai
     (prie Dniepro žemiau Kijevo; xvi a. vidu-
@@ -161,6 +163,8 @@ media_all_json: |-
     - t-41759
 
 - id: c-168329
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino

@@ -71,6 +71,8 @@ Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „
 ## Citatos
 
 - id: c-173421
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tada aprengia drabužiais, pritinkančiais luomui ir ly­
     čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša

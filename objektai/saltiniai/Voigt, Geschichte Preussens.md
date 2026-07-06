@@ -67,6 +67,8 @@ Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Ange
 ## Citatos
 
 - id: c-174632
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat ties pie­
     tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-

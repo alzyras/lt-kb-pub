@@ -98,6 +98,8 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 ## Citatos
 
 - id: c-55793
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dideli politinės padėties pokyčiai,
     radęsi Švabijoje ir Frankonijoje dėl Hohenštaufenų giminės žlu­

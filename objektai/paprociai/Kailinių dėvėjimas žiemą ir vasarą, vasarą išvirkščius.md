@@ -78,6 +78,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09926
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Tankiau grekonys abelnai^72 visus gyventojus šiapus Uksinės marės, beje, į šiaurę
          linkan gyvenančius, vadino skitais, arba kailinuočiais, nuo to, jog visados žiemą ir vasarą kailinius

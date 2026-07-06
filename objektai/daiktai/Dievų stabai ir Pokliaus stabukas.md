@@ -116,6 +116,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172591
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     273
 
@@ -132,6 +134,8 @@ Nenurodyta
     - t-189708
 
 - id: c-172592
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Politinė padėtis jau buvo
     nepalanki senajai religinei santvarkai, todėl tikėjimo galvos

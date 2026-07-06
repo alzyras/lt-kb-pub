@@ -91,6 +91,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 ## Citatos
 
 - id: c-03021
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
     klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.

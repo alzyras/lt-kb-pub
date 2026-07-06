@@ -78,6 +78,8 @@ Nutarta užimti gynybines pozicijas.
 ## Citatos
 
 - id: c-44210
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lenkų puolimas
 

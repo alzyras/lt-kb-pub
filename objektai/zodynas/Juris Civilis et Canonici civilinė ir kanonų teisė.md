@@ -80,6 +80,8 @@ Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­ demija neturi, išsk
 ## Citatos
 
 - id: c-82570
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     185
 

@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-41362
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1345 m. sausį į Prūsiją atvyko Čekijos
     karalius Jonas su savo sūnumi, Moravijos

@@ -76,6 +76,8 @@ Narbutas, remdamasis Pretorijumi, vėjininkus priskyrė penkioms pranašautojų 
 ## Citatos
 
 - id: c-173438
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
     saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31

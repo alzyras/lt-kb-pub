@@ -114,6 +114,8 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 ## Citatos
 
 - id: c-02315
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Savo tyrinėjimų
     rezultatams skelbti ji įsikūrė specialų žurnalą. Draugija savo sta-
@@ -131,6 +133,8 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
     - t-02078
 
 - id: c-02316
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Maždaug tuo
     pat metu (1879 m.) buvo įkurta vokiečių mokslininkų draugija

@@ -80,6 +80,8 @@ Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuon
 ## Citatos
 
 - id: c-173133
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

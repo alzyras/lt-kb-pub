@@ -146,6 +146,8 @@ J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vie
 ## Citatos
 
 - id: c-170403
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie
     20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų

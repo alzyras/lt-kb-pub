@@ -198,6 +198,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 ## Citatos
 
 - id: c-60648
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai karalius jį paklausė, rodydamas
     tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
@@ -216,6 +218,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
     - t-60018
 
 - id: c-60649
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Žiemą ši kariuomenė atžygiavo  į Elbingą,
     tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
@@ -238,6 +242,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
     - t-60016
 
 - id: c-60650
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
     ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
@@ -255,6 +261,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
     - t-60017
 
 - id: c-167453
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
     tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar

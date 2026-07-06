@@ -206,6 +206,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Citatos
 
 - id: c-81934
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Svečių namams skirta privilegija yra:
     D u b i ń s k i, 1.18. Ją skaitant atro­
@@ -239,6 +241,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - t-85955
 
 - id: c-81935
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau Aleksandro ir Elenos santuoka išplė­
     tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
@@ -256,6 +260,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - t-85956
 
 - id: c-81936
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau savo kai­
     lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
@@ -276,6 +282,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - t-85953
 
 - id: c-81937
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     At­
     rodo, kad šią nuomonę išplatino tie,

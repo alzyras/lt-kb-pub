@@ -247,6 +247,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-10247
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
         arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
@@ -262,6 +264,8 @@ Nenurodyta
     - t-08290
 
 - id: c-175284
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -284,6 +288,8 @@ Nenurodyta
     - t-192494
 
 - id: c-175285
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     153
     Gero gintaro kietumas šipina geležį, jis gražiausiai
@@ -307,6 +313,8 @@ Nenurodyta
     - t-192495
 
 - id: c-175286
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie gintaro viduje esančius vandens lašus sakoma,
     jog jie didėja ir mažėja kintant mėnuliui, bet niekada

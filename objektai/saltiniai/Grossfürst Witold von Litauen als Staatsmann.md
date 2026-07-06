@@ -66,6 +66,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36133
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pfitz. = Pfitzner, Jozeph, Grossfürst Witold von Litauen als
     Staatsmann. Verlag Rudolf M. Rohrer. Brün — Prag —

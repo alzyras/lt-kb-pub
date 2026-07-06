@@ -198,6 +198,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 ## Citatos
 
 - id: c-31079
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
     tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
@@ -213,6 +215,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     - t-182855
 
 - id: c-166260
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vienas jo anūkų (Kazi­
     mieras) pasiekė altorių garbės ir tapo Lietuvos Globėju, kuris, kaip
@@ -228,6 +232,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     - t-182856
 
 - id: c-166522
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
@@ -242,6 +248,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     - t-183137
 
 - id: c-176218
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Okupacijos ir aneksijos, tremtys, genocidai ir
     Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-

@@ -80,6 +80,8 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
 ## Citatos
 
 - id: c-173301
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Musu denisze majse dut mums szoden; pamate
     mums musu grakie, kas mes pamat musu paraduken; ne wede

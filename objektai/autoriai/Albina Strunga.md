@@ -63,6 +63,8 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 ## Citatos
 
 - id: c-22111
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jučas M. The Battle of Grünwald: in commemoration of the 600th anniversary
     of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph

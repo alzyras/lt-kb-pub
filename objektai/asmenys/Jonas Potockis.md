@@ -124,6 +124,8 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
 ## Citatos
 
 - id: c-172953
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.
@@ -138,6 +140,8 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
     - t-190070
 
 - id: c-172954
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     265
 

@@ -123,6 +123,8 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 ## Citatos
 
 - id: c-44723
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
@@ -140,6 +142,8 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
     - t-40861
 
 - id: c-167044
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš švedus ir jų sąjungininkus taip pat
     kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-

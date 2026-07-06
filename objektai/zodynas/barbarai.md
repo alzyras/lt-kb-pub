@@ -81,6 +81,8 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
 ## Citatos
 
 - id: c-168727
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ten greitosiomis įrengę stovyklą,
     sustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­

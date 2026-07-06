@@ -82,6 +82,8 @@ Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio vidu
 ## Citatos
 
 - id: c-169545
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mengli Girėjaus kariai, veda­
     mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­

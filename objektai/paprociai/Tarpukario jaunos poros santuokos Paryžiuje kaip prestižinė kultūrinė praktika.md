@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75276
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su
     pasauline literatūra, menu. Gimė profesionali lietuvių dailė, architektūra,

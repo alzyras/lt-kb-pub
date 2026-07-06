@@ -105,6 +105,8 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
 ## Citatos
 
 - id: c-23658
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     11 minučių ir įveikę 6 411 km, antrą tuo
     metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
@@ -121,6 +123,8 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
     - t-20932
 
 - id: c-166894
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kaune laukiančią ore pasirodant lėktu-
     vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške

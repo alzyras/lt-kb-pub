@@ -72,6 +72,8 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
 ## Citatos
 
 - id: c-82205
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Atrodo, kad ir lietu­
     viški rubliai, tai yra, sidabrinės laz­

@@ -60,6 +60,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-94042
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Witold und Polen in den Jahren 1427-1430_** **, AM, t. 30,
     1893.**

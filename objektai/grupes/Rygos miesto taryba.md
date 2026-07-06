@@ -71,6 +71,8 @@ Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams,
 ## Citatos
 
 - id: c-28570
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Paskutinis Gedimino laiškas (1325.VI.2)
     yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir

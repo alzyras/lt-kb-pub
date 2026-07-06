@@ -145,6 +145,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 ## Citatos
 
 - id: c-74090
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vienas jų tada rašė: „Reikia
     taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
@@ -163,6 +165,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     - t-76526
 
 - id: c-74092
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     buvo Krokuvos universitetas, o XVI a. dviem amžiams (iki Maskvos ir
     Sankt Peterburgo universitetų įkūrimo) šį vaidmenį perėmė Vilniaus

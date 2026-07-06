@@ -744,6 +744,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 ## Citatos
 
 - id: c-31144
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nepa­
     duodama tikslios chronologijos, Nestoro « Povest » paminėjo kaimy­
@@ -761,6 +763,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65554
 
 - id: c-31145
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
     pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
@@ -777,6 +781,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65556
 
 - id: c-31146
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais. Net ir
     pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.
@@ -791,6 +797,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65564
 
 - id: c-31148
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kadangi Prūsų kryžiuočiai porai dešimtmečių buvo užimti
     krašto viduje (sukilimas galutinai buvo numalšintas 1274 m.), Trai­
@@ -812,6 +820,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65567
 
 - id: c-42750
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
     kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę
@@ -832,6 +842,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65555
 
 - id: c-65957
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
     Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
@@ -848,6 +860,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65558
 
 - id: c-65959
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
     kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
@@ -866,6 +880,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65568
 
 - id: c-65960
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     8345). Spindinčius metalo ginklus kronikininkai randa ir pas
     kuršius bei žiemgalius.
@@ -879,6 +895,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65561
 
 - id: c-65964
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
     žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
@@ -893,6 +911,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-65566
 
 - id: c-167698
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Galėjo tas pat būti ir Lietuvoje, kai gyventojai iš sunkiau apgi­
     namų vietų ordino karų laikais vis labiau traukėsi į uždarų sodybų
@@ -906,6 +926,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-184328
 
 - id: c-167875
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kolonijos Agripinos6 ar­
     kivyskupas Avigenas ne tik pats su kariuomene pa­
@@ -927,6 +949,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-184514
 
 - id: c-167876
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kitais metais
     Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
@@ -950,6 +974,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-184515
 
 - id: c-175212
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šį žodį estiškai galėjo pateikti šią su­
     tartį rašęs žmogus, galėjo taip pavadinti net ir patys te­

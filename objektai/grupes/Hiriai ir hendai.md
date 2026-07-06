@@ -71,6 +71,8 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
 ## Citatos
 
 - id: c-172432
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iszskalbk man amzuliali.
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­

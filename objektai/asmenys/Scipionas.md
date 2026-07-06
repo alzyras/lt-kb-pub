@@ -83,6 +83,8 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
 ## Citatos
 
 - id: c-174344
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mes turime neabejotiną tos
     genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­

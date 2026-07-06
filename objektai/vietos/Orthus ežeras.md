@@ -68,6 +68,8 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
 ## Citatos
 
 - id: c-171924
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šventų ežerų yra taip pat Nemuno kairiajame krante,
     kur ir miestelis [Šventežeris] turi tokį vardą.

@@ -192,6 +192,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16900
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
@@ -210,6 +212,8 @@ Nenurodyta
     - t-23350
 
 - id: c-16901
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
@@ -225,6 +229,8 @@ Nenurodyta
     - t-23351
 
 - id: c-166655
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
     nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-

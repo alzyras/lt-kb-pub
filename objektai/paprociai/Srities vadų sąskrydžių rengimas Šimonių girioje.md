@@ -100,6 +100,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12355
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Apygardos teritorijoje, Šimonių girioje,
     bazavosi srities vadovybė, būdavo ren-

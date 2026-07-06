@@ -114,6 +114,8 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 ## Citatos
 
 - id: c-82448
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Vilniaus universiteto bibliotekoje)
     Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
@@ -131,6 +133,8 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
     - t-86470
 
 - id: c-82449
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571
     (1571 metais) 666 kapoms lietuviškomis monetomis išlaidos:

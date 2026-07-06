@@ -69,6 +69,8 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
 ## Citatos
 
 - id: c-169557
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
     sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais

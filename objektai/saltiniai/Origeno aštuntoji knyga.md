@@ -74,6 +74,8 @@ Iš Origeno, iš aštuntosios knygos, ži nome, kad Celsas sakydavo krikščioni
 ## Citatos
 
 - id: c-177254
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
     Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­

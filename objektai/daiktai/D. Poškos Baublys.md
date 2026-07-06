@@ -176,6 +176,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-00228
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kad nebūtų darkoma
     žemaičių kalba, bajorai ir ku-
@@ -197,6 +199,8 @@ Nenurodyta
     - t-07520
 
 - id: c-00229
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visi to sąjūdžio bajorai, kad ir mylėjo savo kraštą, kad ir
     rūpinosi lietuviškosios kalbos grynumu, tačiau neskelbė jokių —
@@ -217,6 +221,8 @@ Nenurodyta
     - t-07521
 
 - id: c-171273
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
     šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­

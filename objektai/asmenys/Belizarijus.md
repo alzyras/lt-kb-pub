@@ -75,6 +75,8 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
 ## Citatos
 
 - id: c-169544
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau didelė herulų da­
     lis persikėlė iš Italijos į Grai-

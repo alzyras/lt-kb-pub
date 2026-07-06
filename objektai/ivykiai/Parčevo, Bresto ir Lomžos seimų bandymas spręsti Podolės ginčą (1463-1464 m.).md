@@ -138,6 +138,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168990
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl
     ir pasklido neteisingas gandas, jog Podolėje jau pra­
@@ -155,6 +157,8 @@ Nenurodyta
     - t-185629
 
 - id: c-168991
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Negi galima buvo tikėtis santarvės ir vienybės,
     kai į vieną vietą susirinks tie, kurie jautėsi neseniai

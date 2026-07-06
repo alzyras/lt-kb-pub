@@ -101,6 +101,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44647
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     T. Korsako) milicijos ba-
     talionas ir keli eskadronai bei keletas kitų

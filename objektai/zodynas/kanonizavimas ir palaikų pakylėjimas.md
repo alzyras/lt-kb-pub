@@ -76,6 +76,8 @@ Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavu
 ## Citatos
 
 - id: c-82572
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lap. 245, tų pačių Didžiojoje Lenkijoje
     metinių įvykių aprašyme, Baško byloja, kad 1254 metų ge­

@@ -65,6 +65,8 @@ Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patr
 ## Citatos
 
 - id: c-61339
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas)  ir dievus
     „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B. H., Заметки по

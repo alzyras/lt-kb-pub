@@ -111,6 +111,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
 ## Citatos
 
 - id: c-174100
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia ir gimė Melas pasaka apie ilgaau­
     sius žmones Satmali, Plinijaus vadintus Panotii1.
@@ -128,6 +130,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     - t-191218
 
 - id: c-177314
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Daugiau smulkmenų apie
     šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į

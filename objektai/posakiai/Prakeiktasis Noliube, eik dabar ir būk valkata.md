@@ -141,6 +141,8 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 ## Citatos
 
 - id: c-85542
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
                             pirmiausia — prieš Kvedenavos valsčių
@@ -167,6 +169,8 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
     - t-89602
 
 - id: c-85544
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
     nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie

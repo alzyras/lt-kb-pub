@@ -75,6 +75,8 @@ Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjim
 ## Citatos
 
 - id: c-173302
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
     Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­

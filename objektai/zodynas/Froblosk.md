@@ -71,6 +71,8 @@ Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis 
 ## Citatos
 
 - id: c-172181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Skaityk apie jį žemiau,
     straipsnyje „Žyniai“.

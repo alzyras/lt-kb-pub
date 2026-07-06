@@ -66,6 +66,8 @@ Dusburgietis teigia, kad labuda G.
 ## Citatos
 
 - id: c-61752
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Labuda G. O źródłach „Kroniki Pruskiej“ Piotra z Dusburga: Na marginesie pracy M.
     Pollakówny Kronika Piotra z Dusburga.— Komunikaty Mazursko-Warmińskie, Olsztyn,

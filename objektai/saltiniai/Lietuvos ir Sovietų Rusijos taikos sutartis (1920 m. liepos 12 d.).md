@@ -443,6 +443,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-73234
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Apskritai 1920 m. liepos 12 d.
     pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
@@ -461,6 +463,8 @@ media_all_json: |-
     - t-75471
 
 - id: c-73237
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
     miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
@@ -480,6 +484,8 @@ media_all_json: |-
     - t-75464
 
 - id: c-73238
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
     kol neatsisakys savo suverenumo Lenkijos naudai.
@@ -498,6 +504,8 @@ media_all_json: |-
     - t-75463
 
 - id: c-73240
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     143
@@ -517,6 +525,8 @@ media_all_json: |-
     - t-75469
 
 - id: c-73242
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagal abiejų tų sutarčių punktus dėl
     Vilniaus turėjo susitarti Lietuva ir Lenkija. Maskva patvirtino, kad sutar-
@@ -534,6 +544,8 @@ media_all_json: |-
     - t-75468
 
 - id: c-73243
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
     Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
@@ -547,6 +559,8 @@ media_all_json: |-
     - t-75470
 
 - id: c-166760
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
@@ -562,6 +576,8 @@ media_all_json: |-
     - t-183367
 
 - id: c-166761
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
     vuodami jos dydį katalikų tikėjimo paplitimu, etnografiniais ir istoriniais
@@ -585,6 +601,8 @@ media_all_json: |-
     - t-75462
 
 - id: c-176270
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Liko ir teisinių kolizijų – Lenkijos ir
     Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietu-

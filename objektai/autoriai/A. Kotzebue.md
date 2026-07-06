@@ -76,6 +76,8 @@ Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p.
 ## Citatos
 
 - id: c-32871
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tvirtindamas, kad laisvieji gali nevaržomai kilnotis^20 , Vytau­
     (^11) **CEV, 67-68 p. — CDPr, VI, 99, 105 p. — J. Voigt :** **_Gesch. Preuss.,_**

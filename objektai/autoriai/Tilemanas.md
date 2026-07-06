@@ -76,6 +76,8 @@ Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriau
 ## Citatos
 
 - id: c-174791
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1
     Delle Rivoluzioni d’Italia, di Carlo Denina in Venezia. 1784,

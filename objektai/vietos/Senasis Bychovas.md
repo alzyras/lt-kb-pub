@@ -76,6 +76,8 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
 ## Citatos
 
 - id: c-175624
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tačiau tuos, kurie ką nors
     rasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­

@@ -76,6 +76,8 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
 ## Citatos
 
 - id: c-171928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     218
 

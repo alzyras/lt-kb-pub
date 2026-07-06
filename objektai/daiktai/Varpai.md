@@ -265,6 +265,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-14341
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo
     dar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir
@@ -285,6 +288,8 @@ Nenurodyta
     - t-12333
 
 - id: c-22310
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos
     ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
@@ -306,6 +311,8 @@ Nenurodyta
     - t-89440
 
 - id: c-85396
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
     pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
@@ -322,6 +329,8 @@ Nenurodyta
     - t-89438
 
 - id: c-85397
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
     J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-

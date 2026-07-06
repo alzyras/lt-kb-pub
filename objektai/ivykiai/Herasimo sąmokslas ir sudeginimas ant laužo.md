@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01860
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tačiau Švitrigailai tą darbą sutrukdė Zigman-
     tas ir lenkai. Švitrigailos didelis priešas (Zigmanto šalininkas),

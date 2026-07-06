@@ -74,6 +74,8 @@ Snyder T.
 ## Citatos
 
 - id: c-20715
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Snyder T. Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–
     1999. Vilnius, 2003.

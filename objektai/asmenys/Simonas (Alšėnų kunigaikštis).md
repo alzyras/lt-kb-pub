@@ -166,6 +166,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83552
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
     rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
@@ -219,6 +221,8 @@ media_all_json: |-
     - t-87573
 
 - id: c-83553
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jur­
     gio paveikslo ir 1.1. Antrasis laiškas

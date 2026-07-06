@@ -72,6 +72,8 @@ Dusburgietis teigia, kad nalepa J.
 ## Citatos
 
 - id: c-61820
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
       Nalepa J..

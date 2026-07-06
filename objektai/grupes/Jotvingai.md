@@ -67,6 +67,8 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
 ## Citatos
 
 - id: c-176032
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Žodžiu, Traidenio laikais Lietuva buvo iškilusi, kaip ga-
     linga karinė pajėga. Tuo metu Lietuvos valstybė buvo grynai

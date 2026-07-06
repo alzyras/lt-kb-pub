@@ -142,6 +142,8 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 ## Citatos
 
 - id: c-60702
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     ir, šitaip toliau braudamasi, užėmė visą valsčių ir jį nusiaubė. Šiame kare krito nukauti
     brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
@@ -160,6 +162,8 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     - t-60070
 
 - id: c-60703
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
 
@@ -177,6 +181,8 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     - t-60072
 
 - id: c-60704
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolio Ulricho kovas su sūduviais
 

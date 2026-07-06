@@ -153,6 +153,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05670
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž. Lenkijos (Tynieco).
@@ -167,6 +169,8 @@ Nenurodyta
     - t-003
 
 - id: c-175832
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antrame
     skyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai

@@ -127,6 +127,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169008
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vargu ar galima patikėti, kad per
     tokį trumpą laiką po Šventaragio mirties (tai yra vos
@@ -148,6 +150,8 @@ Nenurodyta
     - t-185647
 
 - id: c-169009
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po atkaklios apsiausties užėmęs
     Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­

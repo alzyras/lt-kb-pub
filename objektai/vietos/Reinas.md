@@ -205,6 +205,8 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 ## Citatos
 
 - id: c-59347
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     59. Apie Rudolfo, karaliaus, pirmagimio mirtį
 
@@ -222,6 +224,8 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
     - t-58715
 
 - id: c-175508
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado

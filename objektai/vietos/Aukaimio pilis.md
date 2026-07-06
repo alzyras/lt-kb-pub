@@ -401,6 +401,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 ## Citatos
 
 - id: c-31946
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.
     Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
@@ -418,6 +420,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67652
 
 - id: c-67473
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Todėl, įsibrovę
     į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir
@@ -434,6 +438,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67651
 
 - id: c-67474
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1291 buvo pulta,
     Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
@@ -451,6 +457,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67655
 
 - id: c-67475
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     290 (283). Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
 
@@ -469,6 +477,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67654
 
 - id: c-67476
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     240 (233). Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
 
@@ -485,6 +495,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67658
 
 - id: c-67477
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
@@ -505,6 +517,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67656
 
 - id: c-67478
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
     priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
@@ -520,6 +534,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67653
 
 - id: c-67479
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     276 (269). Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
 
@@ -536,6 +552,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-67657
 
 - id: c-167751
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Normaliai, kada
     vakarinėse Lietuvos dalyse vyko žūtbūtinė kova už savo laisvę ir

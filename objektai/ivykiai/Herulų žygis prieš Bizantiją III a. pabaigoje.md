@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173913
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pažinę Bizantiją, jie stebėjosi jos sostinės
     turtais ir troško, godumo apakinti, ją užkariauti; taigi su­

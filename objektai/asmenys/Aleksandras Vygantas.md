@@ -75,6 +75,8 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
 ## Citatos
 
 - id: c-83402
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Buvo tai jau paskutinė sostinės apsiaustis šio
     valdovo nelemto viešpatavimo Lietuvoje laikais.

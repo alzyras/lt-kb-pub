@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75253
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ryškiausios permainos po krikšto buvo išorinės. Su krikštu Lietuvo-
     je išplito pagonių visuomenei nežinomos institucijos – bažnyčios. Tai ne

@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22944
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Solidarumas“ pradėjo, o Vokietijos susivie-
     nijimas baigė griauti SSRS dominuojamą socialistinių šalių bloką (vadi-
@@ -148,6 +150,8 @@ Nenurodyta
     - t-20208
 
 - id: c-166610
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-
     formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti

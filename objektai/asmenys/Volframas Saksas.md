@@ -104,6 +104,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 ## Citatos
 
 - id: c-60854
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
 
@@ -123,6 +125,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
     - t-60222
 
 - id: c-60855
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Todėl pirmąją
     naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi

@@ -87,6 +87,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01814
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nu-
     kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,

@@ -148,6 +148,8 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
 ## Citatos
 
 - id: c-176189
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tuo metu ten
     susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
@@ -165,6 +167,8 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
     - t-193509
 
 - id: c-176520
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Nurodė Voložino kunigaikščiams, kad jotų tuo tikslu
     pas Kazimierą ir nugalabytų.
@@ -189,6 +193,8 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
     - t-193895
 
 - id: c-176821
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O po kele­
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir

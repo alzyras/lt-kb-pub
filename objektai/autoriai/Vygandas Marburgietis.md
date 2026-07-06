@@ -520,6 +520,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 ## Citatos
 
 - id: c-42463
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
     karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
@@ -538,6 +540,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-172967
 
 - id: c-42467
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     PILIES ŠTURMAS
 
@@ -559,6 +563,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-172970
 
 - id: c-157308
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     T. IV, p. 1034-1035;
     kad Karolis Tryrietis, dar 1323 m.
@@ -584,6 +590,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-172969
 
 - id: c-157309
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tačiau nea-
     bejotinai mūšyje patyrė smūgį ir Ordinas,
@@ -605,6 +613,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-172970
 
 - id: c-157310
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
     ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
@@ -642,6 +652,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-172977
 
 - id: c-157311
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Upė Nerige, dažnai minima senovi­
     niame Lietuvos kelių aprašyme,
@@ -662,6 +674,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-172974
 
 - id: c-157314
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Klausimas, ar Kęstutis pats pasirin­
     kęs mirtį, - juk Skirgaila, važiavęs
@@ -694,6 +708,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-172976
 
 - id: c-176508
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Žygio priežastis
     buvo Kaributo Dimitro su Jogaila sutartas maištas prieš Kęstutį,

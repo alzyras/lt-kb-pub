@@ -59,6 +59,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176661
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 4  Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr. past. 12 1
     atmaina: per visą herbo skydą baltas kryžius raudonam e lauke;

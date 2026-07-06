@@ -70,6 +70,8 @@ Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalb�
 ## Citatos
 
 - id: c-174671
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vis dėlto jis
     sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­

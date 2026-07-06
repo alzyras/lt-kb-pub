@@ -80,6 +80,8 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 ## Citatos
 
 - id: c-32947
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Jodkowski, J. : _Grodno i okolice
     w zaraniu dziejów Litwy i Rusi nad Niemnem,_ 1928. — Johansen, P. :

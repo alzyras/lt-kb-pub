@@ -80,6 +80,8 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
 ## Citatos
 
 - id: c-40245
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Staliorių, Rugienių
 

@@ -391,6 +391,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 ## Citatos
 
 - id: c-175079
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     At­
     stumti, nuolat persekiojami buvo priversti ieškoti prie­
@@ -409,6 +411,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-192236
 
 - id: c-175080
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuo remdamasis, Naruševičius savo Lenkijos istorijos
     pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
@@ -430,6 +434,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-192238
 
 - id: c-175081
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vėliau dešiniojoje Dunojaus pakrantėje gyvenę skiri ai
     ir sudargai kiek pagerino savo reikalus, padidinę karinę
@@ -454,6 +460,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-192232
 
 - id: c-175082
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie juos jis pateikia tokių iš senovės rašytojų su­
     rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais
@@ -474,6 +482,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-192237
 
 - id: c-175349
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tebus ir čia leista at­
     kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
@@ -494,6 +504,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-192572
 
 - id: c-175350
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia turbūt ir baigėsi jų sąjunga su alanais. Vėliau jie,
     be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei

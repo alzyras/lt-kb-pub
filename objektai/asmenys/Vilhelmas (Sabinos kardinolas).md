@@ -81,6 +81,8 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
 ## Citatos
 
 - id: c-60852
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų
     — Henrikas  iš Hohenlohės139. Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje

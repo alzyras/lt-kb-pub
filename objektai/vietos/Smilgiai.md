@@ -123,6 +123,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 ## Citatos
 
 - id: c-40356
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšis prasi-
     dėjo ankstų rytą. Mūsiškiai į juos šaudė iš
@@ -139,6 +141,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
     - t-38552
 
 - id: c-167195
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Nebebuvo laiko slėp-
     tis, reikėjo ruoštis gynybai. Mūšis prasi-

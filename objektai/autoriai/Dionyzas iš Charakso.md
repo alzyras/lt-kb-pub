@@ -115,6 +115,8 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
 ## Citatos
 
 - id: c-174444
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -133,6 +135,8 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
     - t-191562
 
 - id: c-174445
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Dionyzas iš Charakso, imperatoriaus Oktaviano
     Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi

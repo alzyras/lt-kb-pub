@@ -149,6 +149,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82904
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogailai pristigo pajėgų gintis taip staiga užkluptam,
     tad miestas ir pilys bemat buvo Kęstučio užimtos, turtai ir
@@ -178,6 +180,8 @@ Nenurodyta
     - t-86925
 
 - id: c-176790
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip
     pat buvo sudarytos paliaubos su Livonijos magistru Rygo­

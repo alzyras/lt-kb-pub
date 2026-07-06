@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-11835
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šios pergalės išvystyti nepavyko. Po ga-
     limos išdavystės M. K. Oginskio pajėgos

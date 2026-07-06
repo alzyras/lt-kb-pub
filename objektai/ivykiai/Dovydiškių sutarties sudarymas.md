@@ -241,6 +241,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 ## Citatos
 
 - id: c-14177
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kad susitarimas neišeitų aikštėn, reikia taip da­
     ryti, tartum belaisviai būtų išperkami už pinigus. Nors Vytau­
@@ -256,6 +259,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - t-12402
 
 - id: c-66735
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dovydiškių sutartis palieka svarbių neatsakytų klausimų. Jeigu
     Vytautas žinojo, kas buvo dokumente surašyta, tad ir jis drauge
@@ -273,6 +278,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - t-66523
 
 - id: c-66736
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Savo sunkią padėtį Jogaila stengėsi lengvinti trimis naujomis
     sutartimis. Tęsdamas tėvo prieš Maskvą nukreiptą politiką, jis su­
@@ -289,6 +296,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - t-66524
 
 - id: c-66737
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet tais pačiais (1380) metais Jogaila padarė naują
     sutartį su visu ordinu. Ji buvo padaryta slaptai, be Kęstučio ži-
@@ -303,6 +312,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - t-66525
 
 - id: c-66738
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Veikliojo magistro Kniprodės išvystytoji sutarčių politika su
     pagonimis, su kuriais kryžiuočiai dešimtmečiais tik kardo smūgiais

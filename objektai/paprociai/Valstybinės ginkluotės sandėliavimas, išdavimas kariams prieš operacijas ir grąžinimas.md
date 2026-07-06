@@ -122,6 +122,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12302
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Todėl ginklai ir ypač šarvai
     buvo labai branginami, sugadinti perkalami. Didesnė dalis gin-

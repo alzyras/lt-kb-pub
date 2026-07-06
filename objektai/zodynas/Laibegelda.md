@@ -71,6 +71,8 @@ Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, �
 ## Citatos
 
 - id: c-172194
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Laibegelda (Lajbegelda)
     Deivė Žinia, arba skleidžianti žinias, šlovę, gandus.

@@ -86,6 +86,8 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 ## Citatos
 
 - id: c-65567
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos

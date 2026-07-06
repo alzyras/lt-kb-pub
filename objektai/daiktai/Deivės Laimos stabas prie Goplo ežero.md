@@ -134,6 +134,8 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
 ## Citatos
 
 - id: c-174927
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
     mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
@@ -151,6 +153,8 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
     - t-192057
 
 - id: c-174928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     29 /P.
     84, 1

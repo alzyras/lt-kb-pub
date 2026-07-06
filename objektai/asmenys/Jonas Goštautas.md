@@ -354,6 +354,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 ## Citatos
 
 - id: c-169341
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Daugirdas, turėjęs galy-
     k u s
@@ -384,6 +386,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - t-193496
 
 - id: c-169342
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Neilgai džiaugėsi šiomis per­
     galėmis. Mat Jono Goštauto vedama kariuomenė jį iš­
@@ -400,6 +404,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - t-193497
 
 - id: c-176187
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     N e s ė k m in g a s  ž y g is  į
     P rūsiją
@@ -430,6 +436,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - t-193498
 
 - id: c-176551
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
     DIDŽIUOJU KUNIGAIKŠČIU
@@ -458,6 +466,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - t-193926
 
 - id: c-176552
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis
     kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
@@ -478,6 +488,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - t-193927
 
 - id: c-176553
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
     tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
@@ -508,6 +520,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - t-193928
 
 - id: c-176554
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O kunigaikštis Jurgis Lengvenaitis, būdamas Didžia­
     jame Naugarde ", pradėjo suprasti negudriai pasielgęs,

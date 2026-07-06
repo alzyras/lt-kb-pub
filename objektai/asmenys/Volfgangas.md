@@ -87,6 +87,8 @@ Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos 
 ## Citatos
 
 - id: c-176192
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs

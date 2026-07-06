@@ -65,6 +65,8 @@ patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germa
 ## Citatos
 
 - id: c-29216
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tai, berods, 98 m. po Kr. patvirtina ir romėnų istorikas Cornelius
     Tacitas (52-117 m. po Kr.) savo Germanijoje (45 skyr.).

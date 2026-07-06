@@ -100,6 +100,8 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 ## Citatos
 
 - id: c-25041
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Buvę ūkiai galėjo būti padalijami keliems
     pretendentams ir taip susmulkinami. Dėl vykdytos žemės reformos didžioji
@@ -115,6 +117,8 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
     - t-75594
 
 - id: c-73327
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šalies valdžiai sunkiai sekėsi kapitalistiniais pagrindais pertvarkyti Lie-
     tuvos žemės ūkį, sparčiai kintant geopolitinei situacijai neparengta ekono-

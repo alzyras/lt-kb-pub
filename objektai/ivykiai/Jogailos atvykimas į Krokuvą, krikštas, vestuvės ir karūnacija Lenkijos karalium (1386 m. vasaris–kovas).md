@@ -96,6 +96,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-37004
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vasa­
     rio 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikš­

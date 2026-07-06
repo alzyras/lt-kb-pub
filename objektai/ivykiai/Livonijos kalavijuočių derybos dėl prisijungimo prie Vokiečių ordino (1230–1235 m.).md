@@ -92,6 +92,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-93970
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Salza tepasiuntė Livonijon du savo įgaliotinius, kad ištirtų kalavi­
     juočių gyvenimą ir paruoštų planą jiems priimti. Sužinojusi apie

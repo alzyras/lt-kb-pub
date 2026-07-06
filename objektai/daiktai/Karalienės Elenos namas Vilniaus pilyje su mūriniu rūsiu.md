@@ -107,6 +107,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83060
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nepagelbėjo jam ir iš Kroku­
     vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­

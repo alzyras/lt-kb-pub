@@ -230,6 +230,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-43166
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jau pirmieji krikščioniški
     Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
@@ -249,6 +251,8 @@ Nenurodyta
     - t-78704
 
 - id: c-43168
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Garsiajame
     Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
@@ -269,6 +273,8 @@ Nenurodyta
     - t-78702
 
 - id: c-75905
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
     žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą

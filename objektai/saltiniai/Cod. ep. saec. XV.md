@@ -65,6 +65,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-03522
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So­
     kołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,

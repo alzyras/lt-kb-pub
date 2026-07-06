@@ -103,6 +103,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 ## Citatos
 
 - id: c-02690
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
     nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami,

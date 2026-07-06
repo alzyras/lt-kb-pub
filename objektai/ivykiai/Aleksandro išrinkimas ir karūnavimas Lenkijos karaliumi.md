@@ -177,6 +177,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169981
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos
     seimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-
@@ -196,6 +198,8 @@ Nenurodyta
     - t-186791
 
 - id: c-169982
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     °  Aleksandras išvyko iš Melniko (LDK) j Krokuvą 1501.XI.29,
     vainikuotas Krokuvoje Lenkijos karaliumi 1501.XII. 12.

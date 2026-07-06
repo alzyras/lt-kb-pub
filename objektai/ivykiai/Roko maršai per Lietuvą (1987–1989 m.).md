@@ -93,6 +93,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23187
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ypač populiarūs tapo vadi-
     namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą

@@ -111,6 +111,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-33235
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš Rudaičių ir Veliuonos
     kapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,

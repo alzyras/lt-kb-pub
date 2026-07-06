@@ -151,6 +151,8 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
 ## Citatos
 
 - id: c-71024
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Universitetas vėl senoviškai susitvarkė ir
     veikiai išgarsėjo, kaip geriausioji lenkų mokslo įstaiga: su juo
@@ -169,6 +171,8 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     - t-72627
 
 - id: c-71025
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo pat metu labai išaugo ir studentų skaičius: tuojau po Na-
     poleono karų. jų tebuvo vos apie 150, bet vėliau išaugo iki 1.500.
@@ -188,6 +192,8 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     - t-72626
 
 - id: c-166327
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Toks universiteto klestėjimas nepatiko rusams, ypač sla-
     vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į

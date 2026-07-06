@@ -83,6 +83,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 ## Citatos
 
 - id: c-61033
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     257 (250). Apie Pieštvės pilėnų apiplėšimą 1294
 

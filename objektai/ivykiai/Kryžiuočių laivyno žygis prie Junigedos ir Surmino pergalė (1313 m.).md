@@ -206,6 +206,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168886
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Bisenės užpuolimas buvo nar­
     siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
@@ -237,6 +239,8 @@ Nenurodyta
     - t-185525
 
 - id: c-168887
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     To­
     dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
@@ -268,6 +272,8 @@ Nenurodyta
     - t-185526
 
 - id: c-168888
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Abi pusės stojo į atkaklų
     mūšį. Smarkiausia ir sunkiausia kova vyko prie to di­

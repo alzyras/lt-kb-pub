@@ -80,6 +80,8 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
 ## Citatos
 
 - id: c-21681
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Likę vieniši lietuviai
     1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį

@@ -192,6 +192,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75868
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Totoriai, nukirtę
 
@@ -205,6 +207,8 @@ Nenurodyta
     - t-78652
 
 - id: c-75869
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šaudymo metu kablys būdavo užkabinamas už įtvirtinimų, kitokio statinio arba vežimo krašto, kuris kaip at-
     rama perimdavo šūvio atatranką. Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi. Atvirame lauke toks ginklas būdavo statomas
@@ -217,6 +221,8 @@ Nenurodyta
     - t-78653
 
 - id: c-75870
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Priekyje, prie ginklo apačios, pritvirtintas stačiai žemyn nukreiptas kablys, skirtas sušvelninti šūvio atatranką,
     kuri būdavo ypač stipri naudojant tokio didelio kalibro šautuvus. Šaudymo metu kablys būdavo užkabinamas už įtvirtinimų, kitokio statinio arba vežimo krašto, kuris kaip at-
@@ -229,6 +235,8 @@ Nenurodyta
     - t-78654
 
 - id: c-167076
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi. Atvirame lauke toks ginklas būdavo statomas
     ant skydo, kitokio stovo arba ant gurguolės vežimo borto. Jis buvo ypač parankus ginant miestų sienas bei pilis

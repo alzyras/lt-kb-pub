@@ -144,6 +144,8 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 ## Citatos
 
 - id: c-70431
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
     ir Estija, jos taip pat apgynė savo nepriklausomybę.
@@ -166,6 +168,8 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     - t-71963
 
 - id: c-167015
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė

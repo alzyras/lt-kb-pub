@@ -77,6 +77,9 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
 ## Citatos
 
 - id: c-38722
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Atitinkamai keičiasi ir jo elgesys. Jeigu iki tol Vytautas
     atrodė nepastovus, besiblaškantis, avantiūristas, tai nuo 1392 me­

@@ -80,6 +80,8 @@ Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas 
 ## Citatos
 
 - id: c-170506
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Buvo vienas
     riteris, Osterodės4 3  komtūras, vardu Libestinas4 3 ; jis

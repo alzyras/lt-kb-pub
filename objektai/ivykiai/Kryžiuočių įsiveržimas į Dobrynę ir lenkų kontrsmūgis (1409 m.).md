@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168962
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai pasiuntinys išvyko, jis
     Įsiv e ržia  į D o b ry n ę  ir
@@ -156,6 +158,8 @@ Nenurodyta
     - t-185601
 
 - id: c-168963
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tą rude­
     nį jie būtų buvę galutinai su­

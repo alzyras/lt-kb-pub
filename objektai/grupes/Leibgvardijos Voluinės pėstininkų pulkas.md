@@ -145,6 +145,8 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 ## Citatos
 
 - id: c-75496
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Fronto kairiajame
     ir dešiniajame sparnuose taip pat buvo iš-
@@ -177,6 +179,8 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
     - t-78198
 
 - id: c-75497
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kautynėms paruoštą Rusijos kariuome-
     nės pagrindą sudarė: Leibgvardijos lie-

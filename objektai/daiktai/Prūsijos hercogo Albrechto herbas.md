@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60335
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,
     1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios

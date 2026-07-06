@@ -95,6 +95,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-166734
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Realiai LV situacijos nevaldė, nes negalė-
     jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik

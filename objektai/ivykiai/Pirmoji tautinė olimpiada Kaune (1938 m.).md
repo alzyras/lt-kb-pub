@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23178
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kaune Lietuva antrą
     kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė

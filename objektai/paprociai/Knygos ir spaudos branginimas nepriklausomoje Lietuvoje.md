@@ -102,6 +102,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75274
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nacionalinė kultūra,
     nereguliuojama ir nevaržoma, atsiskleidė visa savo pilnatve, užaugo nauja

@@ -84,6 +84,8 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 ## Citatos
 
 - id: c-171024
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iš mitologijos žodynų sužinojęs, kad kitos tautos garbino
     indiškos kilmės deivę Bute, tapatinamą su išmintinguoju Bud-

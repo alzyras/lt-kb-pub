@@ -331,6 +331,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 ## Citatos
 
 - id: c-173193
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žyniai, kurie vadinosi Wejktime, latviškai -  Wiktums, tu­
     rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­
@@ -347,6 +349,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - t-190310
 
 - id: c-173194
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Henenbergerio liudi­
     jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
@@ -362,6 +366,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - t-190311
 
 - id: c-173195
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
@@ -382,6 +388,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - t-190312
 
 - id: c-173196
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Erazmas Ste­
     la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
@@ -401,6 +409,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - t-190313
 
 - id: c-173197
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
@@ -423,6 +433,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - t-190314
 
 - id: c-173582
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tolesnės
     vagos ir jas jungiančios perplaukos vadinamos Rusneit,
@@ -447,6 +459,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - t-190700
 
 - id: c-173583
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Rytuose ji ribojosi su Sudar­
     gą, pietuose — su jotvingių Polese, vakaruose — su Ga­

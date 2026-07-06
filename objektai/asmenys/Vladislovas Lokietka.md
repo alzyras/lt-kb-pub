@@ -476,6 +476,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 ## Citatos
 
 - id: c-56171
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis  atgauti
     kryžiuočių užgrobtą Pomeraniją. 1320 m. balandžio—1321 m. vasario mėn. Inovroclave
@@ -488,6 +490,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-90065
 
 - id: c-56172
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
     m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
@@ -502,6 +506,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-90070
 
 - id: c-56173
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
     žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
@@ -518,6 +524,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-90071
 
 - id: c-56174
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
     padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį
@@ -535,6 +543,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-194526
 
 - id: c-85949
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
     ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
@@ -551,6 +561,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-90075
 
 - id: c-85951
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     248 (241). Apie Lenkijos žemės apiplėšimą
 
@@ -569,6 +581,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-90073
 
 - id: c-85952
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     361 (354). Apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­
                       vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių
@@ -584,6 +598,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-90068
 
 - id: c-85953
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
     Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
@@ -601,6 +617,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-90067
 
 - id: c-167747
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
     Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo

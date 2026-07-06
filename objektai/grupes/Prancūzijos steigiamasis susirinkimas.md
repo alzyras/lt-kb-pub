@@ -79,6 +79,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 ## Citatos
 
 - id: c-22702
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
     cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-

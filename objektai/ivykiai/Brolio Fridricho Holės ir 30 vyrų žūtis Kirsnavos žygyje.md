@@ -105,6 +105,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-87552
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie brolio Fridricho Holės ir 30 vyrų žūtį
 

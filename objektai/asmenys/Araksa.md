@@ -75,6 +75,8 @@ Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo d
 ## Citatos
 
 - id: c-174248
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bu­
     dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,

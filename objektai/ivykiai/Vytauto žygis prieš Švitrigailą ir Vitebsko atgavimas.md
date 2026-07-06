@@ -143,6 +143,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169027
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -174,6 +176,8 @@ Nenurodyta
     - t-185666
 
 - id: c-169028
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Taip pat ir Jurijus Svia-
     toslavovičius, Smolensko valdovas, nors ir elgėsi kaip

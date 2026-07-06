@@ -73,6 +73,8 @@ Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej 
 ## Citatos
 
 - id: c-61938
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
     Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa.— Wrocław—Warszawa—

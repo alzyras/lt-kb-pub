@@ -235,6 +235,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169947
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
     emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
@@ -258,6 +260,8 @@ Nenurodyta
     - t-193848
 
 - id: c-169948
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Lietuvos metraščiuose nebeužsimenama apie Polocko kunigaikš­
     čio Andriaus Algirdalčio likimų. 1387 m. balandžio pirm ojoje pu­

@@ -599,6 +599,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 ## Citatos
 
 - id: c-166194
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­
     siems skaitytojams, besidomintiems senąja Vilniaus miesto ir bendra
@@ -628,6 +630,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182791
 
 - id: c-166195
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
@@ -644,6 +648,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182792
 
 - id: c-166196
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga. Laiške Joachi­
@@ -660,6 +666,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182797
 
 - id: c-166197
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Anastazija, Dobrynės kunigaikštie­
     nė 69
@@ -686,6 +694,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182788
 
 - id: c-166198
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
@@ -703,6 +713,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182795
 
 - id: c-166199
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     w fUUnie/,
 
@@ -768,6 +780,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182793
 
 - id: c-166200
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­
@@ -784,6 +798,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182789
 
 - id: c-166201
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Antologija. I knyga
     Teodoras Narbutas
@@ -830,6 +846,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182794
 
 - id: c-166202
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Šie vie­
     nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
@@ -849,6 +867,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182796
 
 - id: c-166203
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
     džiausiai dėkojame"12.
@@ -867,6 +887,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182787
 
 - id: c-166204
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Gimęs Lenkijos-Lie­
     tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
@@ -889,6 +911,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-182790
 
 - id: c-176804
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Sūnėnų tvirtas laidavimo žo­
     dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­

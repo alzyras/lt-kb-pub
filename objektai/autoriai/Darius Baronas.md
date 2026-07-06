@@ -81,6 +81,8 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
 ## Citatos
 
 - id: c-41654
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, hu-
     manitarinių mokslų daktaras. Tyrinėja krikščionybės Lietuvoje is-

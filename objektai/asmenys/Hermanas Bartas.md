@@ -83,6 +83,8 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
 ## Citatos
 
 - id: c-60957
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     4. Apie brolį Hermaną, trečią magistrą
 

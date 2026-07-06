@@ -65,6 +65,8 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
 ## Citatos
 
 - id: c-31756
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov,
     išl. A. Nasonov, Maskva-Leningradas 1950.

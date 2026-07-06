@@ -246,6 +246,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 ## Citatos
 
 - id: c-170006
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
@@ -261,6 +263,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - t-186824
 
 - id: c-170007
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 1  Krokuvos pilies (Vavelio) katedroje 1411 m. rudenj buvo pa­
     kabinta 51 kryžiuočių ir jų  talkininkų vėliavų, paimlų 1409-1411 m.
@@ -276,6 +280,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - t-186823
 
 - id: c-170008
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     PRIEDĖLIŲ PAAIŠKINIMAI
     **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
@@ -290,6 +296,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - t-186825
 
 - id: c-170009
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
@@ -303,6 +311,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - t-186826
 
 - id: c-170010
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mykolas
     Lietuvis savo traktate, rašytame apie 1549—1550 m .,

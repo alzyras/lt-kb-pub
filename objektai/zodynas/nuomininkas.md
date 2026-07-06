@@ -140,6 +140,9 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
 ## Citatos
 
 - id: c-37940
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytauto dvarus administravo jo skiriami vietininkai. Jie
     rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­
@@ -156,6 +159,9 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     - t-36818
 
 - id: c-38752
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Juo jis
     didino savo kariuomenės būrius, įtraukdamas į ją platesnius gy­
@@ -176,6 +182,9 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     - t-36819
 
 - id: c-167630
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo tam tikra žemės
     valdymo reforma, Vytauto įvykdyta rusiškuose kraštuose, ir

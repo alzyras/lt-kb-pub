@@ -65,6 +65,8 @@ Didžiajai kunigaikštienei Onai 1 5 mirus, didysis ku nigaikštis Algirdas ved�
 ## Citatos
 
 - id: c-176750
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Penktas— Konstantinas l0 , jo da­
     lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2

@@ -74,6 +74,8 @@ Schmidt, W.
 ## Citatos
 
 - id: c-33200
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     II, Torino 1965, 807-857 p. — Sadaus­
     kaitė, I. : _Dėl mirusiųjų deginimo papročio,_ ILKI, t. 3, 1961, 125-131 p.

@@ -95,6 +95,8 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
 ## Citatos
 
 - id: c-84061
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Prūsai - apie jų kalbą pasakytina,
     kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu

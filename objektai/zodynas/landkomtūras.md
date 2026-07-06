@@ -73,6 +73,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 ## Citatos
 
 - id: c-59544
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
     žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies

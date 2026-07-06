@@ -71,6 +71,8 @@ Dusburgietis teigia, kad lietuviškoji tarybinė enciklopedija.— T.
 ## Citatos
 
 - id: c-61764
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuviškoji tarybinė enciklopedija.— T. 3.— V., 1978.
   statusas: verified

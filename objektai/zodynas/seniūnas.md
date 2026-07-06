@@ -275,6 +275,9 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 ## Citatos
 
 - id: c-14711
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
     (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
@@ -287,6 +290,9 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - t-12584
 
 - id: c-14712
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     1411 m. jis
     pats paskyrė seniūną iš Ordino atgautai Žemaitijai^1 ). Tai buvo
@@ -303,6 +309,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - t-12586
 
 - id: c-170479
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
     kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
@@ -318,6 +326,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - t-187529
 
 - id: c-175909
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pagaliau baudžiamosios (kriminalinės) bylos
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.

@@ -101,6 +101,8 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 ## Citatos
 
 - id: c-45445
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tolesnio puo-
     šovininės, tvirtinamos limo buvo atsisakyta. Kolonos padaliniai
@@ -117,6 +119,8 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
     - t-42342
 
 - id: c-45446
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prie Debeikių
     puolantieji susidūrė su priešo pėstininkais,

@@ -72,6 +72,8 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
 ## Citatos
 
 - id: c-45541
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-

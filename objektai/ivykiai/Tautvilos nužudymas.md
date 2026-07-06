@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169879
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O Treniota
     pradėjo kunigaikščiauti visoje Lietuvos ir Žemaičių že­

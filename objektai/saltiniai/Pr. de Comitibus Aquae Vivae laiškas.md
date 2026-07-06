@@ -67,6 +67,9 @@ de Comitibus Aquae Vivae, laišką.
 ## Citatos
 
 - id: c-38429
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Panašų laišką popiežius parašė ir Vytautui^6 ).
     Po to Vytautas susilaukė ir iš kurijos narių, humanistų, pav.

@@ -88,6 +88,8 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
 ## Citatos
 
 - id: c-167161
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Šis ginklas buvo vienas
     mėgstamiausių tarp partizanų ir buvo jų pramintas „dešimtuku“ (pagal šovinių dėtuvės talpą)

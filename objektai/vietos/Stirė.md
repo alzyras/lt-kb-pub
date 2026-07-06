@@ -67,6 +67,8 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
 ## Citatos
 
 - id: c-45345
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Jogailos kariuomenė pro Vladimirą lie-
     pos pabaigoje artėjo prie Lucko. Prie Stirės

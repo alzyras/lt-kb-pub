@@ -76,6 +76,8 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
 ## Citatos
 
 - id: c-174631
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine

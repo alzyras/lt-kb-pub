@@ -75,6 +75,8 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
 ## Citatos
 
 - id: c-45152
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Totorių kariuomenė
 

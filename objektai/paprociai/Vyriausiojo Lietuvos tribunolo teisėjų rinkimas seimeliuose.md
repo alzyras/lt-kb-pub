@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02283
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vyriausiojo Lietuvos tribunolo reikalas buvo
     svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
@@ -153,6 +155,8 @@ Nenurodyta
     - t-02047
 
 - id: c-02286
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Todėl bajorija
     seimuose ir seimeliuose nuolat reikalavo, kad vyriausiasis teismas

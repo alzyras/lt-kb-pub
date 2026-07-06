@@ -80,6 +80,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177205
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
     patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­

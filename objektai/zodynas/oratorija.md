@@ -71,6 +71,8 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
 ## Citatos
 
 - id: c-82581
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mikalojaus bažnyčią. O po dvi­
     dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,

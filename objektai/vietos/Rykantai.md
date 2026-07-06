@@ -72,6 +72,8 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
 ## Citatos
 
 - id: c-45311
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     L. Želigovskis siekė iš-
     vystyti sėkmę ir, tikėdamasis

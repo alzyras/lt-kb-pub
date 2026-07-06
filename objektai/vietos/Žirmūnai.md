@@ -81,6 +81,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24652
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gyvenamųjų namų statyba
     standartizuota pagal tipinius projektus, daugiausia naudotos surenka-

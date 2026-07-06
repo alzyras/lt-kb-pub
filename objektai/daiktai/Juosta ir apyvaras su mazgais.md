@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60318
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
     ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,

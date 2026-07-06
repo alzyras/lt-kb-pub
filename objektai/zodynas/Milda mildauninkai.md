@@ -227,6 +227,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 ## Citatos
 
 - id: c-172091
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O
     šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
@@ -243,6 +245,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     - t-189203
 
 - id: c-172092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Milda (Milda)
     Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
@@ -260,6 +264,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     - t-189204
 
 - id: c-172093
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
     deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
@@ -276,6 +282,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     - t-189205
 
 - id: c-172094
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kitaip vadinosi Pizio.
     Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
@@ -294,6 +302,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     - t-189206
 
 - id: c-177084
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     158
 

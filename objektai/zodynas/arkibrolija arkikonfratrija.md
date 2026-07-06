@@ -85,6 +85,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82561
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Išlikę
     dokumentai, iš įvairių rankų gauti, tai patikina. 1539 metais

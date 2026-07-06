@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172737
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­
     tukams, genijams ir visoms mitinėms būtybėms, gyvenančioms

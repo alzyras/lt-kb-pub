@@ -149,6 +149,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83026
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
     m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
@@ -166,6 +168,8 @@ Nenurodyta
     - t-87047
 
 - id: c-175283
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jei netu­
     rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis

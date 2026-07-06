@@ -146,6 +146,8 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
 ## Citatos
 
 - id: c-59226
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     534 D. — castrum Mederabam, Jer.— bure zu Mederabe; Medraba (SZM, p. 223). Iš
     piliakalnių išsidėstymo  į vak. nuo Dubysos situacijos, pateiktos kronikoje, atrodo, kad
@@ -161,6 +163,8 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
     - t-58594
 
 - id: c-167570
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pirmajam priklausė į vakarus nuo Gedimino
 

@@ -95,6 +95,8 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
 ## Citatos
 
 - id: c-42078
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Paveiksle pavaizduoti
     Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,

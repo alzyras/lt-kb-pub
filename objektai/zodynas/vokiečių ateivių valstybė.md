@@ -79,6 +79,8 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
 ## Citatos
 
 - id: c-46943
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Kadangi čia
     ateivių krikščionių kolonijos ir misijonieriai dažnai būdavo puo-

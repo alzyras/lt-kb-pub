@@ -86,6 +86,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170454
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-

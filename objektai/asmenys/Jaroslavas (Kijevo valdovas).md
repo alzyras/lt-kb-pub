@@ -81,6 +81,8 @@ Lietuva patyrė Kijevo Rusios agresiją.
 ## Citatos
 
 - id: c-41360
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos valstybė
 

@@ -71,6 +71,8 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.
 ## Citatos
 
 - id: c-168673
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip praėjo ir kiti metai, pakaitomis vieniems
     kitus puldinėjant. Prūsijos magistras, susilaukęs pa­

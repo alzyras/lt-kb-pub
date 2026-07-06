@@ -307,6 +307,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-13100
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Kariuomenės sustojo viena prieš kitą ne-
     toliese, taip, kad jas tik mažas upelis skyrė“.
@@ -340,6 +342,8 @@ Nenurodyta
     - t-66810
 
 - id: c-13101
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švitrigailos ir Ordino jėgų, „kryžiuočių, li-
     voniečių, totorių ir rusėnų kariuomenė pa-
@@ -360,6 +364,8 @@ Nenurodyta
     - t-66813
 
 - id: c-13104
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
     pasibaigusį 1435 m. Pabaisko mūšiu. Buvo visiškai susilpnintas
@@ -372,6 +378,8 @@ Nenurodyta
     - t-66811
 
 - id: c-43098
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     „Ir buvo mūšis rugsėjo pirmąją dieną, per šventą Simoną. Kovėsi už Ukmergės, prie
     Šventosios upės. Ir dievas padėjo didžiajam kunigaikščiui Žygimantui ir jo sūnui, kuni- |
@@ -385,6 +393,8 @@ Nenurodyta
     - t-66812
 
 - id: c-43099
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pabaisko (Šventosios) mūšyje žuvo
     Livonijos magistras Kerskorfas, marša-
@@ -409,6 +419,8 @@ Nenurodyta
     - t-66814
 
 - id: c-43100
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pabaisko mūšis imperatoriaus
     laiške didžiajam magistrui lyginamas su

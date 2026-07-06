@@ -83,6 +83,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44686
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
     p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“

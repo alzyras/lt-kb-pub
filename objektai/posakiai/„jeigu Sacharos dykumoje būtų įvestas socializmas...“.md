@@ -86,6 +86,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-26744
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau tai nereiškė
     gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trū-

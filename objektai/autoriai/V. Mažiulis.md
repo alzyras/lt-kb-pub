@@ -171,6 +171,8 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
 ## Citatos
 
 - id: c-65447
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
     Endzelīns  J. Senprūšu valoda; Būga K. Rinktiniai raštai,  t. 1, 3; Mikalauskaitė E.
@@ -189,6 +191,8 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - t-64862
 
 - id: c-65448
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
     J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
@@ -207,6 +211,8 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - t-64859
 
 - id: c-65449
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kuršių  nerijos vardą pasidarė Ordino  raštininkai pagal Kuršo vyskupystės
     pavadinimą (taip atsirado  ir Kuršių marių pavadinimas). Nuo XV a. vidurio Ordino
@@ -221,6 +227,8 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - t-64861
 
 - id: c-65450
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių
 

@@ -71,6 +71,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09951
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Pagal jų nuomonę į dangų eiti ir doriesiems reikią per didžiai aukštą ir žiaurų kalną ropoti į
         aukštybes, todėl, idant lengviau tenai galėtų įlipti, numirėlius degindami, mėčioję į ugnį meškos

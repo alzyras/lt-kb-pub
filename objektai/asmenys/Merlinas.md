@@ -115,6 +115,8 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
 ## Citatos
 
 - id: c-41409
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Gegužės 4 d. rusai pasiekė Anykščius ir
     sužinojo, kad tik prieš dieną sukilėliai iš
@@ -132,6 +134,8 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
     - t-39605
 
 - id: c-41410
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Atsitraukęs kaimo gilumon, mjr. Mer-
     linas išsiuntė raportą gen. mjr. I. Ganeckiui

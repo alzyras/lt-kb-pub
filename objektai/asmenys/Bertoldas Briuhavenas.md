@@ -81,6 +81,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 ## Citatos
 
 - id: c-169459
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Bertoldas negalėjo
     leisti, kad iš jo atimamas toks patogus kelias, todėl,

@@ -143,6 +143,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-21921
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Caro administracija ėmėsi tyrimo,
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
@@ -161,6 +163,8 @@ media_all_json: |-
     - t-82634
 
 - id: c-79097
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Be to,
     kaip rašė viename laiške jo žmona, Vilniuje jam buvo pasiūly­

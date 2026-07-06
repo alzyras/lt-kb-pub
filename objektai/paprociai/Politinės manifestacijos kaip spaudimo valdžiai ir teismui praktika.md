@@ -219,6 +219,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55194
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Naujasis imperatorius 1861 m. pavasarį pasirašė manifestą, paleidu-
     sį privačių dvarų valstiečius iš baudžiavinės priklausomybės, pasirašyti
@@ -238,6 +240,8 @@ Nenurodyta
     - t-006
 
 - id: c-55195
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kreiptasi į valstiečius (tai pirmas atsišaukimas
     lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
@@ -257,6 +261,8 @@ Nenurodyta
     - t-54325
 
 - id: c-166719
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos

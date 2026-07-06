@@ -74,6 +74,8 @@ senoji Vakarų Europa skilo į dvi dalis – pietinę katalikiškąją ir šiaur
 ## Citatos
 
 - id: c-19183
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
     sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,

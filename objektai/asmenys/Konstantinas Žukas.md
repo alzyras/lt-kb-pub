@@ -72,6 +72,8 @@ Konstantinas Žukas.
 ## Citatos
 
 - id: c-44428
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Po Steigiamojo seimo rinkimų krašto ap-
     saugos ministru ir vyriausiuoju kariuo-

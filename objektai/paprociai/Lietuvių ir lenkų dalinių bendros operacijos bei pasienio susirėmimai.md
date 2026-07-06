@@ -253,6 +253,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-12402
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su
     bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos
@@ -268,6 +270,8 @@ Nenurodyta
     - t-78711
 
 - id: c-43173
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1920 m. vasario 22-23 d. Kaune kilo bolše-
     vikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę
@@ -287,6 +291,8 @@ Nenurodyta
     - t-78709
 
 - id: c-43174
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     [137 Ašmeną,
 

@@ -129,6 +129,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169214
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl neilgai trukus paaiškė­
     jo; j°g Per šį bendravimą, atšiauriausias širdis suvi­
@@ -154,6 +156,8 @@ Nenurodyta
     - t-185853
 
 - id: c-176095
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Prū­
     sai mielai priglaudė kaimyninę tautą: nebūgštavo, kad

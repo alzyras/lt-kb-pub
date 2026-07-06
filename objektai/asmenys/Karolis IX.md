@@ -288,6 +288,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 ## Citatos
 
 - id: c-42065
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     £ sae.
     ee Kuoknesės pilis
@@ -313,6 +315,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-79078
 
 - id: c-42066
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1605 m. rugséjo 27 d. SALASPILIO (KIRKCHOLMO) MUSIS
 
@@ -333,6 +337,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-79081
 
 - id: c-42067
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Beje, Švedijos karalius
     Karolis 1x vos nepakliuvo į nelaisvę. Švedų
@@ -348,6 +354,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-79079
 
 - id: c-76173
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     2500 švedų karių įsitvirtino mieste ir
     pradėjo pilies apgultį. Karolis Sudermanas
@@ -363,6 +371,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-79080
 
 - id: c-76176
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švedų kariuomenė neatlaikė ir pra-
     dėjo trauktis iš viso mūšio lauko, vietomis

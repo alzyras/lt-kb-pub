@@ -73,6 +73,8 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
 ## Citatos
 
 - id: c-93932
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ten nuo 1216 metų, gavęs «Prūsų
     vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­

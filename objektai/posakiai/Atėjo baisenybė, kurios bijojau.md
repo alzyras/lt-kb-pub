@@ -79,6 +79,8 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
 ## Citatos
 
 - id: c-59715
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     227 (222). Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
 

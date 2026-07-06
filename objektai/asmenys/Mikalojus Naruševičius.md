@@ -84,6 +84,8 @@ Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntinia
 ## Citatos
 
 - id: c-169512
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius
     taip paskirstė senatorių

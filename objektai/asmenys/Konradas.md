@@ -327,6 +327,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 ## Citatos
 
 - id: c-42083
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     jauti su prūsais 1226-1228 m.
     pakvietė Mozūrijos kunigaikš-
@@ -344,6 +346,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-79083
 
 - id: c-76178
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
     iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
@@ -362,6 +366,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-79084
 
 - id: c-173788
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ma­
     tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
@@ -387,6 +393,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-190906
 
 - id: c-173789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad Danielius, palikęs Neb-
     rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems

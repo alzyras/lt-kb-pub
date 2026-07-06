@@ -136,6 +136,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172777
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
     siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
@@ -152,6 +154,8 @@ Nenurodyta
     - t-189894
 
 - id: c-172778
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
     kunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo

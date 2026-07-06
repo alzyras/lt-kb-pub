@@ -77,6 +77,8 @@ Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroni
 ## Citatos
 
 - id: c-174363
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš imperatoriaus Augusto valdy­
     mo Romos valstybėje epochos išliko geografijos—istorijos

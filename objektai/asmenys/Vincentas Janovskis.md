@@ -70,6 +70,8 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
 ## Citatos
 
 - id: c-169845
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     T. Narbuto prašomas, rankraščio savininkas Alek­
     sandras Bychovcas perdavė jį istoriko pažįstamam tei­

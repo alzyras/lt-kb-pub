@@ -113,6 +113,8 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
 ## Citatos
 
 - id: c-172976
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
     Graikijoje ir toliau.
@@ -127,6 +129,8 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     - t-190093
 
 - id: c-172977
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Eri-
     sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­

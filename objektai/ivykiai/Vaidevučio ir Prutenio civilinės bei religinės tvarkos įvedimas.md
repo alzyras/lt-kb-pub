@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172516
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
     tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama

@@ -80,6 +80,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-25046
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miš-
     kus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, ne-

@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169924
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais

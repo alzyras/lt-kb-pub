@@ -160,6 +160,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 ## Citatos
 
 - id: c-82133
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
     dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­
@@ -182,6 +184,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     - t-86155
 
 - id: c-82134
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dvasios bažnyčios pastatyti vie­
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
@@ -200,6 +204,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     - t-86154
 
 - id: c-176854
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O po kele­
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir

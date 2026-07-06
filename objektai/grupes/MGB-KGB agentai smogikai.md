@@ -110,6 +110,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 ## Citatos
 
 - id: c-22665
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugybė aukų, persekiojimai suar-
     dė būrių ir apygardų ryšius, silpnėjo būrių kontrolė. Pereita prie įprasto
@@ -126,6 +128,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     - t-19935
 
 - id: c-22666
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Dislo-
     kuoti visuose valsčiuo-

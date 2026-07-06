@@ -84,6 +84,8 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 ## Citatos
 
 - id: c-60988
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
     pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių

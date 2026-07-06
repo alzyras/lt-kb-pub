@@ -119,6 +119,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16412
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
     kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo

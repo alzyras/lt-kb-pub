@@ -113,6 +113,8 @@ Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. N
 ## Citatos
 
 - id: c-174280
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -131,6 +133,8 @@ Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. N
     - t-191398
 
 - id: c-174281
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

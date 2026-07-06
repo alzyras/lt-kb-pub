@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-173450
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
     priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir

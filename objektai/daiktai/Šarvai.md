@@ -246,6 +246,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-14350
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją
     kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki
@@ -263,6 +266,9 @@ Nenurodyta
     - t-12346
 
 - id: c-14351
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lengvoji kavalerija buvo pa­
     našiai šarvuota, bet jos šarvai būdavo lengvesni, dengdavo tik
@@ -279,6 +285,9 @@ Nenurodyta
     - t-192070
 
 - id: c-174938
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Ordino ka­
     riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
@@ -295,6 +304,8 @@ Nenurodyta
     - t-192069
 
 - id: c-174939
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia
     mūšis ir baigėsi. Kitą rytą pastebėta, jog kai kurie priešų
@@ -310,6 +321,9 @@ Nenurodyta
     - t-192068
 
 - id: c-174940
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Abi priešininkų kariuomenės
     buvo netoli viena kitos. Visa Ordino kariuomenė stovėjo atvi­

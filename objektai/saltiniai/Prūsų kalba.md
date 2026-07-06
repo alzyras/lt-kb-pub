@@ -73,6 +73,8 @@ Dusburgietis teigia, kad prūsų kalba —MLTE, 1968, 2, p. 935—936.
 ## Citatos
 
 - id: c-61897
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Prūsų kalba —MLTE, 1968, 2, p. 935—936.
        Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/

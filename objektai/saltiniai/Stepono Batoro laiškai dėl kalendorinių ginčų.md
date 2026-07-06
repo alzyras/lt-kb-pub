@@ -99,6 +99,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84456
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O s i ń s k i, O życiu i pismach X. Piot­
     ra Skargi, 1. 21.

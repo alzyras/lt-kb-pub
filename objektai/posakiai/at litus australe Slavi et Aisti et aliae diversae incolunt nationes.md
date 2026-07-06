@@ -80,6 +80,8 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
 ## Citatos
 
 - id: c-33483
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Apie 830 m. Ka­
     roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minėjo

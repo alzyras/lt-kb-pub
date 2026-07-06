@@ -435,6 +435,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 ## Citatos
 
 - id: c-10073
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Užvis ilgainiui, kad nedori krikščionys,
         užsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu
@@ -453,6 +455,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     - t-07840
 
 - id: c-167842
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai pasirodė iš užnugario grėsmingi barbarai,
     kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
@@ -470,6 +474,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     - t-184481
 
 - id: c-167843
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lenkų
     karalystei suskilus į daugybę kunigaikštysčių, sunku
@@ -489,6 +495,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     - t-184482
 
 - id: c-167844
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be
     Livonijos ir Prūsijos kariuomenės, kurią vedė, Prūsi- *
@@ -511,6 +519,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     - t-184483
 
 - id: c-167845
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Teofrido
     vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
@@ -528,6 +538,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     - t-184484
 
 - id: c-171099
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Bet jos principai visiškai
     nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­

@@ -112,6 +112,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169881
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
     Goštautas žemai lenkdamasis prašė didįjį kunigaikštį

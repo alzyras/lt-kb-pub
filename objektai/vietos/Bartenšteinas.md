@@ -489,6 +489,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 ## Citatos
 
 - id: c-58930
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos
     (dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje.
@@ -500,6 +502,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-58303
 
 - id: c-58931
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     (III, 73). Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas
     juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
@@ -513,6 +517,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-58305
 
 - id: c-58932
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Bartenšteino pilies puolimą
 
@@ -532,6 +538,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-194529
 
 - id: c-58933
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
 
@@ -553,6 +561,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-58300
 
 - id: c-58934
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
@@ -571,6 +581,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-58302
 
 - id: c-58936
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kronikininkas, rašydamas apie antrąjį prūsų sukilimą, Ordino brolių veiklos pagrindine
     vieta laiko Karaliaučių (III, 95, 100—113). Po to ima pasakoti apie atskirų pilių bei
@@ -588,6 +600,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-58299
 
 - id: c-167532
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 
@@ -608,6 +622,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-58298
 
 - id: c-167534
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
@@ -622,6 +638,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-184149
 
 - id: c-177126
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­

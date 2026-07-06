@@ -103,6 +103,9 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
 ## Citatos
 
 - id: c-35656
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kas kita Vytautas, kurį
     ir patys lietuviai pripažino tikruoju Kęstučio įpėdiniu. Jis vie­
@@ -117,6 +120,9 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
     - t-34431
 
 - id: c-167637
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet pirmasis
     maža ir simpatijų teturėjo Lietuvoj. Kas kita Vytautas, kurį

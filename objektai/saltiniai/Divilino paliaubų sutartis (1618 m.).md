@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-02395
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Paliaubų sutartis Lietuvai ir Lenkijai buvo naudinga: ja
     Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sri-

@@ -67,6 +67,8 @@ Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio 
 ## Citatos
 
 - id: c-44823
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą
     Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio

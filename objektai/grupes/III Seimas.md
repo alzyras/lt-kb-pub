@@ -173,6 +173,8 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 ## Citatos
 
 - id: c-22413
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
     mentarizmo krizės, diktatūrų įvedimai, perversmai. Bolševikų diktatūra
@@ -192,6 +194,8 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - t-74133
 
 - id: c-22415
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     III Seimo pradėti dar-
     bai įvardyti kaip neįvykdomi ir
@@ -212,6 +216,8 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - t-74135
 
 - id: c-72189
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     155

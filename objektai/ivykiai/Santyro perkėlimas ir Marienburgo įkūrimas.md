@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63114
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     208 (203). Apie Marienburgo pilies pastatymą
 

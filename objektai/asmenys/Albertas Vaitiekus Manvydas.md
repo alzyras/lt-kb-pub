@@ -70,6 +70,8 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
 ## Citatos
 
 - id: c-176739
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5 Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y­
     tauto politinių bendradarbių. Nuo 1397 m. Vilniaus seniūnas, o  pas­

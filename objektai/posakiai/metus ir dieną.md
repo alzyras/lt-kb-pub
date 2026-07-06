@@ -74,6 +74,8 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
 ## Citatos
 
 - id: c-82843
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     197
 

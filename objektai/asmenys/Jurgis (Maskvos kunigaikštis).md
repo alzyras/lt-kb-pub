@@ -71,6 +71,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83717
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čekų ir Silezijos savanorių vadai ir, gražiausia,
     Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­

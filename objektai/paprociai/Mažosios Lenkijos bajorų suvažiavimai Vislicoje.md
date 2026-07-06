@@ -80,6 +80,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176693
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ’ Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km
     j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės

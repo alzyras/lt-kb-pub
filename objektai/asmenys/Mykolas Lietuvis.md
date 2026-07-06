@@ -141,6 +141,8 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
 ## Citatos
 
 - id: c-173070
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
     koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
@@ -155,6 +157,8 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
     - t-190187
 
 - id: c-173811
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Kortos, romanai, garderobai — tokios yra jų dory­
     bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
@@ -169,6 +173,8 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
     - t-190929
 
 - id: c-174844
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     199
     Nenutraukdami mūsų pastabų sekos, laikysime, jog lai­

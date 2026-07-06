@@ -82,6 +82,8 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
 ## Citatos
 
 - id: c-72102
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Čia prekyba buvo
     daugiau suvaržyta tik 1629—1635 m., kai Prūsų pakrantės

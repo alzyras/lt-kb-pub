@@ -92,6 +92,8 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 ## Citatos
 
 - id: c-83808
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Trejybės prieglaudą ir ją geriau aprūpinti pave­
     dė kelissyk testamente minimoms seserims ir respublikai, o

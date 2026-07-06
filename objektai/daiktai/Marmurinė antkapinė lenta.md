@@ -98,6 +98,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170040
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     “  6771 =  1263 m.
     1 1  Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta

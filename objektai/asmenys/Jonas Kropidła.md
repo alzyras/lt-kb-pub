@@ -72,6 +72,9 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
 ## Citatos
 
 - id: c-38058
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tai buvo, tiesa, tik didelio darbo pradmens, bet tuo metu nie­
     kas Europoje negalėjo net bandyti prilygti savo darbais didžia­

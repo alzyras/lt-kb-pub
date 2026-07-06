@@ -88,6 +88,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169199
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­
     leistas, kadangi vargu ar ką galima buvo benuveikti.

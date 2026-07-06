@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-177212
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Smarkiai pagausėjus visuomenių, atsirado vidaus saugu­
     mo reikiamybė: visuomenės institucijos ėmė tobulėti, taip pat

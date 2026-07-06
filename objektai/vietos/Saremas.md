@@ -87,6 +87,8 @@ Saremas brolis Otto (Blanehom).
 ## Citatos
 
 - id: c-82082
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Myko­
     lo, išverstos iš vokiečių į lotynų kalbą. Be išsamaus išvar­

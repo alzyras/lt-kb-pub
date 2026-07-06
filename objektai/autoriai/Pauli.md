@@ -69,6 +69,8 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
 ## Citatos
 
 - id: c-84057
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     XI, c. 7; iš ten
     buvo perimta vėlesnių kronikininkų,

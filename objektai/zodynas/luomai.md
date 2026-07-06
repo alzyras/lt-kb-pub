@@ -316,6 +316,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 ## Citatos
 
 - id: c-168717
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip paprastai esti, kai vienoje
     valstybėje gyvena skirtingos tautos, tada kiekvienai
@@ -338,6 +340,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     - t-185356
 
 - id: c-168718
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visi Lietuvos
     iuvoje
@@ -358,6 +362,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     - t-185357
 
 - id: c-168719
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
     niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
@@ -376,6 +382,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     - t-185358
 
 - id: c-168720
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Beje, ir Jogaila, smarkiai pasenęs ir su­
     vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
@@ -399,6 +407,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     - t-185359
 
 - id: c-168722
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K okį atsak y m ą
     g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
@@ -417,6 +427,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     - t-185361
 
 - id: c-176105
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     L ietuviai, su šau k ę B reste lu o ­
     m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­

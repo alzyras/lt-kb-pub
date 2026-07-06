@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-173929
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lietuviai, gyvenę toliau nuo jūros, dalyva­
     vo įvairiuose sarmatų maištuose, būdavo įtraukiami į

@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83259
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­

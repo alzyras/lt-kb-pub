@@ -96,6 +96,8 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 ## Citatos
 
 - id: c-69263
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ypatingai daug lietuvių vargsta Pietų Amerikoje; čia labiausiai ir
     reikalinga jiems parama. Čia daug reikia lėšų ne tik organizacijoms,

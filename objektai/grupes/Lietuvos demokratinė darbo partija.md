@@ -126,6 +126,8 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 ## Citatos
 
 - id: c-154380
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagrindinis šalies įstatymas garantuo-
     ja prigimtines žmogaus ir piliečio teises ir laisves, piliečiai, priklausantys
@@ -152,6 +154,8 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
     - t-169680
 
 - id: c-154381
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Suvažiavimo metu „už savarankišką LKP, tu-
     rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-

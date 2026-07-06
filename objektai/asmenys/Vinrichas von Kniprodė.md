@@ -161,6 +161,9 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 ## Citatos
 
 - id: c-36534
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kęstučiui dar smarkiau, negu pirmtakū­
     nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
@@ -176,6 +179,9 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - t-117891
 
 - id: c-108470
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
     žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
@@ -198,6 +204,9 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - t-117889
 
 - id: c-108471
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuo
     1237 mt. abu Ordinai buvo susijungę į vieną, veikė vienos va­

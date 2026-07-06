@@ -72,6 +72,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83651
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mūšis buvo įnirtingas ir žiaurus, kol pagaliau pralaužtos
     vokiečių ir rusų rikiuotės pradėjo bėgti iš mūšio lauko. Čia

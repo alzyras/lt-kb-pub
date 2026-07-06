@@ -80,6 +80,8 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
 ## Citatos
 
 - id: c-173439
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tokios nuomo­
     nės yra Malte-Brunas (Vocabulaire de mots génériques). Bet labiau

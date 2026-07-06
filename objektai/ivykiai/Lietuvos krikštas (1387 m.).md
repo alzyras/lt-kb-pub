@@ -225,6 +225,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169726
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Savaip transformuota artimo meilės idėja atsispindi
     senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-
@@ -244,6 +246,9 @@ Nenurodyta
     - t-186369
 
 - id: c-169727
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Daugiau Jogaila Lie­
     tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos
@@ -263,6 +268,8 @@ Nenurodyta
     - t-186370
 
 - id: c-169729
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vis dėlto tai liko istorinis epi-
     zodas, nors pagoniška valstybė pamažu

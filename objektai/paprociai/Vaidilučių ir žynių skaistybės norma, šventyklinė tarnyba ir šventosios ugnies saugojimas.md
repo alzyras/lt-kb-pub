@@ -259,6 +259,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172667
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.
@@ -280,6 +282,8 @@ Nenurodyta
     - t-189784
 
 - id: c-172668
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visokios pastabos ir istorijos liudijimai teikia žinių, kad
     lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­
@@ -298,6 +302,8 @@ Nenurodyta
     - t-189785
 
 - id: c-172669
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Antikos laikais panašiai būdavo
     apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
@@ -322,6 +328,8 @@ Nenurodyta
     - t-189786
 
 - id: c-177033
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     114
 
@@ -345,6 +353,8 @@ Nenurodyta
     - t-194635
 
 - id: c-177034
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jas rink­
     davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­

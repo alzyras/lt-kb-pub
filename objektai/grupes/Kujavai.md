@@ -79,6 +79,8 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
 ## Citatos
 
 - id: c-175756
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­
     siai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­

@@ -66,6 +66,8 @@ Algirdas priekaištauja Konstantinopolio patriarchui: »[...] pagal Tavo palaimi
 ## Citatos
 
 - id: c-40872
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Algirdas priekaištauja Konstantinopolio patriarchui:
 

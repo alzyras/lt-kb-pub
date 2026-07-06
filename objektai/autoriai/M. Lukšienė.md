@@ -75,6 +75,8 @@ Lukšienė (BBK, t.
 ## Citatos
 
 - id: c-30731
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Apie bibliotekas Lietuvoje XIX a.
     pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji

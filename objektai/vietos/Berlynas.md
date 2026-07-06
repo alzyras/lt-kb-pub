@@ -798,6 +798,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 ## Citatos
 
 - id: c-31964
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     IvB = Ivinskis, Z. : Geschichte des Bauernstandes in Litauen.
     Berlynas 1933 (Historische Studien, išl. Dr. Emil Ebering,
@@ -810,6 +812,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170302
 
 - id: c-154956
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Berlyno  karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
@@ -825,6 +829,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170289
 
 - id: c-154957
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daugumą
     partizanų sudarė jauni ir vidutinio amžiaus lietuviai: inteligentai, ūkinin-
@@ -842,6 +848,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170292
 
 - id: c-154958
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
     vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­
@@ -863,6 +871,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170285
 
 - id: c-154959
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O beveik
     kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar
@@ -886,6 +896,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170296
 
 - id: c-154960
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kaip ir kiti šitame skyriuje toliau minėsimi
     istorikai, jis stengėsi tyrinėjamąjį Lietuvos praeities darbą tęsti
@@ -906,6 +918,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170298
 
 - id: c-154961
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Neutralumo politika ir
     Molotovo–Ribentropo paktas
@@ -929,6 +943,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170293
 
 - id: c-154962
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Suprantama, dėmesingai buvo
     keliamos ir tyrinėjamos lietuvių-lenkų diferencijos, kurių netrūko
@@ -950,6 +966,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170287
 
 - id: c-154963
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
     tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
@@ -967,6 +985,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170300
 
 - id: c-154964
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
     cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
@@ -989,6 +1009,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170286
 
 - id: c-154968
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
     santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
@@ -1004,6 +1026,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170294
 
 - id: c-154970
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
@@ -1018,6 +1042,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170299
 
 - id: c-154971
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau lietuviams
     sovietai nesiasocijavo su tautine valstybe, todėl bolševikų jie neparėmė.
@@ -1034,6 +1060,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170303
 
 - id: c-154972
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
     žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
@@ -1053,6 +1081,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-170288
 
 - id: c-154973
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Petersburg 1904.
     Tas pat pasakytina apie Livonijos istorijos bibliografiją :

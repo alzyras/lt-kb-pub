@@ -76,6 +76,8 @@ Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kra
 ## Citatos
 
 - id: c-84383
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums
     brangių Kraševskio ir Balinskio veikalų apie Vilnių, Vilniaus

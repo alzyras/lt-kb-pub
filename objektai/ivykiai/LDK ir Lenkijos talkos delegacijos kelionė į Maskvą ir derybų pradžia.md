@@ -147,6 +147,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169986
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     T ra­
     kų ir Kauno pilyse. Paleistas 1528 m.

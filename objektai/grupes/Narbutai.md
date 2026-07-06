@@ -92,6 +92,8 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
 ## Citatos
 
 - id: c-170860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vi­
     suomenės akyse jis tapo LTI autoriumi.

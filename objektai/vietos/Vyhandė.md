@@ -71,6 +71,8 @@ Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kur
 ## Citatos
 
 - id: c-171972
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.
     Paprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar

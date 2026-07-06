@@ -86,6 +86,8 @@ Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojam
 ## Citatos
 
 - id: c-173117
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

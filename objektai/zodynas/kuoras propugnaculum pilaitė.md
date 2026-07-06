@@ -335,6 +335,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 ## Citatos
 
 - id: c-59417
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Bartenšteino pilies puolimą
 
@@ -354,6 +356,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - t-194455
 
 - id: c-59418
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
     ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
@@ -370,6 +374,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - t-58790
 
 - id: c-59419
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     239 D. — Wildenbergk, Jer.— Wildinberc; vėliau Willenberg, dab. Vilbarkas — pietinis
     Malborko rajonas deš. Nogato krante. Vardas, atrodo, perkeltas iš Žemutinės Frankonijos
@@ -385,6 +391,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - t-58786
 
 - id: c-59420
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
     pasirengę vyrai ir apsupo Baigos pilį, įsitaisę čia karo stovyklas, tačiau broliai, iš anksto
@@ -404,6 +412,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - t-58785
 
 - id: c-59422
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
 
@@ -422,6 +432,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - t-58787
 
 - id: c-59423
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
 
@@ -445,6 +457,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - t-58789
 
 - id: c-167391
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 

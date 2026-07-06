@@ -123,6 +123,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-16938
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
     minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
@@ -141,6 +143,8 @@ Nenurodyta
     - t-45538
 
 - id: c-48312
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ši informacija neatitiko tikro-
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.

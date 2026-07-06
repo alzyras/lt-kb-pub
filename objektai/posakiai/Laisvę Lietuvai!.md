@@ -94,6 +94,8 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 ## Citatos
 
 - id: c-23552
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar

@@ -78,6 +78,8 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
 ## Citatos
 
 - id: c-168682
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.

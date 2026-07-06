@@ -73,6 +73,8 @@ Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
 ## Citatos
 
 - id: c-59358
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Skokiai žr. Zioka
     Skomackas

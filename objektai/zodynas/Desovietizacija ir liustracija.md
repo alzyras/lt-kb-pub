@@ -83,6 +83,8 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
 ## Citatos
 
 - id: c-24670
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai leidžia kalbėti apie išprususią, imlią ir mobilią Lietuvos visuomenę,
     galinčią kaip lygi su lygia konkuruoti su vakarietiška visuomene, kurios

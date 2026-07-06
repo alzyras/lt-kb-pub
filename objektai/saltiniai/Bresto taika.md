@@ -158,6 +158,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-23749
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau kitoje dalyje
     Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą
@@ -175,6 +177,8 @@ media_all_json: |-
     - t-21029
 
 - id: c-23750
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kabinetas
     pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro-
@@ -197,6 +201,8 @@ media_all_json: |-
     - t-21028
 
 - id: c-166750
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nebeliko
     nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-

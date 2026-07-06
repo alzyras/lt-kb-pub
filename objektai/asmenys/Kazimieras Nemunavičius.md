@@ -72,6 +72,8 @@ Narbutas mini turėjęs pereito amžiaus viduryje rašytą laišką su Kazimiero
 ## Citatos
 
 - id: c-173055
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pusdievio ir Nemuno vardo panašumas
     perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­

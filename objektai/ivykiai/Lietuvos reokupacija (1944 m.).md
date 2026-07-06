@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-28747
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jį tepakeitė ten tik prievarta
     primestas marksistinis Lietuvos praeities supratimas, kai 1944 m.

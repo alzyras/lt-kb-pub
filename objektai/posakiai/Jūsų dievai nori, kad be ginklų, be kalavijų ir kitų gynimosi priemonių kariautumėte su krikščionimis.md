@@ -118,6 +118,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 ## Citatos
 
 - id: c-85533
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai traukėsi atgal, kai kuriems belaisviams
     pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė
@@ -136,6 +138,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     - t-89590
 
 - id: c-176944
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
     žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir

@@ -71,6 +71,8 @@ Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio m
 ## Citatos
 
 - id: c-59550
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     42. Apie dviejų našlių ginčą dėl vieno vyro
 

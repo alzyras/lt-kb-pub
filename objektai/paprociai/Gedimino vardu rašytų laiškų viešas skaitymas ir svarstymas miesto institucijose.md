@@ -170,6 +170,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83185
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rygos miesto tarė­
     jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323
@@ -198,6 +200,8 @@ Nenurodyta
     - t-87206
 
 - id: c-176795
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Buvo
     aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką

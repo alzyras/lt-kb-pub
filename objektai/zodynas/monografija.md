@@ -87,6 +87,9 @@ Monografijoje yra 320 puslapiu.
 ## Citatos
 
 - id: c-167629
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytauto vieta mūsų istorijoje.
     Monografijoje yra 320 puslapiu. Išleista gerame popieriuje su Vytauto

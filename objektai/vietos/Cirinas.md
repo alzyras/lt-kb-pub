@@ -92,6 +92,8 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
 ## Citatos
 
 - id: c-170284
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 8  Ostašinas — BTSR kaimas (apie 20 km ( pietryčius nuo Nau­
     garduko, Nesvyžiaus link). Ostašino ir kelių kitų vietovių pam inėji­

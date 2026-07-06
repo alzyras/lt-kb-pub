@@ -87,6 +87,8 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 ## Citatos
 
 - id: c-83898
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     320 flor. 21 gr.
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­

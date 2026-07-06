@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83074
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Belaisvių ėmimas, krašto niokojimas bei
     plėšikavimas, kaip ir per ankstesnius puolimus, buvo vie­

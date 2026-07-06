@@ -111,6 +111,8 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 ## Citatos
 
 - id: c-96633
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Šis, išvydęs tokį nedidelį brolių karių būrį, paklausė, kur kiti. Jam atsakė, kad kitų nė
     nebuvę. Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
@@ -123,6 +125,8 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
     - t-103451
 
 - id: c-96634
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
     ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.

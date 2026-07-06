@@ -105,6 +105,8 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
 ## Citatos
 
 - id: c-173287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
     iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam

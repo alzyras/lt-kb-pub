@@ -66,6 +66,9 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
 ## Citatos
 
 - id: c-36012
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vienas
     iš kryžiuočių, Falkenbergas, stengėsi dar Vok. Ordinui padėti,

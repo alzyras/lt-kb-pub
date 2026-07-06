@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23280
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
     ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-
@@ -156,6 +158,8 @@ Nenurodyta
     - t-75301
 
 - id: c-73123
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
     kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).

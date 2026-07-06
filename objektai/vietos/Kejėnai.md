@@ -59,6 +59,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176442
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 26-27, Kalavijai. xm a. Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.
   statusas: verified

@@ -87,6 +87,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-75132
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų
     balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės

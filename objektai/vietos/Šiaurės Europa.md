@@ -179,6 +179,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 ## Citatos
 
 - id: c-24625
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
     kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
@@ -200,6 +202,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     - t-77713
 
 - id: c-171764
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Čia kalbama apie baltą gėrimą, kuris gali būti arba kume­
     lių pienas, arba fermentuotas jo gaminys, kuris, kaip pamaty­
@@ -220,6 +224,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     - t-188875
 
 - id: c-175559
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     O ir tas, kuris susipažino su priešistorinės seno­
     vės epochomis, apiplėštomis įvairių senienų epochomis,

@@ -116,6 +116,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
 ## Citatos
 
 - id: c-174593
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ilgai čia reikėtų dėstyti jo įrodymus, parem­
     tus vien žodžių ir religinių apeigų panašumu, bet pasaky­
@@ -133,6 +135,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
     - t-191711
 
 - id: c-174594
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pažvelgę tyrinėtojo žvilgsniu į
     lietuvių senovės paminklus, visur aptinkame pėdsakų ir

@@ -292,6 +292,9 @@ Valstybinė santvarka po Liublino unijos.
 ## Citatos
 
 - id: c-14717
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
     stiprinęs savo padėtį viduje, vėl ėmė nesutikti su Ordinu. Tam
@@ -312,6 +315,8 @@ Valstybinė santvarka po Liublino unijos.
     - t-72004
 
 - id: c-168002
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K ai žlugo visos v il­
     ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­
@@ -347,6 +352,8 @@ Valstybinė santvarka po Liublino unijos.
     - t-184641
 
 - id: c-176108
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     K okį atsak y m ą
     g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o

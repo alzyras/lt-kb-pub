@@ -80,6 +80,8 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
 ## Citatos
 
 - id: c-84326
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Nebuvo jie, galima sakyti, nei tikrai laisvi, nei vi­
     sai priklausomi. Jau veikiau tai netvirtas ir varganas būvis,

@@ -89,6 +89,8 @@ GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizan�
 ## Citatos
 
 - id: c-45233
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     PASTOVIAIO)
 

@@ -75,6 +75,8 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
 ## Citatos
 
 - id: c-32998
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^78) ĮVADAS
     _gynimas_ [I960]^107. K. Sideravičius: _Nuo Durbės iki Žal­

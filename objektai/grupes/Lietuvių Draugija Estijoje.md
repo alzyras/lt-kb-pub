@@ -133,6 +133,8 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 ## Citatos
 
 - id: c-70937
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Dabar Suomijoje yra Lietuvių Suomių Drau-
     gija, o Estijoje — Lietuvių Draugija Estijoje.
@@ -147,6 +149,8 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
     - t-72513
 
 - id: c-70938
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ypač daug lietuvių studentų, daugiausia medikų, studijuodavo
     Tartų universitete, Estijoje. Tuose kraštuose lietuvių tarnavo
@@ -161,6 +165,8 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
     - t-72514
 
 - id: c-175869
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuose kraštuose lietuvių tarnavo
     įvairiose rusų valdžios įstaigose, bet po karo daugumas jų grįžo

@@ -113,6 +113,8 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 ## Citatos
 
 - id: c-61642
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
     tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
@@ -128,6 +130,8 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
     - t-61010
 
 - id: c-61643
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
   statusas: verified

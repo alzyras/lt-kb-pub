@@ -125,6 +125,8 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
 ## Citatos
 
 - id: c-61650
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
     3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351
@@ -142,6 +144,8 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
     - t-61019
 
 - id: c-61651
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer
     Beziehung nebst Special-Geographie.— Danzig, 1878.

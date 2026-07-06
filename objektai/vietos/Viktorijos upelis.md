@@ -117,6 +117,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82091
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Praėjusiais metais aplankę Pabaiską,
     įsitikinome, kad žmonėse dar gyvi
@@ -143,6 +145,8 @@ media_all_json: |-
     - t-86113
 
 - id: c-82092
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­

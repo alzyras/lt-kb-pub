@@ -2174,6 +2174,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 ## Citatos
 
 - id: c-21492
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
@@ -2196,6 +2198,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181150
 
 - id: c-32545
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tačiau Strėvos kau­
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
@@ -2211,6 +2215,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181152
 
 - id: c-32547
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kai 1382.VI.
     12 d. iš Vitebsko atvyko į Vilnių Jogaila, Hanulis jam įteikė pilies
@@ -2224,6 +2230,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181119
 
 - id: c-32548
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Esant nepatogiam susisiekimui į Pietus, vis daugiau reikšmės
     įgijo Dauguvos kelias. Didžiosios kunigaikštijos plačios sritys per
@@ -2239,6 +2247,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181137
 
 - id: c-44028
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kol tarp Maskvos ir Lietuvos
     didžiųjų kunigaikštysčių galiojo
@@ -2263,6 +2273,9 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181144
 
 - id: c-164682
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nepatenkinti
     lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
@@ -2284,6 +2297,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181118
 
 - id: c-164683
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę. Prieš metus įvykęs jų žygis
@@ -2303,6 +2318,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181148
 
 - id: c-164684
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
@@ -2323,6 +2340,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181139
 
 - id: c-164685
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
     t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
@@ -2342,6 +2361,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181128
 
 - id: c-164686
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
     kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
@@ -2362,6 +2383,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181155
 
 - id: c-164687
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Kaip pats prisipažino atsiminimuose, turėjęs „gimti
     Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
@@ -2379,6 +2402,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181112
 
 - id: c-164688
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jogailai nenujaučiant, Kęstutis, staiga užėmęs sostinę, nelais­
     vėn paėmė Jogailą su jo broliais ir motina. Perversmo pasėkoje
@@ -2394,6 +2419,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181147
 
 - id: c-164690
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet jau XII
     amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
@@ -2411,6 +2438,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181113
 
 - id: c-164691
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     220
 
@@ -2436,6 +2465,9 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181146
 
 - id: c-164692
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­
     ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­
@@ -2454,6 +2486,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181132
 
 - id: c-164694
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
     Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
@@ -2468,6 +2502,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181117
 
 - id: c-164695
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
     damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
@@ -2487,6 +2523,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181131
 
 - id: c-164696
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
@@ -2502,6 +2540,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181115
 
 - id: c-164697
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Paimtas su žmona ir vaikais, kuni­
     gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
@@ -2528,6 +2568,9 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181156
 
 - id: c-164703
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tos žinios kėlė Vytauto
     garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
@@ -2547,6 +2590,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181124
 
 - id: c-164705
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tai didelis jo nuopelnas.
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
@@ -2562,6 +2607,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181121
 
 - id: c-164706
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš mūšį
 
@@ -2582,6 +2629,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181141
 
 - id: c-164708
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tiesioginėje didžiojo kunigaikščio valdžioje
     tebuvo tik dalis valstybės. Jam priklausė betarpiškai Vilniaus
@@ -2597,6 +2646,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181116
 
 - id: c-164709
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     To siekė Livonijos kry-
     žiuočiai, kišdamiesi į susiskaldžiusios LDK
@@ -2620,6 +2671,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181143
 
 - id: c-164710
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žygimanto Kęstutaičio pajėgos
     Žygimanto „lietuvių pajėgos“ (apie 5000
@@ -2651,6 +2704,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181149
 
 - id: c-164712
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Abu jie niokojo
     kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
@@ -2671,6 +2726,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181145
 
 - id: c-164713
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
     ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
@@ -2690,6 +2747,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181140
 
 - id: c-164716
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Švitrigailos ir Livonijos ordino pajėgos
     Švitrigailą remiantys lietuviai, rytinių
@@ -2713,6 +2772,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181123
 
 - id: c-164721
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuomet ir Algirdo valdos buvo ak­
     tyviai įsijungusios į vakarų Lietuvos gynybą. Tačiau Strėvos kau­
@@ -2726,6 +2787,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181154
 
 - id: c-164722
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
     Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
@@ -2742,6 +2805,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181120
 
 - id: c-164724
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos Didžiajai Kunigaikštijai sunkiai sekėsi atlaikyti rytų frontą Li-
     vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas
@@ -2755,6 +2820,9 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-181153
 
 - id: c-167695
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet jo veikime nežymu dar didelio veiklumo, savos
     iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus. Kai Jo­
@@ -2770,6 +2838,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-184324
 
 - id: c-168562
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
@@ -2788,6 +2858,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-185201
 
 - id: c-168563
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Taip pat ir Jurijus Svia-
     toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
@@ -2812,6 +2884,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-185202
 
 - id: c-168564
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žiemos viduryje ap­
     lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
@@ -2854,6 +2928,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-185203
 
 - id: c-170623
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Didysis kunigaikštis Vytautas pasiėmė su sa­
     vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
@@ -2869,6 +2945,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-187682
 
 - id: c-170624
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
     ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
@@ -2897,6 +2975,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-187683
 
 - id: c-170625
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     . 2 0
 
@@ -2924,6 +3004,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-187684
 
 - id: c-170626
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Mūsų tėvas šitą tikrai patyrė
     ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
@@ -2950,6 +3032,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-187685
 
 - id: c-175548
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -2968,6 +3052,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-192778
 
 - id: c-175983
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jame žuvo patsai Livonijos magistras su dau-
     gybe riterių, žuvo Kaributo sūnus Zigmantas (kadaise buvęs
@@ -2986,6 +3072,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-193250
 
 - id: c-175984
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Besirūpinant karaliaus karūna apleisti karo reikalai
     dar labiau pablogėjo. Maskvos kariuomenė net tris kartus buvo

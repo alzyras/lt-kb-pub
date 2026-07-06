@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-62735
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie potvynį
 

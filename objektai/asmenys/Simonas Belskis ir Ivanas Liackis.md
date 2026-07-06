@@ -71,6 +71,8 @@ Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo ta
 ## Citatos
 
 - id: c-169436
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Karalius
     maloniai

@@ -239,6 +239,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 ## Citatos
 
 - id: c-59043
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena
@@ -256,6 +258,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     - t-58415
 
 - id: c-59044
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     153 (148). Apie Kulmenzės miesto apgulą
 
@@ -271,6 +275,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     - t-58411
 
 - id: c-59045
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Gyvenvietė minima 1222 m. dokumente
     Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
@@ -289,6 +295,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     - t-58412
 
 - id: c-59046
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
 
@@ -308,6 +316,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     - t-58413
 
 - id: c-59047
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     154 (149). Apie daugybės Kulmenzės miestiečių žūtį
 

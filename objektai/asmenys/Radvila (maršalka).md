@@ -75,6 +75,8 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 ## Citatos
 
 - id: c-83820
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau nau­
     jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­

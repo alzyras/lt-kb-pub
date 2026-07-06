@@ -156,6 +156,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83139
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus
     pradinius turtus ir pajamas
@@ -191,6 +193,8 @@ Nenurodyta
     - t-87160
 
 - id: c-83140
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Senesniaisiais laikais ir pirm įvairūs asmenys, kaip an­
     tai: Lietuvos pakancleris Leonas Sapiega, Vilniaus vysku­

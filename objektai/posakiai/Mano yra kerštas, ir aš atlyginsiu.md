@@ -68,6 +68,8 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
 ## Citatos
 
 - id: c-59760
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     12. Apie Višogrudo pilies sugriovimą
 

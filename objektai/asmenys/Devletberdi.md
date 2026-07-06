@@ -68,6 +68,9 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 ## Citatos
 
 - id: c-37998
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Taigi paskutiniais savo valdymo metais Vytautas
     Aukso Ordą turėjo visiškoje savo įtakoje. Taip pat buvo jam

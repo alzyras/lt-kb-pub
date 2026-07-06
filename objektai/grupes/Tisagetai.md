@@ -126,6 +126,8 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
 ## Citatos
 
 - id: c-175732
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Šiuo atžvilgiu mes žinome daugiau ne­
     gu romėnai, kurie manė, jog gelonai gyvenę toliausiai į
@@ -144,6 +146,8 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
     - t-192962
 
 - id: c-175733
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Juos matydavo vaikščiojant beveik nuogus,
     galbūt norinčius parodyti gražų kūno sudėjimą, kurį jiems

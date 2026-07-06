@@ -458,6 +458,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 ## Citatos
 
 - id: c-167931
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kariuo­
     menę vesti įpareigojo Joną Baltąjį, Žemaitijos vyriau­
@@ -475,6 +477,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     - t-184570
 
 - id: c-167932
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi Maskvos didikai atkirto, kad ne­
     gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
@@ -498,6 +502,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     - t-184571
 
 - id: c-167933
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
     legatai, kurie pasitarsią su Maskvos didikais ir pada­
@@ -518,6 +524,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     - t-184572
 
 - id: c-167935
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Maskvėnai, į šį žygį patraukę
     su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
@@ -535,6 +543,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     - t-184574
 
 - id: c-176055
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Numalšinęs Livoniją ir iš­
     siuntęs į Maskvą Palenkės
@@ -559,6 +569,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     - t-193327
 
 - id: c-176056
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Je ig u  p ag aliau  šis k ra šta s ir n eb ū tų  n ei L ietuvos tė v o ­
     nija, nei im p era to ria u s dovana, M askvos v ald o v u i tik ­

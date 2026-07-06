@@ -86,6 +86,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
 ## Citatos
 
 - id: c-61036
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     42. Apie Konstantinopolio miesto atgavimą
 

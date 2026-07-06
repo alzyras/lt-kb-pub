@@ -238,6 +238,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83977
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Augustas Rotundas Milesijus
     arba Mielickis, kaip jį vadina Igna­
@@ -259,6 +261,8 @@ media_all_json: |-
     - t-87999
 
 - id: c-83978
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
     p. 128.
@@ -287,6 +291,8 @@ media_all_json: |-
     - t-87998
 
 - id: c-83979
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Da­
     lyvaujant didžiai gerbiamam Metonės vyskupui, mūsų
@@ -317,6 +323,8 @@ media_all_json: |-
     - t-88000
 
 - id: c-83980
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     M* ČK,« J cu>-too JttaUcXctu*. w fUUnie/,
 

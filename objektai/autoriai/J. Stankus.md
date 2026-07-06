@@ -85,6 +85,8 @@ Stankus, J. — Stankus, J.
 ## Citatos
 
 - id: c-32979
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Pašuto, V. : _Cho-
     ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq. —

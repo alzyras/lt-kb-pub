@@ -111,6 +111,8 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 ## Citatos
 
 - id: c-61624
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Iš šio vertimo Dusburgiečio
     kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
@@ -123,6 +125,8 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
     - t-60992
 
 - id: c-61625
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
     Mikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo

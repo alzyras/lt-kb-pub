@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-176181
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vytautui išėjus, senatas kuo rimčiau­
     siai paaiškino karaliui, kad, pritardamas pavojingiems ir

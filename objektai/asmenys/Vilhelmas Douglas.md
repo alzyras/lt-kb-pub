@@ -76,6 +76,8 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
 ## Citatos
 
 - id: c-83861
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pasitikėjimas tokia didžiule Ordino kariuomenės
     galybe buvo taip visus pakerėjęs, jog ir didysis magistras, ir

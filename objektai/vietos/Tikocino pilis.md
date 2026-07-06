@@ -84,6 +84,8 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
 ## Citatos
 
 - id: c-82223
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Taip pat šį perrašytą
     testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­

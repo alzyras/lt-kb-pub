@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55143
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Petro Naujosios bažnyčios
     freska, XV a. pr.

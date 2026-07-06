@@ -196,6 +196,8 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 ## Citatos
 
 - id: c-23956
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
@@ -217,6 +219,8 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - t-75517
 
 - id: c-23957
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-
     tiesiems, lageriai būsimiems karo belaisviams. Sovietai dar pavasarį slapta
@@ -236,6 +240,8 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - t-75516
 
 - id: c-23958
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau ministro pirmininko
     Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
@@ -252,6 +258,8 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - t-75519
 
 - id: c-73280
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sovietai dar pavasarį slapta
     permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias di-

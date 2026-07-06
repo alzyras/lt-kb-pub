@@ -82,6 +82,8 @@ Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Narsiojo karus, 1009 m
 ## Citatos
 
 - id: c-174269
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš
     mums žinomų originalių istorikų pirmasis, Lietuvą pa­

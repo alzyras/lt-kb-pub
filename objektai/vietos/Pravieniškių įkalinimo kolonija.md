@@ -180,6 +180,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 ## Citatos
 
 - id: c-74638
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     giausia tai spontaniškas atsakas į sovietų politiką Lietuvoje, iš dalies jis
     ruoštas – antisovietinio sukilimo idėją Vokietijos ir SSRS karo pradžioje
@@ -200,6 +202,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     - t-77209
 
 - id: c-74640
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
     Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
@@ -217,6 +221,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     - t-77208
 
 - id: c-167014
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kurių nespėjo, elemen-
     tariai nužudė. Masinės kalinių žudynės surengtos Pravieniškių įkalinimo

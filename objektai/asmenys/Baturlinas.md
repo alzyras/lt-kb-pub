@@ -79,6 +79,8 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Nar
 ## Citatos
 
 - id: c-174137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Vis dėlto Herodotas turėjo daugiau žinių apie
     romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę

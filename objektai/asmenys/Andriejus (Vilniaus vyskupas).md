@@ -78,6 +78,9 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
 ## Citatos
 
 - id: c-37982
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tuo reikalu jų abiejų susitarimas
     turėjo įvykti 1397 m. pavasarį, būnant Jogailai Lietuvoj. Rodos,

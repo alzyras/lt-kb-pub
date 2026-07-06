@@ -115,6 +115,8 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
 ## Citatos
 
 - id: c-174644
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tad atleiskime
     senovės autoriams, kurių geografinių žinių gavimo gali­
@@ -134,6 +136,8 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
     - t-191762
 
 - id: c-174645
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Plinijus teigia, kad jazigai gyveno prie Tisos
     upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria

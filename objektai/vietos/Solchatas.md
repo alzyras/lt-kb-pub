@@ -141,6 +141,8 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas. Solchatas l
 ## Citatos
 
 - id: c-170360
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne
     Perekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės
@@ -158,6 +160,8 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas. Solchatas l
     - t-187333
 
 - id: c-170361
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ® Iš tikrųjų 1449 m. pirm ojoje pusėje.
     *  Sirinai ir Barynai — žymiausios XV a. stepių Krymo totorių

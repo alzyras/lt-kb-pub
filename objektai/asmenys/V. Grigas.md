@@ -68,6 +68,8 @@ Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
 ## Citatos
 
 - id: c-77394
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Panevėžio rinktinei priklausė Panevėžio
     atskirasis batalionas (6 kuopos ir rai-

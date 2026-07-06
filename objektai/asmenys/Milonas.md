@@ -86,6 +86,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 ## Citatos
 
 - id: c-83770
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Aktuota
     ir duota Vilniuje, Švč. Mergelės Ma­

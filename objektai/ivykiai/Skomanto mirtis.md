@@ -103,6 +103,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63794
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
     Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo

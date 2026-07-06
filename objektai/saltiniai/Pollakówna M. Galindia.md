@@ -72,6 +72,8 @@ Dusburgietis teigia, kad pollakówna M.
 ## Citatos
 
 - id: c-61862
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
     78—79.

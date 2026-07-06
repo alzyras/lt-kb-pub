@@ -84,6 +84,8 @@ Antoniewicz, J.
 ## Citatos
 
 - id: c-32954
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ano laiko šaltiniai patiekia
     atsitiktinių užuominų, kaip tokios lietuvių įtakos sferon pakliuvusios

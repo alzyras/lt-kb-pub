@@ -70,6 +70,8 @@ Prie Sdubrų kaimo buvo atkasti didesni kapai, o jų vietoje Narbutas mini randa
 ## Citatos
 
 - id: c-171952
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Turėjau
     tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys­

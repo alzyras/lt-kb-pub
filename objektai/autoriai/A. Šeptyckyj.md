@@ -81,6 +81,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-32894
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
     niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;

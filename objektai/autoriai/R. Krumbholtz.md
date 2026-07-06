@@ -83,6 +83,8 @@ Krumbholtz : KrSO, 121 sqq.
 ## Citatos
 
 - id: c-94022
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^7) **SRP, III, 224 p.**
     (^8) **SRP, III, 226, 228 p. —- Apie visus įvykius po 1398 taikos žr. R.

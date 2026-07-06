@@ -75,6 +75,8 @@ Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, k
 ## Citatos
 
 - id: c-174333
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     136
 

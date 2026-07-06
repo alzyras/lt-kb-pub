@@ -83,6 +83,8 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
 ## Citatos
 
 - id: c-174408
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     14
 

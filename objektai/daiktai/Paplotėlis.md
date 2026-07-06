@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-60331
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kitąkart mūšio metu danguje pasirodžiusi
     mergelė Marija  (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui

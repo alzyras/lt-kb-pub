@@ -82,6 +82,8 @@ Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, a
 ## Citatos
 
 - id: c-77382
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Raitelio
     pėdas saugo metaliniai antbačiai —

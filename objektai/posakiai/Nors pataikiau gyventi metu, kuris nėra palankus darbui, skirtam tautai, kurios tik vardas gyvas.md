@@ -85,6 +85,8 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
 ## Citatos
 
 - id: c-175018
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Jau ne vieną kartą cituotame laiške I. Onacevičiui
     T. Narbutas savo tyrinėjimus mitologijos srityje apibūdi­

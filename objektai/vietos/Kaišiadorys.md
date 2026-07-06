@@ -109,6 +109,8 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 ## Citatos
 
 - id: c-43473
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-
     ninkas Kaišiadoryse. 1944 m. įstojo į Vietinę rinktinę. Sovietams pakartotinai okupavus Lietuvą, 1944 m. organizavo
@@ -122,6 +124,8 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
     - t-68034
 
 - id: c-175931
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Santarvei ypač rū-
     pėjo, kad tarp valstybių, kariaujančių su bolševikais, nebūtų

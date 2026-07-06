@@ -71,6 +71,8 @@ Dusburgietis teigia, kad lietuvių etnografijos bruožai / Redagavo A.
 ## Citatos
 
 - id: c-61766
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvių etnografijos bruožai / Redagavo A. Vyšniauskaitė.— V., 1964.
   statusas: verified

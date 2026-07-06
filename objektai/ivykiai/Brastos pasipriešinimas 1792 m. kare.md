@@ -130,6 +130,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22914
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jėgos buvo
     nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
@@ -147,6 +149,8 @@ Nenurodyta
     - t-20173
 
 - id: c-22915
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     dar per 40 tūkst. karių. LDK kariuomenė turėjo daug sunkumų su karo
     vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-

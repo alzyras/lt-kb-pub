@@ -220,6 +220,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-42991
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūšio padariniai
     Didžiausias laisvės kovotojų ir NKVD susi-
@@ -242,6 +244,8 @@ media_all_json: |-
     - t-49114
 
 - id: c-51214
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     nių, kurie priklausė Vytauto apygardai.
     Algimanto apygardą sudarė trys rinktinės:
@@ -257,6 +261,8 @@ media_all_json: |-
     - t-49115
 
 - id: c-51215
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Partizanai išsprogdino požeminį
     išėjimą ežero link, taip suformuodami natū-

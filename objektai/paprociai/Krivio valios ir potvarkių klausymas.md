@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172807
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Sutikime trumpam
     su šiuo priekaištu ir pripažinkime, kad Dusburgietis suklydo

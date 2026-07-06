@@ -74,6 +74,8 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
 ## Citatos
 
 - id: c-174297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus

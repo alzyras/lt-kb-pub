@@ -77,6 +77,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-44880
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     J. Žemaitis
     tapo šios rinktinės štabo viršininku. 1946 m. rug-

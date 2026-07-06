@@ -104,6 +104,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63480
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
     skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.

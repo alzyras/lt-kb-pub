@@ -6084,6 +6084,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 ## Citatos
 
 - id: c-00333
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei-
     kalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos re-
@@ -6096,6 +6098,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179141
 
 - id: c-31169
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
     buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo
@@ -6110,6 +6114,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179134
 
 - id: c-36855
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vokiečių Ordinas dar griež­
     čiau pareiškė dėl Jogailos kaltės Konstancijos susirinkime, at­
@@ -6124,6 +6131,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179174
 
 - id: c-36865
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     O tai ne­
     galėjo patikti Lenkijai, kuri budriai sekė kiekvieną jo užsimoji­
@@ -6139,6 +6149,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-004
 
 - id: c-36866
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.
     pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
@@ -6154,6 +6167,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179211
 
 - id: c-36868
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šie Vytauto nedraugingi žygiai Lenkijos atžvilgiu negalėjo
     nepasiekti Krokuvos ausų. Vytautą už tai pradėjo įtarinėti neiš­
@@ -6173,6 +6189,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179126
 
 - id: c-36869
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lenkai žiūrėjo į Vytautą kaip į priklausomą kunigaikštį
     kuris turi jų klausyti ir ginti jų interesus. Jis atrodė jiems
@@ -6188,6 +6207,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179177
 
 - id: c-36870
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Net ir svetur Vytautas mokė­
     jo įsigyti pagalbininkų ir šalininkų. Ilgą laiką jis turėjo lenkų
@@ -6201,6 +6223,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179194
 
 - id: c-36871
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Galingu tapęs, jis pradėjo
     nesiskaityti su lenkais, kaip tatai parodo kad ir Liubičo klausi­
@@ -6216,6 +6241,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179202
 
 - id: c-42790
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
     kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
@@ -6232,6 +6259,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179182
 
 - id: c-162820
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Puikų suruošia Vytautas priėmimą,
     bemaž du mėnesius užsitęsusį, mat nuo rugpjūčio pradžios
@@ -6252,6 +6281,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179167
 
 - id: c-162821
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
     Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
@@ -6268,6 +6299,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179150
 
 - id: c-162823
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
@@ -6291,6 +6324,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179212
 
 - id: c-162824
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mo-
     kyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių
@@ -6308,6 +6343,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179151
 
 - id: c-162825
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Jogaila su šio dokumento
     turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
@@ -6324,6 +6361,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179184
 
 - id: c-162826
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo lemtingu momentu Jungingenas į kautynes
     dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
@@ -6338,6 +6377,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-006
 
 - id: c-162827
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jogai­
     los dukters globėjas, jis kurį laiką turi tiek įtakos Lenkijoje,
@@ -6354,6 +6396,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179199
 
 - id: c-162828
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
     ti ne teisiniams, o realiems valstybių santykiams – čia Lietuvai ir glūdėjo
@@ -6377,6 +6421,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179164
 
 - id: c-162829
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietuviai bajorai buvo puiki tų dviejų
     pirmaujančios anuomet Šiaurėje valstybės valdovų svita. Dar
@@ -6394,6 +6440,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179128
 
 - id: c-162835
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Il KNYGA
     Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
@@ -6415,6 +6463,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179137
 
 - id: c-162836
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pagal klastingą J. Pilsudskio sumanymą
     miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
@@ -6433,6 +6483,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179169
 
 - id: c-162837
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
     20  proc. Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus
@@ -6453,6 +6505,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179138
 
 - id: c-162838
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Kiek tos kovos Kęstučio valdymo laiku padidėjo,
     rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
@@ -6475,6 +6530,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179165
 
 - id: c-162839
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Dalis kryžiuočių, kurie kovojo su lietuviais, dabar
     puolė lenkus. Didžioji lenkų vėliava atsidūrė didžiausiame pa­
@@ -6491,6 +6549,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179181
 
 - id: c-162840
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nors Jadvyga ir buvo
     priešinga tam Vytauto sumanymui, bet Jogaila jam prijautė ir
@@ -6509,6 +6570,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179173
 
 - id: c-162841
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tikėtiniau, kad kantoninė
     Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto
@@ -6525,6 +6588,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179190
 
 - id: c-162843
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nuomonių skirtumas ir jų paaš­
     trėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­
@@ -6543,6 +6609,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179179
 
 - id: c-162846
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
     Vytautas pradžioj savo akto primena, kad kai lenkai pasi­
@@ -6573,6 +6642,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-004
 
 - id: c-162847
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors 1920 m.
     spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
@@ -6594,6 +6665,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179180
 
 - id: c-162849
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Artinosi ir kitas ne­
     susipratimas.
@@ -6611,6 +6685,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179146
 
 - id: c-162850
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Būtent ši samprata iškilo 1920 m.
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
@@ -6625,6 +6701,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179206
 
 - id: c-162851
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
     valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
@@ -6646,6 +6724,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179197
 
 - id: c-162852
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Be to, Kronika apskritai buvo para­
     šyta valstybinėje dvasioje, ir lietuvių-lenkų nesutarimų, ar tuome­
@@ -6665,6 +6745,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179161
 
 - id: c-162853
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tuo metu Lietu-
     va geranoriškai rūpinosi keliolikos tūkstančių internuotų lenkų kareivių ir
@@ -6685,6 +6767,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179170
 
 - id: c-162856
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau kai ten išaiškėjo, kad, užuot
     aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
@@ -6704,6 +6788,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179205
 
 - id: c-162857
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Modernioji Lietuvos samprata susidūrė su didžiule problema – etninės
     Lietuvos pietrytinėje dalyje XX a. pradžioje lietuvių kalba buvo užleidusi
@@ -6720,6 +6806,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179178
 
 - id: c-162858
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jiems
     rūpėjo ne teorija, bet praktika. Net ir svetur Vytautas mokė­
@@ -6733,6 +6822,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179160
 
 - id: c-162861
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau galima buvo numatyti, kad tas prašmatnias
     iškilmes, tą smagią viešnagę nutrauks liūdni įvykiai. Len­
@@ -6755,6 +6846,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179189
 
 - id: c-162862
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vokie-
     tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
@@ -6779,6 +6872,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179208
 
 - id: c-162864
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
     Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
@@ -6802,6 +6897,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179204
 
 - id: c-162865
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Lenkijos žemės apiplėšimą
 
@@ -6823,6 +6920,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179195
 
 - id: c-162868
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
     nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
@@ -6843,6 +6942,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179157
 
 - id: c-162871
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
     silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
@@ -6862,6 +6963,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179166
 
 - id: c-162872
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tarp jų Polocko kun. Andrie­
     jus, Hlebas Sviatoslavas, Jonas Bielskis, Jomantas, o Spy­
@@ -6878,6 +6982,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179159
 
 - id: c-162874
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Taigi pas
     Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
@@ -6896,6 +7002,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179185
 
 - id: c-162875
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LLV seimuose ilgainiui įsigalė-
     jo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl
@@ -6914,6 +7022,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179203
 
 - id: c-162878
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šio pokario metais Stryjkovskis ir jo kronika yra vėl sulaukę
     plataus susidomėjimo. Įvairūs lenkų autoriai į jį pažiurėjo kaip
@@ -6929,6 +7039,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179191
 
 - id: c-162880
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Esą
     1288 Liubline, kaip pabrėžia Ipatijaus kronika, kilęs didelis susi­
@@ -6945,6 +7057,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179193
 
 - id: c-162883
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
     tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
@@ -6961,6 +7075,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179143
 
 - id: c-162884
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
     tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
@@ -6978,6 +7094,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179144
 
 - id: c-162885
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Totorius su vokiečiais jis kolonizavo ne iš meilės,
     o tik dėl to, kad matė iš to kraštui naudos. Jo tarnyboje mes ga­
@@ -6996,6 +7115,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179175
 
 - id: c-162886
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
     kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
@@ -7011,6 +7132,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179140
 
 - id: c-162887
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bene sunkiausias uždavinys buvo santykiuose su
     lenkais: jų pozicijos buvo stačiai diametraliniai prie­
@@ -7026,6 +7150,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179200
 
 - id: c-162888
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lenkai, sudarę apie 3,2 proc. gyventojų, nors, jų nuomone, lenkų tu-
     rėjo būti 10 proc., savo kultūrinį gyvenimą suko taip pat apie lenkiškas
@@ -7048,6 +7174,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179154
 
 - id: c-162896
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
     prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais. Minėtieji broliai, valdovės
@@ -7064,6 +7192,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179185
 
 - id: c-162901
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     pavojus padidėjo, kai Vytautas panoro Podolijos, paskutiniojo
     Piasto laikais labiau surištos su Lenkija, negu su Lietuva, o vė­
@@ -7084,6 +7215,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-002
 
 - id: c-162909
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Vytauto vadovaujami
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
@@ -7099,6 +7232,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-179207
 
 - id: c-166531
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tiesa,
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
@@ -7114,6 +7249,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-183146
 
 - id: c-167605
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Santykiai tarp abiejų pusių smarkiai pablo­
     gėjo. Vytautas net prieš lenkus pradėjo ruoštis į karą. Nepa­
@@ -7128,6 +7266,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-002
 
 - id: c-167699
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ten lietuviai prisiplėšdavo grobio ir parsi­
     vesdavo belaisvių. Tad lenkai lietuvių žygių iš tolo bijodavę. Esą
@@ -7142,6 +7282,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184329
 
 - id: c-167700
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Sąjungininkų eilės su­
     svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas. Kry­
@@ -7155,6 +7297,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184330
 
 - id: c-167878
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Iki tol išliko nepaliestos
     Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
@@ -7172,6 +7316,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184517
 
 - id: c-167879
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Valstybėje tada bu-
     ir k ry žiu o č ia is, k a ra s
@@ -7196,6 +7342,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184518
 
 - id: c-167880
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Grįžęs iš to žy­
     gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­
@@ -7214,6 +7362,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184519
 
 - id: c-167881
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gili­
     ginas valdė ne ilgiau kaip trejus metus: bemaž nieko
@@ -7245,6 +7395,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184520
 
 - id: c-167882
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip Vytenis mąs­
     tė vienui vienas, tuo tarpu
@@ -7285,6 +7437,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184521
 
 - id: c-167883
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lešekas, vos šitai pajutęs,
     įsakė veržtis į priekį paskutiniams pulkams, o kitiems
@@ -7309,6 +7463,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184522
 
 - id: c-167884
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
@@ -7332,6 +7488,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184523
 
 - id: c-167885
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dalis niokojo Livoniją, ki­
     ta — Mazoviją; metraštininkai vieningai tvirtina, kad
@@ -7363,6 +7521,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184524
 
 - id: c-167886
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kuo greičiausiai ir kuo ryžtingiausiai
     reikią kelti kalaviją prieš tuos, kurie iš arti graso, o
@@ -7382,6 +7542,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184525
 
 - id: c-167887
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitokios mintys, platinamos ir žodiškai, ir raštiškai
     laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
@@ -7399,6 +7561,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184526
 
 - id: c-167888
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat, jeigu per
     K a zim iera s J ogailaitis
@@ -7434,6 +7598,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184527
 
 - id: c-167889
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat perdaug gerai
     visi žinojo sutartį, neseniai atnaujintą su Vladislovu:
@@ -7452,6 +7618,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184528
 
 - id: c-167890
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Š tai dėl to ir lenkai, ir lie­
     tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
@@ -7480,6 +7648,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184529
 
 - id: c-167891
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be to, turinti būti sugrąžinta Podolė, kurią Lie­
     tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.
@@ -7504,6 +7674,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184530
 
 - id: c-167892
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     1449 m ela i
     Kol valdovas rūpinosi lie-
@@ -7534,6 +7706,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184531
 
 - id: c-167893
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitokios paskalos, sklidusios po visą Lenkiją, gerokai
     paveikė visuomenės nuotaikas. Todėl, kai jis tų pačių
@@ -7554,6 +7728,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184532
 
 - id: c-167894
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Negi galima buvo tikėtis santarvės ir vienybės,
     kai į vieną vietą susirinks tie, kurie jautėsi neseniai
@@ -7579,6 +7755,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184533
 
 - id: c-167895
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,
@@ -7597,6 +7775,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184534
 
 - id: c-167896
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Labai
     jiems padėjo ir tai, kad Aleksandras pasirūpino Vil­
@@ -7621,6 +7801,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184535
 
 - id: c-167897
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Aleksandras Šich Achmetą priėmė su didele
     pagarba ir pasisodino dešinėje. Vienas kitam pareiškę
@@ -7647,6 +7829,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-184536
 
 - id: c-170654
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir Lvove juos pasiekė žinia
     apie didžiojo kunigaikščio mirtį. Lenkai, nenorėdami,
@@ -7664,6 +7848,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-187715
 
 - id: c-171140
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
     kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
@@ -7679,6 +7865,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-188246
 
 - id: c-171141
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Autorius pateikia iš­
     kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
@@ -7696,6 +7884,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-188247
 
 - id: c-171142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
@@ -7713,6 +7903,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-188248
 
 - id: c-171143
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atvirkščiai, visi prieinami tyri­
     nėjimai rodo, kad toji tauta skyrėsi nuo lietuvių. Yra dokumen­
@@ -7728,6 +7920,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-188249
 
 - id: c-171144
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
     tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­
@@ -7743,6 +7937,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-188250
 
 - id: c-175865
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Seimai buvo bendri, bet
     juose kiekviena valstybė svarstė savo reikalus ir leido sau rei-
@@ -7762,6 +7958,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-193105
 
 - id: c-176222
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
     regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
@@ -7774,6 +7972,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-193542
 
 - id: c-176223
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau viską nulė-
     mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
@@ -7790,6 +7990,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-193543
 
 - id: c-176224
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
     atrado dar vieną – lenkų polonizatorius. Jau ne vienos šeimos kalbėjimas
@@ -7805,6 +8007,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-193544
 
 - id: c-176225
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Savo valstybingumo
     planuose lenkai numatė lietuviams tik tautinės mažumos statusą. Tarsi „at-
@@ -7819,6 +8023,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-193545
 
 - id: c-176226
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ar Lietuva nepralaimėjo neišnaudojusi visų
     federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
@@ -7835,6 +8041,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-193546
 
 - id: c-176227
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Naciai suėmė Vietinės rinktinės vadus, aštuoniasdešimt karių sušaudė,
     dalį išvežė darbams į Vokietiją.
@@ -7850,6 +8058,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-193547
 
 - id: c-176476
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Tad su-
     sitarkiva mudu abudu ir prisiekiva, kad jei aš sulauk­

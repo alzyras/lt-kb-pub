@@ -80,6 +80,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-24689
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Architektas V. Landsbergis-Žemkalnis, 1938
     A. Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir

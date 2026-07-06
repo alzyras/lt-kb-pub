@@ -103,6 +103,8 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką
 ## Citatos
 
 - id: c-170308
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Dabar
     to  tvenkinio, atrodo, nebėra.

@@ -217,6 +217,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170777
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Masonų organizacijose kampainis simboli­
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
@@ -236,6 +238,8 @@ Nenurodyta
     - t-193047
 
 - id: c-175814
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Po
     1812 m. Lietuvoje labai išpopulia-
@@ -257,6 +261,8 @@ Nenurodyta
     - t-193045
 
 - id: c-175815
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,
     neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,

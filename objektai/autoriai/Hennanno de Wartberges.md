@@ -66,6 +66,8 @@ Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi ži
 ## Citatos
 
 - id: c-32942
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Daug buvo auginama arklių. Vokiečių ordino
     XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi žirgy­

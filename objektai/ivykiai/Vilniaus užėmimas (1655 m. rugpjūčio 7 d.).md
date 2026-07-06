@@ -125,6 +125,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-44934
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1654 m. rugpjūčio 12 d. ŠKLOVO MUSIS 125
 

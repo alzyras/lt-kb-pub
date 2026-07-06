@@ -75,6 +75,9 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
 ## Citatos
 
 - id: c-38502
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­
     sekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars,

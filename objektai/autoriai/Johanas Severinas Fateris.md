@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-170933
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Kaip buvo įprasta, jis
     naudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­

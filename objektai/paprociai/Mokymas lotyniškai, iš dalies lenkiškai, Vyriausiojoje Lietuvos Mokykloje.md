@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67183
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Va-
     dinamoje moralinių mokslų kolegijoje buvo mokoma
@@ -123,6 +125,8 @@ Nenurodyta
     - t-67171
 
 - id: c-67184
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Fizinėje kolegijoje
     buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu

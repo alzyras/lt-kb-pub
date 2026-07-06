@@ -263,6 +263,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 ## Citatos
 
 - id: c-169305
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Juk jis įsakęs Vilniaus vys­
     kupui Vaitiekui Taborui ir
@@ -293,6 +295,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - t-185944
 
 - id: c-169306
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
@@ -315,6 +319,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - t-185945
 
 - id: c-169308
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat šis, nepakęsdamas Ivano žiau­
     rumo, kartu su visa šeimyna šiek tiek anksčiau buvo
@@ -333,6 +339,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - t-185947
 
 - id: c-169309
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Lietuvos istorija
     -737
@@ -363,6 +371,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - t-185948
 
 - id: c-176115
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sutiko ir priėmė
     maskvėnus pataurininkis Mikalojus Kiška, stalininkas

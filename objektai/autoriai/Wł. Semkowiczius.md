@@ -68,6 +68,8 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
 ## Citatos
 
 - id: c-29551
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Prie žymėtinų Lietuvos istorijos tyrinėtojų priklauso svarbių
     jos istorijos šaltinių leidėjas Wł. Semkowiczius, kuris su

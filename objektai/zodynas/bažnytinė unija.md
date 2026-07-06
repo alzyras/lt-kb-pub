@@ -70,6 +70,8 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 ## Citatos
 
 - id: c-176019
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Didžiū-
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-

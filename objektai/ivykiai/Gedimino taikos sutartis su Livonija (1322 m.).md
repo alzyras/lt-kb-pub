@@ -160,6 +160,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-33392
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Galima
     tačiau daryti išvadas, kad prieš įsikuriant Lietuvos valstybei, dre­
@@ -182,6 +184,8 @@ Nenurodyta
     - t-31417
 
 - id: c-33393
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šiaip jau platus Nemuno aukštupio-vidurupio dešinės kraštas ir
     beveik ištisai Neries baseinas su Šventąja sudarė Aukštaičių žemės

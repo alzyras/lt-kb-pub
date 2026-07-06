@@ -172,6 +172,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 ## Citatos
 
 - id: c-67342
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
@@ -188,6 +190,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
     - t-67443
 
 - id: c-67343
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     **1. Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1
 
@@ -208,6 +212,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
     - t-67444
 
 - id: c-67344
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.
   statusas: verified
@@ -218,6 +224,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
     - t-67445
 
 - id: c-176411
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     P. 79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.
   statusas: verified

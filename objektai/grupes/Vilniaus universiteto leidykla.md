@@ -72,6 +72,8 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
 ## Citatos
 
 - id: c-25396
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Kalbos redaktorė Gražina Indrišiūnienė
     Viršelio dailininkė Audronė Uzielaitė

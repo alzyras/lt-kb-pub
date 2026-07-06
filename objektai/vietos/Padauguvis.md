@@ -139,6 +139,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 ## Citatos
 
 - id: c-46658
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     **Pirmosios vokiečių kolonijos Padauguvy.** Nuo XI amž.,
     kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
@@ -153,6 +155,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - t-73355
 
 - id: c-46659
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pirmasis pago-
     nių krikštu susirūpino misijonierius Meinhardas, kuris

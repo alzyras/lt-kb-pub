@@ -66,6 +66,8 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
 ## Citatos
 
 - id: c-176398
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
     veidas. Sud. A. Aleksandravičius. Vilnius, 2009; Lietuvos istorija.

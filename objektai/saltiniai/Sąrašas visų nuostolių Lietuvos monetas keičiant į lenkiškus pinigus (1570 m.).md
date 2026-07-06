@@ -171,6 +171,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 ## Citatos
 
 - id: c-84188
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis
     [1572 metais iki balandžio 17 dienos]
@@ -189,6 +191,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - t-88210
 
 - id: c-84189
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Duota Gardine
     artimiausią penktadienį prieš Sekmines, tūkstantis penki
@@ -216,6 +220,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - t-88211
 
 - id: c-84190
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571
     (1571 metais) 666 kapoms lietuviškomis monetomis išlaidos:

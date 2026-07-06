@@ -96,6 +96,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-83526
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­
     statyta grandinė karališk. did. reikalams, o die 11 May ad
@@ -110,6 +112,8 @@ media_all_json: |-
     - t-87548
 
 - id: c-83527
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jiems
     išleista 1 florinas 6 grašiai.

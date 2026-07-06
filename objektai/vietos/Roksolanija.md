@@ -81,6 +81,8 @@ Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per 
 ## Citatos
 
 - id: c-175666
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia

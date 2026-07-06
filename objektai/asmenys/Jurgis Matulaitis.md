@@ -77,6 +77,8 @@ Tik jų įpėdiniai iki pat 1918 m. (Jurgio Matulaičio paskyrimas) jau nebesir�
 ## Citatos
 
 - id: c-32765
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Abu pirmieji Vilniaus vyskupai buvo pranciškonai
     (Andrius Vosila, Jokūbas Plichta), jau nuo anksčiau gyvenę Lie­

@@ -80,6 +80,8 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
 ## Citatos
 
 - id: c-169623
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dėl šių priežasčių Severs­
     ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos,

@@ -86,6 +86,8 @@ Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 
 ## Citatos
 
 - id: c-173307
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Henriko Latvio kronikos prierašuose, arba pastabose, ku­
     rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias

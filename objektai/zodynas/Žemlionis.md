@@ -138,6 +138,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 ## Citatos
 
 - id: c-09781
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
   statusas: verified
@@ -148,6 +150,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
     - t-70425
 
 - id: c-09782
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai
         tautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,
@@ -167,6 +171,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
     - t-70424
 
 - id: c-09783
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     - public_note:
     - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

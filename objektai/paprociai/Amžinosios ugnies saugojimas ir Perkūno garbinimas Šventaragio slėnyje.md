@@ -174,6 +174,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-55386
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Reikš­
     mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
@@ -195,6 +197,8 @@ Nenurodyta
     - t-54485
 
 - id: c-55387
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Čia buvo
     pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
@@ -218,6 +222,8 @@ Nenurodyta
     - t-54487
 
 - id: c-55388
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
     po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­

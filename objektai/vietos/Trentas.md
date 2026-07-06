@@ -77,6 +77,8 @@ Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės
 ## Citatos
 
 - id: c-175676
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mes turime neabejotiną tos
     genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­

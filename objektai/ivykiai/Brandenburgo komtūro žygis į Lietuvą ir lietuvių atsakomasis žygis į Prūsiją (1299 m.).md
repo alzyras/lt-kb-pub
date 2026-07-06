@@ -184,6 +184,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168916
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kur kas didesnės sėkmės kitais metais susilaukė šeši
     178
@@ -209,6 +211,8 @@ Nenurodyta
     - t-185555
 
 - id: c-168917
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pasroviui atskubėjo lietuviai ir, praradę
     tik vieną saviškį, privertė priešą pasukti atgal. Kai
@@ -228,6 +232,8 @@ Nenurodyta
     - t-185556
 
 - id: c-168918
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Be abejonės,
     lietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­

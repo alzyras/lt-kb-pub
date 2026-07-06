@@ -80,6 +80,8 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
 ## Citatos
 
 - id: c-59519
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
 

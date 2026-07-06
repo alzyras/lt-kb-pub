@@ -80,6 +80,8 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
 ## Citatos
 
 - id: c-61950
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
 

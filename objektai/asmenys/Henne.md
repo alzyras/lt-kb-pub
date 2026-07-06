@@ -146,6 +146,9 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 ## Citatos
 
 - id: c-36313
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo,
     sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo
@@ -160,6 +163,9 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - t-35087
 
 - id: c-38024
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pasidavimo sąlygas
     vaizdžiai rodo Riazaniaus ir Pronsko kunigaikščių sutarčių raš­
@@ -179,6 +185,9 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - t-35088
 
 - id: c-167643
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Žiaurumų ir dabar juk pasaulyje yra kiek reik,
     tik jie dabar dažniausiai ne vieno asmens užsigeidimų išdava.

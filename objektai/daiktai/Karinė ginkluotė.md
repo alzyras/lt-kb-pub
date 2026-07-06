@@ -342,6 +342,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-05216
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
     galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
@@ -357,6 +359,8 @@ Nenurodyta
     - t-78665
 
 - id: c-10250
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     kurio galvočium^1202 apvožęs savo galvą ir veidą, paskui susiveržė su šikšniniu diržu, ant kurio tiek
         buvo vario grandžių arba sagčių antmautų, kiek buvo karėj neprietelių užmušęs; apsiavęs
@@ -376,6 +380,8 @@ Nenurodyta
     - t-08294
 
 - id: c-10251
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Pėstieji daugiau kariavo rendėtais^1210 brūkliais, kokius gal dar regėti paskuojųjų laikų Lietuvos ūkės žymėj^1211. Artinantis neprieteliui, laidė
   statusas: verified
@@ -386,6 +392,8 @@ Nenurodyta
     - t-08295
 
 - id: c-12233
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     XIII a. Vakarų Europos pėstininko rekonstrukcija.
     Pėstininkai galėdavo būti apsaugoti žieduočio šarvų,
@@ -404,6 +412,8 @@ Nenurodyta
     - t-10150
 
 - id: c-12234
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Raitininkas dėvi savo metui būdingus žieduočio
     šarvus ilgomis rankovėmis. Raitelio kojas taip pat
@@ -425,6 +435,8 @@ Nenurodyta
     - t-10151
 
 - id: c-12235
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tuo metu Lietuva ilgą laiką dalyva-
     vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai
@@ -443,6 +455,8 @@ Nenurodyta
     - t-193744
 
 - id: c-12236
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     xiv a. Europoje įvyko proveržis ginkluotės, o ypač šarvų technolo-
     ginėje raidoje. Ėmė masiškai plisti lakštiniai šarvai (monolitiškais

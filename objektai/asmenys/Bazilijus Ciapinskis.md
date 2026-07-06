@@ -66,6 +66,8 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
 ## Citatos
 
 - id: c-21619
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     LDK stačiatikių vienuo-
     lynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pra-

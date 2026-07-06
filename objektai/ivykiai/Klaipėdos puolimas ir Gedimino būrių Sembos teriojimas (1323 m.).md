@@ -90,6 +90,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-33406
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lie­
     tuviams puolant Livoniją, kryžiuočiai įsiveržė Žemaičių gilumon ir

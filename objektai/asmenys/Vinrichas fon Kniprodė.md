@@ -82,6 +82,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-42305
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Žygio mastą liudija tai, kad kryžiuočiai sukvietė riterius iš beveik visos Europos - Italijos, Prancūzijos, Anglijos. Apgulties eigoje prie jų prisijungė ir
     Livonijos ordinas. Visam žygiui vadovavo pats didysis Ordino magistras Vinrichas fon Kniprodė. Bendras kryžiuočių kariuomenės skaičius galėjo būti apie

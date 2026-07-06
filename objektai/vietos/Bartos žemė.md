@@ -173,6 +173,8 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
 ## Citatos
 
 - id: c-76336
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Olštino regionas), po to
     Allės upe žemyn iki įtekėjimo į Prieglių,
@@ -198,6 +200,8 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
     - t-79297
 
 - id: c-76337
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1347 m. vasarį „abu lietuvių karaliai“
     puolė Prūsijoje Rastenburgą, niokojo
@@ -216,6 +220,8 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
     - t-79298
 
 - id: c-168290
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Sutelkta
     keturi tūkstančiai rinktinių karių; su šia kariuomene

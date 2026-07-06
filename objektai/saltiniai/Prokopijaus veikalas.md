@@ -93,6 +93,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
 ## Citatos
 
 - id: c-169704
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atgavęs Italiją, jis, mi­
     rus Justinianui, buvo kviečiamas atgal į Bizantiją, o

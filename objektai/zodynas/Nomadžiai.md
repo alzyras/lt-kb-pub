@@ -73,6 +73,8 @@ Vartojamos formos: `nomadžiais`.
 ## Citatos
 
 - id: c-09567
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
         prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys. Tas trobesys, kurį

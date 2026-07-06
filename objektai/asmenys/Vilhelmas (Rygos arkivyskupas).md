@@ -121,6 +121,8 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
 ## Citatos
 
 - id: c-169446
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Neil­
     gai trukus sektos pasekėjai, iš seno tykoję užgrobti
@@ -143,6 +145,8 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
     - t-186085
 
 - id: c-169447
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Paleidęs seimą liepos pabaigoje, atvirai užpuolė
     arkivyskupo valdas ir nelyginant koks priešas smarkiai

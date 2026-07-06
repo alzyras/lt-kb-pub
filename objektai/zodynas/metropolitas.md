@@ -471,6 +471,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 ## Citatos
 
 - id: c-05583
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
     konkurentą, stengėsi išplėsti savo įtaką Pskove, Didž. Naugarde,
@@ -487,6 +489,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-05453
 
 - id: c-05584
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagaliau jam pasi­
     sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
@@ -501,6 +505,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-05454
 
 - id: c-05585
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Konstan­
     tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
@@ -519,6 +525,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-05455
 
 - id: c-05586
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Algirdas 1370 smarkiai
     pasisakė prieš Aleksį, atsakydamas į priekaištus savo laiške Kons­
@@ -535,6 +543,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-05456
 
 - id: c-91772
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Naugarde,
     Smolenske ir Tvėrėje. Ir Algirdas, ir Maskvos kunigaikštis tuo
@@ -553,6 +563,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-97284
 
 - id: c-91773
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis. Lietuvos metropolijos Gediminui nepasisekė išlai­
@@ -568,6 +580,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-05451
 
 - id: c-167991
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
@@ -593,6 +607,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-184630
 
 - id: c-170474
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     ”  „O  trečių vasarų" — kalbama apie 1435 m
     w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­

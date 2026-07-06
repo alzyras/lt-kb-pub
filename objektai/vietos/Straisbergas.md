@@ -139,6 +139,8 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
 ## Citatos
 
 - id: c-59363
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
 
@@ -158,6 +160,8 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
     - t-58731
 
 - id: c-168518
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šis žygis iš pradžių labai se­
     kėsi. Be kitos priešui padarytos žalos, apiplėšė Strais-

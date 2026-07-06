@@ -112,6 +112,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 ## Citatos
 
 - id: c-59242
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­
                              buklą ir apie daugybės prūsų žūtį
@@ -127,6 +129,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
     - t-58610
 
 - id: c-59243
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
                                           lies bei miesto paėmimą

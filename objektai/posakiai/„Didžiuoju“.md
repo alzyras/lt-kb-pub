@@ -95,6 +95,8 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
 ## Citatos
 
 - id: c-73335
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ne
     vienas Vytautas, o visa Lietuvos visuomenė, ypač jos elitas, kūrė šį istorinį

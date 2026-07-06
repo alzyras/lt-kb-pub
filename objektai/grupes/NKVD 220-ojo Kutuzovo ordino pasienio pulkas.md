@@ -84,6 +84,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-77341
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     4 ginkluotų partizanų. 1945 m.
     gegužės 16 dienos mūšyje

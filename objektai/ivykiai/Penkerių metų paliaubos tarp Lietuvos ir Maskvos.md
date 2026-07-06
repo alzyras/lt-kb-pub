@@ -131,6 +131,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168994
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
     nislovo Daugirdo, susitarė su
@@ -154,6 +156,8 @@ Nenurodyta
     - t-185633
 
 - id: c-176090
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šie ilgai
     aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­

@@ -89,6 +89,8 @@ Su skausmu ir pa­ sibaisėjimu tenka pripažinti, kad 1828 metais tuometinė Ra
 ## Citatos
 
 - id: c-82797
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dar prieš kelerius metus Vilnių puo­
     šė Barboros rūmų griuvėsiai, stovė­

@@ -134,6 +134,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169087
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tais pačiais me­
     tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
@@ -156,6 +158,8 @@ Nenurodyta
     - t-185726
 
 - id: c-169088
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Negalėdamas tarp saviškių garbinti dievo pagal
     šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš

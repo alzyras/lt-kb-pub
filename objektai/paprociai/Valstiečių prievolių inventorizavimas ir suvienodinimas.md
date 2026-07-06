@@ -73,6 +73,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02279
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Privatiniuose dvaruose tebuvo tik suvienodintos vals-
     tiečių prievolės. Tam tikslui buvo įsakyta paruošti vadinamuo-

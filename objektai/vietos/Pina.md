@@ -89,6 +89,8 @@ Pinskas lokalizuojamas prie Pinos upės.
 ## Citatos
 
 - id: c-170332
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių,
     dabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo

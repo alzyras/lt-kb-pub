@@ -124,6 +124,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169966
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą
     Kryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus

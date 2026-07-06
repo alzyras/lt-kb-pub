@@ -256,6 +256,9 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 ## Citatos
 
 - id: c-36387
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lietuvių delegacijai buvo tas gera, kad dar prieš susirin­
     kimą popiež. Jonas XXIII panaikino visas Ordino privilegijas
@@ -270,6 +273,9 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-176499
 
 - id: c-36388
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Jonas XXIII atėmė Vok. Ordinui
     visas teises ir privilegijas, kuriomis jis pateisindavo savo už­
@@ -285,6 +291,8 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-176496
 
 - id: c-160496
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
     delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
@@ -304,6 +312,8 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-176497
 
 - id: c-160497
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Bažnyčios susirinkime aplinkybės laikinai buvo ėmusios dėsty­
     tis ordino naudai. Lietuvai ir Lenkijai palankus antipopiežius
@@ -319,6 +329,9 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-176495
 
 - id: c-167658
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Todėl
     tokias ir panašias neteisybes lietuvių delegacijai reikėjo su­
@@ -334,6 +347,9 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-184281
 
 - id: c-167659
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Inocentas VII, Gregorijus XII ir Aleksandras V parem­
     davo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok. Ordinui

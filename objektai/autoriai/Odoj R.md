@@ -71,6 +71,8 @@ Dusburgietis teigia, kad odoj R.
 ## Citatos
 
 - id: c-61395
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.
     95—105.

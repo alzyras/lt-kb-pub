@@ -66,6 +66,8 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
 ## Citatos
 
 - id: c-173346
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     411
 

@@ -82,6 +82,8 @@ Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą
 ## Citatos
 
 - id: c-169525
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadan-
     346

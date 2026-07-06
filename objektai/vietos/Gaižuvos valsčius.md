@@ -143,6 +143,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 ## Citatos
 
 - id: c-86227
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
 
@@ -165,6 +167,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     - t-90366
 
 - id: c-86228
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     246 (239). Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
 

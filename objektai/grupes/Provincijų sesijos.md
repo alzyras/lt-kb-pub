@@ -74,6 +74,8 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
 ## Citatos
 
 - id: c-71019
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tie posėdžiai būdavo
     vadinami „provincijų sesijomis" (sesijomis tada va-

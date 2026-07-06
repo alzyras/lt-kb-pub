@@ -171,6 +171,8 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
 ## Citatos
 
 - id: c-170492
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
     VILNIUJE
@@ -192,6 +194,8 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
     - t-187542
 
 - id: c-170493
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
     Goštautas žemai lenkdamasis prašė didįjį kunigaikštį

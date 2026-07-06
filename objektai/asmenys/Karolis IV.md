@@ -205,6 +205,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 ## Citatos
 
 - id: c-11538
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
     Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
@@ -221,6 +223,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-10089
 
 - id: c-42063
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pergalė prieš kryžiuočius. Lietuvos galybės maksimumas
 
@@ -237,6 +241,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-89888
 
 - id: c-85799
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet Kęs-
     tučio pažadas buvo duotas sunkaus karo metu; iš tikro jis nė
@@ -254,6 +260,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-89884
 
 - id: c-85800
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.

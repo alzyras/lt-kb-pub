@@ -193,6 +193,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 ## Citatos
 
 - id: c-168012
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kitų metų pradžioje
     lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
@@ -220,6 +222,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     - t-184651
 
 - id: c-176110
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mat šis, ki­
     lęs iš Lietuvos didžiųjų ku­
@@ -251,6 +255,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     - t-193385
 
 - id: c-176414
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Puolimas buvo pradėtas 1919 m. ge-
     gužės 18 d. naktį. Dešinioji kolona ener-

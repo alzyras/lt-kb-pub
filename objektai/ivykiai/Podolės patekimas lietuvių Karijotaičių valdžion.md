@@ -160,6 +160,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169934
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5  Kada Podolė pateko lietuvių Karijotaičių valdžion, nėra vie­
     ningos nuomonės. Datuojama 1349, 1350—51 ir 1362 m.
@@ -176,6 +178,8 @@ Nenurodyta
     - t-186697
 
 - id: c-169935
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo
     Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių

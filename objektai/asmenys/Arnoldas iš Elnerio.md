@@ -80,6 +80,8 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 ## Citatos
 
 - id: c-60871
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     327 (320). Apie Medininkų valsčiaus apiplėšimą 1316 metais
 

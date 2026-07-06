@@ -65,6 +65,8 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 ## Citatos
 
 - id: c-44626
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.
 

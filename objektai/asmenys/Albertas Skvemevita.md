@@ -83,6 +83,8 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 ## Citatos
 
 - id: c-83588
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pagal mūsų
     pačių pranešimo šiandieninį terminą, nustatytą pačiame šau­

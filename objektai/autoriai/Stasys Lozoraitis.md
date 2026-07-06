@@ -76,6 +76,8 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
 ## Citatos
 
 - id: c-176395
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m.
     liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško so-

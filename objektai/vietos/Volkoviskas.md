@@ -151,6 +151,8 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
 ## Citatos
 
 - id: c-170389
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tie generaliniai seimeliai neišnyko nė įvedus bend-
     rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
@@ -166,6 +168,9 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
     - t-187386
 
 - id: c-170390
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Pane­
     lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
@@ -186,6 +191,8 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
     - t-187385
 
 - id: c-175985
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Sutartis buvo susti-
     printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-

@@ -136,6 +136,8 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 ## Citatos
 
 - id: c-44871
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     praktiškai žuvo visa apygardos vadovybė.
     1950 m. lapkričio 25 d. srities vado įsakymu
@@ -153,6 +155,8 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
     - t-41200
 
 - id: c-44872
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     PASTOVIAIO)
 

@@ -67,6 +67,8 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
 ## Citatos
 
 - id: c-33812
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš XI-XII amž. danų šaltinių (Genealogia regum
     Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai

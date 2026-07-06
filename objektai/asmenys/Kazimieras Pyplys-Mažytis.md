@@ -95,6 +95,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-21818
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pereita prie įprasto
     partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir

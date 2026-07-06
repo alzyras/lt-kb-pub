@@ -61,6 +61,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-176759
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ten taip pat buvo bažnyčia „sancta M aria in arena".
     1 0  Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius

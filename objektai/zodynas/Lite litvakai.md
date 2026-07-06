@@ -126,6 +126,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 ## Citatos
 
 - id: c-24687
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
@@ -140,6 +142,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     - t-22004
 
 - id: c-166840
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Visa tai buvo ne kas
 

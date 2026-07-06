@@ -106,6 +106,8 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
 ## Citatos
 
 - id: c-28627
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Primindami
     savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų
@@ -120,6 +122,8 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
     - t-28723
 
 - id: c-167734
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Dubysos rajone
     Vytautas vėl pasirodė su karine jėga, kurioje buvo rusų ir lenkų.

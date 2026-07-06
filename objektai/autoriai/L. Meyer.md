@@ -63,6 +63,8 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
 ## Citatos
 
 - id: c-61372
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Livländische Reimchronik / L. Meyer.—Paderborn, 1876.
   statusas: verified

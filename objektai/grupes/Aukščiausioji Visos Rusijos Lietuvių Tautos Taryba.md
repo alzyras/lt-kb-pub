@@ -68,6 +68,8 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
 ## Citatos
 
 - id: c-176029
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nepriklausomybės šūkį
     toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Vi-

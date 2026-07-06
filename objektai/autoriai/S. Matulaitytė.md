@@ -83,6 +83,8 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
 ## Citatos
 
 - id: c-33133
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     A. Šidlauskas
     atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje

@@ -105,6 +105,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83231
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
     metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­

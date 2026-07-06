@@ -72,6 +72,8 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
 ## Citatos
 
 - id: c-32948
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — Jodkowski, J. : _Grodno i okolice
     w zaraniu dziejów Litwy i Rusi nad Niemnem,_ 1928. — Johansen, P. :

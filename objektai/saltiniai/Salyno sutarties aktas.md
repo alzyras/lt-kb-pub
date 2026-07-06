@@ -66,6 +66,8 @@ Iš dokum entų yra žinomas Pinsko kunigaikštis Jurgis be pravardės, kuris ta
 ## Citatos
 
 - id: c-176775
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     8 Pinsko kunigaikštis Jurgis Nosis, kuris būtų buvęs LDK vie­
     tininku Pskove, kituose šaltiniuose nąpaliudytas. Iš dokum entų yra

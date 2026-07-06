@@ -111,6 +111,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-09920
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Regėdami senieji tokią naudą iš tų girių didžiai jas gerbė ir augino, žalius medžius laikė, o
         pasauses tiktai namų medžiagai ir padarynei tekirto, o sankritomis ir sausšakėmis namuose šildės; ir taip, juo naudingesnis medis žmogaus gyvenimui buvo, juo didžiau jį saugojo, ne vien
@@ -125,6 +127,8 @@ Nenurodyta
     - t-07763
 
 - id: c-09921
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Ąžuolus ir ąžuolynus pervis didžiau gerbė, kurių malka pagal jų nuomonę reikėjo šventą ugnį tuoįtimpos^168 ant dievo garbės kūrinti iki pabangos^169 šio pasaulio, todėl ąžuolus kirsti, kaipo šventus medžius, patys kunigai šventais kirviais tegalėjo. Ne vien buvo
         perdėti^170 ant tų girių kunigai, kurie jas saugojo, bet ant didesnio jų orumo visų dideliojo ąžuolo

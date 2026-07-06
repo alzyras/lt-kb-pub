@@ -76,6 +76,8 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
 ## Citatos
 
 - id: c-168642
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Žiau­
     riai nusiaubė Lipną ir Ripiną. Kai pasidavė Bobrovnikai

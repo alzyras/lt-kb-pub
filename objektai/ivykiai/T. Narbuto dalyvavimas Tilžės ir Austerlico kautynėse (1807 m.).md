@@ -124,6 +124,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170756
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Jaunuolis nesibaidė vyriau­
     sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų

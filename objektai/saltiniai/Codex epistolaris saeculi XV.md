@@ -73,6 +73,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36175
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     C. ep. s. = Codex epistolaris saeculi XV, 2t., ed. A. Lewicki
     Cracoviae 1891 (XII iš „Monumentą Poloniae“).

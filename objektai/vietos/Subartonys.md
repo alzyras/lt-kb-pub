@@ -67,6 +67,8 @@ Dar viena kovotojų grupė nuvyko Subartonių miško link.
 ## Citatos
 
 - id: c-40361
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Dar
     viena kovotojų grupė nuvyko Subartonių

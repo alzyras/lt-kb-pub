@@ -125,6 +125,8 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
 ## Citatos
 
 - id: c-171985
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -148,6 +150,8 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
     - t-189097
 
 - id: c-175514
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Ne­
     storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­

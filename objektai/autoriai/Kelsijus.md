@@ -76,6 +76,8 @@ Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus 
 ## Citatos
 
 - id: c-174558
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,

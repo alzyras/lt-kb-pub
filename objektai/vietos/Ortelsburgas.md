@@ -125,6 +125,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-37608
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Nauja sutartis buvo padaryta dešimčiai metų. Abu ma­
     gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
@@ -141,6 +144,8 @@ media_all_json: |-
     - t-184316
 
 - id: c-166277
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Taip kronikose vėl atsi­
     rado keliatūkstantiniai priešų aukų skaičiai^21. Kad lietuvių nuosto­

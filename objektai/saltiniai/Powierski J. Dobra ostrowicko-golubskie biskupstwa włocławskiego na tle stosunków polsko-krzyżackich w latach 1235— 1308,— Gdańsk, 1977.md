@@ -71,6 +71,8 @@ Dusburgietis teigia, kad powierski J.
 ## Citatos
 
 - id: c-61871
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
     polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.

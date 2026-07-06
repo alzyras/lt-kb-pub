@@ -79,6 +79,8 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
 ## Citatos
 
 - id: c-44869
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sustiprinti esamą Vilniaus įgulą buvo at-
     siųsti ir papildomi sovietinės kariuomenės

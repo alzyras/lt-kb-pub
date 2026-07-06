@@ -95,6 +95,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 ## Citatos
 
 - id: c-47131
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visai Livonijai bu-
     vo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir

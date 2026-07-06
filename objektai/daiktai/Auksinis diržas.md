@@ -91,6 +91,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170037
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir iš mano žmonos bro­
     lio 1 4  jis atėmė visą jo tėviškę, ir iš Algimanto sūnaus

@@ -76,6 +76,8 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
 ## Citatos
 
 - id: c-169695
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vaistais mažino
     karštį, bet žaizdotuose viduriuose jie sukėlė dizenteriją,

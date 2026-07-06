@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23184
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ankstes-
     nės lietuvių kilmės iš romėnų idėjos pagrindu formuojasi samprata, kad
@@ -152,6 +154,8 @@ Nenurodyta
     - t-20461
 
 - id: c-23185
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tokia įvykių seka rodė ne tik tai, kad Lie-
     tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.

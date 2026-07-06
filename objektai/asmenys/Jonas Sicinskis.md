@@ -68,6 +68,8 @@ Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmi
 ## Citatos
 
 - id: c-44387
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     maistą ir amuniciją. Birželio 2-3 d. LDK di-
     dysis etmonas Kristupas Radvila Perkūnas

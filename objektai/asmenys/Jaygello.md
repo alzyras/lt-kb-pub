@@ -76,6 +76,8 @@ Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai
 ## Citatos
 
 - id: c-173113
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     433
 

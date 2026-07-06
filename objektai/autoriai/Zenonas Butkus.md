@@ -89,6 +89,8 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 ## Citatos
 
 - id: c-22210
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Skaitytojui jie būtų neabejotinai įdomūs ir pravartūs, bet
     tebūnie tai ta auka ir kaina, kurią šios knygos autoriai pasiryžo sumokėti,

@@ -183,6 +183,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83017
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Jogaila tam pasipriešino,
     tad šia dingstimi negalima buvo į
@@ -205,6 +207,8 @@ Nenurodyta
     - t-87037
 
 - id: c-83018
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Andrius žuvo prie Vorsklos 1399
     metais.
@@ -232,6 +236,8 @@ Nenurodyta
     - t-87039
 
 - id: c-176793
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     116
 

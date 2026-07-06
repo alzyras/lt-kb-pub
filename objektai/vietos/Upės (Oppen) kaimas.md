@@ -255,6 +255,8 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 ## Citatos
 
 - id: c-171963
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
     taip pat buvusi šventykla.

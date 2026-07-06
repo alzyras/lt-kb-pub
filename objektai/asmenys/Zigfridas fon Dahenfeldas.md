@@ -112,6 +112,8 @@ Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės va
 ## Citatos
 
 - id: c-169630
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Nelaukdami
     kunigaikščių raginimo, laisva valia išsirengė į žygį

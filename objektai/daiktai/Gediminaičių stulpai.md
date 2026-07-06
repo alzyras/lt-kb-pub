@@ -114,6 +114,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-154541
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Čekoslo-
     vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,

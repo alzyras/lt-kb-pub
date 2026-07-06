@@ -89,6 +89,9 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
 ## Citatos
 
 - id: c-38610
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šis daly­
     kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­

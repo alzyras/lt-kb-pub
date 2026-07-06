@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66965
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tuo tarpu ji dar tebetikėjo
     Napoleono žvaigžde ir prieš likviduodamasi pareiškė, kad jos

@@ -92,6 +92,8 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. 1 6 Mech
 ## Citatos
 
 - id: c-176465
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pats žygis
 
@@ -108,6 +110,8 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. 1 6 Mech
     - t-193821
 
 - id: c-176581
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     1 6  Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus
     trečiasis sūnus.

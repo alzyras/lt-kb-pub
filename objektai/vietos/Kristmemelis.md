@@ -280,6 +280,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 ## Citatos
 
 - id: c-58945
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Junigedos papilio sudeginimą 1315 m. spalio 12
 
@@ -298,6 +300,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - t-58316
 
 - id: c-58947
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
@@ -313,6 +317,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - t-58317
 
 - id: c-58948
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
 
@@ -332,6 +338,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - t-58313
 
 - id: c-58949
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Bisenės pilies puolimą 1313 metais
       567 D.— edificavit castrum Cristmemelam, Jer.— Cristmemil; Kirsmemela — SRP, 1,
@@ -349,6 +357,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - t-58315
 
 - id: c-58950
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
     315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino

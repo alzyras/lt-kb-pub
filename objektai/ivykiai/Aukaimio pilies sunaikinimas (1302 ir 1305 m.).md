@@ -174,6 +174,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31312
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tokiu būdu riteriai du kartu (1302
     ir 1305) paėmė ir sunaikino Aukaimio pilį. Per savo sūnų užmez­
@@ -189,6 +191,8 @@ Nenurodyta
     - t-31407
 
 - id: c-33385
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.
     Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
@@ -207,6 +211,8 @@ Nenurodyta
     - t-31406
 
 - id: c-167707
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Žemaičiai užsispyrę
     gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks

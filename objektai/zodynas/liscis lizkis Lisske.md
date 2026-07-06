@@ -86,6 +86,8 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
 ## Citatos
 
 - id: c-59578
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos
     dokumente prie Torunės minima prūsiška Lisske (pr. liscis, *lizkis ‘stovykla, apsistojimo

@@ -80,6 +80,8 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
 ## Citatos
 
 - id: c-24712
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
     20  proc. Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus

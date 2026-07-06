@@ -78,6 +78,8 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
 ## Citatos
 
 - id: c-44344
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pavėluota šios
     Ordino tvirtovės apsiaustis nedavė re-

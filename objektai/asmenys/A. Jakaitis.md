@@ -77,6 +77,8 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 ## Citatos
 
 - id: c-44247
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     grupė (8-asis pulkas, 2-ojo pulko batalionas
     ir 6-ojo pulko batalionas, 9-oji baterija ir

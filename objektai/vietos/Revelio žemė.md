@@ -138,6 +138,8 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 ## Citatos
 
 - id: c-82080
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
     Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­
@@ -163,6 +165,8 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     - t-86102
 
 - id: c-82081
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     MCCCXXIII, in carniprivio
     intraverunt Revaliam terram regis Da­

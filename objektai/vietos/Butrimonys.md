@@ -180,6 +180,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 ## Citatos
 
 - id: c-24089
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
     tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
@@ -205,6 +207,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     - t-67762
 
 - id: c-43356
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Dau-
     gus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @. Vievj, Kerna-
@@ -222,6 +226,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     - t-67763
 
 - id: c-167166
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Sutelkę
     visas pajėgas prieš bolševikus lietuviai galėjo apsisaugojimui nuo

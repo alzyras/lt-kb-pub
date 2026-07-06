@@ -109,6 +109,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67098
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
     pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
@@ -125,6 +127,8 @@ Nenurodyta
     - t-67044
 
 - id: c-67099
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
     stovėjo prie to darbo, būtų buvę sąžiningesni. Bet to meto bajorija

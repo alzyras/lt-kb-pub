@@ -74,6 +74,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 ## Citatos
 
 - id: c-02900
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     15 —
     XII. 18) ilgai svarstė Lietuvos (o taip pat ir Latvių bei Estų)

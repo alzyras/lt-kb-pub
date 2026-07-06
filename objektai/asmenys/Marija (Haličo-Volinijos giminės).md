@@ -115,6 +115,8 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 ## Citatos
 
 - id: c-91952
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Jas pripažino Liubar­
     tui ne tik uošvis, bet ir šio brolis Levas (Leonas), drauge su An­
@@ -131,6 +133,8 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
     - t-97462
 
 - id: c-91953
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Iš garsiosios Haličo-Volinijos Riurikaičių
     giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi

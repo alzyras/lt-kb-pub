@@ -323,6 +323,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170054
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Podolė Ir Volynė liko ištikimos Švitrigailai.
     Oficialių ceremonijų — Žygimanto Kęstutaičio pakėlimų didžiuo­
@@ -337,6 +339,8 @@ Nenurodyta
     - t-186870
 
 - id: c-175291
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­

@@ -81,6 +81,8 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 ## Citatos
 
 - id: c-75446
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus

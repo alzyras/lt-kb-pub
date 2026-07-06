@@ -60,6 +60,8 @@ Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusiga
 ## Citatos
 
 - id: c-68621
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     XIII amžiaus pra-
     džioje lietuviai buvo tikras rusų siaubas. Kai XII amž. gale Li-

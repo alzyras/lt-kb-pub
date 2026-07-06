@@ -80,6 +80,8 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
 ## Citatos
 
 - id: c-03087
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Vienos kongreso dalyviais,
     kurie jai pavedė Lenkų karalystę, Užnemunėje neišdrįso griebtis

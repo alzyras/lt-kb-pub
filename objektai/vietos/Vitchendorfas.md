@@ -92,6 +92,8 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 ## Citatos
 
 - id: c-59381
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Viškonys
     Višogrudas (Wischerot, Wischegrot, dab. Fordonas)

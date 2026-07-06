@@ -74,6 +74,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-19185
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
     lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-

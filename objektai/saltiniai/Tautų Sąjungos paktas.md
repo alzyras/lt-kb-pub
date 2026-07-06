@@ -66,6 +66,8 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
 ## Citatos
 
 - id: c-67413
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     paskutinį Hymanso projektą toliau svarstyti, išrasdama, kad jis
     esąs perdaug palankus Lietuvai. Tautų Sąjunga tą projektą tada

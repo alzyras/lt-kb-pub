@@ -77,6 +77,8 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
 ## Citatos
 
 - id: c-45534
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     ie r. g“ sel
 

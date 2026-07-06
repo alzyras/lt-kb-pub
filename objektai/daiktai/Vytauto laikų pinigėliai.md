@@ -95,6 +95,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01485
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lentelėse duodamieji pavyzdžiai:
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;

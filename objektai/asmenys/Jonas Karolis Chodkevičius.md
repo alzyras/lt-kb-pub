@@ -97,6 +97,8 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 ## Citatos
 
 - id: c-21738
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė

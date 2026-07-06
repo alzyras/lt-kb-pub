@@ -66,6 +66,8 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
 ## Citatos
 
 - id: c-176334
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
     ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai. Kiek­

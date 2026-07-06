@@ -77,6 +77,8 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
 ## Citatos
 
 - id: c-83825
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     I  KNYGA
     knygoje, 223 lape ( P o a o c a o b h h k b  KHH 3eö BeAHKHXb h

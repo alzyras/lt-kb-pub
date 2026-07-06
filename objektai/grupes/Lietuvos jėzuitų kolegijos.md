@@ -168,6 +168,8 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
 ## Citatos
 
 - id: c-78083
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Pilaitė, jėzuitų buvusi, per mylią
     nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­
@@ -188,6 +190,8 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
     - t-81463
 
 - id: c-78084
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šis iš Kauno kilęs gausių religinių-pasto­
     racinių, asketinių, poleminių ir filosofinių raštų autorius, Lietuvos
@@ -208,6 +212,8 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
     - t-81465
 
 - id: c-78085
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     51
 

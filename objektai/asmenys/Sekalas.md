@@ -82,6 +82,8 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
 ## Citatos
 
 - id: c-174345
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     98
     Poloviečių santykiai su rusais klostėsi nedraugiškai

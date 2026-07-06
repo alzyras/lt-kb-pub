@@ -84,6 +84,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-02185
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Mat, anks-
     čiau Lenkija buvo susi-

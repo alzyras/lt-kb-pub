@@ -128,6 +128,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-167364
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
     Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė

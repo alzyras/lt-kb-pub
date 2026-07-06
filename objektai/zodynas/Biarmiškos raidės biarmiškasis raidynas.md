@@ -67,6 +67,8 @@ Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas bi
 ## Citatos
 
 - id: c-172242
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     248
 

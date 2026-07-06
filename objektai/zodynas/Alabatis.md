@@ -79,6 +79,8 @@ Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi
 ## Citatos
 
 - id: c-172160
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     138
 

@@ -108,6 +108,8 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 ## Citatos
 
 - id: c-72073
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Nepaisydami Lietuvos neutrali-
     teto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu

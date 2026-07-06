@@ -72,6 +72,9 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
 ## Citatos
 
 - id: c-37981
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Krikštatėviu buvo prašytas Vok. Ordino
     magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko

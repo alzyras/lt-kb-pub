@@ -94,6 +94,8 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
 ## Citatos
 
 - id: c-44466
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
     metinis Lietuvos lauko etmonas Kristupas

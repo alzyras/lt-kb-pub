@@ -64,6 +64,8 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
 ## Citatos
 
 - id: c-43631
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-Lietuvos
     pasienį. Karolis Zikaras, Loreta Uzdraitė.

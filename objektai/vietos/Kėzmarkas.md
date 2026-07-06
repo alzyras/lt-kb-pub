@@ -128,6 +128,9 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
 ## Citatos
 
 - id: c-38535
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Toks neteisingas klausimo iš­
     sprendimas tiek lietuvių, tiek ir lenkų atstovų griežtai buvo at­
@@ -146,6 +149,9 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
     - t-36344
 
 - id: c-167679
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautui tada daug
     labiau nekaip karūna rūpėjo pabaigt mūšio lauke nuolatinius

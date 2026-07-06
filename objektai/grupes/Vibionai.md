@@ -74,6 +74,8 @@ Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pil
 ## Citatos
 
 - id: c-175762
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų

@@ -120,6 +120,8 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
 ## Citatos
 
 - id: c-169506
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl jie priplaukė prie kranto, ketindami tą
     tariamą moterį paimti į laivą, tačiau Nodamas, staiga
@@ -144,6 +146,8 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
     - t-186145
 
 - id: c-169507
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Šitaip atstumti, kryžiuo­
     čiai leidosi į Junigedą; kadangi vienu metu laivai bu­

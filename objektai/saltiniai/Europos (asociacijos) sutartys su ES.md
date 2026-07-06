@@ -70,6 +70,8 @@ Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) suta
 ## Citatos
 
 - id: c-23759
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuva ir ES pasirašė Prekybos
     ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-

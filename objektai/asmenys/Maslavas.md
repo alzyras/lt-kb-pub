@@ -78,6 +78,8 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
 ## Citatos
 
 - id: c-174177
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­

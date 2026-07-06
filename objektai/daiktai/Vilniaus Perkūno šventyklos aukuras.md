@@ -104,6 +104,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172637
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Palyginti su 1817 metų tekstu, šio verti­
     509

@@ -70,6 +70,8 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
 ## Citatos
 
 - id: c-34107
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Šiauriau ji kilo stačiai per tyrus į pu­
     siau dalinamą Raigardo ežerą. Iš čia ji tęsėsi vėl per dykrą tiesiai

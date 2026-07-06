@@ -76,6 +76,8 @@ Nöbel : Michael Küchmeister.
 ## Citatos
 
 - id: c-33662
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     — R. Wittram :** **_Baltische Geschichte
     1180-1918_** **(WiBG).**

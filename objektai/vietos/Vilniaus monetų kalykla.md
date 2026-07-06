@@ -177,6 +177,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 ## Citatos
 
 - id: c-55853
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
@@ -194,6 +196,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     - t-55252
 
 - id: c-55854
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lietuvos Metrikoje apie tai yra tokia
     žinia: U Wilni Jiunia 9 dien Indykt 2.
@@ -217,6 +221,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     - t-55253
 
 - id: c-81228
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
     matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­

@@ -490,6 +490,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 ## Citatos
 
 - id: c-104969
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
     tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
@@ -517,6 +519,9 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-113789
 
 - id: c-104970
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Mindaugo krikštas ir kitų didžiųjų Lietuvos kunigaikščių,
     kaip Gedimino, Algirdo ir Kęstučio mėginimai įvesti Lietuvoje
@@ -534,6 +539,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-113787
 
 - id: c-104972
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
     rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
@@ -587,6 +594,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-113785
 
 - id: c-104973
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
     tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
@@ -613,6 +622,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-113788
 
 - id: c-168068
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Vis dėlto buvo pamato būgštauti, kad jie gali
     nepaisyti teisėto susitarimo iš palankumo žmonėms, su
@@ -636,6 +647,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-184707
 
 - id: c-168069
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
     nuolat kurstė ir Vytautas, ir
@@ -656,6 +669,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-184708
 
 - id: c-168070
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mirus Konstantinui Karijotaičiui, Podolės kuni­
     gaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.

@@ -192,6 +192,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168959
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Po kelerių
     taikos metų prasidėjęs žiaurus karas vėl pareikalavo
@@ -214,6 +216,8 @@ Nenurodyta
     - t-185598
 
 - id: c-168960
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kadangi
     šis pralaimėjimas palaužė kariuomenės jėgas, o sto­
@@ -232,6 +236,8 @@ Nenurodyta
     - t-185599
 
 - id: c-168961
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Visi kryžiuočiai su vadu Henriku fon Ploc-
     ke, Prūsijos maršalu, buvo šioje tankmėje arba su­

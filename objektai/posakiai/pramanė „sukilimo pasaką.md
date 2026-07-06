@@ -94,6 +94,8 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 ## Citatos
 
 - id: c-67263
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lenkija, nebegalėdama
     niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
@@ -109,6 +111,8 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
     - t-67306
 
 - id: c-67264
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Esą, atsiradęs jų kariuomenėje generolas maištininkas Že-
     ligovskis ir savavališkai užėmęs Vilnių. Jo kariuomenė (dvi

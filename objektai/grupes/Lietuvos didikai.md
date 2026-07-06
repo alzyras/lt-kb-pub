@@ -346,6 +346,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ## Citatos
 
 - id: c-78080
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Onos bažnyčios staty­
     mą, bet abi tos bažnyčios ir bernardinų vienuolynas buvo
@@ -370,6 +372,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-81460
 
 - id: c-78082
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tad naudojant vad. pir­
     mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
@@ -388,6 +392,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-81461
 
 - id: c-167917
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Esąs tik vienas būdas suteikti valstybei saugią ramybę,
     tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
@@ -408,6 +414,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-184556
 
 - id: c-167918
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kiti parėmė šį siūlymą
     iš baimės, kad atidėliojant yal-
@@ -431,6 +439,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-184557
 
 - id: c-167919
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Atvykęs į Gdanską,
     karalius dalį maištininkų nubaudė mirtimi, o dalį, tai
@@ -464,6 +474,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-184558
 
 - id: c-167920
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kai
     žymiau­

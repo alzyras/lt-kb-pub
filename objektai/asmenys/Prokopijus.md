@@ -117,6 +117,8 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
 ## Citatos
 
 - id: c-174191
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -135,6 +137,8 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
     - t-191309
 
 - id: c-174853
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Bet, nenorėdami pažeisti mūsų pasakojimų chro­
     nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią

@@ -71,6 +71,9 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 ## Citatos
 
 - id: c-38666
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Juos rinkdavo Vytauto dvaruose gyvenantieji vietininkai ir
     kartu su dvarų pelnu pristatydavo didž. kunigaikščiui. Mokes­

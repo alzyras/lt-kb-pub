@@ -242,6 +242,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 ## Citatos
 
 - id: c-30850
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Lietuvos istorijos klausimus
     nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­
@@ -260,6 +262,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - t-47898
 
 - id: c-30852
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Pačioje Ukrainoje šiuo
     metu reiškiasi D. Pochilevyč, Lvovo univ. prof. Jis davė
@@ -273,6 +277,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - t-47900
 
 - id: c-50252
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Užtat rusų istorikai davė ir Lietuvai pavadinimą «Litovsko —
     russkoje gosudarstvo» (Lietuviu ir rusu valstybė). Jiems rūpėjo
@@ -290,6 +296,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - t-47895
 
 - id: c-50253
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     XIX amžiui einant į galą rusų universitetų istorikams vis
     daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,
@@ -306,6 +314,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - t-47901
 
 - id: c-50255
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
     čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo

@@ -122,6 +122,8 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 ## Citatos
 
 - id: c-75342
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
     kalba parašyti kūriniai tenkino ir intelektualiai išlavintą protą, gerą meni-
@@ -137,6 +139,8 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
     - t-78030
 
 - id: c-75343
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau antros šio sąjūdžio kartos atstovas, aukš-
     taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū-

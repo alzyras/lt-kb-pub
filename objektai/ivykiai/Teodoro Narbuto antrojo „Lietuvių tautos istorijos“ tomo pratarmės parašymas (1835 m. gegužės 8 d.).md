@@ -146,6 +146,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174919
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     PRATARME
     Vos tik buvo išspausdinta religijos, papročių ir kitų
@@ -174,6 +176,8 @@ Nenurodyta
     - t-192049
 
 - id: c-174920
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Mano sumanymo įgyvendinimui reikia nepa­
     prastai daug dalykų ir medžiagos, daug materialinių iš­

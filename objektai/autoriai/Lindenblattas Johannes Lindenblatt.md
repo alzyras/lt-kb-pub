@@ -246,6 +246,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 ## Citatos
 
 - id: c-83954
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     33
     Lindenblatt Jahrbücher etc., p. 76,
@@ -261,6 +263,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - t-87977
 
 - id: c-83955
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Olesnickis,
     užbėgdamas kryžiuočiams už akių, buvo priverstas paau­
@@ -295,6 +299,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - t-87979
 
 - id: c-83957
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Upė Nerige, dažnai minima senovi­
     niame Lietuvos kelių aprašyme,
@@ -313,6 +319,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - t-87980
 
 - id: c-83958
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     45
     Lindenblatto kronikos leidėjai
@@ -327,6 +335,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - t-87978
 
 - id: c-83959
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Iš­
     stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be

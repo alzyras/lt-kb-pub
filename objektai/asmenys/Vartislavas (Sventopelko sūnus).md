@@ -75,6 +75,8 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
 ## Citatos
 
 - id: c-61092
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
     turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,

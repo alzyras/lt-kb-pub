@@ -125,6 +125,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-31409
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tuo tarpu imp. Zigmantas pirma išsiuntė
     teisininkų delegaciją, kuriai vadovavo Vienos univ. dr. Baptista
@@ -139,6 +141,8 @@ Nenurodyta
     - t-31517
 
 - id: c-33451
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^374) III skyrius: valstybės suklestėjimas
     buvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip

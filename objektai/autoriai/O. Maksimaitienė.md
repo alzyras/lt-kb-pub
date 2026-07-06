@@ -85,6 +85,8 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
 ## Citatos
 
 - id: c-33081
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117. Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje

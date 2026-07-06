@@ -257,6 +257,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 ## Citatos
 
 - id: c-03968
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     RTPNP = Roczniki Towarzystwa Przyjaciół Nauk Poznańskiego.
     SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte
@@ -271,6 +273,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - t-64518
 
 - id: c-03969
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Karo stovis su skandinavais nusitęsė beveik iki
     pat istorinių laikų pradžios.
@@ -289,6 +293,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - t-64515
 
 - id: c-03970
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ausgrabungen und
     Funde_ , Stockholm 1958. — Raulinaitis, Z. : _Apuolės užpuolimas_ , atsp.
@@ -303,6 +309,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - t-64517
 
 - id: c-03971
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     —Salys, A. : _Baltic Languages,_
     Encyclopedia Britannica, t. 3, 1955. — Senn, A. : _On the Kinship between
@@ -318,6 +326,9 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - t-64514
 
 - id: c-13905
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
     giškių Jono straipsnis. Be to, įdėta prof. Brenderio, prof. Putino-
@@ -331,6 +342,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - t-12236
 
 - id: c-65242
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^15) **Lites, II, 150; plg. III, 76, 92, 105 p.**
     (^16) **Lites, II, 74, 97, 101 p.; SRP, III, 711 p. — Plg. Z. Ivinskis :** **_Kovos

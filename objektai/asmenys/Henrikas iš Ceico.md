@@ -73,6 +73,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 ## Citatos
 
 - id: c-60944
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Magistras,
     patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro

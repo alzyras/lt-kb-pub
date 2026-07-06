@@ -201,6 +201,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 ## Citatos
 
 - id: c-40344
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     X ŠILAINIŲ PASALA
     1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių
@@ -215,6 +217,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     - t-38540
 
 - id: c-171708
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
@@ -231,6 +235,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     - t-188819
 
 - id: c-171709
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Iszskalbk man amzuliali.
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
@@ -246,6 +252,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     - t-188820
 
 - id: c-171710
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Rageziowan
     Kęsgailų giminės fetišas.

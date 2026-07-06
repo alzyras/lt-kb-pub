@@ -186,6 +186,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 ## Citatos
 
 - id: c-171884
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Si
     maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
@@ -201,6 +203,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - t-188995
 
 - id: c-175426
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     149
 
@@ -224,6 +228,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - t-192656
 
 - id: c-175428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -238,6 +244,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - t-192658
 
 - id: c-177327
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Tuo remiantis galima suvokti, kaip mažai iš senovės
     autorių įmanoma gauti žinių apie Siaurės kraštus, nes

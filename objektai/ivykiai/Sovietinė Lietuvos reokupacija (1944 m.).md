@@ -180,6 +180,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-23220
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Šiandien istorikų jaunimas Lietuvos Respublikos civilizacinius pa-
     siekimus įvardija labai trumpai – sviestas, ANBO ir krepšinis. O turima
@@ -196,6 +198,8 @@ Nenurodyta
     - t-75281
 
 - id: c-73110
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     206

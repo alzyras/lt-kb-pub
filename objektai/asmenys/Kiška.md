@@ -111,6 +111,8 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 ## Citatos
 
 - id: c-83734
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
     nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui

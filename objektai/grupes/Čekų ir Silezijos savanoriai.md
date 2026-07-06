@@ -70,6 +70,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-82817
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Priešininkas, persekio­
     jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­

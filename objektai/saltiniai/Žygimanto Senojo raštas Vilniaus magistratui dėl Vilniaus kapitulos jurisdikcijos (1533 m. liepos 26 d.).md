@@ -151,6 +151,8 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
 ## Citatos
 
 - id: c-84149
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     sit erecta, similibusque iuribus et
     380
@@ -187,6 +189,8 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
     - t-88170
 
 - id: c-84150
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     IV KNYGA
     pasakytum, kad turite paklusti teisei, pagal rašytus žemės

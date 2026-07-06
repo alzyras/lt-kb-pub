@@ -76,6 +76,8 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Citatos
 
 - id: c-83605
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Mykolo bažnyčia buvo
     išmūryti didieji maldos namai. Tai iš ten kilo anas Andrius

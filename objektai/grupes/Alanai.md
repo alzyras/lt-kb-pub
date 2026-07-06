@@ -393,6 +393,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 ## Citatos
 
 - id: c-172352
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Taip galima paaiškinti tą mitologinį terminą, ir jis reikš
     „kaulinis arės“. Be abejo, senovės tautos, dar menkai išmany-
@@ -407,6 +409,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     - t-189465
 
 - id: c-172353
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
     žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
@@ -431,6 +435,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     - t-189466
 
 - id: c-175158
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Praėjus pusantro amžiaus, jie pasitraukė į Dono
     aukštupį ir pavergė arba išstūmė ten gyvenusias gentis:
@@ -454,6 +460,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     - t-192363
 
 - id: c-175159
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     48
     Pagaliau dar vienas alanų būrys persikėlė į šiaurės
@@ -482,6 +490,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     - t-192364
 
 - id: c-175160
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
@@ -501,6 +511,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     - t-192365
 
 - id: c-175161
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
     šios temos pagrindą.
@@ -523,6 +535,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     - t-192366
 
 - id: c-176039
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
     rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
@@ -545,6 +559,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     - t-193311
 
 - id: c-176040
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Toji sodyba, tada vadinama R om a n o va , paskui
     Romnove bei Romove, vėliau tapo vyriausiojo lietuvių

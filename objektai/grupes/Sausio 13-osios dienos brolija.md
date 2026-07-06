@@ -62,6 +62,8 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
 ## Citatos
 
 - id: c-42925
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įvykių dalyvius)
     ženklelis, dail. Domantas Vildžiūnas, Karolio Zikaro nuotr.

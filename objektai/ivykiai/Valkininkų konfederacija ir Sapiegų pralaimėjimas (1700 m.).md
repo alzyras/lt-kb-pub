@@ -150,6 +150,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-75857
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     O LDK bajorijai taip ir nepavyko
 
@@ -180,6 +182,8 @@ Nenurodyta
     - t-78642
 
 - id: c-75862
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
     Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti

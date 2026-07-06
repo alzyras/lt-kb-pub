@@ -81,6 +81,8 @@ Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kur
 ## Citatos
 
 - id: c-174816
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Taip pat apie skirtingas šalis ra­
     šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.

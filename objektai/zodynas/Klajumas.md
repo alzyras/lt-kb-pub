@@ -85,6 +85,8 @@ Papildomos aiškios formos neišskirtos.
 ## Citatos
 
 - id: c-09608
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti.
   citata_rodoma: "Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti."
@@ -97,6 +99,8 @@ Papildomos aiškios formos neišskirtos.
     - t-07677
 
 - id: c-09609
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių.
   citata_rodoma: "Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių."

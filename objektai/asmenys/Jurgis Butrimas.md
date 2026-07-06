@@ -70,6 +70,8 @@ Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą
 ## Citatos
 
 - id: c-169478
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Netrukus pasiū­
     lė savo pagalbą kryžiuočiams

@@ -140,6 +140,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83033
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     17
 
@@ -164,6 +166,8 @@ Nenurodyta
     - t-87055
 
 - id: c-83034
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-

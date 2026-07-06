@@ -68,6 +68,8 @@ Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Ut
 ## Citatos
 
 - id: c-41571
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Viduriniąją koloną sudarė viena saksų
     savanorių kuopa, artilerijos būrys (2 pa-

@@ -66,6 +66,8 @@ Wallenrodas, daug aukštųjų pareigūnų ir komtūrų.
 ## Citatos
 
 - id: c-28907
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Tarp 200
     kritusiųjų kryžiuočių riterių buvo pats didysis magistras, maršalas

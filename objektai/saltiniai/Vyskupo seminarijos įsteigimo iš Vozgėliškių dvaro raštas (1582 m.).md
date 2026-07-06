@@ -143,6 +143,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-84092
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O kadangi no­
     rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
@@ -162,6 +164,8 @@ media_all_json: |-
     - t-88113
 
 - id: c-84093
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
     — • —

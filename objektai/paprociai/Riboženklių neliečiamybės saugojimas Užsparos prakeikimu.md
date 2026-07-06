@@ -125,6 +125,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-172753
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atikoje Krono šventė buvo švenčiama Krono garbei he-
     katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
@@ -144,6 +146,8 @@ Nenurodyta
     - t-189870
 
 - id: c-177030
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
     nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo

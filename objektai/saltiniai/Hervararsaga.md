@@ -76,6 +76,8 @@ Tai patvirtina ir Hervararsaga (apie 675 m.
 ## Citatos
 
 - id: c-94053
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Ansgaro, kuris misijų reikalu buvo sustojęs ir Kurše.
     Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą

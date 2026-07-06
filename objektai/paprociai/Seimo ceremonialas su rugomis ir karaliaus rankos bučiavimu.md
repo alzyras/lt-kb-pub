@@ -145,6 +145,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-67211
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jei būdavo reikalo, abeji
     rūmai vėl susitikdavo arba susižinodavo per delegacijas, o seimą
@@ -169,6 +171,8 @@ Nenurodyta
     - t-67199
 
 - id: c-67212
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po to senatas ir atstovai sueidavo į
     vieną salę (tatai buvo tikroji seimo darbų pradžia). Čia senatas
@@ -187,6 +191,8 @@ Nenurodyta
     - t-67201
 
 - id: c-67213
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Po to atstovai susirinkdavo į savo rūmus ir išsirinkdavo pirmi-
     ninką, vadinamą maršalka, arba direktorium. Toliau buvo

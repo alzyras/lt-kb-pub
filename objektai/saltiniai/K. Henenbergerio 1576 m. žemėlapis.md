@@ -74,6 +74,8 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 ## Citatos
 
 - id: c-61723
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
     Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima

@@ -183,6 +183,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-168884
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Todėl, sužinojęs, jog skitai
     dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
@@ -212,6 +214,8 @@ Nenurodyta
     - t-185523
 
 - id: c-168885
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kunigaikštis Jonas
     Olbrachtas, uoliai vykdyda-

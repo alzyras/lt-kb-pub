@@ -69,6 +69,8 @@ Eilinis Kurauskas atbėgo pas mane.
 ## Citatos
 
 - id: c-42097
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Mūsų šaudymas labai suretėjo, nes pradėjo išsibaigti šovinių ištekliai. Bolševikai artėjo
     ir grūmojo šautuvų buožėmis. [...]. Buvo įsakyta užsidėti durtuvus. [...]. Bolševikai, pabėgę

@@ -94,6 +94,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-10095
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Nuo ko jau žemlionimis vadinos, jog žemę savo turėjo, jau vyčiais, kaip viršiau minavojau, nuo to, jog turėjo vyti neprietelius gyniodamos, ar nuo to, jog vietoje gyveno ir nebklajojo su gyvuliais po laukus ir girias, juos ganydami; ir taip patys žemlionys, arba vyčiai, pradžioj tearė ir tesėjo.
   citata_rodoma: "Nuo ko jau žemlionimis vadinos, jog žemę savo turėjo, jau vyčiais, kaip viršiau minavojau, nuo to, jog turėjo vyti neprietelius gyniodamos, ar nuo to, jog vietoje gyveno ir nebklajojo su gyvuliais po laukus ir girias, juos ganydami; ir taip patys žemlionys, arba vyčiai, pradžioj tearė ir tesėjo."
@@ -105,6 +107,8 @@ media_all_json: |-
     - t-07857
 
 - id: c-10096
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Žemaičiuose didžiai vėlai dar yra regimas: kaipogi veizint į reistrą^1177 vyčių, metuose 1528 surašytų,
         gal regėti, jog Žemaičių vyčiai it visi dar lygias tėviškes yra tebturėję.
@@ -117,6 +121,8 @@ media_all_json: |-
     - t-07857
 
 - id: c-10097
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Kas dar yra didžiau stebuklingesniu, jog ne vien pačių žemlionų, arba vyčių, buvo lygios tėviškės, bet dar ir visų pirmieji
         ūkės vyresnieji neturėjo valsčių, kaip kad yra randama paskesnėse gadynėse irstant Lietuvos ūkei^1178 ,

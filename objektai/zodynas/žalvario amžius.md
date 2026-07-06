@@ -68,6 +68,8 @@ Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka paty
 ## Citatos
 
 - id: c-03473
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą
     patenka patys pirmieji žalvario dirbiniai. Šiai žalvario am-

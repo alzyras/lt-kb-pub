@@ -108,6 +108,8 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
 ## Citatos
 
 - id: c-73006
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau situaciją blogino Lenkijos vykdomi lietuvių kultūrinio
     gyvenimo ribojimai Vilniaus krašte, nes tuo pačiu atsakydavo ir Lietuvos

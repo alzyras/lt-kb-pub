@@ -62,6 +62,8 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
 ## Citatos
 
 - id: c-67305
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Didelė lietuvių parapija buvo net Karaliau-
     čiuje. Nors lietuviškų knygų spausdinimas

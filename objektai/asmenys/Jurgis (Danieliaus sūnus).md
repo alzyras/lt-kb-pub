@@ -81,6 +81,8 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 ## Citatos
 
 - id: c-32763
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Naugardą, kuris,
     pykdamas už Pskovo palaikymą, buvo sudaręs prieš Gediminą

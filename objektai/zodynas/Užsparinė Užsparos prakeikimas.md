@@ -118,6 +118,8 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
 ## Citatos
 
 - id: c-172141
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Atikoje Krono šventė buvo švenčiama Krono garbei he-
     katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
@@ -137,6 +139,8 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
     - t-189253
 
 - id: c-172142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Viename senoviškame sienų nustatymo dokumente, ku­
     rio data nežinoma, bet kuris tikrai iš didžiojo kunigaikščio Vy­

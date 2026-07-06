@@ -129,6 +129,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Citatos
 
 - id: c-60643
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
     kuris tebūnie garbinamas per amžių amžius, amen. Tuo tarpu stalininkas Druzigeris,
@@ -147,6 +149,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - t-60012
 
 - id: c-60644
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
     gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30

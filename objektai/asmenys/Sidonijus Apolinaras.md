@@ -76,6 +76,8 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
 ## Citatos
 
 - id: c-174237
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     81
 

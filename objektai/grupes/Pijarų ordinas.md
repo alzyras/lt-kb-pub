@@ -185,6 +185,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 ## Citatos
 
 - id: c-71006
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ypač dėl šito jėzuitų prisitaikymo prie naujųjų reika-
     lavimų, jų mokyklos nenustojo klestėjusios, ir pijarų mokyklos
@@ -202,6 +204,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - t-72602
 
 - id: c-71007
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
     atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
@@ -217,6 +221,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - t-72604
 
 - id: c-71008
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ne visos tos mokyklos buvo išlaikomos Edukacinės Komisijos —
     dalis jų tebebuvo išlaikoma vienuolynų. Ypač daug mokyklų tebe-
@@ -230,6 +236,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - t-72601
 
 - id: c-71010
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
     nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami,

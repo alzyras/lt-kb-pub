@@ -164,6 +164,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-174901
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Pamatyti tą figūrėlę galima mano lietuviškų daiktų muziejuje.
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
@@ -187,6 +189,8 @@ Nenurodyta
     - t-192021
 
 - id: c-174902
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     pastraipos
     tęsinys/

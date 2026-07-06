@@ -108,6 +108,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-82922
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Bet teisingas ir santūrus Steponas Batoras sugebė­
     jo skubiai nutraukti neleistinus ketinimus. Rūsčiai išbarė

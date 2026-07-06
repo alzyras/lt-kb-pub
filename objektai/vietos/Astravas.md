@@ -94,6 +94,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-170257
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     •’ Šitaip lis sakinys sulormuluotas tik BK. stengiantis iškelti,
     kad Vytautas pats išsikovojo Lietuvos Didžiąją Kunigaikštystę, o  ne

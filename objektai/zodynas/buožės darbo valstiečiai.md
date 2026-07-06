@@ -124,6 +124,8 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
 ## Citatos
 
 - id: c-24773
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     „Buožėms“ padidinti mokesčiai ir pylia-
     vos, jos buvo 50–100 proc. didesnės negu vadinamiesiems „darbo valstie-
@@ -141,6 +143,8 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
     - t-22088
 
 - id: c-166799
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Daug „buožių“ šeimų ištremtos per 1949 m. ir 1951 m. vežimus,
     kiti persikėlė gyventi į miestus ar kitas SSRS respublikas. Režimui sąmo-

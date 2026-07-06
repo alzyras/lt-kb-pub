@@ -89,6 +89,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-83249
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     O tų knygų, kurias atiduodame jėzuitams, der­
     lius yra nemažas ir neprastas. Įpareigojame tėvus jėzuitus,

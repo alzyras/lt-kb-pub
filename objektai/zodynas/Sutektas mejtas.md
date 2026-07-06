@@ -66,6 +66,8 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
 ## Citatos
 
 - id: c-172221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žemės motina (Žemines Mahti)
     Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors

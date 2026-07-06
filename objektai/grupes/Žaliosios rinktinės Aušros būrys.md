@@ -68,6 +68,8 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
 ## Citatos
 
 - id: c-44886
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Pirmiausia buvo pulta viena vietinių vyrų,
     daugiausia iš Dragonių k. stovykla, o pasi-

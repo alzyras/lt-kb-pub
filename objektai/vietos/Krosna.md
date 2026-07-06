@@ -140,6 +140,8 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
 ## Citatos
 
 - id: c-76476
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Taip pat naudotas ir
     Lietuvos partizanų
@@ -166,6 +168,8 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
     - t-79491
 
 - id: c-76477
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prieš mūšį
 

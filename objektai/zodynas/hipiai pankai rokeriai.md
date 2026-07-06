@@ -69,6 +69,8 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
 ## Citatos
 
 - id: c-24846
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     XX a. septintame dešimtmetyje ir visoje Europoje, ir Lietuvoje plito
     vakarietiškos muzikos ir jaunimo laisvės bei naujo gyvenimo stiliaus idė-

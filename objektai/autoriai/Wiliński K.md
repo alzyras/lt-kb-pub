@@ -74,6 +74,8 @@ Dusburgietis teigia, kad wiliński K.
 ## Citatos
 
 - id: c-61450
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia
     historica, Lódz, 1984.

@@ -146,6 +146,8 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 ## Citatos
 
 - id: c-60833
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Narsiai ją
     užpuolę, privertė bėgti. Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
@@ -164,6 +166,8 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     - t-60201
 
 - id: c-60834
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Marienverderio miesto pastatymą
 

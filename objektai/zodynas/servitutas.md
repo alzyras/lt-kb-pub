@@ -130,6 +130,8 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
 ## Citatos
 
 - id: c-03408
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Valstiečiai, eidami baudžiavą, turėjo vadinamuosius
     servitutus, t. y. teises dvaro miškuose ganyti, šienau-
@@ -148,6 +150,8 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     - t-03171
 
 - id: c-03409
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Muravjovas pirmiausia pasirūpino, kad nė vienas žemės tu-
     rėjęs valstietis nebūtų atleistas be žemės; jei iš kurių valstiečių
@@ -165,6 +169,8 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     - t-03170
 
 - id: c-166375
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Ponai,
     atleisdami valstiečius, šitų teisių jiems nebedavė. Sužinojęs apie

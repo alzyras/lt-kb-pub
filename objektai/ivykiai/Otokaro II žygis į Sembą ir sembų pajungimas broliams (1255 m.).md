@@ -280,6 +280,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-66932
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Viską
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
@@ -301,6 +303,8 @@ Nenurodyta
     - t-66808
 
 - id: c-66933
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
     gabenusių ginklus ir maistą, nesu girdėjęs. Žiemą ši kariuomenė atžygiavo  į Elbingą,
@@ -322,6 +326,8 @@ Nenurodyta
     - t-66809
 
 - id: c-66935
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Tada karalius įsibrovė  į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
     Medenava,  ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs  į
@@ -365,6 +371,8 @@ Nenurodyta
     - t-66807
 
 - id: c-66936
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
     Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,
@@ -380,6 +388,8 @@ Nenurodyta
     - t-66805
 
 - id: c-66937
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie sembų pavergimą
 

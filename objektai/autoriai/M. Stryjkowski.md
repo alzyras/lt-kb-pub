@@ -73,6 +73,8 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
 ## Citatos
 
 - id: c-33063
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
     Polska, Litewska etc_** **., I, 1846, 370-372 p.**

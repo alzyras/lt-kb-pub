@@ -76,6 +76,8 @@ Dvi priešo kariuomenės turėjo susijungti prie Ivansko ir vėliau žygiuoti į
 ## Citatos
 
 - id: c-168624
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ivanui Se-
     reb rian u i bei K azanės chanui įsak ė su penkiasdešim t

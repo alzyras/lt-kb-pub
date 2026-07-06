@@ -72,6 +72,8 @@ Dusburgietis teigia, kad 16— Žulkus V.
 ## Citatos
 
 - id: c-62034
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     16—
       Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje

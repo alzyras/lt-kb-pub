@@ -185,6 +185,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169892
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Naugardiečiai, matydami pskoviečius jam pasidavus
     ir priėmus jo vietininką, nebenorėdami, kad jų žemė
@@ -215,6 +217,8 @@ Nenurodyta
     - t-186603
 
 - id: c-176493
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Pskoviečiai, nebenorėdami,
     kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­

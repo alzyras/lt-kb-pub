@@ -76,6 +76,8 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
 ## Citatos
 
 - id: c-171937
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Tuomet žyniai keliaklupsčiais prišliauždavo prie šven­
     tojo medžio ir uždegdavo kempines ant aukuro, pirma sude­

@@ -105,6 +105,9 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
 ## Citatos
 
 - id: c-35943
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
     puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
@@ -118,6 +121,9 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
     - t-34718
 
 - id: c-167639
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Daugelis rusų
     kunigaikščių tebemokėjo jiems duoklę dar ir Vytauto laikais.

@@ -168,6 +168,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-01914
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Bet riterių buvo ne-
     daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
@@ -187,6 +189,8 @@ Nenurodyta
     - t-01678
 
 - id: c-01915
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
     Čia jie gavo iš Konrado
@@ -206,6 +210,8 @@ Nenurodyta
     - t-01677
 
 - id: c-01916
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
     lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-

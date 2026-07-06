@@ -192,6 +192,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
 ## Citatos
 
 - id: c-173231
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žiūrėk II lentelės 4-ąjį piešinį.
     Elnias (Elnis)
@@ -206,6 +208,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
     - t-190348
 
 - id: c-173232
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
     lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
@@ -223,6 +227,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
     - t-190349
 
 - id: c-173578
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Alanai buvo
     skitų blondinų gentis, jie davė pradžią roksolanams; gotai
@@ -244,6 +250,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
     - t-190696
 
 - id: c-173579
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Veltui net ir ieškotume tų Ptolemėjo
     boruskų ar borusų kažkur prie Ritėjų kalnų, nes tokiu

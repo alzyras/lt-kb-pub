@@ -71,6 +71,9 @@ Atėję prie Ukros upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tva
 ## Citatos
 
 - id: c-37778
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Atėję prie Ukros
     upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tvarkyti

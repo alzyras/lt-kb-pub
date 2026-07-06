@@ -63,6 +63,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-36172
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Semk. = Semkowicz, Władysław, Dr., Prof., Braterstwo szlachty
     polskiej z bojarstwem litewskiem w unii horodelskiej

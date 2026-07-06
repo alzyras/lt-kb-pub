@@ -109,6 +109,8 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
 ## Citatos
 
 - id: c-174212
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Čia švintant prasidėjo kruvinos kau­
     tynės; ilgai nebuvo aišku, kas laimės. Galop Teodorikas,
@@ -123,6 +125,8 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
     - t-191330
 
 - id: c-174213
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Odoakro mirtis. Pavasariui atėjus, fortūna
     pakrypo herulų pusėn. Teodoriko valdžia nepatenkintas

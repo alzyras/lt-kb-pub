@@ -69,6 +69,8 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
 ## Citatos
 
 - id: c-176023
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Lie-
     tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.

@@ -66,6 +66,8 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
 ## Citatos
 
 - id: c-61808
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Mažoji lietuviškoji tarybinė enciklopedija.—T. 1—3.—V., 1966, 1968, 1971.
   statusas: verified

@@ -132,6 +132,8 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 ## Citatos
 
 - id: c-77077
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Kaunamojo poveikio spindulys - apie 10 m.
     Delsiklis granatą detonuoja po 4 sekundžių
@@ -151,6 +153,8 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
     - t-80250
 
 - id: c-77079
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Bolševikai
     buvo priversti palikti ir šį bažnytkaimį.

@@ -71,6 +71,8 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
 ## Citatos
 
 - id: c-24269
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     O kas nutiko didžiųjų ge-
     ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir

@@ -137,6 +137,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-42499
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Vytautas 5 dienas stovėjo kitoje Vorsklos
     pusėje, įtvirtintoje stovykloje su geležinė-
@@ -156,6 +158,8 @@ Nenurodyta
     - t-40714
 
 - id: c-44653
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     O Vytauto
     pusėje kovęsis caras Tochtamišas, „vos tai

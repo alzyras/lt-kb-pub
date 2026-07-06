@@ -151,6 +151,8 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 ## Citatos
 
 - id: c-16797
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
@@ -166,6 +168,8 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
     - t-64821
 
 - id: c-22185
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
     skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.

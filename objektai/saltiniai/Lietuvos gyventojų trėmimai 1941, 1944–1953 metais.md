@@ -74,6 +74,8 @@ Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.
 ## Citatos
 
 - id: c-23862
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Vilnius, 2006.
     Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,

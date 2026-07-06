@@ -89,6 +89,8 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
 ## Citatos
 
 - id: c-73325
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tačiau tai dar ne viskas – rūpintasi tautinių ir valstybinių tradicijų kūrimu,
     tautos atminimo vietų steigimu, tradicijų puoselėjimu – nacija turėjo įgy-

@@ -128,6 +128,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
 ## Citatos
 
 - id: c-176361
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Nors chasidizmas buvo liberalesnė ir de-
     mokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir
@@ -144,6 +146,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
     - t-193692
 
 - id: c-176362
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
@@ -162,6 +166,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
     - t-193693
 
 - id: c-176363
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-
     mas ir komentavimas.

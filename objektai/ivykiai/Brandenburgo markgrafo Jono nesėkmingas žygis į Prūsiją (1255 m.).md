@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-63529
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Apie Brandenburgo markgrafo atvykimą
 

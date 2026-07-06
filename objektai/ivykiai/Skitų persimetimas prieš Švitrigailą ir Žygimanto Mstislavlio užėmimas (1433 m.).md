@@ -195,6 +195,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169000
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kur kas didesnį
     pavojų kėlė skitai, tačiau aukščiausiasis nukreipė šią
@@ -219,6 +221,8 @@ Nenurodyta
     - t-185639
 
 - id: c-169001
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Pakviesta Boleslovo, pažadė­
     jusio gerą atlyginimą, susitel­
@@ -242,6 +246,8 @@ Nenurodyta
     - t-185640
 
 - id: c-169002
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tik rudens
     pabaigoje paliko Žygimantas

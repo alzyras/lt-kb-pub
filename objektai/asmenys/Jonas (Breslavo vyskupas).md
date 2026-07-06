@@ -77,6 +77,9 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 ## Citatos
 
 - id: c-36021
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­

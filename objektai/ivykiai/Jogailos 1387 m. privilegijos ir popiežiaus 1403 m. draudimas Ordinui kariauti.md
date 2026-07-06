@@ -97,6 +97,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-22947
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   citata_originali: |
     Ši privilegija yra
     svarbiausias krikščionybės įvedimo Lietuvoje aktas. Vasario 22-ąją Jogai-

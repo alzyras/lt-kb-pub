@@ -56,6 +56,8 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
 ## Citatos
 
 - id: c-10066
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Taip pat indijonų tauta, visų
         akyloji senovėj tarp visų kitų tautų, vadino įsikūnijimą savo didžiojo dievo Višnu, vadinamojo

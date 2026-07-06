@@ -99,6 +99,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-169249
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Ilgai tarėsi kunigaikščiai Vytautas bei Jo­
     gaila dėl taikos sąlygų, tuo tarpu abi ginkluotos ka­

@@ -102,6 +102,8 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 ## Citatos
 
 - id: c-33995
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Nuosekliai tą medžia­
     gą stebint ir ją lyginant su kaimyninių sričių tais pačiais įrankiais,
@@ -118,6 +120,8 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
     - t-32450
 
 - id: c-33996
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Su tam tikru pagrindu virvelinės kera­
     mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai

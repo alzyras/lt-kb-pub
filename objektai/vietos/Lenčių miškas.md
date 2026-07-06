@@ -75,6 +75,8 @@ LENČIŲ KAUTYNES \ aa 5 1unai > =) A 5 < o DAINAVOS j as e Fai pati He) 3 1949 
 ## Citatos
 
 - id: c-40306
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     LENČIŲ KAUTYNES
     \ aa 5 1unai > =) * A 5

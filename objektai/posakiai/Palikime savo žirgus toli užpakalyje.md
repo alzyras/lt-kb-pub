@@ -101,6 +101,8 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 ## Citatos
 
 - id: c-12486
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Prūsijos maršalas paklau-
     sęs patarimo kryžiuočių kariuomenėje

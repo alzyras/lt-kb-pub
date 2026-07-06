@@ -84,6 +84,8 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 ## Citatos
 
 - id: c-09769
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Viršiau minavotiems vyresniesiems, kuriuos ūkės reikalai trukino nuo namų darbo, tiems svietas metė mezliavą, kaipo negalintiems patiems sau duonos užpelnyti, kožnas pagal savo knebinį^1073 ; ir taip kurie javus sėjo, tie davė jiems duonos, o jų arkliams avižų, kaipogi toj gadynėj vyresnieji raiti jodė po svietą, ne važiojos.
   statusas: verified

@@ -62,6 +62,8 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
 ## Citatos
 
 - id: c-10065
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   citata_originali: |
     Šeštajame amžiuje gimus Kristui kitsai raštininkas, minavodamas Lietuvos kraštą, sako: „Vieni giruliai, arba girionys (taip vadino toj gadynėj žemaičius ir kalnėnus), temoka linus auginti, kurių
         laukai užsėti joriuoja^1164 it jūroje vilnys.“

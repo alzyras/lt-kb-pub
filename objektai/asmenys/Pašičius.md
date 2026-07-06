@@ -80,6 +80,8 @@ Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti 
 ## Citatos
 
 - id: c-173119
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

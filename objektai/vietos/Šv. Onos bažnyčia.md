@@ -83,6 +83,8 @@ Onos bažnyčios atsiradimo žr.
 ## Citatos
 
 - id: c-82266
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Patartume peri­
     odinių leidinių leidėjams rūpestin­

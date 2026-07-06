@@ -131,6 +131,8 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 ## Citatos
 
 - id: c-83754
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
     gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
@@ -157,6 +159,8 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
     - t-87775
 
 - id: c-83755
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma
     pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio

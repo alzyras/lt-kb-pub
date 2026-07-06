@@ -73,6 +73,8 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
 ## Citatos
 
 - id: c-152975
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Krašto
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai

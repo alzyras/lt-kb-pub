@@ -77,6 +77,8 @@ Narbutas Romos katalikų bažnyčios dvasininkijai Lenkijoje ir Lietuvoje prisky
 ## Citatos
 
 - id: c-172336
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pati bulė kalba apskritai apie rusinus,
     tarytum tas pavadinimas nereikštų graikų ir rusų bažnyčios, o

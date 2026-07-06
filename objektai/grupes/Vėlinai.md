@@ -66,6 +66,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-177264
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   citata_originali: |
     Helmoldas ir
     Adomas Bremenietis teigia, jog herulai pirmiausia ap­

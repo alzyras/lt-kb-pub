@@ -70,6 +70,8 @@ Matydami stiprią rusų gynybą, sukilėlių kariuomenės štabo viršininkas pu
 ## Citatos
 
 - id: c-41526
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Matydami stiprią rusų gynybą, sukilėlių
     kariuomenės štabo viršininkas pulkininkas

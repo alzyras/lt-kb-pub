@@ -116,6 +116,8 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
 ## Citatos
 
 - id: c-91731
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Apskritai, sąjungininkų pusėje
     ieškojimas tikrojo karo vado ir tik vieno kurio pusbrolio viena­
@@ -133,6 +135,8 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
     - t-97248
 
 - id: c-91732
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     (^14) **Plg. M. Oehler :** **_Der Krieg zwischen dem Deutschen Orden und Polen-
     Litauen 1409-1411,_** **Elbing 1910. — KolLJ, 92 p.**

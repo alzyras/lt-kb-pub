@@ -326,6 +326,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 ## Citatos
 
 - id: c-168735
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Alek­
     sandras Vytautas su žmona
@@ -358,6 +360,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - t-185374
 
 - id: c-168736
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Greitai sutvar­
     kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir­
@@ -390,6 +394,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - t-185375
 
 - id: c-168737
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Štai todėl Kazimieras, pasak Lietuvos istori­
     kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš San-
@@ -409,6 +415,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - t-185376
 
 - id: c-168738
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Negi jie mano,
     kad žmonės, dabar taip ryžtingai remią į sostą pakeltą
@@ -427,6 +435,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - t-185377
 
 - id: c-176104
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Tačiau nei viena, nei kita pergalė negalė­
     jusi, pasak metraštininkų, atsverti nuostolių, kuriuos

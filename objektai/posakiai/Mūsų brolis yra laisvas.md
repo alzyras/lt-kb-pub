@@ -70,6 +70,8 @@ media_all_json: |-
 ## Citatos
 
 - id: c-00254
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   citata_originali: |
     Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
     vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų

@@ -105,6 +105,8 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
 ## Citatos
 
 - id: c-172040
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     ()*
     163
@@ -128,6 +130,8 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
     - t-189152
 
 - id: c-172041
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Visose lietuvių genties tautose vieškelis, Wiessas Kielas, bu­
     vo religiškai paaukotas šalies svetingumui: nė vienam, keliau­

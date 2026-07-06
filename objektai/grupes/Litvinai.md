@@ -113,6 +113,8 @@ Nenurodyta
 ## Citatos
 
 - id: c-170859
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
     tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -

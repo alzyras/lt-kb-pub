@@ -153,6 +153,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-14298
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­
     jo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­
@@ -169,6 +172,8 @@ Nenurodyta
     - t-64909
 
 - id: c-30988
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Plačiai ir nuosekliai išžvalgius šaltinius, yra prieita išvadų,
     jog jau XIII amž. Lietuvoje buvo daug turto. Kunigaikščiai turėjo
@@ -183,6 +188,8 @@ Nenurodyta
     - t-64908
 
 - id: c-177013
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   citata_originali: |
     Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
     vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat

@@ -516,6 +516,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 ## Citatos
 
 - id: c-36445
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Popiežius Martynas V, išklausęs Vytauto ir
     paties Žemaičių vysk. Motiejaus nusiskundimų, atsiuntė bulę
@@ -530,6 +533,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184446
 
 - id: c-36446
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Tačiau visi žymesni Vytauto žygiai, ku­
     rie lietė bažnytinį Lietuvos gyvenimą, buvo surišti su popiežium
@@ -546,6 +552,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184443
 
 - id: c-167793
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Maža to. Vytautas su
     Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė
@@ -561,6 +570,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184445
 
 - id: c-167794
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Vytautas vedė su juo labai plačią korespondenciją vi­
     sais svarbiausiais Lietuvos krikšto klausimais. Martynas V pa­
@@ -584,6 +596,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184442
 
 - id: c-167795
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Iš Žemaičių krašto ir dalies
     Sūdavijos (Užnemunio) Vytautas įkūrė Žemaičių seniūniją, ku­
@@ -600,6 +615,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184433
 
 - id: c-167796
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   citata_originali: |
     Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių,
     Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti
@@ -617,6 +634,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184436
 
 - id: c-167797
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
     gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­
@@ -637,6 +656,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184437
 
 - id: c-167798
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Konstanci­
     jos susirikimas Vytautą padarė Livonijos vyskupų globė­
@@ -657,6 +679,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184444
 
 - id: c-167799
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   citata_originali: |
     Lietuvių ir lenkų atstovai bendrai pareiškė
     protestą ir griežtai atmetė sprendimą^4 ). Maža to. Vytautas su
@@ -672,6 +697,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-184438
 
 - id: c-167800
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   citata_originali: |
     Ambicija to žmogaus buvo pašėlusi; tą senų seniau­
     siai buvo patyręs Zigmantas, o kryžiuočiai dar geriau žino­

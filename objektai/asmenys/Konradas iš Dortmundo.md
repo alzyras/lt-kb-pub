@@ -76,6 +76,8 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
 ## Citatos
 
 - id: c-60998
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   citata_originali: |
     Štai todėl prūsai271, susirinkę visi kaip vienas,
     išsirinko tą patį Sventopelką savo vyresniuoju bei vadu ir, susitelkę petys į petį, užplūdo

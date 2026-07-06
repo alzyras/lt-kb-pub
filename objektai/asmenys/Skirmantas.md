@@ -409,6 +409,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 ## Citatos
 
 - id: c-169375
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Miestas
     turėjo pasiduoti, priimti vienu metu ir taiką, ir vergo­
@@ -427,6 +429,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-186014
 
 - id: c-169376
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Mstisla­
     vas
@@ -463,6 +467,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-186015
 
 - id: c-169377
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   citata_originali: |
     Kova virte virė, galop
     skitai buvo nuvyti, o pats kunigaikštis žuvo. Skirman­
@@ -480,6 +486,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-186016
 
 - id: c-176606
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir jis buvo Polocko bei Naugarduko didžiuoju ku­
     nigaikščiu, kunigaikščiavo ilgus metus ir pasimirė. Sa­
@@ -494,6 +502,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-193981
 
 - id: c-176607
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Skirmantas nusiuntė savo pasiuntinius pas
     2ivinbudą, Lietuvos didįjį kunigaikštį, prašydamas, kad
@@ -516,6 +526,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-193982
 
 - id: c-176608
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Parvykęs
     pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
@@ -538,6 +550,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-193983
 
 - id: c-176609
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Ir sekančiais metais tas chanas su daugeriopomis
     sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
@@ -561,6 +575,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-193984
 
 - id: c-176610
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
     galybę, ir nukovė patį chaną ", Su didžios pergalės
@@ -578,6 +594,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-193985
 
 - id: c-176611
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   citata_originali: |
     O paskui didysis kunigaikštis Skirmantas pasimirė.
     Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis

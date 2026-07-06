@@ -85,6 +85,8 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 ## Citatos
 
 - id: c-45091
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   citata_originali: |
     Perpratęs rusų
     sumanymą J. Šarauskas į Paobelių kaimą
