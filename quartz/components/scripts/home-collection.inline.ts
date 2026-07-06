@@ -30,7 +30,7 @@ type CollectionSpotlightClaim = {
   id: string
   text: string
   source?: string
-  author?: string
+  contributor?: string
 }
 
 type CollectionSpotlightObject = {
@@ -241,16 +241,16 @@ function parseCollectionSpotlightData(host: HTMLElement): CollectionSpotlightObj
 
 function collectionSpotlightSourceText(claim: CollectionSpotlightClaim): string {
   const source = String(claim.source ?? "").trim()
-  const author = String(claim.author ?? "").trim()
+  const contributor = String(claim.contributor ?? "").trim()
 
-  if (author && source) {
-    return `${author} / ${source}`
+  if (contributor && source) {
+    return `${contributor} / Šaltinis: ${source}`
   }
   if (source) {
-    return source
+    return `Šaltinis: ${source}`
   }
-  if (author) {
-    return author
+  if (contributor) {
+    return contributor
   }
   return ""
 }

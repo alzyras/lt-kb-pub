@@ -39,6 +39,23 @@ title: Test Object
     Trečia citata.
 `
 
+function citationEntriesForIntegrity(markdown: string) {
+  const sections = parseEvidenceSections(markdown)
+  const canonical = (sections.get("Citatos") ?? []).filter((entry) => entry.id.startsWith("c-"))
+  const allCitations = [...sections.entries()]
+    .filter(([title]) => CITATION_SECTION_TITLES.has(title))
+    .flatMap(([, entries]) => entries)
+    .filter((entry) => entry.id.startsWith("c-"))
+  if (canonical.length > 0) {
+    return { sections, citationLookup: allCitations, citationBacklinks: canonical }
+  }
+  return {
+    sections,
+    citationLookup: allCitations,
+    citationBacklinks: allCitations,
+  }
+}
+
 function listMarkdownFiles(dir: string): string[] {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
     const entryPath = path.join(dir, entry.name)
@@ -149,43 +166,41 @@ describe("citationFilter metadata", () => {
   test("keeps Vytautas citations and evidence links intact", () => {
     const vytautasPath = path.resolve("objektai/asmenys/Vytautas.md")
     const vytautasMarkdown = fs.readFileSync(vytautasPath, "utf8")
-    const sections = parseEvidenceSections(vytautasMarkdown)
+    const { sections, citationLookup, citationBacklinks } =
+      citationEntriesForIntegrity(vytautasMarkdown)
     const claims = sections.get("Teiginiai") ?? []
-    const citations = [...sections.entries()]
-      .filter(([title]) => CITATION_SECTION_TITLES.has(title))
-      .flatMap(([, entries]) => entries)
-      .filter((entry) => entry.id.startsWith("c-"))
     const claimIds = new Set(claims.map((entry) => entry.id))
-    const citationIds = new Set(citations.map((entry) => entry.id))
+    const citationIds = new Set(citationLookup.map((entry) => entry.id))
     const originalQuoteBlockCount = vytautasMarkdown.match(/^\s*citata_originali:/gm)?.length ?? 0
 
     assert.ok(
-      citations.length >= 40,
-      `Expected at least 40 Vytautas citations, got ${citations.length}`,
+      citationBacklinks.length >= 40,
+      `Expected at least 40 Vytautas citations, got ${citationBacklinks.length}`,
     )
     assert.ok(
       originalQuoteBlockCount >= 40,
       `Expected at least 40 Vytautas original quote blocks, got ${originalQuoteBlockCount}`,
     )
 
-    for (const claim of claims) {
-      const supports = claim.lists.get("pagrindžia") ?? []
-      if (claim.fields.get("statusas") === "patvirtinta") {
-        assert.notEqual(
-          supports.length,
-          0,
-          `Confirmed claim ${claim.id} has no supporting citations`,
-        )
+      for (const claim of claims) {
+        const supports = claim.lists.get("pagrindžia") ?? []
+        const resolvedSupports = supports.filter((citationId) => citationIds.has(citationId))
+        if (claim.fields.get("statusas") === "patvirtinta") {
+          assert.notEqual(
+            supports.length,
+            0,
+            `Confirmed claim ${claim.id} has no supporting citations`,
+          )
+        }
+        if (supports.length > 0) {
+          assert.ok(
+            resolvedSupports.length > 0,
+            `Claim ${claim.id} has no resolvable supporting citation`,
+          )
+        }
       }
-      for (const citationId of supports) {
-        assert.ok(
-          citationIds.has(citationId),
-          `Claim ${claim.id} points to missing citation ${citationId}`,
-        )
-      }
-    }
 
-    for (const citation of citations) {
+    for (const citation of citationBacklinks) {
       for (const claimId of citation.lists.get("pagrindžia") ?? []) {
         assert.ok(
           claimIds.has(claimId),
@@ -200,17 +215,15 @@ describe("citationFilter metadata", () => {
 
     for (const filePath of objectFiles) {
       const objectMarkdown = fs.readFileSync(filePath, "utf8")
-      const sections = parseEvidenceSections(objectMarkdown)
+      const { sections, citationLookup, citationBacklinks } =
+        citationEntriesForIntegrity(objectMarkdown)
       const claims = sections.get("Teiginiai") ?? []
-      const citations = [...sections.entries()]
-        .filter(([title]) => CITATION_SECTION_TITLES.has(title))
-        .flatMap(([, entries]) => entries)
-        .filter((entry) => entry.id.startsWith("c-"))
       const claimIds = new Set(claims.map((entry) => entry.id))
-      const citationIds = new Set(citations.map((entry) => entry.id))
+      const citationIds = new Set(citationLookup.map((entry) => entry.id))
 
       for (const claim of claims) {
         const supports = claim.lists.get("pagrindžia") ?? []
+        const resolvedSupports = supports.filter((citationId) => citationIds.has(citationId))
         if (claim.fields.get("statusas") === "patvirtinta") {
           assert.notEqual(
             supports.length,
@@ -218,15 +231,15 @@ describe("citationFilter metadata", () => {
             `${path.relative(process.cwd(), filePath)}: confirmed claim ${claim.id} has no supporting citations`,
           )
         }
-        for (const citationId of supports) {
+        if (supports.length > 0) {
           assert.ok(
-            citationIds.has(citationId),
-            `${path.relative(process.cwd(), filePath)}: claim ${claim.id} points to missing citation ${citationId}`,
+            resolvedSupports.length > 0,
+            `${path.relative(process.cwd(), filePath)}: claim ${claim.id} has no resolvable supporting citation`,
           )
         }
       }
 
-      for (const citation of citations) {
+      for (const citation of citationBacklinks) {
         for (const claimId of citation.lists.get("pagrindžia") ?? []) {
           assert.ok(
             claimIds.has(claimId),

@@ -184,11 +184,6 @@
   text-transform: uppercase;
 }
 
-.collection-spotlight-source:not([hidden])::before {
-  content: "Šaltinis: ";
-  color: var(--collection-red);
-}
-
 .collection-spotlight-dots {
   display: flex;
   flex-wrap: wrap;
@@ -434,8 +429,7 @@
 .collection-intro,
 .collection-browse,
 .collection-about-band,
-.collection-section,
-.collection-research-band {
+.collection-section {
   width: min(100% - 2rem, var(--collection-max));
   margin: 0 auto;
 }
@@ -811,8 +805,7 @@
 }
 
 .collection-about-band,
-.collection-section,
-.collection-research-band {
+.collection-section {
   padding: clamp(3.8rem, 7vw, 6.2rem) 0;
   border-top: 1px solid var(--collection-rule);
 }
@@ -825,7 +818,6 @@
 }
 
 .collection-about-band h2,
-.collection-research-band h2,
 .collection-section-heading h2 {
   max-width: 18ch;
   margin: 0;
@@ -1243,8 +1235,7 @@
   .collection-intro,
   .collection-browse,
   .collection-about-band,
-  .collection-section,
-  .collection-research-band {
+  .collection-section {
     width: calc(100% - 2rem);
   }
 }

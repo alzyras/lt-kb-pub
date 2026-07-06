@@ -1,6 +1,12 @@
 import fs from "node:fs"
 import { QuartzPluginData } from "../plugins/vfile"
-import { collectCitationMetadata, collectClaimCount } from "../util/citationFilter"
+import {
+  CITATION_SECTION_TITLES,
+  collectCitationMetadata,
+  collectClaimCount,
+  parseEvidenceSections,
+  type EvidenceEntry,
+} from "../util/citationFilter"
 import { FullSlug, resolveRelative } from "../util/path"
 import { BrandLockup } from "./BrandLockup"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -31,7 +37,7 @@ type SpotlightClaim = {
   id: string
   text: string
   source?: string
-  author?: string
+  contributor?: string
 }
 
 type SpotlightObject = {
@@ -245,20 +251,45 @@ function sectionMarkdown(markdown: string, heading: string): string {
   return (next >= 0 ? rest.slice(0, next) : rest).trim()
 }
 
-function citationSources(markdown: string): Map<string, { source?: string; author?: string }> {
-  const section = sectionMarkdown(markdown, "Reikšmingi paminėjimai")
-  const citations = new Map<string, { source?: string; author?: string }>()
-  const citationRegex = /(?:^|\n)-\s+(c-\d+)\s*\n([\s\S]*?)(?=\n-\s+c-\d+\s*\n|\s*$)/g
+const contributorFields = [
+  { keys: ["autorius"], label: "Autorius" },
+  { keys: ["autoriai"], label: "Autoriai" },
+  { keys: ["redaktorius"], label: "Redaktorius" },
+  { keys: ["redaktoriai"], label: "Redaktoriai" },
+  { keys: ["sudarytojas"], label: "Sudarytojas" },
+  { keys: ["sudarytojai"], label: "Sudarytojai" },
+  { keys: ["vertėjas", "vertejas"], label: "Vertėjas" },
+  { keys: ["vertėjai", "vertejai"], label: "Vertėjai" },
+]
 
-  for (const match of section.matchAll(citationRegex)) {
-    const id = match[1]
-    const block = match[2] ?? ""
-    const source = fieldValue(block, "šaltinis") || fieldValue(block, "saltinis")
-    const author = fieldValue(block, "autorius")
+function firstEvidenceField(entry: EvidenceEntry, keys: string[]): string {
+  return keys.map((key) => entry.fields.get(key)?.trim() ?? "").find(Boolean) ?? ""
+}
 
-    citations.set(id, {
+function citationContributorLabel(entry: EvidenceEntry): string {
+  for (const field of contributorFields) {
+    const value = firstEvidenceField(entry, field.keys)
+    if (value) {
+      return `${field.label}: ${value}`
+    }
+  }
+  return ""
+}
+
+function citationSources(markdown: string): Map<string, { source?: string; contributor?: string }> {
+  const citations = new Map<string, { source?: string; contributor?: string }>()
+  const sections = parseEvidenceSections(markdown)
+  const entries = [...sections.entries()]
+    .filter(([title]) => CITATION_SECTION_TITLES.has(title))
+    .flatMap(([, sectionEntries]) => sectionEntries)
+    .filter((entry) => entry.id.startsWith("c-"))
+
+  for (const entry of entries) {
+    const source = firstEvidenceField(entry, ["šaltinis", "saltinis"])
+    const contributor = citationContributorLabel(entry)
+    citations.set(entry.id, {
       source: source || undefined,
-      author: author || undefined,
+      contributor: contributor || undefined,
     })
   }
 
@@ -291,14 +322,14 @@ function spotlightClaims(markdown: string): SpotlightClaim[] {
 
     const citation = claimSupportIds(block)
       .map((supportId) => citations.get(supportId))
-      .find((entry) => entry?.source || entry?.author)
+      .find((entry) => entry?.source || entry?.contributor)
 
     seen.add(text.toLocaleLowerCase("lt-LT"))
     claims.push({
       id,
       text,
       source: citation?.source,
-      author: citation?.author,
+      contributor: citation?.contributor,
     })
   }
 
@@ -840,13 +871,6 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
               </span>
             </a>
           ))}
-        </div>
-      </section>
-
-      <section class="collection-research-band" aria-labelledby="collection-research-title">
-        <div>
-          <p class="collection-kicker">Tolesnis tyrimas</p>
-          <h2 id="collection-research-title">Peržiūrėk kolekciją per žemėlapį arba šaltinius.</h2>
         </div>
       </section>
     </div>

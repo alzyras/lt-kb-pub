@@ -1,4 +1,5 @@
 export const CITATION_SECTION_TITLES = new Set([
+  "Citatos",
   "Reikšmingi paminėjimai",
   "Šaltiniai ir įrodymai",
   "Bibliografiniai įrodymai",
@@ -210,13 +211,17 @@ export function normalizeCitationSourceId(title: string): string {
 
 export function collectCitationMetadata(markdown: string): CitationMetadata {
   const sections = parseEvidenceSections(markdown)
+  const canonicalCitations = (sections.get("Citatos") ?? []).filter((entry) =>
+    entry.id.startsWith("c-"),
+  )
+  const citationSections =
+    canonicalCitations.length > 0
+      ? [["Citatos", canonicalCitations] as const]
+      : [...sections.entries()].filter(([title]) => CITATION_SECTION_TITLES.has(title))
   const counts = new Map<string, CitationSourceCount>()
   let quoteCount = 0
 
-  for (const [title, entries] of sections.entries()) {
-    if (!CITATION_SECTION_TITLES.has(title)) {
-      continue
-    }
+  for (const [, entries] of citationSections) {
     for (const entry of entries) {
       if (!entry.id.startsWith("c-")) {
         continue
